@@ -1,0 +1,46 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Alexandros Anagnostopoulos,gr GRE,GK,AO Kifisia,28,1994,23,23,"2,070",23.0,,,,,,4,8,11,2,8.7,3,1,2,0,66.7,Matches
+Giorgos Athanasiadis,gr GRE,GK,AEK Athens,30,1993,13,13,"1,170",13.0,,,,,,6,5,2,5,38.5,1,1,0,0,0.0,Matches
+Vasilis Athanasiou,gr GRE,GK,PAS Giannina,24,1999,5,5,450,5.0,,,,,,1,1,3,0,0.0,4,2,2,0,50.0,Matches
+Noam Baumann,do DOM,GK,OFI Crete,27,1996,21,21,"1,845",20.5,,,,,,3,9,9,3,14.3,6,4,2,0,33.3,Matches
+Alberto Brignoli,it ITA,GK,Panathinaikos,31,1991,10,10,900,10.0,,,,,,6,1,3,5,50.0,0,0,0,0,,Matches
+Vasilis Chatziemmanouil,gr GRE,GK,PAS Lamia,23,1999,2,2,180,2.0,,,,,,0,0,2,0,0.0,0,0,0,0,,Matches
+Lucas Chávez,ar ARG,GK,Panetolikos,27,1995,11,10,915,10.2,,,,,,5,2,3,3,30.0,2,1,0,1,0.0,Matches
+Lefteris Choutesiotis,gr GRE,GK,Aris,29,1994,7,7,630,7.0,,,,,,3,0,4,1,14.3,1,1,0,0,0.0,Matches
+Adrián Chovan,sk SVK,GK,Panserraikos,27,1995,28,28,"2,520",28.0,,,,,,7,9,12,4,14.3,6,5,1,0,16.7,Matches
+Nikolaos Christogeorgos,gr GRE,GK,OFI Crete,23,2000,7,7,630,7.0,,,,,,3,3,1,1,14.3,0,0,0,0,,Matches
+Julián Cuesta,es ESP,GK,Aris,32,1991,29,29,"2,610",29.0,,,,,,13,7,9,11,37.9,6,4,2,0,33.3,Matches
+Bartłomiej Drągowski,pl POL,GK,Panathinaikos,25,1997,12,12,996,11.1,,,,,,6,2,4,2,16.7,2,2,0,0,0.0,Matches
+Nikolaos Grammatikakis,gr GRE,GK,Asteras Tripoli,20,2003,8,7,708,7.9,,,,,,2,1,4,2,28.6,2,1,0,1,0.0,Matches
+Theofilos Kakadiaris,gr GRE,GK,Asteras Tripoli,16,2007,1,0,1,0.0,,,,,,0,0,0,0,,0,0,0,0,,Matches
+Stefanos Kapino,gr GRE,GK,Panetolikos,29,1994,20,20,"1,800",20.0,,,,,,3,5,12,4,20.0,3,3,0,0,0.0,Matches
+Panagiotis Katsikas,gr GRE,GK,Panserraikos,24,1999,3,3,270,3.0,,,,,,1,2,0,0,0.0,2,1,1,0,50.0,Matches
+Boris Klaiman,il ISR,GK,PAS Giannina,32,1990,19,19,"1,710",19.0,,,,,,2,6,11,3,15.8,2,1,0,1,0.0,Matches
+Alexei Koșelev,md MDA,GK,PAS Lamia,29,1993,33,33,"2,970",33.0,,,,,,9,7,17,4,12.1,10,6,2,2,25.0,Matches
+Ivan Kostić,rs SRB,GK,Volos NFC,27,1995,10,10,900,10.0,,,,,,2,2,6,1,10.0,4,4,0,0,0.0,Matches
+Dominik Kotarski,hr CRO,GK,PAOK,23,2000,34,34,"3,060",34.0,,,,,,23,5,6,10,29.4,3,1,1,1,50.0,Matches
+Dániel Kovács,hu HUN,GK,Volos NFC,29,1994,13,13,"1,170",13.0,,,,,,5,3,5,2,15.4,4,3,1,0,25.0,Matches
+Ögmundur Kristinsson,is ISL,GK,AO Kifisia,34,1989,7,7,630,7.0,,,,,,1,2,4,0,0.0,5,4,1,0,20.0,Matches
+Yuri Lodygin,ru RUS,GK,Panathinaikos,33,1990,15,14,"1,344",14.9,,,,,,10,3,1,6,42.9,2,2,0,0,0.0,Matches
+Christos Mandas,gr GRE,GK,OFI Crete,21,2001,2,2,180,2.0,,,,,,1,0,1,0,0.0,0,0,0,0,,Matches
+Gabriele Marchegiani,it ITA,GK,Atromitos,27,1996,7,7,630,7.0,,,,,,1,3,3,0,0.0,1,0,1,0,100.0,Matches
+
+Gergely Nagy,hu HUN,GK,PAS Lamia,29,1994,1,1,90,1.0,,,,,,0,1,0,0,0.0,0,0,0,0,,Matches
+Gergely Nagy,hu HUN,GK,PAS Giannina,29,1994,5,5,421,4.7,,,,,,1,2,2,1,20.0,0,0,0,0,,Matches
+Giannis Nikopolidis,gr GRE,GK,AO Kifisia,22,2000,3,3,270,3.0,,,,,,1,0,2,0,0.0,0,0,0,0,,Matches
+Nikos Papadopoulos,gr GRE,GK,Asteras Tripoli,33,1990,18,18,"1,451",16.1,,,,,,7,2,9,5,27.8,5,4,1,0,20.0,Matches
+Symeon Papadopoulos,gr GRE,GK,Volos NFC,23,2000,6,6,540,6.0,,,,,,1,2,3,0,0.0,0,0,0,0,,Matches
+Alexandros Paschalakis,gr GRE,GK,Olympiacos,34,1989,26,26,"2,340",26.0,,,,,,17,3,6,10,38.5,5,3,1,1,25.0,Matches
+Fotis Sgouris,gr GRE,GK,Asteras Tripoli,21,2002,1,0,29,0.3,,,,,,0,0,0,0,,0,0,0,0,,Matches
+Marios Siampanis,gr GRE,GK,Volos NFC,23,1999,4,4,360,4.0,,,,,,0,2,2,0,0.0,2,2,0,0,0.0,Matches
+Dimitris Sotiriou,gr GRE,GK,OFI Crete,35,1987,4,3,315,3.5,,,,,,0,2,1,1,33.3,0,0,0,0,,Matches
+Vasilis Soulis,gr GRE,GK,PAS Giannina,28,1994,5,4,389,4.3,,,,,,0,2,2,0,0.0,1,1,0,0,0.0,Matches
+Cican Stankovic,at AUT,GK,AEK Athens,30,1992,23,23,"2,070",23.0,,,,,,17,4,2,8,34.8,3,3,0,0,0.0,Matches
+Antonis Stergiakis,gr GRE,GK,Panetolikos,24,1999,3,3,255,2.8,,,,,,1,2,0,1,33.3,0,0,0,0,,Matches
+Antonis Tsiftsis,gr GRE,GK,Asteras Tripoli,24,1999,9,8,781,8.7,,,,,,2,2,4,0,0.0,5,5,0,0,0.0,Matches
+Panagiotis Tsintotas,gr GRE,GK,Atromitos,30,1993,26,26,"2,339",26.0,,,,,,6,10,10,4,15.4,8,7,1,0,12.5,Matches
+Alexandros Tsompanidis,gr GRE,GK,Panserraikos,18,2004,2,2,180,2.0,,,,,,1,0,1,0,0.0,1,1,0,0,0.0,Matches
+Kostas Tzolakis,gr GRE,GK,Olympiacos,20,2002,10,10,900,10.0,,,,,,6,2,2,2,20.0,2,2,0,0,0.0,Matches
+Živko Živković,rs SRB,GK,PAOK,34,1989,2,2,180,2.0,,,,,,2,0,0,0,0.0,0,0,0,0,,Matches

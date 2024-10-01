@@ -1,0 +1,41 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Giannis Anestis,gr GRE,GK,Panetolikos,31,1991,21,21,"1,890",21.0,,,,,,5,4,12,2,9.5,5,4,1,0,20.0,Matches
+Giorgos Athanasiadis,gr GRE,GK,AEK Athens,29,1993,30,30,"2,700",30.0,,,,,,22,5,3,21,70.0,2,2,0,0,0.0,Matches
+Vasilis Athanasiou,gr GRE,GK,PAS Giannina,23,1999,9,7,735,8.2,,,,,,2,2,3,2,28.6,2,2,0,0,0.0,Matches
+Panagiotis Avgerinos,gr GRE,GK,Volos NFC,19,2003,3,2,250,2.8,,,,,,0,0,2,0,0.0,1,1,0,0,0.0,Matches
+Laurențiu Brănescu,ro ROU,GK,Atromitos,28,1994,1,1,90,1.0,,,,,,1,0,0,1,100.0,0,0,0,0,,Matches
+Alberto Brignoli,it ITA,GK,Panathinaikos,30,1991,34,34,"3,060",34.0,,,,,,22,8,4,21,61.8,2,1,1,0,50.0,Matches
+Lefteris Choutesiotis,gr GRE,GK,Ionikos,28,1994,33,33,"2,970",33.0,,,,,,6,9,18,8,24.2,8,8,0,0,0.0,Matches
+Nikolaos Christogeorgos,gr GRE,GK,OFI Crete,22,2000,1,1,90,1.0,,,,,,1,0,0,1,100.0,0,0,0,0,,Matches
+Julián Cuesta,es ESP,GK,Aris,31,1991,31,31,"2,790",31.0,,,,,,14,4,13,11,35.5,7,6,1,0,14.3,Matches
+Athanasios Garavelis,gr GRE,GK,PAS Lamia,29,1992,10,10,846,9.4,,,,,,3,2,5,1,10.0,0,0,0,0,,Matches
+Andreas Gianniotis,gr GRE,GK,Atromitos,29,1992,31,31,"2,722",30.2,,,,,,7,11,13,6,19.4,7,4,2,1,33.3,Matches
+Joel Graterol,ve VEN,GK,Panetolikos,25,1997,5,5,450,5.0,,,,,,1,2,2,2,40.0,0,0,0,0,,Matches
+Dávid Gróf,hu HUN,GK,Levadiakos,33,1989,11,11,990,11.0,,,,,,2,7,2,3,27.3,3,2,1,0,33.3,Matches
+Boris Klaiman,il ISR,GK,Volos NFC,31,1990,29,29,"2,610",29.0,,,,,,11,7,11,10,34.5,4,3,1,0,25.0,Matches
+Vangelis Kontogiannis,gr GRE,GK,Panetolikos,20,2002,2,2,180,2.0,,,,,,0,1,1,1,50.0,1,1,0,0,0.0,Matches
+Alexei Koșelev,md MDA,GK,PAS Lamia,28,1993,4,4,360,4.0,,,,,,1,3,0,2,50.0,1,1,0,0,0.0,Matches
+Dominik Kotarski,hr CRO,GK,PAOK,22,2000,34,34,"3,060",34.0,,,,,,19,8,7,16,47.1,7,5,1,1,16.7,Matches
+Matic Kotnik,si SVN,GK,Volos NFC,32,1990,5,5,380,4.2,,,,,,0,0,5,0,0.0,3,3,0,0,0.0,Matches
+Yuri Lodygin,ru RUS,GK,Panathinaikos,32,1990,2,2,180,2.0,,,,,,1,1,0,1,50.0,1,0,1,0,100.0,Matches
+Christos Mandas,gr GRE,GK,OFI Crete,20,2001,26,26,"2,340",26.0,,,,,,8,10,8,8,30.8,3,2,1,0,33.3,Matches
+Marko Marić,hr CRO,GK,Atromitos,26,1996,2,1,155,1.7,,,,,,1,0,0,1,100.0,0,0,0,0,,Matches
+Matej Marković,ba BIH,GK,Levadiakos,26,1996,14,14,"1,260",14.0,,,,,,1,5,8,2,14.3,1,1,0,0,0.0,Matches
+Nikos Papadopoulos,gr GRE,GK,Asteras Tripoli,32,1990,26,26,"2,340",26.0,,,,,,5,13,8,10,38.5,4,4,0,0,0.0,Matches
+Alexandros Paschalakis,gr GRE,GK,Olympiacos,33,1989,24,24,"2,160",24.0,,,,,,14,7,3,13,54.2,2,2,0,0,0.0,Matches
+Jérôme Prior,fr FRA,GK,PAS Giannina,26,1995,3,3,231,2.6,,,,,,0,2,1,0,0.0,0,0,0,0,,Matches
+
+Bojan Šaranov,rs SRB,GK,PAS Lamia,34,1987,20,19,"1,764",19.6,,,,,,1,9,9,5,26.3,1,1,0,0,0.0,Matches
+Marios Siampanis,gr GRE,GK,Aris,22,1999,5,5,450,5.0,,,,,,1,2,2,0,0.0,1,1,0,0,0.0,Matches
+Vasilis Soulis,gr GRE,GK,PAS Giannina,27,1994,9,8,696,7.7,,,,,,1,3,4,1,12.5,0,0,0,0,,Matches
+Cican Stankovic,at AUT,GK,AEK Athens,29,1992,6,6,540,6.0,,,,,,4,0,2,3,50.0,3,2,0,1,0.0,Matches
+Antonis Stergiakis,gr GRE,GK,Panetolikos,23,1999,5,5,450,5.0,,,,,,1,2,2,1,20.0,1,0,1,0,100.0,Matches
+Sonny Stevens,nl NED,GK,OFI Crete,30,1992,6,6,540,6.0,,,,,,1,1,4,1,16.7,1,0,0,1,,Matches
+Stefan Stojanović,rs SRB,GK,Levadiakos,25,1997,8,8,720,8.0,,,,,,1,2,5,3,37.5,2,1,0,1,0.0,Matches
+Antonis Tsiftsis,gr GRE,GK,Asteras Tripoli,23,1999,7,7,630,7.0,,,,,,0,3,4,1,14.3,0,0,0,0,,Matches
+Panagiotis Tsintotas,gr GRE,GK,PAS Giannina,29,1993,15,15,"1,308",14.5,,,,,,4,6,5,3,20.0,1,1,0,0,0.0,Matches
+Kostas Tzolakis,gr GRE,GK,Olympiacos,19,2002,7,7,630,7.0,,,,,,5,1,1,5,71.4,0,0,0,0,,Matches
+Tomáš Vaclík,cz CZE,GK,Olympiacos,33,1989,5,5,450,5.0,,,,,,2,2,1,2,40.0,0,0,0,0,,Matches
+Živko Živković,rs SRB,GK,PAOK,33,1989,2,2,180,2.0,,,,,,0,2,0,1,50.0,0,0,0,0,,Matches

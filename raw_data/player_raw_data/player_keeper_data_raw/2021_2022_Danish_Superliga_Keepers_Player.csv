@@ -1,0 +1,29 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Daniel Andersen,dk DEN,GK,AGF,20,2001,1,1,90,1.0,2,2.00,7,5,71.4,0,1,0,0,0.0,0,0,0,0,,Matches
+Mikkel Andersen,dk DEN,GK,Viborg,32,1988,6,6,540,6.0,9,1.50,30,22,73.3,2,3,1,0,0.0,1,1,0,0,0.0,Matches
+Aske Andresen,dk DEN,GK,Silkeborg,16,2005,1,1,90,1.0,3,3.00,7,4,57.1,0,0,1,0,0.0,0,0,0,0,,Matches
+Alexander Brunst,de GER,GK,Vejle BK,26,1995,21,21,"1,890",21.0,35,1.67,105,72,68.6,4,6,11,6,28.6,3,2,0,1,0.0,Matches
+Patrik Carlgren,se SWE,GK,Randers,29,1992,32,32,"2,880",32.0,42,1.31,156,114,73.1,12,7,13,6,18.8,0,0,0,0,,Matches
+Oliver Christensen,dk DEN,GK,Odense,22,1999,6,6,540,6.0,10,1.67,27,18,66.7,1,3,2,0,0.0,1,1,0,0,0.0,Matches
+Hans Christian Bernat,dk DEN,GK,Odense,20,2000,26,26,"2,340",26.0,36,1.38,121,86,70.2,7,11,8,4,15.4,1,0,1,0,100.0,Matches
+Nicolai Flø,dk DEN,GK,SønderjyskE,25,1995,8,8,720,8.0,10,1.25,43,35,79.1,2,3,3,1,12.5,2,1,1,0,50.0,Matches
+Kamil Grabara,pl POL,GK,FC Copenhagen,22,1999,32,32,"2,880",32.0,19,0.59,90,75,82.2,20,8,4,18,56.3,4,3,1,0,25.0,Matches
+Sten Grytebust,no NOR,GK,Vejle BK,31,1989,10,10,900,10.0,24,2.40,60,38,63.3,2,2,6,1,10.0,2,2,0,0,0.0,Matches
+Eduardo Dos Santos Haesler,de GER,GK,Nordsjælland,22,1999,5,5,450,5.0,12,2.40,32,20,62.5,1,0,4,0,0.0,0,0,0,0,,Matches
+Lucas Hägg-Johansson,se SWE,GK,Vejle BK,27,1994,1,1,90,1.0,1,1.00,4,3,75.0,1,0,0,0,0.0,0,0,0,0,,Matches
+Andreas Hansen,dk DEN,GK,Nordsjælland,25,1995,15,15,"1,350",15.0,16,1.07,68,53,77.9,4,8,3,4,26.7,1,1,0,0,0.0,Matches
+Jesper Hansen,dk DEN,GK,AGF,36,1985,31,31,"2,790",31.0,41,1.32,135,98,71.9,6,11,14,8,25.8,5,3,1,1,25.0,Matches
+Mads Hermansen,dk DEN,GK,Brøndby,21,2000,29,29,"2,610",29.0,38,1.31,128,96,75.0,10,9,10,5,17.2,6,6,0,0,0.0,Matches
+Nicolai Larsen,dk DEN,GK,Silkeborg,30,1991,31,31,"2,790",31.0,34,1.10,114,80,71.1,13,10,8,8,25.8,1,1,0,0,0.0,Matches
+Jonas Lössl,dk DEN,GK,Midtjylland,32,1989,8,8,720,8.0,8,1.00,29,21,72.4,4,1,3,3,37.5,0,0,0,0,,Matches
+Lucas Lund Pedersen,dk DEN,GK,Viborg,21,2000,26,26,"2,340",26.0,34,1.31,118,86,73.7,8,11,7,6,23.1,3,3,0,0,0.0,Matches
+Thomas Mikkelsen,dk DEN,GK,Brøndby,37,1983,3,3,270,3.0,3,1.00,11,9,81.8,3,0,0,1,33.3,1,1,0,0,0.0,Matches
+Emmanuel Ogura,gh GHA,GK,Nordsjælland,19,2002,7,7,630,7.0,16,2.29,46,31,67.4,0,3,4,0,0.0,1,1,0,0,0.0,Matches
+David Ousted,dk DEN,GK,Midtjylland,36,1985,11,10,906,10.1,11,1.09,42,32,76.2,7,2,1,3,30.0,1,1,0,0,0.0,Matches
+Elías Rafn Ólafsson,is ISL,GK,Midtjylland,21,2000,14,14,"1,254",13.9,14,1.00,56,42,75.0,9,2,3,6,42.9,0,0,0,0,,Matches
+Jacob Rinne,se SWE,GK,Aalborg,28,1993,32,32,"2,880",32.0,45,1.41,151,112,74.2,13,6,13,11,34.4,6,6,0,0,0.0,Matches
+Lawrence Thomas,au AUS,GK,SønderjyskE,29,1992,24,24,"2,160",24.0,44,1.83,109,66,60.6,2,8,14,3,12.5,2,1,0,1,0.0,Matches
+Peter Vindahl Jensen,dk DEN,GK,Nordsjælland,23,1998,5,5,450,5.0,3,0.60,12,9,75.0,3,1,1,3,60.0,0,0,0,0,,Matches
+

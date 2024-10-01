@@ -1,0 +1,29 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Aske Andresen,dk DEN,GK,Silkeborg,17,2005,1,0,46,0.5,1,1.96,3,2,66.7,,,,0,,0,0,0,0,,Matches
+Marcus Bobjerg,dk DEN,GK,Horsens,24,1998,3,2,242,2.7,5,1.86,11,7,63.6,1,1,0,0,0.0,1,1,0,0,0.0,Matches
+Samuel Brolin,se SWE,GK,Horsens,21,2000,3,3,270,3.0,10,3.33,19,10,52.6,0,0,3,0,0.0,1,1,0,0,0.0,Matches
+Patrik Carlgren,se SWE,GK,Randers,30,1992,31,31,"2,765",30.7,45,1.46,184,145,78.8,10,10,11,10,32.3,6,6,0,0,0.0,Matches
+Hans Christian Bernat,dk DEN,GK,Odense,21,2000,7,7,630,7.0,21,3.00,51,31,60.8,1,2,4,1,14.3,1,1,0,0,0.0,Matches
+Matej Delač,hr CRO,GK,Horsens,29,1992,27,27,"2,368",26.3,43,1.63,135,93,68.9,6,6,15,6,22.2,1,1,0,0,0.0,Matches
+Kamil Grabara,pl POL,GK,FC Copenhagen,23,1999,23,23,"1,987",22.1,19,0.86,75,57,77.3,14,5,4,7,30.4,2,2,0,0,0.0,Matches
+Andreas Hansen,dk DEN,GK,Nordsjælland,26,1995,32,32,"2,880",32.0,35,1.09,108,79,73.1,15,10,7,7,21.9,6,6,0,0,0.0,Matches
+Jesper Hansen,dk DEN,GK,AGF,37,1985,32,32,"2,880",32.0,30,0.94,112,87,76.8,14,9,9,11,34.4,5,4,1,0,20.0,Matches
+Martin Hansen,dk DEN,GK,Odense,32,1990,25,25,"2,250",25.0,32,1.28,109,83,76.1,11,8,6,6,24.0,6,6,0,0,0.0,Matches
+Mads Hermansen,dk DEN,GK,Brøndby,22,2000,27,27,"2,430",27.0,46,1.70,141,98,68.1,10,7,10,5,18.5,3,1,2,0,66.7,Matches
+Frederik Ibsen,dk DEN,GK,Lyngby,25,1997,6,6,540,6.0,12,2.00,20,9,45.0,0,2,4,0,0.0,1,1,0,0,0.0,Matches
+Karl-Johan Johnsson,se SWE,GK,FC Copenhagen,32,1990,4,3,353,3.9,9,2.29,15,7,40.0,1,0,2,0,0.0,1,0,1,0,100.0,Matches
+Mads Kikkenborg,dk DEN,GK,Lyngby,22,1999,26,26,"2,340",26.0,34,1.31,104,74,69.2,6,8,12,3,11.5,4,2,2,0,50.0,Matches
+Nicolai Larsen,dk DEN,GK,Silkeborg,31,1991,32,32,"2,834",31.5,47,1.49,120,78,64.2,11,8,13,6,18.8,5,4,1,0,20.0,Matches
+Jonas Lössl,dk DEN,GK,Midtjylland,33,1989,24,24,"2,160",24.0,25,1.04,75,54,72.0,10,9,5,9,37.5,6,4,0,2,0.0,Matches
+Lucas Lund Pedersen,dk DEN,GK,Viborg,22,2000,32,32,"2,880",32.0,34,1.06,135,104,75.6,14,9,9,9,28.1,5,1,2,2,66.7,Matches
+Nico Mantl,de GER,GK,Aalborg,22,2000,8,8,720,8.0,9,1.13,39,31,79.5,2,3,3,2,25.0,2,1,0,1,0.0,Matches
+Thomas Mikkelsen,dk DEN,GK,Brøndby,38,1983,5,5,450,5.0,6,1.20,15,10,66.7,2,1,2,2,40.0,1,1,0,0,0.0,Matches
+Alexander Nybo,dk DEN,GK,Randers,27,1995,1,1,90,1.0,0,0.00,2,2,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+Josip Posavec,hr CRO,GK,Aalborg,26,1996,10,10,900,10.0,14,1.40,45,31,68.9,2,4,4,3,30.0,0,0,0,0,,Matches
+Elías Rafn Ólafsson,is ISL,GK,Midtjylland,22,2000,8,8,720,8.0,14,1.75,34,22,64.7,3,3,2,1,12.5,2,2,0,0,0.0,Matches
+Mathew Ryan,au AUS,GK,FC Copenhagen,30,1992,6,6,540,6.0,7,1.17,23,17,73.9,3,0,3,3,50.0,2,1,0,1,0.0,Matches
+Theo Sander,dk DEN,GK,Aalborg,17,2005,14,14,"1,260",14.0,20,1.43,59,41,69.5,2,2,10,4,28.6,2,2,0,0,0.0,Matches
+Aleksandar Stankovic,dk DEN,GK,Randers,27,1995,1,0,25,0.3,2,7.20,2,1,50.0,0,0,0,0,,1,1,0,0,0.0,Matches
+

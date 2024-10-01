@@ -1,0 +1,561 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,npxG + xAG/90,Matches
+
+
+Shehu Abdullahi,ng NGA,"DF,MF",Levski Sofia,29,1993,8,3,363,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anicet Abel,mg MAD,"FW,MF",Beroe,32,1990,11,11,955,10.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Achkov,bg BUL,DF,Septemvri Sofia,23,1999,24,15,"1,491",16.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ahmed Ahmedov,bg BUL,FW,Slavia Sofia,27,1995,32,17,"1,482",16.5,4,0,4,4,0,0,3,0,0.24,0.00,0.24,0.24,0.24,Matches
+Oktay Ahmedov Hamdiev,bg BUL,FW,PFC Hebar Pazardzhik,22,2000,33,30,"2,333",25.9,2,0,2,2,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches
+Samuel Akere,ng NGA,FW,Botev Plovdiv,18,2004,12,4,432,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Aleksandrov,bg BUL,FW,Lokomotiv Sofia,28,1994,10,2,166,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Denislav Aleksandrov,bg BUL,MF,Loko Plovdiv,25,1997,11,3,310,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Denislav Aleksandrov,bg BUL,MF,CSKA 1948,25,1997,8,1,189,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sasho Aleksandrov,bg BUL,DF,CSKA 1948,36,1986,7,5,439,4.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simeon Aleksandrov,bg BUL,FW,Septemvri Sofia,18,2003,23,19,"1,589",17.7,5,0,5,5,0,0,4,0,0.28,0.00,0.28,0.28,0.28,Matches
+Simeon Aleksandrov,bg BUL,FW,CSKA Sofia,18,2003,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dzhuinet Ali,bg BUL,DF,Arda,27,1994,21,15,"1,259",14.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Sami El Anabi,be BEL,DF,FC Spartak Varna,22,2000,6,4,344,3.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Andreev,bg BUL,MF,Loko Plovdiv,18,2004,8,1,155,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Plamen Andreev,bg BUL,GK,Levski Sofia,17,2004,32,32,"2,880",32.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yancho Andreev,bg BUL,MF,FC Spartak Varna,32,1990,14,7,594,6.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angel Angelov,bg BUL,MF,Cherno More,22,1999,5,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Preslav Antonov,bg BUL,FW,CSKA 1948,25,1996,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rodney Antwi,nl NED,FW,FC Spartak Varna,26,1995,15,8,688,7.6,1,0,1,1,0,0,1,0,0.13,0.00,0.13,0.13,0.13,Matches
+Georgi Argilashki,bg BUL,GK,Botev Plovdiv,31,1991,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Arsov,bg BUL,DF,Septemvri Sofia,21,2000,25,24,"2,069",23.0,0,0,0,0,0,0,7,2,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Atanasov,bg BUL,FW,Arda,18,2004,1,0,1,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Atanasov,bg BUL,DF,Botev Vratsa,20,2002,11,6,545,6.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zahari Atanasov,bg BUL,MF,Septemvri Sofia,17,2005,6,1,79,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Zhivko Atanasov,bg BUL,DF,Cherno More,31,1991,31,31,"2,790",31.0,1,0,1,1,0,0,3,0,0.03,0.00,0.03,0.03,0.03,Matches
+Hugo Azzi,fr FRA,DF,Botev Plovdiv,18,2003,1,0,21,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Babaliev,bg BUL,FW,FC Spartak Varna,21,2001,10,4,361,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches
+Martin Bachev,bg BUL,DF,Pirin Blagoevgrad,18,2004,11,4,443,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Monir Al Badarin,ps PLE,MF,Botev Plovdiv,17,2005,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimo Bakalov,bg BUL,MF,Lokomotiv Sofia,33,1988,31,16,"1,307",14.5,3,0,3,2,1,1,2,0,0.21,0.00,0.21,0.14,0.14,Matches
+Jon Bakero,es ESP,"FW,MF",Slavia Sofia,26,1996,5,5,424,4.7,2,0,2,2,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches
+Denys Balanyuk,ua UKR,MF,FC Spartak Varna,25,1997,24,12,"1,132",12.6,5,0,5,5,0,0,2,0,0.40,0.00,0.40,0.40,0.40,Matches
+Dimitar Balinov,bg BUL,DF,Botev Plovdiv,21,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lachezar Baltanov,bg BUL,MF,Botev Plovdiv,34,1988,6,3,288,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daouda Bamba,ci CIV,FW,CSKA Sofia,27,1995,11,4,397,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches
+Diogo Barbosa,pt POR,MF,Botev Vratsa,26,1996,13,7,739,8.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tiago Barbosa,br BRA,DF,CSKA 1948,21,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bilal Bari,ma MAR,FW,Levski Sofia,24,1998,6,3,322,3.6,2,0,2,2,0,0,1,0,0.56,0.00,0.56,0.56,0.56,Matches
+Antoine Baroan,fr FRA,FW,Botev Plovdiv,22,2000,31,28,"2,470",27.4,14,0,14,10,4,4,8,0,0.51,0.00,0.51,0.36,0.36,Matches
+Federico Barrios,co COL,GK,Botev Vratsa,25,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angel Bastunov,bg BUL,FW,CSKA 1948,23,1999,23,11,876,9.7,3,0,3,3,0,0,4,0,0.31,0.00,0.31,0.31,0.31,Matches
+Yoan Baurenski,bg BUL,MF,Beroe,20,2001,11,4,472,5.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yoan Baurenski,bg BUL,MF,CSKA Sofia,20,2001,3,1,115,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandr Belousov,md MDA,MF,FC Spartak Varna,24,1998,15,10,892,9.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zakaria Benchaâ,dz ALG,FW,Cherno More,25,1997,13,10,794,8.8,3,0,3,3,0,0,3,1,0.34,0.00,0.34,0.34,0.34,Matches
+Ventsislav Bengyuzov,bg BUL,MF,Pirin Blagoevgrad,31,1991,30,25,"1,925",21.4,2,0,2,1,1,1,12,1,0.09,0.00,0.09,0.05,0.05,Matches
+Berk Beyhan,bg BUL,FW,Cherno More,17,2004,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mimito Biai,gw GNB,MF,Cherno More,24,1997,16,11,919,10.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Messie Biatoumoussoka,cg CGO,DF,Botev Vratsa,24,1998,24,19,"1,779",19.8,1,0,1,1,0,0,10,0,0.05,0.00,0.05,0.05,0.05,Matches
+
+Marsel Bibishkov,bg BUL,MF,Pirin Blagoevgrad,15,2007,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ryan Bidounga,cg CGO,DF,Loko Plovdiv,25,1997,13,13,"1,170",13.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ryan Bidounga,cg CGO,DF,CSKA 1948,25,1997,4,3,270,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ante Blažević,hr CRO,FW,Levski Sofia,26,1996,1,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolay Bodurov,bg BUL,DF,Pirin Blagoevgrad,36,1986,12,12,"1,059",11.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Velislav Boev,bg BUL,DF,FC Spartak Varna,18,2003,11,6,552,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Claudio Bonanni,it ITA,MF,PFC Hebar Pazardzhik,25,1997,12,9,785,8.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Biser Bonev,bg BUL,MF,Botev Plovdiv,19,2003,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Borisov,bg BUL,DF,FC Spartak Varna,21,2000,18,16,"1,421",15.8,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+Preslav Borukov,bg BUL,MF,Arda,22,2000,17,12,"1,032",11.5,5,0,5,4,1,1,3,0,0.44,0.00,0.44,0.35,0.35,Matches
+Preslav Borukov,bg BUL,MF,Loko Plovdiv,22,2000,18,13,"1,230",13.7,3,0,3,3,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches
+Petar Bosančić,hr CRO,DF,Cherno More,26,1996,22,22,"1,980",22.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chahreddine Boukholda,fr FRA,MF,Arda,26,1996,6,1,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mohamed Brahimi,fr FRA,FW,Botev Plovdiv,23,1998,16,14,"1,153",12.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lukas Brambilla,br BRA,FW,Botev Vratsa,27,1995,6,2,183,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bruno,br BRA,DF,Lokomotiv Sofia,24,1998,16,11,"1,020",11.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ilker Budinov,bg BUL,DF,Pirin Blagoevgrad,21,2000,10,7,601,6.7,1,0,1,1,0,0,4,0,0.15,0.00,0.15,0.15,0.15,Matches
+Ilker Budinov,bg BUL,DF,FC Spartak Varna,21,2000,9,8,699,7.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hlib Bukhal,ua UKR,DF,PFC Hebar Pazardzhik,26,1995,14,14,"1,211",13.5,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Gustavo Busatto,br BRA,GK,CSKA Sofia,31,1990,32,32,"2,880",32.0,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bismark C. Kwarena,gh GHA,FW,CSKA Sofia,21,2001,12,1,241,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Johnathan Carlos Pereira,br BRA,DF,CSKA 1948,27,1995,23,19,"1,675",18.6,1,0,1,1,0,0,6,1,0.05,0.00,0.05,0.05,0.05,Matches
+Marcelino Carreazo,co COL,MF,CSKA Sofia,23,1999,23,14,"1,412",15.7,3,0,3,3,0,0,6,0,0.19,0.00,0.19,0.19,0.19,Matches
+Gustavo Cascardo,br BRA,DF,Beroe,25,1997,14,13,"1,047",11.6,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Mauro Cerqueira,pt POR,DF,PFC Hebar Pazardzhik,29,1992,7,4,363,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Ronaldo Cesar,br BRA,FW,Levski Sofia,21,2000,34,32,"2,790",31.0,3,1,4,3,0,0,3,0,0.10,0.03,0.13,0.10,0.13,Matches
+Asen Chandarov,bg BUL,"FW,MF",Levski Sofia,23,1998,16,5,611,6.8,2,0,2,1,1,1,5,0,0.29,0.00,0.29,0.15,0.15,Matches
+Asen Chandarov,bg BUL,"FW,MF",Septemvri Sofia,23,1998,13,10,955,10.6,1,0,1,0,1,1,2,0,0.09,0.00,0.09,0.00,0.00,Matches
+Todor Chavorski,bg BUL,FW,PFC Hebar Pazardzhik,29,1993,8,6,517,5.7,1,0,1,0,1,1,0,0,0.17,0.00,0.17,0.00,0.00,Matches
+Ruslan Chernenko,ua UKR,MF,FC Spartak Varna,29,1992,7,5,504,5.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Atanas Chernev,bg BUL,DF,Botev Plovdiv,20,2002,5,0,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantin Cheshmedzhiev,mk MKD,MF,Slavia Sofia,26,1996,12,4,403,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantin Cheshmedzhiev,mk MKD,MF,Septemvri Sofia,26,1996,11,10,824,9.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hritiyan Chipev,bg BUL,FW,Lokomotiv Sofia,21,2001,8,1,178,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivaylo Chochev,bg BUL,MF,CSKA 1948,29,1993,31,30,"2,694",29.9,21,0,21,17,4,4,3,0,0.70,0.00,0.70,0.57,0.57,Matches
+Georgi Chukalov,bg BUL,MF,FC Spartak Varna,24,1998,3,0,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cicinho,bg BUL,"DF,MF",Ludogorets,33,1988,13,8,751,8.3,1,0,1,1,0,0,1,1,0.12,0.00,0.12,0.12,0.12,Matches
+Matheus dos Santos Clemente,pt POR,MF,Cherno More,24,1998,16,15,"1,255",13.9,1,0,1,1,0,0,7,0,0.07,0.00,0.07,0.07,0.07,Matches
+José Cordoba,pa PAN,DF,Levski Sofia,21,2001,25,25,"2,248",25.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mathias Coureur,mq MTQ,MF,Cherno More,34,1988,18,11,974,10.8,3,0,3,3,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches
+Petar Čuić,hr CRO,MF,Septemvri Sofia,23,1999,14,12,897,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jean-Pierre Da Sylva,fr FRA,MF,Botev Vratsa,25,1997,28,14,"1,378",15.3,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Arlind Dakaj,ch SUI,MF,Cherno More,20,2001,7,3,242,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Reyan Daskalov,bg BUL,MF,CSKA 1948,27,1995,27,21,"1,962",21.8,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Debarliev,bg BUL,GK,PFC Hebar Pazardzhik,31,1991,31,30,"2,745",30.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Spas Delev,bg BUL,"FW,MF",Ludogorets,32,1989,30,13,"1,377",15.3,7,0,7,7,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches
+Mirza Delimeđac,rs SRB,MF,Septemvri Sofia,22,1999,7,4,256,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kellian van der Kaap,nl NED,DF,Levski Sofia,23,1998,27,17,"1,621",18.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kiril Despodov,bg BUL,"FW,MF",Ludogorets,25,1996,30,25,"2,115",23.5,14,1,15,10,4,4,5,0,0.60,0.04,0.64,0.43,0.47,Matches
+Alan Dias,br BRA,DF,Lokomotiv Sofia,23,1998,29,28,"2,498",27.8,2,0,2,2,0,0,6,0,0.07,0.00,0.07,0.07,0.07,Matches
+
+Martin Dichev,bg BUL,DF,Cherno More,21,2000,15,6,652,7.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Dichevski,bg BUL,GK,FC Spartak Varna,21,2001,20,20,"1,800",20.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Svetoslav Dikov,bg BUL,MF,CSKA 1948,30,1992,13,5,518,5.8,1,0,1,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches
+Iliya Dimitrov,bg BUL,FW,Lokomotiv Sofia,26,1996,18,5,738,8.2,3,0,3,3,0,0,2,0,0.37,0.00,0.37,0.37,0.37,Matches
+Ivaylo Dimitrov,bg BUL,MF,Loko Plovdiv,33,1989,17,2,370,4.1,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches
+Kristian Dimitrov,bg BUL,DF,Levski Sofia,25,1997,8,2,195,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zdravko Dimitrov,bg BUL,FW,FC Spartak Varna,23,1998,11,10,910,10.1,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches
+Daniel Dimov,bg BUL,"DF,MF",Cherno More,33,1989,13,6,534,5.9,1,0,1,1,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches
+Plamen Dimov,bg BUL,"DF,MF",FC Spartak Varna,31,1990,22,17,"1,619",18.0,1,0,1,1,0,0,4,1,0.06,0.00,0.06,0.06,0.06,Matches
+Georgi Dinkov,bg BUL,DF,Beroe,31,1991,16,10,939,10.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Babacar Dione,be BEL,FW,Loko Plovdiv,25,1997,35,30,"2,459",27.3,4,1,5,4,0,0,0,0,0.15,0.04,0.18,0.15,0.18,Matches
+Kristian Dobrev,bg BUL,FW,Slavia Sofia,21,2001,25,14,"1,253",13.9,3,0,3,3,0,0,3,0,0.22,0.00,0.22,0.22,0.22,Matches
+Petar Dolapchiev,,DF,Slavia Sofia,,,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Asen Donchev,bg BUL,FW,CSKA Sofia,20,2001,7,2,251,2.8,1,0,1,1,0,0,1,0,0.36,0.00,0.36,0.36,0.36,Matches
+Erol Dost,bg BUL,MF,Slavia Sofia,23,1999,31,15,"1,517",16.9,2,0,2,2,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+Amadou Doumbouya,gn GUI,FW,Botev Plovdiv,19,2002,4,1,122,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vlatko Drobarov,mk MKD,DF,Cherno More,29,1992,12,11,992,11.0,2,0,2,2,0,0,3,0,0.18,0.00,0.18,0.18,0.18,Matches
+Matheus Duarte,br BRA,MF,Lokomotiv Sofia,27,1995,28,23,"2,115",23.5,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Dyulgerov,bg BUL,DF,Pirin Blagoevgrad,32,1990,29,29,"2,593",28.8,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Dyulgerov,bg BUL,GK,Cherno More,23,1999,26,26,"2,337",26.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stanislav Dyulgerov,bg BUL,MF,Arda,18,2003,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emanuel,br BRA,DF,FC Spartak Varna,22,1999,8,8,720,8.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mark Emilio Papazov,bg BUL,FW,CSKA Sofia,18,2003,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mark Emilio Papazov,bg BUL,FW,PFC Hebar Pazardzhik,18,2003,12,2,280,3.1,2,0,2,2,0,0,2,0,0.64,0.00,0.64,0.64,0.64,Matches
+Umeh Emmanuel,ng NGA,FW,Botev Plovdiv,17,2004,14,9,841,9.3,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches
+
+James Eto'o,cm CMR,DF,Botev Plovdiv,21,2000,29,27,"2,108",23.4,0,0,0,0,0,0,12,3,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Evtimov,bg BUL,GK,CSKA Sofia,28,1993,3,3,270,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ewandro,br BRA,"FW,MF",Loko Plovdiv,26,1996,11,4,440,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ewandro,br BRA,"FW,MF",FC Spartak Varna,26,1996,15,11,937,10.4,5,0,5,5,0,0,4,0,0.48,0.00,0.48,0.48,0.48,Matches
+Boubacar Faye Traore,sn SEN,FW,Beroe,25,1997,7,4,362,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luiz Felipe,br BRA,DF,Botev Vratsa,23,1999,19,19,"1,697",18.9,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Welton Felipe,br BRA,MF,Levski Sofia,24,1997,34,33,"2,821",31.3,3,0,3,3,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches
+Alex Fernandes,br BRA,MF,Cherno More,20,2002,25,19,"1,661",18.5,3,0,3,3,0,0,5,0,0.16,0.00,0.16,0.16,0.16,Matches
+Diego Ferraresso,br BRA,"DF,MF",Botev Vratsa,30,1992,34,34,"2,985",33.2,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Thomas Fontaine,mg MAD,DF,Beroe,31,1991,7,7,560,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+França,br BRA,MF,Lokomotiv Sofia,27,1995,34,32,"2,667",29.6,5,0,5,4,1,1,10,2,0.17,0.00,0.17,0.13,0.13,Matches
+Steve Furtado,cv CPV,DF,CSKA 1948,27,1994,26,21,"1,764",19.6,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Patrik Galchev,bg BUL,DF,Levski Sofia,21,2001,14,8,746,8.3,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches
+Petko Ganev,bg BUL,DF,Botev Vratsa,25,1996,6,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maurício Garcez,br BRA,"FW,MF",CSKA Sofia,25,1997,31,24,"2,207",24.5,10,0,10,10,0,0,2,0,0.41,0.00,0.41,0.41,0.41,Matches
+Nathan Gassama,fr FRA,DF,Slavia Sofia,21,2001,18,13,"1,245",13.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Gavrilov,bg BUL,MF,Botev Vratsa,22,2000,22,14,"1,217",13.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yoan Gavrilov,bg BUL,MF,Septemvri Sofia,23,1999,17,9,766,8.5,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Baboucarr Gaye,gm GAM,GK,Lokomotiv Sofia,24,1998,13,12,"1,154",12.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Geferson,br BRA,"DF,MF",CSKA Sofia,28,1994,21,14,"1,263",14.0,1,0,1,1,0,0,10,0,0.07,0.00,0.07,0.07,0.07,Matches
+Viktor Genev,bg BUL,DF,Botev Plovdiv,33,1988,31,31,"2,684",29.8,3,0,3,3,0,0,9,0,0.10,0.00,0.10,0.10,0.10,Matches
+Daniel Genov,bg BUL,MF,Botev Vratsa,33,1989,32,24,"2,062",22.9,3,0,3,3,0,0,3,0,0.13,0.00,0.13,0.13,0.13,Matches
+Aleksandar Georgiev,bg BUL,MF,Arda,24,1997,23,17,"1,572",17.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Georgiev,bg BUL,DF,Botev Vratsa,24,1997,23,17,"1,721",19.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Asen Georgiev,bg BUL,DF,Septemvri Sofia,29,1993,27,26,"2,369",26.3,1,0,1,1,0,0,9,0,0.04,0.00,0.04,0.04,0.04,Matches
+
+Georgi Georgiev,bg BUL,GK,Cherno More,33,1988,10,9,813,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miroslav Georgiev,bg BUL,DF,Botev Plovdiv,16,2005,2,1,107,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Spas Georgiev,bg BUL,MF,Beroe,30,1992,31,21,"2,071",23.0,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Yanko Georgiev,bg BUL,GK,Pirin Blagoevgrad,33,1988,26,26,"2,227",24.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simeon Germanov,bg BUL,DF,Beroe,17,2005,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Gichev,bg BUL,MF,Botev Plovdiv,17,2004,1,0,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giovanny,br BRA,MF,Loko Plovdiv,24,1997,26,19,"1,790",19.9,8,0,8,6,2,2,4,0,0.40,0.00,0.40,0.30,0.30,Matches
+Saná Gomes,gw GNB,DF,Beroe,22,1999,14,11,910,10.1,0,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00,Matches
+Claude Gonçalves,pt POR,MF,Ludogorets,28,1994,19,10,917,10.2,1,0,1,1,0,0,5,1,0.10,0.00,0.10,0.10,0.10,Matches
+Ivan Goshev,bg BUL,GK,Beroe,22,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anatoli Gospodinov,bg BUL,GK,Arda,28,1994,29,29,"2,560",28.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angel Granchov,bg BUL,DF,CSKA 1948,29,1992,3,2,181,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Denny Gropper,il ISR,DF,Ludogorets,23,1999,15,13,950,10.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aderinsola Habib Eseola,ua UKR,FW,PFC Hebar Pazardzhik,31,1991,15,4,460,5.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamen Hadzhiev,bg BUL,DF,Lokomotiv Sofia,30,1991,11,10,945,10.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamen Hadzhiev,bg BUL,DF,PFC Hebar Pazardzhik,30,1991,5,5,449,5.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Henadii Haniev,ua UKR,GK,CSKA 1948,32,1990,3,2,205,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hidajet Hankić,ba BIH,GK,Botev Plovdiv,28,1994,27,27,"2,430",27.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tobias Heintz,no NOR,MF,CSKA Sofia,24,1998,16,13,"1,097",12.2,3,0,3,3,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches
+Héliton,br BRA,DF,CSKA 1948,26,1995,27,25,"2,277",25.3,4,0,4,4,0,0,9,1,0.16,0.00,0.16,0.16,0.16,Matches
+Henrique,br BRA,FW,CSKA 1948,28,1993,11,5,476,5.3,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches
+Pedro Henrique,br BRA,DF,Beroe,21,2001,16,12,"1,078",12.0,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Roi Herman,il ISR,DF,Botev Plovdiv,22,2000,20,13,"1,049",11.7,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Nathan Holder,cw CUW,MF,Levski Sofia,20,2002,3,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nathan Holder,cw CUW,MF,FC Spartak Varna,20,2002,4,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Dinko Horkaš,hr CRO,GK,Loko Plovdiv,23,1999,27,27,"2,383",26.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hristiyan Hristov,bg BUL,GK,FC Spartak Varna,27,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Hristov,bg BUL,DF,Botev Plovdiv,18,2003,2,1,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ventsislav Hristov,bg BUL,"FW,MF",Botev Vratsa,33,1988,13,7,580,6.4,1,0,1,1,0,0,1,1,0.16,0.00,0.16,0.16,0.16,Matches
+Hristofor Hubchev,bg BUL,DF,Pirin Blagoevgrad,26,1995,17,17,"1,496",16.6,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ibryam Ibrahim Ibryam,bg BUL,DF,FC Spartak Varna,,,6,4,392,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aboubacar Ibrahim Toungara,ml MLI,FW,Arda,27,1994,15,14,"1,188",13.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches
+Aboubacar Ibrahim Toungara,ml MLI,FW,Beroe,27,1994,17,17,"1,471",16.3,9,0,9,8,1,1,5,0,0.55,0.00,0.55,0.49,0.49,Matches
+Kerimdzhan Ignatov,bg BUL,MF,Arda,17,2005,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Atanas Iliev,bg BUL,FW,Cherno More,27,1994,15,8,810,9.0,3,0,3,1,2,2,1,0,0.33,0.00,0.33,0.11,0.11,Matches
+Dimitar Iliev,bg BUL,"FW,MF",Loko Plovdiv,33,1988,35,34,"3,012",33.5,4,0,4,3,1,1,4,0,0.12,0.00,0.12,0.09,0.09,Matches
+Tsvetan Iliev,bg BUL,MF,FC Spartak Varna,32,1990,11,7,648,7.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bozhidar Ilkov Siderov,bg BUL,DF,Botev Plovdiv,17,2005,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ismail Isa,bg BUL,FW,Cherno More,33,1989,24,10,952,10.6,3,0,3,3,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches
+Arhan Isuf,bg BUL,DF,PFC Hebar Pazardzhik,23,1999,12,8,776,8.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Ivanov,bg BUL,MF,Pirin Blagoevgrad,20,2002,3,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Galin Ivanov,bg BUL,"FW,MF",Slavia Sofia,34,1988,32,31,"2,750",30.6,4,0,4,4,0,0,7,0,0.13,0.00,0.13,0.13,0.13,Matches
+Hristo Ivanov,bg BUL,MF,Arda,21,2000,16,10,856,9.5,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Hristo Ivanov,bg BUL,FW,Loko Plovdiv,21,2000,5,0,21,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hristo Ivanov,bg BUL,MF,Loko Plovdiv,21,2000,15,7,651,7.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Ivanov Karakashev,bg BUL,MF,Loko Plovdiv,23,1999,31,18,"1,517",16.9,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Ivanov,bg BUL,MF,Lokomotiv Sofia,18,2003,16,7,727,8.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stanislav Ivanov,bg BUL,FW,Arda,23,1999,17,13,"1,056",11.7,3,0,3,3,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches
+Teodor Ivanov,bg BUL,DF,Lokomotiv Sofia,18,2004,4,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chavdar Ivaylov,bg BUL,MF,Botev Vratsa,26,1996,25,24,"1,841",20.5,3,0,3,2,1,1,11,0,0.15,0.00,0.15,0.10,0.10,Matches
+
+Romeesh Ivey,pa PAN,FW,FC Spartak Varna,28,1994,23,21,"1,860",20.7,1,1,2,1,0,0,8,0,0.05,0.05,0.10,0.05,0.10,Matches
+Sebastian Jakubiak,de GER,MF,Septemvri Sofia,29,1993,10,6,502,5.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Veljko Jelenković,bg BUL,DF,Slavia Sofia,19,2003,12,9,818,9.1,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Jawad El Jemili,es ESP,FW,Levski Sofia,19,2002,10,1,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jorginho,gw GNB,MF,Ludogorets,26,1995,3,1,92,1.0,1,0,1,1,0,0,0,0,0.98,0.00,0.98,0.98,0.98,Matches
+Maks Juraj Čelić,hr CRO,DF,Beroe,26,1996,14,13,"1,205",13.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Atanas Kabov,bg BUL,MF,Septemvri Sofia,23,1999,30,20,"1,938",21.5,6,0,6,6,0,0,4,0,0.28,0.00,0.28,0.28,0.28,Matches
+Kadu,br BRA,DF,Lokomotiv Sofia,25,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Karadzhov,bg BUL,GK,Beroe,33,1989,31,31,"2,790",31.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bircent Karagaren,bg BUL,"FW,MF",Loko Plovdiv,29,1992,17,17,"1,373",15.3,6,1,7,6,0,0,5,0,0.39,0.07,0.46,0.39,0.46,Matches
+Bircent Karagaren,bg BUL,"FW,MF",CSKA 1948,29,1992,11,6,476,5.3,2,0,2,2,0,0,1,0,0.38,0.00,0.38,0.38,0.38,Matches
+Benjamin Karamoko,ml MLI,DF,FC Spartak Varna,27,1995,15,12,"1,058",11.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Žan Karničnik,si SVN,DF,Ludogorets,27,1994,5,5,419,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Redi Kasa,al ALB,MF,Septemvri Sofia,20,2001,14,4,435,4.8,1,0,1,1,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches
+Bozhidar Katsarov,bg BUL,DF,Lokomotiv Sofia,28,1993,19,19,"1,643",18.3,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches
+Martin Kavdanski,bg BUL,DF,Botev Vratsa,35,1987,24,21,"1,792",19.9,1,0,1,1,0,0,6,2,0.05,0.00,0.05,0.05,0.05,Matches
+Petar Kepov,bg BUL,MF,Botev Vratsa,20,2002,8,2,308,3.4,1,0,1,1,0,0,3,0,0.29,0.00,0.29,0.29,0.29,Matches
+Ventsislav Kerchev,bg BUL,DF,Slavia Sofia,25,1997,29,22,"2,049",22.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radoslav Kirilov,bg BUL,"FW,MF",Slavia Sofia,30,1992,5,5,448,5.0,1,0,1,1,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches
+Radoslav Kirilov,bg BUL,"FW,MF",CSKA 1948,30,1992,25,15,"1,475",16.4,2,0,2,2,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+Klaidher,br BRA,DF,Beroe,23,1999,12,12,955,10.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivaylo Klimentov,bg BUL,MF,FC Spartak Varna,24,1998,22,13,"1,316",14.6,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Bojan Knežević,hr CRO,MF,PFC Hebar Pazardzhik,25,1997,8,6,562,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Menno Koch,nl NED,DF,CSKA Sofia,28,1994,18,9,979,10.9,3,0,3,3,0,0,4,0,0.28,0.00,0.28,0.28,0.28,Matches
+Ivan Kokonov,bg BUL,MF,Arda,30,1991,32,16,"1,669",18.5,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches
+
+Aleksandar Kolev,bg BUL,"FW,MF",CSKA 1948,29,1992,24,17,"1,507",16.7,2,0,2,1,1,1,6,0,0.12,0.00,0.12,0.06,0.06,Matches
+Krasian Kolev,bg BUL,MF,Septemvri Sofia,18,2004,17,15,"1,169",13.0,1,0,1,0,1,1,3,0,0.08,0.00,0.08,0.00,0.00,Matches
+Krasian Kolev,bg BUL,MF,Botev Plovdiv,18,2004,15,11,954,10.6,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Pa Konate,gn GUI,DF,Botev Plovdiv,28,1994,24,20,"1,743",19.4,2,0,2,2,0,0,2,1,0.10,0.00,0.10,0.10,0.10,Matches
+Danylo Kondrakov,ua UKR,FW,Pirin Blagoevgrad,24,1998,17,17,"1,517",16.9,5,0,5,2,3,3,3,0,0.30,0.00,0.30,0.12,0.12,Matches
+Bogomil Kostadinov Bozhurkin,bg BUL,MF,PFC Hebar Pazardzhik,,,18,12,"1,044",11.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Kostadinov,bg BUL,MF,Septemvri Sofia,22,1999,28,17,"1,706",19.0,3,0,3,3,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches
+Ilian Kostov,bg BUL,DF,Pirin Blagoevgrad,17,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krasimir Kostov,bg BUL,GK,Botev Vratsa,27,1995,34,34,"3,060",34.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stanislav Kostov,bg BUL,FW,Lokomotiv Sofia,30,1991,18,9,809,9.0,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Stanislav Kostov,bg BUL,FW,Pirin Blagoevgrad,30,1991,15,10,913,10.1,2,0,2,2,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches
+Lachezar Kotev,bg BUL,MF,Arda,24,1998,17,17,"1,465",16.3,3,0,3,3,0,0,3,0,0.18,0.00,0.18,0.18,0.18,Matches
+Svetoslav Kovachev,bg BUL,MF,Arda,24,1998,34,28,"2,408",26.8,8,0,8,8,0,0,5,0,0.30,0.00,0.30,0.30,0.30,Matches
+Maksym Kovalov,ua UKR,GK,Pirin Blagoevgrad,22,2000,11,9,923,10.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Plamen Krachunov,bg BUL,DF,Arda,33,1989,16,11,"1,040",11.6,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrian Kraev,bg BUL,MF,Levski Sofia,23,1999,30,27,"2,322",25.8,2,0,2,2,0,0,9,1,0.08,0.00,0.08,0.08,0.08,Matches
+Boris Krastev,,MF,Lokomotiv Sofia,,,11,9,779,8.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Krastev,bg BUL,MF,Levski Sofia,20,2001,33,32,"2,853",31.7,8,0,8,7,1,1,5,0,0.25,0.00,0.25,0.22,0.22,Matches
+Kaloyan Krastev,bg BUL,FW,Beroe,23,1999,17,7,773,8.6,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches
+Kaloyan Krastev,bg BUL,FW,CSKA Sofia,23,1999,4,3,229,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolay Krastev,bg BUL,GK,Slavia Sofia,25,1996,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Kremenović,rs SRB,MF,PFC Hebar Pazardzhik,20,2002,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Plamen Krumov,bg BUL,"DF,MF",PFC Hebar Pazardzhik,36,1985,15,12,"1,101",12.2,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches
+Zarija Lambulić,rs SRB,DF,Beroe,24,1998,11,9,803,8.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luan Leite,br BRA,DF,Loko Plovdiv,26,1996,8,3,259,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Luan Leite,br BRA,DF,FC Spartak Varna,26,1996,8,8,634,7.0,3,0,3,3,0,0,0,0,0.43,0.00,0.43,0.43,0.43,Matches
+Jonathan Lindseth,no NOR,MF,CSKA Sofia,26,1996,29,24,"2,154",23.9,2,0,2,2,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches
+Oleksii Lobov,ua UKR,DF,PFC Hebar Pazardzhik,24,1997,10,6,620,6.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Deyan Lozev,bg BUL,MF,Arda,28,1993,24,20,"1,749",19.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Genadi Lugo,bg BUL,DF,FC Spartak Varna,33,1989,6,2,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angel Lyaskov,bg BUL,DF,CSKA 1948,24,1998,23,13,"1,345",14.9,0,1,1,0,0,0,3,1,0.00,0.07,0.07,0.00,0.07,Matches
+Aleksandar Lyubenov,bg BUL,GK,Lokomotiv Sofia,27,1995,24,24,"2,084",23.2,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Matheus Machado,br BRA,FW,Cherno More,19,2003,8,3,251,2.8,2,0,2,2,0,0,3,0,0.72,0.00,0.72,0.72,0.72,Matches
+Enes Mahmutovic,lu LUX,DF,CSKA Sofia,25,1997,18,15,"1,324",14.7,1,0,1,1,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches
+Marco Majouga,cf CTA,FW,Botev Vratsa,21,2001,16,6,561,6.2,1,0,1,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches
+Cebrails Makreckis,lv LVA,MF,Pirin Blagoevgrad,22,2000,23,22,"1,958",21.8,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches
+Malembana,mz MOZ,DF,Lokomotiv Sofia,26,1995,18,15,"1,364",15.2,2,0,2,2,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+El Mamy Tetah,mr MTN,FW,Arda,20,2001,23,11,900,10.0,3,0,3,3,0,0,4,0,0.30,0.00,0.30,0.30,0.30,Matches
+Emanuil Manev,bg BUL,MF,PFC Hebar Pazardzhik,30,1992,9,7,568,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Elvis Manu,nl NED,"FW,MF",Botev Plovdiv,28,1993,14,14,"1,171",13.0,7,0,7,7,0,0,3,0,0.54,0.00,0.54,0.54,0.54,Matches
+Uerdi Mara,al ALB,MF,Beroe,23,1999,10,7,667,7.4,1,0,1,1,0,0,3,0,0.13,0.00,0.13,0.13,0.13,Matches
+Vincent Marcel,fr FRA,MF,PFC Hebar Pazardzhik,25,1997,26,22,"1,908",21.2,2,0,2,2,0,0,8,0,0.09,0.00,0.09,0.09,0.09,Matches
+Lazar Marin,bg BUL,DF,CSKA 1948,28,1994,12,10,872,9.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Borislav Marinov,bg BUL,FW,Septemvri Sofia,17,2005,3,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miroslav Marinov,bg BUL,FW,Botev Vratsa,18,2004,30,17,"1,594",17.7,3,0,3,3,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches
+João Mário,gw GNB,FW,FC Spartak Varna,28,1993,11,7,547,6.1,2,0,2,2,0,0,2,0,0.33,0.00,0.33,0.33,0.33,Matches
+Lucas Martins,br BRA,MF,Beroe,27,1995,12,7,677,7.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Liandro Martis,cw CUW,"FW,MF",FC Spartak Varna,26,1995,8,3,260,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Loren Maružin,hr CRO,FW,PFC Hebar Pazardzhik,24,1997,17,5,770,8.6,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches
+Jurgen Mattheij,nl NED,DF,CSKA Sofia,29,1993,26,26,"2,257",25.1,1,0,1,1,0,0,10,0,0.04,0.00,0.04,0.04,0.04,Matches
+
+Róbert Mazáň,sk SVK,"DF,MF",PFC Hebar Pazardzhik,28,1994,21,19,"1,732",19.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simeon Mechev,bg BUL,MF,Beroe,32,1990,31,31,"2,719",30.2,3,0,3,3,0,0,10,0,0.10,0.00,0.10,0.10,0.10,Matches
+Vladimir Medved,by BLR,MF,Pirin Blagoevgrad,22,1999,3,1,123,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mehmed Mehmed,bg BUL,FW,FC Spartak Varna,23,1998,14,8,741,8.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bryan Mendoza,ar ARG,DF,Botev Vratsa,29,1993,34,32,"2,805",31.2,1,0,1,1,0,0,3,0,0.03,0.00,0.03,0.03,0.03,Matches
+Cristhian Mendoza,ve VEN,MF,Loko Plovdiv,20,2002,4,1,157,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Prosper Mendy,gw GNB,DF,FC Spartak Varna,26,1996,12,7,643,7.1,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches
+Dylan Mertens,nl NED,MF,Botev Plovdiv,27,1995,26,21,"1,781",19.8,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches
+Michael,br BRA,FW,Cherno More,26,1996,7,1,193,2.1,2,0,2,2,0,0,1,0,0.93,0.00,0.93,0.93,0.93,Matches
+Leroy-Jacques Mickels,de GER,MF,FC Spartak Varna,27,1995,17,15,"1,170",13.0,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches
+Deyvid Mihalev,bg BUL,MF,Levski Sofia,16,2006,2,0,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Mihaylov,bg BUL,MF,Loko Plovdiv,18,2003,4,0,38,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivaylo Mihaylov,bg BUL,FW,PFC Hebar Pazardzhik,22,2000,17,8,777,8.6,2,0,2,2,0,0,3,1,0.23,0.00,0.23,0.23,0.23,Matches
+Martin Mihaylov,bg BUL,DF,PFC Hebar Pazardzhik,22,2000,29,25,"2,242",24.9,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolay Mihaylov,bg BUL,GK,Levski Sofia,34,1988,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zvonimir Mikulić,hr CRO,GK,PFC Hebar Pazardzhik,32,1990,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Milanov,bg BUL,"FW,MF",Levski Sofia,30,1992,18,15,"1,330",14.8,2,0,2,2,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches
+Iliya Milanov,bg BUL,DF,Septemvri Sofia,30,1992,6,5,333,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Milić,me MNE,DF,Septemvri Sofia,22,2000,8,8,676,7.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krasimir Miloshev,bg BUL,MF,Lokomotiv Sofia,22,2000,33,33,"2,877",32.0,3,0,3,3,0,0,9,0,0.09,0.00,0.09,0.09,0.09,Matches
+Ivan Minchev,bg BUL,MF,Slavia Sofia,31,1991,20,9,924,10.3,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches
+Galin Minkov,bg BUL,DF,CSKA Sofia,24,1997,3,2,158,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolay Minkov,bg BUL,MF,Botev Plovdiv,24,1997,31,19,"1,875",20.8,3,0,3,3,0,0,6,1,0.14,0.00,0.14,0.14,0.14,Matches
+Ivaylo Mitev,bg BUL,DF,Beroe,16,2006,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Viktor Mitev,bg BUL,"DF,MF",FC Spartak Varna,29,1992,34,31,"2,626",29.2,1,0,1,1,0,0,5,0,0.03,0.00,0.03,0.03,0.03,Matches
+
+Asen Mitkov,bg BUL,MF,Levski Sofia,17,2005,15,1,136,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Mitkov,bg BUL,FW,Lokomotiv Sofia,22,2000,17,14,"1,130",12.6,7,1,8,5,2,2,2,0,0.56,0.08,0.64,0.40,0.48,Matches
+Mitko Mitkov,bg BUL,MF,Beroe,21,2000,4,0,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mitko Mitkov,bg BUL,MF,Septemvri Sofia,21,2000,10,4,327,3.6,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches
+Romario Moise,ro ROU,MF,Beroe,25,1996,11,5,481,5.3,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches
+Santiago Montoya,co COL,MF,Botev Vratsa,23,1998,13,6,509,5.7,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Brayan Moreno,co COL,FW,CSKA Sofia,22,1999,25,8,950,10.6,9,0,9,9,0,0,4,0,0.85,0.00,0.85,0.85,0.85,Matches
+Lassana N'Diaye,ml MLI,FW,Arda,21,2000,35,14,"1,360",15.1,8,0,8,8,0,0,5,0,0.53,0.00,0.53,0.53,0.53,Matches
+Daniel Nachev,bg BUL,MF,FC Spartak Varna,18,2003,8,0,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Raí Nascimento,br BRA,"FW,MF",Ludogorets,24,1998,7,1,144,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Naumov,bg BUL,GK,CSKA 1948,24,1998,33,33,"2,945",32.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Naydenov,bg BUL,FW,Botev Plovdiv,15,2007,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivaylo Naydenov,bg BUL,MF,Lokomotiv Sofia,24,1998,25,18,"1,698",18.9,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches
+Duckens Nazon,ht HAI,FW,CSKA Sofia,28,1994,32,22,"1,873",20.8,18,0,18,16,2,2,8,0,0.86,0.00,0.86,0.77,0.77,Matches
+Khadim Ndiaye,sn SEN,GK,PFC Hebar Pazardzhik,22,2000,3,3,225,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Todor Nedelev,bg BUL,MF,Ludogorets,29,1993,5,5,317,3.5,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches
+Todor Nedelev,bg BUL,MF,Botev Plovdiv,29,1993,3,3,261,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anton Nedyalkov,bg BUL,DF,Ludogorets,29,1993,16,14,"1,240",13.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yulian Nenov,bg BUL,FW,Lokomotiv Sofia,27,1994,21,12,"1,237",13.7,2,0,2,2,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches
+Ivan Neshkov,bg BUL,MF,Botev Vratsa,17,2005,2,1,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patrik Ngingi,,MF,PFC Hebar Pazardzhik,19,2003,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chung Nguen Do,bg BUL,MF,Slavia Sofia,17,2005,16,6,627,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kemehlo Nguena,fr FRA,FW,Slavia Sofia,22,2000,18,15,"1,389",15.4,4,0,4,4,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches
+Nikolay Nikolaev,bg BUL,DF,Beroe,25,1997,7,3,328,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolay Nikolaev,bg BUL,DF,PFC Hebar Pazardzhik,25,1997,11,8,617,6.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Martin Nikolov,bg BUL,DF,Septemvri Sofia,28,1993,24,17,"1,458",16.2,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Stilyan Nikolov,bg BUL,DF,Beroe,31,1991,14,12,"1,122",12.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Valentin Nikolov,bg BUL,FW,Lokomotiv Sofia,18,2003,8,0,86,1.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Nikolov,bg BUL,DF,Slavia Sofia,21,2001,16,7,561,6.2,2,0,2,2,0,0,6,0,0.32,0.00,0.32,0.32,0.32,Matches
+Tochukwu Nnadi,ng NGA,MF,Botev Plovdiv,19,2003,19,9,890,9.9,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nonato,br BRA,MF,Ludogorets,24,1998,22,12,"1,026",11.4,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Bradley de Nooijer,nl NED,DF,CSKA Sofia,24,1997,21,19,"1,717",19.1,2,0,2,2,0,0,7,1,0.10,0.00,0.10,0.10,0.10,Matches
+Octávio,br BRA,MF,CSKA 1948,28,1993,30,16,"1,705",18.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Carlos Ohene,gh GHA,MF,CSKA 1948,29,1993,17,13,957,10.6,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Cauly Oliveira Souza,br BRA,"FW,MF",Ludogorets,26,1995,15,11,962,10.7,5,0,5,5,0,0,3,0,0.47,0.00,0.47,0.47,0.47,Matches
+Kubrat Onasci,bg BUL,DF,Septemvri Sofia,16,2006,2,1,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miki Orachev,bg BUL,DF,Lokomotiv Sofia,26,1996,12,9,804,8.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kornel Osyra,pl POL,DF,PFC Hebar Pazardzhik,29,1993,27,25,"2,262",25.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Edgar Pacheco,pt POR,MF,Cherno More,22,2000,11,7,589,6.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sergio Padt,nl NED,GK,Ludogorets,32,1990,32,32,"2,880",32.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Junior Palmares,br BRA,MF,Arda,25,1997,17,4,487,5.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasil Panayotov,bg BUL,MF,Cherno More,32,1990,32,31,"2,744",30.5,4,0,4,4,0,0,8,1,0.13,0.00,0.13,0.13,0.13,Matches
+Mitko Panov,bg BUL,MF,Botev Vratsa,16,2006,3,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tsvetomir Panov,bg BUL,DF,Cherno More,33,1989,24,21,"1,801",20.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Papazov,bg BUL,DF,Botev Plovdiv,16,2006,3,3,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Paskalev,bg BUL,MF,Loko Plovdiv,20,2001,33,31,"2,742",30.5,3,0,3,3,0,0,7,0,0.10,0.00,0.10,0.10,0.10,Matches
+Dobromir Pavlov,bg BUL,MF,Botev Plovdiv,17,2005,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Todor Pavlov,bg BUL,DF,Loko Plovdiv,18,2004,13,9,888,9.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleks Pedinski,bg BUL,MF,Pirin Blagoevgrad,16,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pedrinho,br BRA,MF,Ludogorets,24,1998,22,13,"1,223",13.6,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Pedrinho,br BRA,MF,CSKA 1948,25,1996,13,8,698,7.8,3,0,3,2,1,1,2,0,0.39,0.00,0.39,0.26,0.26,Matches
+Bozhidar Penchev,bg BUL,MF,Beroe,20,2002,27,13,"1,092",12.1,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Brayan Perea,co COL,FW,Botev Vratsa,29,1993,26,26,"2,147",23.9,9,1,10,6,3,3,6,0,0.38,0.04,0.42,0.25,0.29,Matches
+Cristiano Pereira Figueiredo,pt POR,GK,FC Spartak Varna,31,1990,14,14,"1,260",14.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Perera,es ESP,MF,Botev Plovdiv,25,1997,10,7,575,6.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristiyan Peshov,bg BUL,MF,Septemvri Sofia,25,1997,18,17,"1,342",14.9,2,0,2,2,0,0,2,1,0.13,0.00,0.13,0.13,0.13,Matches
+Alex Petkov,bg BUL,DF,Arda,23,1999,26,25,"2,243",24.9,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches
+Georgi Petkov,bg BUL,GK,Slavia Sofia,46,1976,1,1,90,1.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Marin Petkov,bg BUL,FW,Levski Sofia,18,2003,33,8,961,10.7,4,0,4,3,1,1,3,0,0.37,0.00,0.37,0.28,0.28,Matches
+Mario Petkov,bg BUL,DF,Lokomotiv Sofia,25,1996,14,6,533,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Petkov,bg BUL,FW,Septemvri Sofia,19,2002,26,20,"1,806",20.1,4,0,4,4,0,0,4,0,0.20,0.00,0.20,0.20,0.20,Matches
+Stanislav Petkov,bg BUL,MF,Botev Plovdiv,18,2004,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jérémy Pétris,fr FRA,DF,Levski Sofia,24,1998,25,22,"1,944",21.6,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches
+Aleksander Petrov,bg BUL,FW,Septemvri Sofia,17,2005,4,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hristiyan Petrov,bg BUL,DF,CSKA Sofia,20,2002,26,26,"2,296",25.5,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Plamen Petrov,bg BUL,DF,Botev Vratsa,15,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simeon Petrov,bg BUL,DF,CSKA 1948,22,2000,19,18,"1,620",18.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Valentin Petrov,bg BUL,MF,Slavia Sofia,18,2004,2,0,5,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Petrović,rs SRB,DF,Loko Plovdiv,32,1990,25,12,"1,229",13.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Piotrowski,pl POL,MF,Ludogorets,24,1997,29,20,"1,788",19.9,3,0,3,3,0,0,6,0,0.15,0.00,0.15,0.15,0.15,Matches
+Pipa,es ESP,"DF,MF",Ludogorets,24,1998,13,11,996,11.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Pirgov,bg BUL,DF,Beroe,32,1989,16,16,"1,372",15.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ilko Pirgov,bg BUL,GK,Loko Plovdiv,36,1986,9,7,677,7.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ihor Plastun,ua UKR,DF,Ludogorets,31,1990,26,20,"1,872",20.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mihail Polendakov,bg BUL,MF,Septemvri Sofia,15,2007,3,0,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Hristo Popadiyn,bg BUL,DF,Slavia Sofia,28,1994,19,10,758,8.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yulian Popev,bg BUL,DF,Pirin Blagoevgrad,36,1986,9,2,246,2.7,0,1,1,0,0,0,3,1,0.00,0.37,0.37,0.00,0.37,Matches
+Ivelin Popov,bg BUL,"FW,MF",Levski Sofia,34,1987,27,23,"1,795",19.9,5,0,5,4,1,1,8,0,0.25,0.00,0.25,0.20,0.20,Matches
+Viktor Popov,bg BUL,DF,Cherno More,22,2000,30,30,"2,677",29.7,1,0,1,1,0,0,8,0,0.03,0.00,0.03,0.03,0.03,Matches
+Valentino Pugliese,ch SUI,MF,Beroe,25,1997,7,0,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Roberto Punčec,hr CRO,DF,Botev Plovdiv,30,1991,27,27,"2,299",25.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Madi Queita,gw GNB,FW,Cherno More,23,1998,17,14,"1,149",12.8,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches
+Réda Rabeï,dz ALG,MF,Botev Plovdiv,28,1994,15,15,"1,242",13.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stanislav Rabotov,bg BUL,DF,Botev Plovdiv,20,2002,3,3,186,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aykut Ramadan,bg BUL,MF,Septemvri Sofia,24,1998,24,10,"1,168",13.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tom Rapnouil,fr FRA,MF,Botev Vratsa,21,2001,15,11,949,10.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Celso Raposo,pt POR,DF,Lokomotiv Sofia,26,1996,33,29,"2,462",27.4,1,0,1,1,0,0,12,2,0.04,0.00,0.04,0.04,0.04,Matches
+Roberto Raychev,bg BUL,FW,Slavia Sofia,16,2005,4,0,52,0.6,1,0,1,1,0,0,0,0,1.73,0.00,1.73,1.73,1.73,Matches
+Martin Raynov,bg BUL,MF,Lokomotiv Sofia,30,1992,13,9,735,8.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ricardinho,br BRA,FW,Levski Sofia,21,2001,16,16,"1,313",14.6,9,0,9,9,0,0,1,0,0.62,0.00,0.62,0.62,0.62,Matches
+Rick,br BRA,FW,Ludogorets,22,1999,17,15,"1,214",13.5,2,0,2,2,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+Ruca,pt POR,DF,Beroe,31,1990,14,14,"1,246",13.8,0,2,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches
+Rumen Rumenov,bg BUL,MF,Arda,29,1993,2,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rumen Rumenov,bg BUL,MF,FC Spartak Varna,29,1993,22,17,"1,460",16.2,4,0,4,3,1,1,4,0,0.25,0.00,0.25,0.18,0.18,Matches
+Borislav Rupanov,bg BUL,FW,Levski Sofia,17,2004,6,1,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Rusev,bg BUL,FW,CSKA 1948,24,1998,34,27,"2,322",25.8,7,0,7,7,0,0,5,0,0.27,0.00,0.27,0.27,0.27,Matches
+Franco Russo,ar ARG,DF,Ludogorets,27,1994,14,14,"1,215",13.5,1,0,1,1,0,0,6,0,0.07,0.00,0.07,0.07,0.07,Matches
+Oumar Sako,ne NIG,DF,Arda,26,1996,27,27,"2,420",26.9,1,0,1,1,0,0,6,1,0.04,0.00,0.04,0.04,0.04,Matches
+Alex Santana,br BRA,MF,Ludogorets,27,1995,3,3,267,3.0,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches
+Jorge Segura,co COL,DF,Loko Plovdiv,25,1997,8,7,640,7.1,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches
+
+Martin Sekulić,hr CRO,FW,Botev Plovdiv,23,1999,25,4,615,6.8,3,0,3,3,0,0,4,0,0.44,0.00,0.44,0.44,0.44,Matches
+Dmytro Semeniv,ua UKR,FW,Pirin Blagoevgrad,24,1998,17,12,"1,025",11.4,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Rayan Senhadji,fr FRA,DF,Pirin Blagoevgrad,25,1997,15,15,"1,350",15.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kleri Serber,fr FRA,MF,Botev Vratsa,24,1998,24,14,"1,192",13.2,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches
+Yevhenii Serdiuk,ua UKR,FW,CSKA 1948,24,1998,11,9,758,8.4,3,0,3,3,0,0,4,0,0.36,0.00,0.36,0.36,0.36,Matches
+Yevhenii Serdiuk,ua UKR,FW,Cherno More,24,1998,5,4,405,4.5,3,0,3,1,2,2,3,0,0.67,0.00,0.67,0.22,0.22,Matches
+Álex Serrano,es ESP,"FW,MF",PFC Hebar Pazardzhik,27,1995,22,22,"1,926",21.4,1,0,1,1,0,0,2,1,0.05,0.00,0.05,0.05,0.05,Matches
+Zhirayr Shaghoyan,am ARM,FW,CSKA Sofia,21,2001,15,8,628,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Sheytanov,bg BUL,GK,Septemvri Sofia,23,1999,34,34,"3,060",34.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Slavcho Shokolarov,bg BUL,MF,Pirin Blagoevgrad,32,1989,28,16,"1,503",16.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stanislav Shopov,bg BUL,MF,CSKA Sofia,20,2002,29,18,"1,570",17.4,1,1,2,1,0,0,5,0,0.06,0.06,0.11,0.06,0.11,Matches
+Show,ao ANG,MF,Ludogorets,23,1999,26,12,"1,236",13.7,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Sidcley,br BRA,"DF,MF",CSKA 1948,29,1993,9,9,682,7.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rober Sierra,es ESP,MF,FC Spartak Varna,26,1996,17,17,"1,508",16.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luizinho Silva,gw GNB,FW,Beroe,27,1995,14,6,668,7.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Matheus Silva,br BRA,DF,Loko Plovdiv,24,1997,30,30,"2,700",30.0,1,0,1,1,0,0,5,0,0.03,0.00,0.03,0.03,0.03,Matches
+Vasil Simeonov,bg BUL,GK,Arda,24,1998,8,7,680,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Sitev,bg BUL,MF,Botev Plovdiv,15,2006,3,1,147,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simeon Slavchev,bg BUL,MF,Lokomotiv Sofia,28,1993,16,16,"1,379",15.3,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Simon Sluga,hr CRO,GK,Ludogorets,29,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Smarkalev,bg BUL,GK,Botev Plovdiv,15,2007,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Smolenski,bg BUL,FW,Pirin Blagoevgrad,19,2003,30,17,"1,681",18.7,2,0,2,2,0,0,6,0,0.11,0.00,0.11,0.11,0.11,Matches
+Ludovic Soares,cv CPV,DF,Slavia Sofia,28,1994,34,32,"2,870",31.9,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Noah Sonko Sundberg,gm GAM,DF,Levski Sofia,26,1996,32,32,"2,738",30.4,0,0,0,0,0,0,7,2,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Sorakov,bg BUL,FW,Slavia Sofia,18,2003,5,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Erik Sorga,ee EST,FW,Loko Plovdiv,23,1999,14,12,879,9.8,2,0,2,2,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches
+Pieros Sotiriou,cy CYP,"FW,MF",Ludogorets,29,1993,2,0,30,0.3,1,0,1,1,0,0,0,0,3.00,0.00,3.00,3.00,3.00,Matches
+Mazire Soula,fr FRA,FW,Cherno More,24,1998,29,23,"1,963",21.8,2,0,2,2,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches
+Samuel Souprayen,fr FRA,DF,Botev Plovdiv,33,1989,28,24,"2,142",23.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Valentin Spasov,bg BUL,DF,Septemvri Sofia,17,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Denislav Stanchev,bg BUL,MF,Beroe,22,2000,3,0,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krasimir Stanoev,bg BUL,MF,Pirin Blagoevgrad,27,1994,13,11,871,9.7,1,0,1,1,0,0,3,1,0.10,0.00,0.10,0.10,0.10,Matches
+Krasimir Stanoev,bg BUL,MF,Septemvri Sofia,27,1994,15,14,"1,240",13.8,1,0,1,0,1,1,3,0,0.07,0.00,0.07,0.00,0.00,Matches
+Iliyan Stefanov,bg BUL,MF,Levski Sofia,23,1998,25,13,"1,253",13.9,4,0,4,4,0,0,2,0,0.29,0.00,0.29,0.29,0.29,Matches
+Rosen Stefanov,bg BUL,DF,Cherno More,19,2002,8,7,592,6.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Stoev,bg BUL,MF,Slavia Sofia,26,1996,30,17,"1,782",19.8,2,0,2,2,0,0,7,0,0.10,0.00,0.10,0.10,0.10,Matches
+Milen Stoev,bg BUL,DF,Arda,22,1999,17,11,"1,034",11.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stoyan Stoichkov,bg BUL,MF,CSKA 1948,19,2003,2,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stoyan Stoichkov,bg BUL,MF,PFC Hebar Pazardzhik,19,2003,11,6,507,5.6,1,0,1,1,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches
+Martin Stojanov,mk MKD,DF,Septemvri Sofia,23,1999,29,24,"1,962",21.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vlatko Stojanovski,mk MKD,MF,Septemvri Sofia,25,1997,8,4,399,4.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Stoyanov,bg BUL,MF,Beroe,21,2001,12,9,816,9.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristiyan Stoyanov,bg BUL,DF,Slavia Sofia,19,2003,26,20,"1,591",17.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Stoychev,bg BUL,MF,Septemvri Sofia,18,2003,14,14,"1,089",12.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Moussa Sylla,fr FRA,DF,PFC Hebar Pazardzhik,23,1999,15,8,894,9.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kazuki Takahashi,jp JPN,MF,Pirin Blagoevgrad,25,1996,13,7,650,7.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Tartov,bg BUL,MF,PFC Hebar Pazardzhik,23,1998,32,29,"2,283",25.4,6,0,6,6,0,0,7,0,0.24,0.00,0.24,0.24,0.24,Matches
+Ivan Tasev,bg BUL,FW,Pirin Blagoevgrad,20,2002,30,21,"1,849",20.5,2,0,2,2,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches
+Toni Tasev,bg BUL,MF,Slavia Sofia,28,1994,35,32,"2,636",29.3,7,0,7,5,2,2,2,0,0.24,0.00,0.24,0.17,0.17,Matches
+Darko Tasevski,mk MKD,MF,Slavia Sofia,38,1984,8,4,265,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Bernard Tekpetey,gh GHA,"FW,MF",Ludogorets,24,1997,27,18,"1,596",17.7,8,0,8,8,0,0,4,0,0.45,0.00,0.45,0.45,0.45,Matches
+Georgi Terziev,bg BUL,DF,Ludogorets,30,1992,11,8,709,7.9,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+Thiago,br BRA,FW,Ludogorets,21,2001,32,22,"2,047",22.7,15,0,15,15,0,0,7,0,0.66,0.00,0.66,0.66,0.66,Matches
+Ivan Tilev,bg BUL,FW,Arda,23,1999,31,17,"1,524",16.9,4,0,4,4,0,0,3,1,0.24,0.00,0.24,0.24,0.24,Matches
+Stiliyan Tisovski,bg BUL,MF,PFC Hebar Pazardzhik,18,2003,10,1,217,2.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matías Tissera,ar ARG,FW,Ludogorets,25,1996,27,13,"1,225",13.6,12,0,12,12,0,0,5,0,0.88,0.00,0.88,0.88,0.88,Matches
+Aleksandar Todorov,bg BUL,DF,Septemvri Sofia,21,2001,20,14,"1,367",15.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krasimir Todorov,bg BUL,FW,Botev Vratsa,18,2004,10,2,203,2.3,1,0,1,1,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches
+Lyubomir Todorov,bg BUL,FW,Pirin Blagoevgrad,17,2005,5,0,34,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emmanuel Toku,gh GHA,MF,Botev Plovdiv,22,2000,17,16,"1,427",15.9,1,0,1,1,0,0,0,0,0.06,0.00,0.06,0.06,0.06,Matches
+Josip Tomašević,hr CRO,DF,Loko Plovdiv,28,1994,29,22,"1,921",21.3,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Ertan Tombak,bg BUL,DF,Slavia Sofia,23,1999,30,30,"2,676",29.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristian Tomov,bg BUL,GK,Loko Plovdiv,19,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Tonev,bg BUL,MF,Pirin Blagoevgrad,20,2001,10,8,650,7.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitar Tonev,bg BUL,MF,Botev Plovdiv,20,2001,13,5,580,6.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tsvetelin Tonev,bg BUL,MF,PFC Hebar Pazardzhik,30,1992,12,8,685,7.6,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+Mario Topuzov,bg BUL,MF,CSKA 1948,23,1999,27,13,"1,200",13.3,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches
+Martin Toshev,bg BUL,"FW,MF",FC Spartak Varna,32,1990,7,5,468,5.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Abdoulaye Traoré,ci CIV,FW,Botev Plovdiv,19,2003,16,5,571,6.3,2,0,2,2,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches
+Steve Traoré,bj BEN,FW,Beroe,24,1998,16,12,"1,032",11.5,3,0,3,3,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches
+Vinni Triboulet,fr FRA,FW,Beroe,23,1999,14,12,"1,108",12.3,3,0,3,3,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches
+Giovanni Troupée,cw CUW,DF,Loko Plovdiv,24,1998,9,7,588,6.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Tsenov,bg BUL,MF,CSKA 1948,20,2002,7,3,334,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radoslav Tsonev,bg BUL,MF,Pirin Blagoevgrad,27,1995,12,12,"1,051",11.7,2,0,2,2,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches
+Radoslav Tsonev,bg BUL,MF,Arda,27,1995,17,17,"1,397",15.5,4,0,4,1,3,3,4,0,0.26,0.00,0.26,0.06,0.06,Matches
+
+Stefan Tsonkov,bg BUL,DF,CSKA 1948,27,1995,2,1,49,0.5,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Tsonkov,bg BUL,DF,PFC Hebar Pazardzhik,27,1995,14,12,"1,103",12.3,3,0,3,3,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches
+Wenderson Tsunami,br BRA,MF,Levski Sofia,26,1996,31,30,"2,652",29.5,1,0,1,1,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches
+Momchil Tsvetanov,bg BUL,MF,Botev Vratsa,31,1990,14,13,"1,177",13.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Tsvetkov,bg BUL,MF,FC Spartak Varna,31,1990,16,16,"1,330",14.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Tufegdžić,rs SRB,MF,CSKA Sofia,25,1997,26,15,"1,299",14.4,2,0,2,2,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches
+Ivan Turitsov,bg BUL,DF,CSKA Sofia,23,1999,27,24,"1,997",22.2,5,0,5,0,5,5,4,2,0.23,0.00,0.23,0.00,0.00,Matches
+Boris Tyutyukov,bg BUL,FW,Pirin Blagoevgrad,24,1997,16,2,419,4.7,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches
+Parvizdzhon Umarbayev,tj TJK,MF,CSKA 1948,27,1994,26,23,"1,775",19.7,4,0,4,4,0,0,6,0,0.20,0.00,0.20,0.20,0.20,Matches
+Yhojan Valbuena,co COL,MF,Botev Vratsa,25,1997,10,8,719,8.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Valchev,bg BUL,MF,Slavia Sofia,31,1991,11,8,686,7.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Valchev,bg BUL,MF,PFC Hebar Pazardzhik,31,1991,12,11,993,11.0,1,0,1,0,1,1,6,0,0.09,0.00,0.09,0.00,0.00,Matches
+Arsenio Valpoort,nl NED,"FW,MF",PFC Hebar Pazardzhik,29,1992,18,11,944,10.5,3,0,3,3,0,0,4,0,0.29,0.00,0.29,0.29,0.29,Matches
+Jasper Van Heertum,nl NED,DF,Botev Plovdiv,24,1997,26,18,"1,672",18.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bozhidar Vasev,bg BUL,MF,FC Spartak Varna,29,1993,21,16,"1,379",15.3,2,0,2,2,0,0,9,0,0.13,0.00,0.13,0.13,0.13,Matches
+Aleksandar Vasilev,bg BUL,DF,Loko Plovdiv,27,1995,16,8,794,8.8,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Vasilev,bg BUL,DF,Cherno More,27,1995,15,15,"1,265",14.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Vasilev,bg BUL,GK,Septemvri Sofia,22,2000,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kitan Vasilev,bg BUL,"FW,MF",Pirin Blagoevgrad,25,1997,12,5,445,4.9,1,0,1,1,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches
+Vasil Vasilev,bg BUL,FW,Beroe,16,2005,10,6,560,6.2,1,0,1,1,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches
+Velislav Vasilev,bg BUL,MF,Cherno More,21,2001,25,10,920,10.2,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches
+Viktor Vasilev,bg BUL,FW,Botev Vratsa,23,1999,1,1,54,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aksel Velev,bg BUL,FW,Loko Plovdiv,15,2007,3,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Velev,bg BUL,MF,Cherno More,33,1989,27,15,"1,435",15.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Viacheslav Veliev,ua UKR,FW,Pirin Blagoevgrad,22,2000,26,24,"2,282",25.4,1,0,1,1,0,0,12,0,0.04,0.00,0.04,0.04,0.04,Matches
+
+Olivier Verdon,bj BEN,DF,Ludogorets,26,1995,26,25,"2,258",25.1,1,0,1,0,1,1,4,0,0.04,0.00,0.04,0.00,0.00,Matches
+Caio Vidal,br BRA,MF,Ludogorets,21,2000,11,6,590,6.6,2,0,2,2,0,0,2,0,0.31,0.00,0.31,0.31,0.31,Matches
+Thibaut Vion,fr FRA,"DF,FW",CSKA Sofia,28,1993,34,28,"2,350",26.1,0,1,1,0,0,0,9,0,0.00,0.04,0.04,0.00,0.04,Matches
+Petar Vitanov,bg BUL,MF,Loko Plovdiv,27,1995,20,17,"1,408",15.6,0,2,2,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches
+Emil Viyachki,bg BUL,DF,Slavia Sofia,32,1990,34,34,"3,023",33.6,2,0,2,2,0,0,8,0,0.06,0.00,0.06,0.06,0.06,Matches
+Antonio Vutov,bg BUL,"FW,MF",Lokomotiv Sofia,26,1996,28,26,"2,131",23.7,5,0,5,2,3,3,10,2,0.21,0.00,0.21,0.08,0.08,Matches
+Svetoslav Vutsov,bg BUL,GK,Slavia Sofia,20,2002,28,28,"2,520",28.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aslak Witry,no NOR,DF,Ludogorets,26,1996,24,22,"1,993",22.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Yanchev,bg BUL,"DF,MF",Pirin Blagoevgrad,23,1999,8,2,281,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dominik Yankov,bg BUL,MF,Ludogorets,22,2000,10,4,432,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantin Yavorov Pavlov,bg BUL,FW,Botev Plovdiv,16,2005,2,1,51,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgi Yomov,bg BUL,MF,CSKA Sofia,25,1997,3,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrey Yordanov,bg BUL,FW,Pirin Blagoevgrad,20,2001,27,26,"2,093",23.3,1,0,1,1,0,0,7,0,0.04,0.00,0.04,0.04,0.04,Matches
+Damyan Yordanov,bg BUL,FW,Beroe,17,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Yordanov,bg BUL,MF,Ludogorets,21,2000,7,6,420,4.7,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches
+Ivan Yordanov,bg BUL,MF,FC Spartak Varna,21,2000,16,15,"1,304",14.5,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches
+Nikolay Yordanov Ivanov,bg BUL,MF,FC Spartak Varna,27,1995,4,0,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Preslav Yordanov,bg BUL,FW,Pirin Blagoevgrad,33,1989,24,11,"1,069",11.9,4,0,4,2,2,2,3,0,0.34,0.00,0.34,0.17,0.17,Matches
+Tonislav Yordanov,bg BUL,FW,Arda,23,1998,18,9,856,9.5,1,0,1,1,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches
+Tonislav Yordanov,bg BUL,FW,Beroe,23,1998,16,13,"1,070",11.9,6,0,6,3,3,3,4,0,0.50,0.00,0.50,0.25,0.25,Matches
+Valentin Yoskov,bg BUL,FW,Septemvri Sofia,24,1998,15,5,621,6.9,2,0,2,2,0,0,2,0,0.29,0.00,0.29,0.29,0.29,Matches
+Valentin Yoskov,bg BUL,FW,CSKA 1948,24,1998,1,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Amos Youga,cf CTA,"DF,MF",CSKA Sofia,29,1992,29,28,"2,488",27.6,1,0,1,1,0,0,8,0,0.04,0.00,0.04,0.04,0.04,Matches
+Kristiyan Yovov,bg BUL,MF,Levski Sofia,16,2006,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Iliya Yurukov,bg BUL,MF,Arda,22,1999,31,28,"2,425",26.9,1,0,1,1,0,0,10,1,0.04,0.00,0.04,0.04,0.04,Matches
+
+Serkan Yusein,bg BUL,MF,Beroe,26,1996,34,32,"2,526",28.1,2,1,3,2,0,0,5,1,0.07,0.04,0.11,0.07,0.11,Matches
+Radoslav Zahariev,bg BUL,MF,Botev Vratsa,18,2004,2,0,60,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Zanev,bg BUL,DF,Pirin Blagoevgrad,36,1985,14,13,"1,039",11.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pierre Zebli,ci CIV,FW,Loko Plovdiv,24,1997,31,30,"2,588",28.8,0,0,0,0,0,0,10,1,0.00,0.00,0.00,0.00,0.00,Matches
+Atanas Zehirov,bg BUL,MF,Arda,33,1989,1,0,9,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milen Zhelev,bg BUL,"DF,MF",Arda,29,1993,28,23,"2,080",23.1,0,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00,Matches
+Radoslav Zhivkov,bg BUL,FW,Septemvri Sofia,23,1999,7,0,166,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radoslav Zhivkov,bg BUL,FW,CSKA Sofia,23,1999,3,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ante Zivkovic,hr CRO,FW,PFC Hebar Pazardzhik,29,1993,14,5,520,5.8,1,0,1,1,0,0,1,0,0.17,0.00,0.17,0.17,0.17,Matches
+Nikolay Zlatev,bg BUL,FW,Cherno More,17,2004,23,6,839,9.3,2,0,2,2,0,0,4,0,0.21,0.00,0.21,0.21,0.21,Matches
+Viktor Zorov,bg BUL,MF,Septemvri Sofia,20,2001,2,1,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yuki Aizu,jp JPN,MF,Pirin Blagoevgrad,25,1996,4,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches

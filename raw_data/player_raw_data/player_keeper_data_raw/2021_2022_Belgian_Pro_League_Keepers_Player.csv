@@ -1,0 +1,41 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Rúnar Alex Rúnarsson,is ISL,GK,OH Leuven,26,1995,17,17,"1,484",16.5,25,1.52,86,61,72.1,6,3,8,2,11.8,1,1,0,0,0.0,Matches
+Wouter Biebauw,be BEL,GK,Beerschot,37,1984,8,8,719,8.0,18,2.25,41,23,63.4,2,1,5,0,0.0,3,3,0,0,0.0,Matches
+Arnaud Bodart,be BEL,GK,Standard Liège,23,1998,25,25,"2,250",25.0,41,1.64,112,70,64.3,6,8,12,4,16.0,2,1,1,0,50.0,Matches
+Sinan Bolat,tr TUR,GK,Gent,32,1988,25,25,"2,250",25.0,26,1.04,87,61,75.9,10,7,8,8,32.0,6,5,1,0,16.7,Matches
+Sammy Bossut,be BEL,GK,Zulte Waregem,35,1985,24,24,"2,160",24.0,46,1.92,145,100,70.3,6,5,13,5,20.8,4,3,1,0,25.0,Matches
+Louis Bostyn,be BEL,GK,Zulte Waregem,27,1993,10,10,900,10.0,23,2.30,56,34,66.1,2,3,5,1,10.0,4,4,0,0,0.0,Matches
+Jean Butez,fr FRA,GK,Antwerp,26,1995,34,34,"3,060",34.0,38,1.12,175,138,80.0,19,6,9,12,35.3,3,3,0,0,0.0,Matches
+Gaëtan Coucke,be BEL,GK,Mechelen,22,1998,30,30,"2,671",29.7,52,1.75,148,97,66.2,15,6,9,5,16.7,3,2,1,0,33.3,Matches
+Joris Delle,fr FRA,GK,Kortrijk,31,1990,1,1,90,1.0,3,3.00,4,1,50.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+Maxim Deman,be BEL,GK,Kortrijk,19,2001,1,1,90,1.0,3,3.00,9,6,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+Thomas Didillon,fr FRA,GK,Cercle Brugge,25,1995,29,29,"2,610",29.0,36,1.24,101,66,66.3,11,6,12,7,24.1,2,2,0,0,0.0,Matches
+Guillaume Dietsch,fr FRA,GK,R.F.C. Seraing,20,2001,33,33,"2,961",32.9,63,1.91,169,109,66.9,8,4,21,5,15.2,9,7,1,1,12.5,Matches
+Timothy Galje,be BEL,GK,R.F.C. Seraing,20,2001,1,1,90,1.0,4,4.00,6,2,66.7,0,0,1,0,0.0,2,2,0,0,0.0,Matches
+Laurent Henkinet,be BEL,GK,Standard Liège,28,1992,8,8,720,8.0,10,1.25,33,24,69.7,3,1,4,4,50.0,0,0,0,0,,Matches
+Robin Himmelmann,de GER,GK,Eupen,32,1989,14,14,"1,260",14.0,27,1.93,76,47,67.1,4,1,9,2,14.3,4,2,2,0,50.0,Matches
+Guillaume Hubert,be BEL,GK,Oostende,27,1994,26,26,"2,340",26.0,48,1.85,134,86,64.2,8,4,14,5,19.2,0,0,0,0,,Matches
+Marko Ilić,rs SRB,GK,Kortrijk,23,1998,32,32,"2,880",32.0,42,1.31,144,103,72.9,9,10,13,8,25.0,4,3,0,1,0.0,Matches
+Bingourou Kamara,sn SEN,GK,Charleroi,24,1996,9,8,788,8.8,11,1.26,33,22,66.7,2,3,3,4,50.0,0,0,0,0,,Matches
+Hervé Koffi,bf BFA,GK,Charleroi,24,1996,26,26,"2,272",25.2,35,1.39,132,98,75.0,13,6,7,9,34.6,4,2,2,0,50.0,Matches
+Senne Lammens,be BEL,GK,Club Brugge,19,2002,1,1,90,1.0,2,2.00,5,3,60.0,0,1,0,0,0.0,0,0,0,0,,Matches
+Antoine Lejoly,be BEL,GK,Beerschot,23,1998,4,3,271,3.0,6,1.99,21,15,71.4,0,0,3,0,0.0,0,0,0,0,,Matches
+Simon Mignolet,be BEL,GK,Club Brugge,33,1988,33,33,"2,970",33.0,35,1.06,105,71,69.5,21,8,4,12,36.4,3,3,0,0,0.0,Matches
+Anthony Moris,lu LUX,GK,Union SG,31,1990,33,33,"2,970",33.0,27,0.82,99,72,76.8,23,5,5,15,45.5,5,4,0,1,0.0,Matches
+Manaf Nurudeen,gh GHA,GK,Eupen,22,1999,20,20,"1,800",20.0,34,1.70,104,70,72.1,4,7,9,2,10.0,7,5,1,1,16.7,Matches
+Lucas Pirard,be BEL,GK,Union SG,26,1995,1,1,90,1.0,0,0.00,1,1,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+
+Davy Roef,be BEL,GK,Gent,27,1994,9,9,810,9.0,4,0.44,33,29,87.9,8,1,0,6,66.7,0,0,0,0,,Matches
+Rafael Romo,ve VEN,GK,OH Leuven,31,1990,17,16,"1,486",16.5,33,2.00,102,70,68.6,3,8,5,2,12.5,1,1,0,0,0.0,Matches
+Alessandro Russo,it ITA,GK,Sint-Truiden,20,2001,2,2,180,2.0,2,1.00,5,3,60.0,0,1,1,0,0.0,0,0,0,0,,Matches
+Jordy Schelfhout,be BEL,GK,Oostende,20,2001,1,1,90,1.0,1,1.00,2,1,50.0,1,0,0,0,0.0,0,0,0,0,,Matches
+Kjell Scherpen,nl NED,GK,Oostende,21,2000,7,7,630,7.0,12,1.71,26,14,53.8,1,3,3,2,28.6,0,0,0,0,,Matches
+Daniel Schmidt,jp JPN,GK,Sint-Truiden,29,1992,31,31,"2,790",31.0,36,1.16,107,71,69.2,15,5,11,11,35.5,4,3,0,1,0.0,Matches
+Kenny Steppe,be BEL,GK,Sint-Truiden,32,1988,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Yannick Thoelen,be BEL,GK,Mechelen,31,1990,4,3,297,3.3,4,1.21,15,11,73.3,0,1,2,0,0.0,0,0,0,0,,Matches
+Hendrik Van Crombrugge,be BEL,GK,Anderlecht,28,1993,34,34,"3,060",34.0,36,1.06,118,80,70.3,18,10,6,10,29.4,3,1,2,0,66.7,Matches
+Maarten Vandevoordt,be BEL,GK,Genk,19,2002,34,34,"3,060",34.0,47,1.38,136,89,68.4,15,6,13,9,26.5,4,4,0,0,0.0,Matches
+Mike Vanhamel,be BEL,GK,Beerschot,31,1989,23,23,"2,070",23.0,47,2.04,134,88,66.4,2,3,18,3,13.0,4,2,1,1,33.3,Matches
+Warleson,br BRA,GK,Cercle Brugge,24,1996,5,5,450,5.0,10,2.00,30,20,66.7,1,3,1,1,20.0,0,0,0,0,,Matches

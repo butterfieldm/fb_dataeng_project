@@ -1,0 +1,395 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,npxG + xAG/90,Matches
+
+
+Mads Aaquist,dk DEN,MF,Viborg,26,1994,5,1,98,1.1,0,1,1,0,0,0,0,0,0.00,0.92,0.92,0.00,0.92,Matches
+Jonas Abbew,dk DEN,DF,Nordsjælland,19,2002,11,3,347,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wessam Abou Ali,ps PLE,FW,Silkeborg,22,1999,3,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francis Abu,gh GHA,MF,Nordsjælland,20,2001,16,13,"1,015",11.3,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Simon Adingra,ci CIV,"FW,MF",Nordsjælland,19,2002,31,19,"1,809",20.1,9,3,12,9,0,0,5,0,0.45,0.15,0.60,0.45,0.60,Matches
+Ali Adnan Kadhim,iq IRQ,"DF,MF",Vejle BK,27,1993,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mel Agnero,ci CIV,FW,Nordsjælland,18,2003,3,0,33,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakob Ahlmann Nielsen,dk DEN,"MF,DF",Aalborg,30,1991,29,16,"1,377",15.3,1,1,2,1,0,0,6,0,0.07,0.07,0.13,0.07,0.13,Matches
+Raúl Albentosa,es ESP,DF,Vejle BK,32,1988,13,13,"1,118",12.4,2,1,3,2,0,0,6,1,0.16,0.08,0.24,0.16,0.24,Matches
+Miiko Albornoz,cl CHI,"MF,DF",Vejle BK,30,1990,13,10,985,10.9,1,1,2,1,0,0,5,0,0.09,0.09,0.18,0.09,0.18,Matches
+Mads Albæk,dk DEN,MF,SønderjyskE,31,1990,30,26,"2,419",26.9,0,1,1,0,0,0,7,0,0.00,0.04,0.04,0.00,0.04,Matches
+Alexander Ammitzbøll,dk DEN,FW,AGF,22,1999,4,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Akinkunmi Amoo,ng NGA,MF,FC Copenhagen,19,2002,2,1,63,0.7,1,0,1,1,0,0,0,0,1.43,0.00,1.43,1.43,1.43,Matches
+Daniel Andersen,dk DEN,GK,AGF,20,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Andersen,dk DEN,MF,Aalborg,26,1994,7,4,414,4.6,0,1,1,0,0,0,0,0,0.00,0.22,0.22,0.00,0.22,Matches
+Mikkel Andersen,dk DEN,GK,Viborg,32,1988,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mikael Anderson,is ISL,MF,Midtjylland,23,1998,4,1,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mikael Anderson,is ISL,MF,AGF,23,1998,20,18,"1,560",17.3,5,0,5,5,0,0,7,0,0.29,0.00,0.29,0.29,0.29,Matches
+Hugo Andersson,se SWE,DF,Randers,22,1999,9,5,417,4.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joel Andersson,se SWE,MF,Midtjylland,24,1996,31,29,"2,555",28.4,1,7,8,1,0,0,2,0,0.04,0.25,0.28,0.04,0.28,Matches
+Mattias Andersson,se SWE,DF,Randers,23,1998,2,1,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aske Andresen,dk DEN,GK,Silkeborg,16,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakob Ankersen,dk DEN,"MF,FW",Randers,30,1990,27,18,"1,441",16.0,2,2,4,2,0,0,0,0,0.12,0.12,0.25,0.12,0.25,Matches
+Peter Ankersen,dk DEN,DF,FC Copenhagen,30,1990,28,23,"1,998",22.2,1,4,5,1,0,0,3,0,0.05,0.18,0.23,0.05,0.23,Matches
+Oliver Antman,fi FIN,"FW,MF",Nordsjælland,19,2001,26,16,"1,479",16.4,5,2,7,4,1,1,0,0,0.30,0.12,0.43,0.24,0.37,Matches
+
+Daniel Anyembe,ke KEN,DF,Viborg,23,1998,21,15,"1,318",14.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hákon Arnar Haraldsson,is ISL,"MF,FW",FC Copenhagen,18,2003,11,6,537,6.0,4,0,4,4,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches
+Rocco Ascone,fr FRA,FW,Nordsjælland,17,2003,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yann Aurel Bisseck,de GER,DF,AGF,20,2000,30,23,"2,117",23.5,1,0,1,1,0,0,4,0,0.04,0.00,0.04,0.04,0.04,Matches
+Khouma Babacar,sn SEN,FW,FC Copenhagen,28,1993,14,6,565,6.3,3,2,5,3,0,0,2,0,0.48,0.32,0.80,0.48,0.80,Matches
+Edgar Babayan,am ARM,"MF,FW",Vejle BK,25,1995,13,8,683,7.6,0,2,2,0,0,0,2,0,0.00,0.26,0.26,0.00,0.26,Matches
+Younes Bakiz,dk DEN,FW,Viborg,22,1999,27,24,"1,966",21.8,3,3,6,3,0,1,3,0,0.14,0.14,0.27,0.14,0.27,Matches
+Roony Bardghji,se SWE,"MF,FW",FC Copenhagen,15,2005,13,10,742,8.2,2,0,2,2,0,0,1,0,0.24,0.00,0.24,0.24,0.24,Matches
+Atli Barkarson,is ISL,"MF,DF",SønderjyskE,20,2001,7,6,438,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tobias Bech,dk DEN,FW,Viborg,19,2002,27,23,"1,758",19.5,3,2,5,3,0,0,6,0,0.15,0.10,0.26,0.15,0.26,Matches
+Asker Beck,dk DEN,MF,AGF,18,2003,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joe Bell,nz NZL,MF,Brøndby,22,1999,15,13,"1,095",12.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anis Ben Slimane,tn TUN,"MF,FW",Brøndby,20,2001,31,29,"2,480",27.6,2,4,6,2,0,0,6,0,0.07,0.15,0.22,0.07,0.22,Matches
+Pierre Bengtsson,se SWE,"DF,MF",FC Copenhagen,33,1988,3,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lasse Berg Johnsen,no NOR,MF,Randers,21,1999,31,31,"2,708",30.1,2,2,4,0,2,2,4,0,0.07,0.07,0.13,0.00,0.07,Matches
+Sofus Berger Brix,dk DEN,MF,Viborg,18,2003,22,3,389,4.3,0,1,1,0,0,0,1,0,0.00,0.23,0.23,0.00,0.23,Matches
+Emil Berggreen,dk DEN,FW,SønderjyskE,28,1993,5,4,362,4.0,4,0,4,4,0,0,2,1,0.99,0.00,0.99,0.99,0.99,Matches
+Victor Bernth Kristiansen,dk DEN,DF,FC Copenhagen,18,2002,21,19,"1,658",18.4,0,4,4,0,0,0,2,0,0.00,0.22,0.22,0.00,0.22,Matches
+Mads Bidstrup,dk DEN,MF,Nordsjælland,20,2001,13,12,"1,036",11.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pep Biel,es ESP,"MF,FW",FC Copenhagen,24,1996,32,30,"2,601",28.9,11,6,17,11,0,0,3,0,0.38,0.21,0.59,0.38,0.59,Matches
+Carl Björk,se SWE,FW,Brøndby,21,2000,11,3,325,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Peter Bjur,dk DEN,MF,Brøndby,21,2000,3,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolai Boilesen,dk DEN,DF,FC Copenhagen,29,1992,26,24,"2,167",24.1,0,0,0,0,0,1,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Jakob Bonde,dk DEN,MF,Viborg,27,1993,31,29,"2,502",27.8,6,1,7,3,3,4,6,0,0.22,0.04,0.25,0.11,0.14,Matches
+Frederik Brandhof,dk DEN,MF,AGF,25,1996,27,18,"1,722",19.1,1,2,3,1,0,0,6,0,0.05,0.10,0.16,0.05,0.16,Matches
+
+Mathias Brems,dk DEN,DF,Odense,19,2002,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakob Breum,dk DEN,"MF,FW",Odense,17,2003,21,10,841,9.3,4,1,5,4,0,0,0,0,0.43,0.11,0.54,0.43,0.54,Matches
+Mark Brink,dk DEN,MF,Silkeborg,23,1998,32,32,"2,670",29.7,1,1,2,1,0,0,0,0,0.03,0.03,0.07,0.03,0.07,Matches
+Nicolai Brock-Madsen,dk DEN,FW,Randers,28,1993,19,6,567,6.3,1,0,1,1,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches
+Júnior Brumado,br BRA,"FW,MF",Midtjylland,22,1999,23,18,"1,393",15.5,8,1,9,7,1,1,6,1,0.52,0.06,0.58,0.45,0.52,Matches
+Alexander Brunst,de GER,GK,Vejle BK,26,1995,21,21,"1,890",21.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Bruus,dk DEN,"MF,DF",Brøndby,22,1999,29,26,"2,246",25.0,3,1,4,3,0,0,5,0,0.12,0.04,0.16,0.12,0.16,Matches
+Filip Bundgaard,dk DEN,FW,Randers,17,2004,15,0,265,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliver Bundgaard,dk DEN,DF,Randers,20,2001,28,21,"1,821",20.2,0,1,1,0,0,0,1,0,0.00,0.05,0.05,0.00,0.05,Matches
+Mustapha Bundu,sl SLE,"FW,MF",AGF,24,1997,22,16,"1,502",16.7,3,2,5,3,0,0,1,0,0.18,0.12,0.30,0.18,0.30,Matches
+Nicolas Bürgy,ch SUI,DF,Viborg,25,1995,14,14,"1,260",14.0,2,0,2,2,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches
+Alexander Busch,dk DEN,DF,Silkeborg,18,2003,2,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tobias Børkeeiet,no NOR,"DF,MF",Brøndby,22,1999,7,4,415,4.6,1,0,1,1,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches
+Frederik Børsting,dk DEN,"MF,DF",Aalborg,26,1995,17,9,830,9.2,0,4,4,0,0,0,3,0,0.00,0.43,0.43,0.00,0.43,Matches
+Jens Cajuste,se SWE,MF,Midtjylland,21,1999,5,2,243,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+André Calisir,am ARM,DF,Silkeborg,31,1990,17,17,"1,371",15.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Cappis,us USA,MF,Brøndby,21,1999,27,10,"1,058",11.8,4,0,4,4,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches
+Patrik Carlgren,se SWE,GK,Randers,29,1992,32,32,"2,880",32.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frederik Carstensen,dk DEN,FW,Silkeborg,19,2002,4,0,30,0.3,1,0,1,1,0,0,0,0,3.00,0.00,3.00,3.00,3.00,Matches
+Rasmus Carstensen,dk DEN,DF,Silkeborg,20,2000,31,30,"2,715",30.2,1,5,6,1,0,0,3,0,0.03,0.17,0.20,0.03,0.20,Matches
+Edward Chilufya,zm ZAM,"FW,MF",Midtjylland,21,1999,13,8,678,7.5,3,3,6,3,0,0,0,0,0.40,0.40,0.80,0.40,0.80,Matches
+Frederik Christensen,dk DEN,FW,Viborg,26,1995,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jacob Christensen,dk DEN,MF,Nordsjælland,20,2001,28,14,"1,440",16.0,0,2,2,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches
+Magnus Christensen,dk DEN,MF,Aalborg,23,1997,17,11,832,9.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliver Christensen,dk DEN,GK,Odense,22,1999,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Hans Christian Bernat,dk DEN,GK,Odense,20,2000,26,26,"2,340",26.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Peter Christiansen,dk DEN,FW,SønderjyskE,21,1999,15,12,"1,036",11.5,3,1,4,3,0,0,4,0,0.26,0.09,0.35,0.26,0.35,Matches
+Viktor Claesson,se SWE,"FW,MF",FC Copenhagen,29,1992,10,9,736,8.2,1,3,4,1,0,0,0,0,0.12,0.37,0.49,0.12,0.49,Matches
+Dion Cools,my MAS,"DF,MF",Midtjylland,25,1996,12,5,414,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rezan Corlu,dk DEN,MF,Brøndby,23,1997,3,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lasso Coulibaly,gh GHA,"FW,MF",Nordsjælland,18,2002,23,14,"1,237",13.7,0,4,4,0,0,0,4,1,0.00,0.29,0.29,0.00,0.29,Matches
+Kevin Custovic,se SWE,MF,Vejle BK,21,2000,14,3,310,3.4,0,1,1,0,0,0,0,0,0.00,0.29,0.29,0.00,0.29,Matches
+Anthony D'Alberto,be BEL,"DF,MF",AGF,26,1994,19,14,"1,251",13.9,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches
+Adam Daghim,dk DEN,MF,AGF,15,2005,3,0,65,0.7,0,1,1,0,0,0,2,0,0.00,1.38,1.38,0.00,1.38,Matches
+Jón Dagur Þorsteinsson,is ISL,"FW,MF",AGF,22,1998,23,21,"1,652",18.4,3,1,4,3,0,0,8,0,0.16,0.05,0.22,0.16,0.22,Matches
+Gustav Dahl,dk DEN,DF,Silkeborg,25,1996,10,10,888,9.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Robin Dahl Østrøm,no NOR,DF,Odense,18,2002,11,7,653,7.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marc Dal Hende,dk DEN,"DF,MF",SønderjyskE,30,1990,30,29,"2,616",29.1,1,1,2,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07,Matches
+Eskild Dall,dk DEN,FW,AGF,18,2003,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Henrik Dalsgaard,dk DEN,DF,Midtjylland,32,1989,28,28,"2,423",26.9,2,1,3,2,0,0,3,0,0.07,0.04,0.11,0.07,0.11,Matches
+Mohammed Daramy,dk DEN,"MF,FW",FC Copenhagen,19,2002,6,6,433,4.8,2,1,3,2,0,0,0,0,0.42,0.21,0.62,0.42,0.62,Matches
+Viljormur Davidsen,fo FRO,DF,Vejle BK,30,1991,12,10,864,9.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kellian van der Kaap,nl NED,DF,Viborg,22,1998,1,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frans Dhia Putros,iq IRQ,DF,Viborg,28,1993,27,17,"1,553",17.3,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kevin Diks,nl NED,DF,FC Copenhagen,24,1996,26,21,"1,950",21.7,2,3,5,2,0,0,6,1,0.09,0.14,0.23,0.09,0.23,Matches
+Mohamed Diomandé,ci CIV,MF,Nordsjælland,19,2001,25,19,"1,500",16.7,3,0,3,3,0,0,7,0,0.18,0.00,0.18,0.18,0.18,Matches
+Marko Divkovic,hr CRO,FW,Brøndby,22,1999,23,16,"1,311",14.6,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Dominic,br BRA,FW,Vejle BK,26,1995,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mouhamadou Drammeh,fr FRA,MF,Vejle BK,22,1999,21,16,"1,329",14.8,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Anders Dreyer,dk DEN,FW,Midtjylland,23,1998,16,16,"1,362",15.1,8,8,16,8,0,0,0,0,0.53,0.53,1.06,0.53,1.06,Matches
+
+Zach Duncan,au AUS,MF,AGF,21,2000,6,2,186,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolas Dyhr,dk DEN,MF,Midtjylland,20,2001,25,14,"1,364",15.2,1,2,3,1,0,0,1,0,0.07,0.13,0.20,0.07,0.20,Matches
+Mads Døhr Thychosen,dk DEN,DF,Nordsjælland,24,1997,17,16,"1,413",15.7,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches
+Mads Døhr Thychosen,dk DEN,"DF,MF",Midtjylland,24,1997,12,10,930,10.3,2,0,2,2,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches
+Marvin Egho,at AUT,FW,Randers,27,1994,10,6,526,5.8,1,0,1,1,0,0,1,0,0.17,0.00,0.17,0.17,0.17,Matches
+Anosike Ementa,dk DEN,FW,Aalborg,19,2002,13,0,117,1.3,0,1,1,0,0,0,1,0,0.00,0.77,0.77,0.00,0.77,Matches
+Dimitrios Emmanouilidis,gr GRE,"FW,MF",Vejle BK,20,2000,26,11,974,10.8,3,2,5,3,0,0,1,0,0.28,0.18,0.46,0.28,0.46,Matches
+Lukas Engel,dk DEN,DF,Silkeborg,22,1998,15,15,"1,240",13.8,2,1,3,2,0,0,1,0,0.15,0.07,0.22,0.15,0.22,Matches
+Lukas Engel,dk DEN,"MF,FW",Vejle BK,22,1998,17,10,862,9.6,2,1,3,2,0,0,1,0,0.21,0.10,0.31,0.21,0.31,Matches
+Mads Enggaard,dk DEN,MF,Randers,17,2004,7,2,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Julius Eskesen,dk DEN,"MF,FW",SønderjyskE,22,1999,13,6,585,6.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Evander,br BRA,MF,Midtjylland,23,1998,29,28,"2,344",26.0,12,6,18,8,4,4,2,1,0.46,0.23,0.69,0.31,0.54,Matches
+Saeid Ezatolahi,ir IRN,MF,Vejle BK,24,1996,13,11,902,10.0,1,0,1,1,0,0,5,0,0.10,0.00,0.10,0.10,0.10,Matches
+Wahid Faghir,dk DEN,FW,Vejle BK,18,2003,7,7,630,7.0,2,0,2,2,0,0,2,0,0.29,0.00,0.29,0.29,0.29,Matches
+Rasmus Falk,dk DEN,MF,FC Copenhagen,29,1992,22,20,"1,814",20.2,0,3,3,0,0,0,3,0,0.00,0.15,0.15,0.00,0.15,Matches
+Oskar Fallenius,se SWE,MF,Brøndby,19,2001,5,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andri Fannar Baldursson,is ISL,MF,FC Copenhagen,19,2002,3,0,48,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joel Felix,dk DEN,DF,Silkeborg,23,1998,20,14,"1,420",15.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Max Fenger,dk DEN,"FW,MF",Odense,19,2001,32,18,"1,635",18.2,6,0,6,6,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches
+Pedro Ferreira,pt POR,MF,Aalborg,23,1998,17,14,"1,198",13.3,2,0,2,2,0,0,9,1,0.15,0.00,0.15,0.15,0.15,Matches
+Bård Finne,no NOR,"FW,MF",SønderjyskE,26,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolai Flø,dk DEN,GK,SønderjyskE,25,1995,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adama Fofana,ci CIV,MF,Vejle BK,20,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Iver Fossum,no NOR,MF,Aalborg,25,1996,30,30,"2,582",28.7,8,4,12,7,1,1,1,1,0.28,0.14,0.42,0.24,0.38,Matches
+Oscar Fraulo,dk DEN,MF,Midtjylland,17,2003,1,0,20,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Emil Frederiksen,dk DEN,"FW,MF",SønderjyskE,20,2000,22,17,"1,350",15.0,3,1,4,3,0,0,1,0,0.20,0.07,0.27,0.20,0.27,Matches
+Morten Frendrup,dk DEN,MF,Brøndby,20,2001,15,13,"1,206",13.4,2,0,2,2,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+Martin Frese,dk DEN,"DF,MF",Nordsjælland,23,1998,30,23,"2,011",22.3,1,3,4,1,0,0,5,0,0.04,0.13,0.18,0.04,0.18,Matches
+Christian Friedrich,dk DEN,DF,Brøndby,18,2003,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mads Frøkjær-Jensen,dk DEN,MF,Odense,22,1999,28,20,"1,602",17.8,6,3,9,6,0,0,4,0,0.34,0.17,0.51,0.34,0.51,Matches
+Anton Gaaei,dk DEN,FW,Viborg,18,2002,5,2,190,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ruben Gabrielsen,no NOR,DF,FC Copenhagen,29,1992,4,2,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jose Gallegos,us USA,"MF,FW",SønderjyskE,19,2001,13,7,621,6.9,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches
+Christian Gammelgaard,dk DEN,FW,Vejle BK,18,2003,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Gartenmann,dk DEN,DF,SønderjyskE,24,1997,31,31,"2,790",31.0,2,1,3,2,0,0,4,0,0.06,0.03,0.10,0.06,0.10,Matches
+Alex Gersbach,au AUS,"DF,MF",AGF,24,1997,1,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Robert Gojani,se SWE,MF,Silkeborg,28,1992,22,16,"1,456",16.2,0,5,5,0,0,0,1,1,0.00,0.31,0.31,0.00,0.31,Matches
+Lorenzo Gordinho,za RSA,DF,Viborg,27,1994,4,2,259,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Grabara,pl POL,GK,FC Copenhagen,22,1999,32,32,"2,880",32.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Granli,no NOR,"DF,MF",Aalborg,27,1994,27,27,"2,166",24.1,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches
+Simon Graves Jensen,dk DEN,DF,Randers,22,1999,21,20,"1,676",18.6,0,1,1,0,0,0,4,1,0.00,0.05,0.05,0.00,0.05,Matches
+Mads Greve,dk DEN,DF,Vejle BK,31,1989,2,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mathias Greve,dk DEN,"MF,FW",Brøndby,26,1995,25,8,924,10.3,1,1,2,1,0,0,1,0,0.10,0.10,0.19,0.10,0.19,Matches
+Mathias Greve,dk DEN,MF,Randers,26,1995,3,3,247,2.7,1,2,3,1,0,0,1,0,0.36,0.73,1.09,0.36,1.09,Matches
+Jay-Roy Grot,nl NED,FW,Viborg,23,1998,25,21,"1,592",17.7,5,0,5,5,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches
+Sten Grytebust,no NOR,GK,Vejle BK,31,1989,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Albert Grønbaek,dk DEN,"MF,FW",AGF,20,2001,31,22,"1,968",21.9,3,4,7,3,0,0,4,0,0.14,0.18,0.32,0.14,0.32,Matches
+Jeppe Grønning,dk DEN,MF,Viborg,30,1991,28,26,"2,255",25.1,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches
+Sebastian Grønning,dk DEN,FW,Viborg,24,1997,17,16,"1,413",15.7,6,1,7,6,0,0,3,0,0.38,0.06,0.45,0.38,0.45,Matches
+Thomas Gundelund,dk DEN,"DF,MF",Vejle BK,19,2001,11,4,456,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Eduardo Dos Santos Haesler,de GER,GK,Nordsjælland,22,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anders Hagelskjær,dk DEN,DF,Aalborg,24,1997,28,17,"1,863",20.7,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches
+Lucas Hägg-Johansson,se SWE,GK,Vejle BK,27,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vito Hammershøy-Mistrati,dk DEN,"MF,FW",Randers,29,1992,31,28,"2,454",27.3,7,2,9,6,1,2,1,0,0.26,0.07,0.33,0.22,0.29,Matches
+Marcus Hannesbo,dk DEN,MF,Aalborg,19,2002,12,1,187,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Hansen,dk DEN,GK,Nordsjælland,25,1995,15,15,"1,350",15.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Casper Hansen,dk DEN,FW,Aalborg,19,2002,6,0,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jesper Hansen,dk DEN,GK,AGF,36,1985,31,31,"2,790",31.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kian Hansen,dk DEN,DF,Nordsjælland,32,1989,26,25,"1,997",22.2,2,0,2,2,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches
+Mads Hansen,dk DEN,"FW,MF",Nordsjælland,19,2002,15,13,"1,040",11.6,2,1,3,2,0,0,0,0,0.17,0.09,0.26,0.17,0.26,Matches
+Mads Hansen,dk DEN,FW,Midtjylland,19,2002,7,0,74,0.8,1,0,1,1,0,0,0,0,1.22,0.00,1.22,1.22,1.22,Matches
+Mads Hansen,dk DEN,MF,SønderjyskE,20,2001,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hallur Hansson,fo FRO,"MF,FW",Vejle BK,29,1992,6,6,539,6.0,1,1,2,1,0,0,3,0,0.17,0.17,0.33,0.17,0.33,Matches
+Sebastian Hausner,dk DEN,DF,AGF,21,2000,24,21,"1,858",20.6,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Simon Hedlund,se SWE,"FW,MF",Brøndby,28,1993,29,26,"2,155",23.9,4,9,13,3,1,1,5,0,0.17,0.38,0.54,0.13,0.50,Matches
+Henrik Heggheim,no NOR,DF,Brøndby,20,2001,14,11,"1,030",11.4,1,0,1,1,0,0,3,1,0.09,0.00,0.09,0.09,0.09,Matches
+Nicklas Helenius,dk DEN,FW,Silkeborg,30,1991,29,29,"2,518",28.0,17,2,19,15,2,2,2,0,0.61,0.07,0.68,0.54,0.61,Matches
+Mads Hermansen,dk DEN,GK,Brøndby,21,2000,29,29,"2,610",29.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Heron,br BRA,"DF,MF",Vejle BK,20,2000,16,10,888,9.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lundrim Hetemi,dk DEN,MF,Vejle BK,21,2000,22,9,"1,038",11.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Malthe Hojholt,dk DEN,MF,Aalborg,20,2001,30,27,"2,299",25.5,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Holm,se SWE,"DF,MF",SønderjyskE,21,2000,25,25,"2,129",23.7,3,2,5,2,1,1,8,0,0.13,0.08,0.21,0.08,0.17,Matches
+Martin Huldahl,dk DEN,FW,Viborg,16,2004,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Høegh,dk DEN,DF,Midtjylland,30,1991,19,17,"1,516",16.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rasmus Højlund,dk DEN,FW,FC Copenhagen,18,2003,15,1,306,3.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Hans Høllsberg,dk DEN,MF,Vejle BK,19,2002,17,6,717,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tarik Ibrahimagic,dk DEN,MF,Odense,20,2001,3,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frederik Ibsen,dk DEN,DF,Brøndby,21,1999,4,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frederik Ihler,dk DEN,FW,AGF,18,2003,7,0,69,0.8,1,0,1,1,0,0,0,0,1.30,0.00,1.30,1.30,1.30,Matches
+Gustav Isaksen,dk DEN,"FW,MF",Midtjylland,20,2001,30,26,"1,932",21.5,5,5,10,5,0,0,0,0,0.23,0.23,0.47,0.23,0.47,Matches
+Mihajlo Ivančević,rs SRB,DF,Odense,22,1999,8,7,640,7.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jens Jakob Thomasen,dk DEN,MF,Odense,25,1996,28,25,"2,199",24.4,2,1,3,2,0,0,6,0,0.08,0.04,0.12,0.08,0.12,Matches
+Manjrekar James,ca CAN,DF,Vejle BK,27,1993,13,11,"1,044",11.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alassana Jatta,gm GAM,FW,Viborg,22,1999,25,3,577,6.4,3,0,3,3,0,0,0,0,0.47,0.00,0.47,0.47,0.47,Matches
+Issam Jebali,tn TUN,"MF,FW",Odense,29,1991,25,22,"1,875",20.8,10,4,14,7,3,5,5,1,0.48,0.19,0.67,0.34,0.53,Matches
+Elias Jelert,dk DEN,DF,FC Copenhagen,18,2003,11,4,439,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Isak Jensen,dk DEN,"FW,MF",SønderjyskE,17,2003,19,5,582,6.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Jensen,dk DEN,FW,Vejle BK,26,1994,4,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliver Jensen,dk DEN,MF,Midtjylland,19,2002,4,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Victor Jensen,dk DEN,DF,Midtjylland,17,2003,1,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Jevtović,rs SRB,"FW,MF",AGF,28,1993,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ísak Jóhannesson,is ISL,"MF,FW",FC Copenhagen,18,2003,16,5,531,5.9,4,1,5,4,0,0,2,0,0.68,0.17,0.85,0.68,0.85,Matches
+Alexander Juel Andersen,dk DEN,DF,Odense,30,1991,18,14,"1,329",14.8,1,1,2,1,0,0,1,0,0.07,0.07,0.14,0.07,0.14,Matches
+Jesper Juelsgård,dk DEN,DF,AGF,32,1989,5,0,69,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Juninho,br BRA,DF,Midtjylland,25,1995,18,13,"1,246",13.8,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches
+Nicolai Jørgensen,dk DEN,FW,FC Copenhagen,30,1991,9,4,342,3.8,1,0,1,1,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches
+Sebastian Jørgensen,dk DEN,"FW,MF",Silkeborg,21,2000,32,28,"2,373",26.4,11,9,20,11,0,0,1,0,0.42,0.34,0.76,0.42,0.76,Matches
+Anders K. Jacobsen,dk DEN,FW,SønderjyskE,31,1989,6,6,433,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mads Kaalund,dk DEN,MF,Silkeborg,24,1996,7,4,431,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joel Kabongo,dk DEN,DF,Randers,23,1998,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Bashkim Kadrii,dk DEN,FW,Odense,30,1991,28,16,"1,430",15.9,1,2,3,1,0,0,1,0,0.06,0.13,0.19,0.06,0.19,Matches
+Eric Kahl,se SWE,"DF,MF",AGF,19,2001,24,22,"1,884",20.9,2,3,5,2,0,0,3,0,0.10,0.14,0.24,0.10,0.24,Matches
+Mikkel Kallesøe,dk DEN,DF,Randers,24,1997,17,15,"1,265",14.1,1,2,3,1,0,0,4,0,0.07,0.14,0.21,0.07,0.21,Matches
+Alhaji Kamara,sl SLE,FW,Randers,27,1994,14,8,744,8.3,6,0,6,6,0,0,3,0,0.73,0.00,0.73,0.73,0.73,Matches
+Pierre Kanstrup,dk DEN,DF,SønderjyskE,32,1989,4,1,117,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mamoudou Karamoko,fr FRA,MF,FC Copenhagen,21,1999,2,0,26,0.3,0,1,1,0,0,0,0,0,0.00,3.46,3.46,0.00,3.46,Matches
+Tosin Kehinde,ng NGA,"MF,FW",Randers,23,1998,28,23,"2,098",23.3,5,3,8,5,0,0,4,0,0.21,0.13,0.34,0.21,0.34,Matches
+Davit Khocholava,ge GEO,DF,FC Copenhagen,28,1993,22,21,"1,822",20.2,1,1,2,1,0,0,10,0,0.05,0.05,0.10,0.05,0.10,Matches
+Joel King,au AUS,DF,Odense,20,2000,11,11,926,10.3,0,1,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches
+Anders Klynge,dk DEN,"MF,FW",Silkeborg,20,2000,31,20,"1,854",20.6,2,4,6,2,0,0,0,0,0.10,0.19,0.29,0.10,0.29,Matches
+Tobias Klysner,dk DEN,"MF,DF",Randers,20,2001,25,7,835,9.3,0,1,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches
+Troels Kløve,dk DEN,"MF,FW",Odense,30,1990,26,10,980,10.9,1,2,3,1,0,0,2,0,0.09,0.18,0.28,0.09,0.28,Matches
+Magnus Kofod Andersen,dk DEN,MF,Nordsjælland,22,1999,31,28,"2,403",26.7,1,0,1,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches
+Marius Kolind,dk DEN,FW,Vejle BK,19,2002,2,0,46,0.5,1,0,1,1,0,0,1,0,1.96,0.00,1.96,1.96,1.96,Matches
+Denis Kolinger,hr CRO,DF,Vejle BK,27,1994,29,29,"2,559",28.4,1,0,1,1,0,0,9,0,0.04,0.00,0.04,0.04,0.04,Matches
+Björn Kopplin,de GER,DF,Randers,32,1989,29,26,"2,435",27.1,0,2,2,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches
+Emil Kornvig,dk DEN,MF,SønderjyskE,21,2000,23,17,"1,364",15.2,2,0,2,2,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches
+Lars Kramer,nl NED,DF,Viborg,22,1999,23,20,"1,824",20.3,4,0,4,4,0,0,5,2,0.20,0.00,0.20,0.20,0.20,Matches
+Thomas Kristensen,dk DEN,DF,AGF,19,2002,11,8,729,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristófer Kristinsson,is ISL,FW,SønderjyskE,22,1999,20,7,664,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Willy Kumado,gh GHA,MF,Nordsjælland,18,2002,2,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Kurminowski,pl POL,FW,AGF,22,1999,25,11,967,10.7,2,0,2,2,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches
+Kasper Kusk,dk DEN,"MF,FW",Aalborg,29,1991,26,14,"1,270",14.1,4,7,11,4,0,0,0,0,0.28,0.50,0.78,0.28,0.78,Matches
+Mathias Kvistgaarden,dk DEN,FW,Brøndby,19,2002,16,8,758,8.4,5,1,6,5,0,0,1,0,0.59,0.12,0.71,0.59,0.71,Matches
+Kasper Larsen,dk DEN,DF,Odense,28,1993,22,22,"1,915",21.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Nicolai Larsen,dk DEN,GK,Silkeborg,30,1991,31,31,"2,790",31.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frederik Lauenborg,dk DEN,MF,Randers,24,1997,27,20,"1,774",19.7,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches
+Jesper Lauridsen,dk DEN,DF,Randers,30,1991,20,2,433,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mads Lauritsen,dk DEN,DF,Viborg,28,1993,28,27,"2,346",26.1,2,0,2,2,0,0,8,1,0.08,0.00,0.08,0.08,0.08,Matches
+Ryan Laursen,dk DEN,"DF,MF",Odense,29,1992,2,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Clint Leemans,nl NED,MF,Viborg,25,1995,29,11,"1,123",12.5,3,3,6,2,1,1,2,0,0.24,0.24,0.48,0.16,0.40,Matches
+Lukas Lerager,dk DEN,MF,FC Copenhagen,28,1993,29,23,"2,089",23.2,6,1,7,6,0,0,7,0,0.26,0.04,0.30,0.26,0.30,Matches
+Mart Lieder,nl NED,FW,Odense,31,1990,15,1,328,3.6,2,0,2,2,0,0,0,0,0.55,0.00,0.55,0.55,0.55,Matches
+Alexander Lind Rasmussen,dk DEN,FW,Silkeborg,19,2002,6,3,230,2.6,1,0,1,1,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches
+Victor Lind,dk DEN,FW,Midtjylland,18,2003,20,3,511,5.7,3,0,3,3,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches
+Gift Links,za RSA,"FW,MF",AGF,22,1998,21,11,940,10.4,1,1,2,1,0,0,2,0,0.10,0.10,0.19,0.10,0.19,Matches
+Justin Lonwijk,sr SUR,MF,Viborg,21,1999,28,26,"2,135",23.7,3,3,6,3,0,0,6,0,0.13,0.13,0.25,0.13,0.25,Matches
+Jonas Lössl,dk DEN,GK,Midtjylland,32,1989,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vágner Love,br BRA,FW,Midtjylland,37,1984,9,0,106,1.2,1,0,1,1,0,0,0,0,0.85,0.00,0.85,0.85,0.85,Matches
+Oliver Lund,dk DEN,"DF,MF",AGF,30,1990,26,18,"1,592",17.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Lund Pedersen,dk DEN,GK,Viborg,21,2000,26,26,"2,340",26.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Valdemar Lund,dk DEN,DF,FC Copenhagen,18,2003,3,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Lykkegaard,dk DEN,DF,Nordsjælland,19,2002,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Awer Mabil,au AUS,FW,Midtjylland,25,1995,9,2,295,3.3,1,3,4,1,0,0,1,0,0.31,0.92,1.22,0.31,1.22,Matches
+Nicolas Madsen,dk DEN,MF,Midtjylland,21,2000,4,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Makarić,rs SRB,FW,Aalborg,25,1995,30,25,"1,837",20.4,8,4,12,8,0,0,2,0,0.39,0.20,0.59,0.39,0.59,Matches
+Foday Manneh,gm GAM,FW,Vejle BK,21,2000,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gustav Marcussen,dk DEN,MF,Silkeborg,23,1998,3,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marrony,br BRA,FW,Midtjylland,22,1999,7,2,208,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jens Martin Gammelby,dk DEN,MF,Brøndby,26,1995,7,2,284,3.2,0,1,1,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32,Matches
+
+Erik Marxen,dk DEN,DF,Nordsjælland,30,1990,8,7,615,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Erik Marxen,dk DEN,DF,Randers,30,1990,14,10,886,9.8,0,2,2,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches
+Pelle Mattsson,dk DEN,MF,Silkeborg,19,2001,18,0,196,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Maxsø,dk DEN,DF,Brøndby,27,1994,27,27,"2,347",26.1,1,1,2,0,1,1,3,1,0.04,0.04,0.08,0.00,0.04,Matches
+Oscar Meedom,dk DEN,FW,Aalborg,15,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jeff Mensah,dk DEN,FW,Viborg,28,1992,6,1,188,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kevin Mensah,dk DEN,"MF,DF",Brøndby,30,1991,20,20,"1,748",19.4,1,1,2,1,0,0,2,0,0.05,0.05,0.10,0.05,0.10,Matches
+Max Meyer,de GER,MF,Midtjylland,25,1995,8,2,254,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicholas Mickelson,th THA,DF,Odense,22,1999,24,24,"2,060",22.9,0,2,2,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches
+Thomas Mikkelsen,dk DEN,GK,Brøndby,37,1983,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patrick Mortensen,dk DEN,FW,AGF,32,1989,28,22,"2,054",22.8,6,2,8,4,2,2,5,0,0.26,0.09,0.35,0.18,0.26,Matches
+Victor Mpindi,cm CMR,MF,SønderjyskE,24,1997,16,16,"1,313",14.6,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+Arbnor Mucolli,al ALB,"MF,FW",Vejle BK,21,1999,26,25,"2,072",23.0,5,1,6,5,0,0,8,1,0.22,0.04,0.26,0.22,0.26,Matches
+Paul Mukairu,ng NGA,"MF,FW",FC Copenhagen,21,2000,15,6,620,6.9,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches
+Alexander Munksgaard,dk DEN,DF,AGF,23,1997,17,13,"1,118",12.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tobias Mølgaard,dk DEN,"MF,DF",Vejle BK,25,1996,24,23,"1,962",21.8,1,2,3,1,0,0,3,0,0.05,0.09,0.14,0.05,0.14,Matches
+Adamo Nagalo,bf BFA,DF,Nordsjælland,18,2002,27,23,"2,028",22.5,1,1,2,1,0,0,3,1,0.04,0.04,0.09,0.04,0.09,Matches
+Marokhy Ndione,se SWE,FW,Viborg,21,1999,2,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Victor Nelsson,dk DEN,DF,FC Copenhagen,22,1998,2,1,92,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rasmus Nicolaisen,dk DEN,DF,Midtjylland,24,1997,3,1,120,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliver Nielsen,dk DEN,DF,Vejle BK,18,2003,5,3,316,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emeka Nnamani,dk DEN,FW,Nordsjælland,19,2001,2,0,34,0.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anders Noshe,dk DEN,FW,Aalborg,15,2006,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ernest Nuamah,gh GHA,FW,Nordsjælland,17,2003,9,0,201,2.2,1,0,1,1,0,0,1,0,0.45,0.00,0.45,0.45,0.45,Matches
+Benjamin Nygren,se SWE,"FW,MF",Nordsjælland,20,2001,12,8,636,7.1,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches
+
+Stephen Odey,ng NGA,FW,Randers,23,1998,23,21,"1,817",20.2,7,1,8,6,1,2,2,1,0.35,0.05,0.40,0.30,0.35,Matches
+Ebenezer Ofori,gh GHA,MF,Vejle BK,26,1995,14,12,954,10.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Oggesen,dk DEN,MF,Silkeborg,27,1994,22,9,753,8.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emmanuel Ogura,gh GHA,GK,Nordsjælland,19,2002,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marios Oikonomou,gr GRE,DF,FC Copenhagen,28,1992,5,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rilwan Olanrewaju Hassan,ng NGA,"FW,MF",SønderjyskE,30,1991,26,12,"1,142",12.7,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches
+Patrick Olsen,dk DEN,"MF,FW",AGF,27,1994,13,9,870,9.7,0,1,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches
+Vincent Onovo,ng NGA,MF,Randers,25,1995,8,3,242,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Raphael Onyedika,ng NGA,MF,Midtjylland,20,2001,31,29,"2,542",28.2,2,2,4,2,0,0,7,0,0.07,0.07,0.14,0.07,0.14,Matches
+Jerome Opoku,gh GHA,DF,Vejle BK,22,1998,20,17,"1,531",17.0,0,1,1,0,0,0,6,1,0.00,0.06,0.06,0.00,0.06,Matches
+Moses Opondo,ug UGA,"MF,FW",Odense,23,1997,13,4,377,4.2,1,2,3,1,0,0,0,0,0.24,0.48,0.72,0.24,0.72,Matches
+David Ousted,dk DEN,GK,Midtjylland,36,1985,11,10,906,10.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristoffer Pallesen,dk DEN,"MF,DF",Aalborg,31,1990,31,30,"2,563",28.5,0,5,5,0,0,0,8,0,0.00,0.18,0.18,0.00,0.18,Matches
+Paulinho,br BRA,"MF,DF",Midtjylland,26,1995,23,19,"1,518",16.9,1,1,2,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches
+Andrija Pavlović,rs SRB,FW,Brøndby,27,1993,18,3,481,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Pedersen,dk DEN,FW,Nordsjælland,18,2003,5,2,145,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Faris Pemi Moumbagna,cm CMR,FW,SønderjyskE,21,2000,10,2,333,3.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Brandon Pierrick,eng ENG,MF,Vejle BK,19,2001,3,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simon Piesinger,at AUT,DF,Randers,29,1992,31,29,"2,622",29.1,1,1,2,1,0,0,7,0,0.03,0.03,0.07,0.03,0.07,Matches
+Andrés Ponce,ve VEN,FW,Vejle BK,24,1996,25,13,"1,184",13.2,1,2,3,1,0,0,1,0,0.08,0.15,0.23,0.08,0.23,Matches
+Nicolai Poulsen,dk DEN,MF,AGF,27,1993,28,27,"2,225",24.7,1,0,1,1,0,0,11,0,0.04,0.00,0.04,0.04,0.04,Matches
+Tim Prica,se SWE,FW,Aalborg,19,2002,16,2,483,5.4,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches
+Vladimir Prijović,rs SRB,DF,Aalborg,19,2002,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Louka Prip,dk DEN,"MF,FW",Aalborg,24,1997,32,28,"2,496",27.7,14,4,18,11,3,3,0,0,0.50,0.14,0.65,0.40,0.54,Matches
+Dániel Prosser,hu HUN,"FW,MF",SønderjyskE,27,1994,11,7,565,6.3,2,0,2,2,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches
+
+Andreas Pyndt Andersen,dk DEN,MF,Brøndby,20,2001,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Josip Radošević,hr CRO,MF,Brøndby,27,1994,26,24,"2,070",23.0,1,1,2,1,0,0,3,1,0.04,0.04,0.09,0.04,0.09,Matches
+Elías Rafn Ólafsson,is ISL,GK,Midtjylland,21,2000,14,14,"1,254",13.9,0,1,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches
+Søren Reese,dk DEN,DF,SønderjyskE,28,1993,8,6,508,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+Charles Rigon Matos,br BRA,"MF,FW",Midtjylland,25,1996,23,9,915,10.2,1,1,2,1,0,0,4,0,0.10,0.10,0.20,0.10,0.20,Matches
+Jacob Rinne,se SWE,GK,Aalborg,28,1993,32,32,"2,880",32.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Blas Riveros,py PAR,"DF,MF",Brøndby,23,1998,18,15,"1,315",14.6,0,4,4,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches
+Oliver Rose-Villadsen,dk DEN,"DF,MF",Nordsjælland,19,2001,32,31,"2,655",29.5,5,5,10,5,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches
+Mathias Ross,dk DEN,DF,Aalborg,20,2001,27,24,"1,958",21.8,1,0,1,1,0,0,10,1,0.05,0.00,0.05,0.05,0.05,Matches
+Oliver Ross,dk DEN,MF,Aalborg,16,2004,10,1,286,3.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sigurd Rosted,no NOR,DF,Brøndby,27,1994,26,24,"2,115",23.5,1,2,3,1,0,0,8,0,0.04,0.09,0.13,0.04,0.13,Matches
+Rufo,es ESP,"MF,FW",Aalborg,28,1993,6,2,162,1.8,0,1,1,0,0,0,1,0,0.00,0.56,0.56,0.00,0.56,Matches
+Nicklas Røjkjær,dk DEN,DF,Silkeborg,23,1998,10,1,204,2.3,1,0,1,1,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches
+Emmanuel Sabbi,us USA,MF,Odense,23,1997,30,25,"2,162",24.0,3,3,6,2,1,1,6,0,0.12,0.12,0.25,0.08,0.21,Matches
+Ibrahim Sadiq,gh GHA,"MF,FW",Nordsjælland,21,2000,6,2,183,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Valdemar Sadrifar,,FW,Vejle BK,20,2001,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ibrahim Said,ng NGA,FW,Viborg,19,2002,19,4,526,5.8,1,1,2,1,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches
+Yousef Salech,dk DEN,FW,Brøndby,19,2002,2,0,23,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tobias Salquist,dk DEN,DF,Silkeborg,26,1995,32,32,"2,875",31.9,3,0,3,3,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches
+Bubacarr Sanneh,gm GAM,DF,SønderjyskE,26,1994,8,6,552,6.1,0,1,1,0,0,0,0,0,0.00,0.16,0.16,0.00,0.16,Matches
+Andreas Schjelderup,no NOR,"FW,MF",Nordsjælland,17,2004,22,16,"1,357",15.1,4,0,4,2,2,2,2,0,0.27,0.00,0.27,0.13,0.13,Matches
+Philipp Schmiedl,at AUT,DF,SønderjyskE,24,1997,3,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jacob Schoop,dk DEN,MF,Vejle BK,32,1988,11,9,721,8.0,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches
+Robin Schouten,nl NED,MF,SønderjyskE,23,1998,5,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexander Simmelhack,dk DEN,FW,Randers,15,2005,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Ayo Simon Okosun,dk DEN,MF,Odense,28,1993,21,12,"1,104",12.3,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches
+Jeppe Simonsen,ht HAI,"FW,DF",SønderjyskE,25,1995,13,8,802,8.9,1,1,2,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches
+Doguhan Simsir,dk DEN,MF,Midtjylland,19,2002,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luther Singh,za RSA,"FW,MF",FC Copenhagen,23,1997,4,0,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jagvir Singh Sidhu,dk DEN,FW,Brøndby,20,2001,4,0,38,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pione Sisto,dk DEN,"FW,MF",Midtjylland,26,1995,24,15,"1,419",15.8,2,3,5,2,0,0,3,0,0.13,0.19,0.32,0.13,0.32,Matches
+Anton Skipper,dk DEN,"DF,MF",Brøndby,21,2000,5,5,293,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jørgen Skjelvik,no NOR,DF,Odense,30,1991,29,23,"2,156",24.0,3,2,5,3,0,0,1,0,0.13,0.08,0.21,0.13,0.21,Matches
+Tobias Slotsager,dk DEN,DF,Odense,15,2006,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliver Sonne,pe PER,DF,Silkeborg,20,2000,15,8,766,8.5,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches
+Maxime Soulas,fr FRA,DF,SønderjyskE,22,1999,13,10,862,9.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Allan Sousa,br BRA,"FW,MF",Vejle BK,24,1997,28,25,"2,192",24.4,2,3,5,0,2,2,8,0,0.08,0.12,0.21,0.00,0.12,Matches
+Jens Stage,dk DEN,MF,FC Copenhagen,24,1996,22,19,"1,714",19.0,5,1,6,5,0,0,4,0,0.26,0.05,0.32,0.26,0.32,Matches
+Orri Steinn Óskarsson,is ISL,FW,FC Copenhagen,16,2004,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sander Svendsen,no NOR,MF,Odense,23,1997,13,7,670,7.4,4,1,5,4,0,0,0,0,0.54,0.13,0.67,0.54,0.67,Matches
+Daniel Svensson,se SWE,"DF,MF",Nordsjælland,19,2002,27,10,"1,022",11.4,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches
+Erik Sviatchenko,dk DEN,DF,Midtjylland,29,1991,25,22,"1,894",21.0,4,0,4,4,0,0,4,0,0.19,0.00,0.19,0.19,0.19,Matches
+Mads Søndergaard,dk DEN,MF,Viborg,18,2002,5,0,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Sørensen,dk DEN,DF,Viborg,28,1992,32,32,"2,880",32.0,2,8,10,2,0,0,4,0,0.06,0.25,0.31,0.06,0.31,Matches
+Abdulrahman Taiwo,ng NGA,FW,SønderjyskE,22,1998,15,10,919,10.2,1,2,3,1,0,0,3,0,0.10,0.20,0.29,0.10,0.29,Matches
+Duplexe Tchamba,cm CMR,DF,SønderjyskE,23,1998,26,20,"1,911",21.2,2,0,2,2,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches
+Søren Tengstedt,dk DEN,MF,AGF,21,2000,2,0,14,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Søren Tengstedt,dk DEN,FW,Silkeborg,21,2000,21,1,312,3.5,2,1,3,2,0,0,0,0,0.58,0.29,0.87,0.58,0.87,Matches
+Rasmus Thelander,dk DEN,DF,Aalborg,30,1991,27,27,"2,427",27.0,3,0,3,3,0,0,5,1,0.11,0.00,0.11,0.11,0.11,Matches
+Lawrence Thomas,au AUS,GK,SønderjyskE,29,1992,24,24,"2,160",24.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Nicolaj Thomsen,dk DEN,MF,SønderjyskE,28,1993,14,11,939,10.4,1,3,4,1,0,0,2,1,0.10,0.29,0.38,0.10,0.38,Matches
+Simon Tibbling,se SWE,MF,Randers,26,1994,26,15,"1,173",13.0,0,2,2,0,0,0,6,0,0.00,0.15,0.15,0.00,0.15,Matches
+Frederik Tingager,dk DEN,DF,AGF,28,1993,24,17,"1,571",17.5,2,0,2,2,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches
+Victor Torp,dk DEN,MF,Midtjylland,22,1999,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Trajkovski,mk MKD,FW,Aalborg,28,1992,7,3,279,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kevin Tshiembe,dk DEN,DF,Brøndby,24,1997,19,17,"1,488",16.5,0,1,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches
+Jeppe Tverskov,dk DEN,"DF,MF",Odense,28,1993,26,25,"2,248",25.0,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches
+Mikael Uhre,dk DEN,FW,Brøndby,26,1994,16,15,"1,193",13.3,11,1,12,11,0,0,1,0,0.83,0.08,0.91,0.83,0.91,Matches
+Nicolai Vallys,dk DEN,"FW,MF",Silkeborg,24,1996,32,31,"2,786",31.0,10,10,20,10,0,0,3,0,0.32,0.32,0.65,0.32,0.65,Matches
+Denis Vavro,sk SVK,DF,FC Copenhagen,25,1996,14,14,"1,259",14.0,1,1,2,1,0,0,4,0,0.07,0.07,0.14,0.07,0.14,Matches
+William Vick,dk DEN,"MF,FW",FC Copenhagen,18,2003,26,15,"1,266",14.1,2,3,5,2,0,0,0,0,0.14,0.21,0.36,0.14,0.36,Matches
+Peter Vindahl Jensen,dk DEN,GK,Nordsjælland,23,1998,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rasmus Vinderslev,dk DEN,"MF,DF",SønderjyskE,23,1997,27,12,"1,253",13.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kasper Waarst Høgh,dk DEN,"FW,MF",Aalborg,20,2000,15,4,581,6.5,3,0,3,3,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches
+Leo Walta,fi FIN,MF,Nordsjælland,18,2003,14,2,397,4.4,0,1,1,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23,Matches
+Rasmus Wikström,se SWE,DF,Brøndby,20,2001,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Wilczek,pl POL,FW,FC Copenhagen,33,1988,6,3,288,3.2,1,0,1,1,0,0,0,0,0.31,0.00,0.31,0.31,0.31,Matches
+Jack Wilshere,eng ENG,MF,AGF,29,1992,14,7,702,7.8,0,1,1,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches
+Jonas Wind,dk DEN,FW,FC Copenhagen,22,1999,16,15,"1,293",14.4,6,2,8,5,1,1,3,0,0.42,0.14,0.56,0.35,0.49,Matches
+Maxwell Woledzi,gh GHA,DF,Nordsjælland,20,2001,14,4,556,6.2,0,1,1,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches
+Arthur Yamga,fr FRA,DF,Vejle BK,24,1996,7,5,501,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+Jan Žambůrek,cz CZE,MF,Viborg,20,2001,13,3,355,3.9,0,1,1,0,0,0,3,0,0.00,0.25,0.25,0.00,0.25,Matches
+Zeca,gr GRE,MF,FC Copenhagen,32,1988,11,11,911,10.1,1,1,2,1,0,0,4,0,0.10,0.10,0.20,0.10,0.20,Matches
+Guðmundur Þórarinsson,is ISL,"MF,DF",Aalborg,29,1992,6,4,356,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefán Þórðarson,is ISL,MF,Silkeborg,22,1998,28,19,"1,529",17.0,2,2,4,2,0,0,3,0,0.12,0.12,0.24,0.12,0.24,Matches
+
+Aron Þrándarson,is ISL,MF,Odense,26,1994,22,17,"1,554",17.3,0,2,2,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12,Matches
+Luka Đorđević,me MNE,FW,Vejle BK,27,1994,20,11,993,11.0,5,0,5,5,0,0,1,0,0.45,0.00,0.45,0.45,0.45,Matches

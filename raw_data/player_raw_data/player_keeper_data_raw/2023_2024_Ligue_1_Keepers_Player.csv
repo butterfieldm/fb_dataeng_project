@@ -1,0 +1,37 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Alaa Bellaarouch,ma MAR,GK,Strasbourg,21,2002,15,15,"1,350",15.0,26,1.73,63,37,63.5,4,2,9,2,13.3,4,3,1,0,25.0,Matches
+Dimitry Bertaud,cd COD,GK,Montpellier,25,1998,4,4,360,4.0,11,2.75,34,23,67.6,1,1,2,0,0.0,0,0,0,0,,Matches
+Marco Bizot,nl NED,GK,Brest,32,1991,32,32,"2,876",32.0,34,1.06,129,94,75.2,15,10,7,13,40.6,3,2,1,0,33.3,Matches
+Rubén Blanco,es ESP,GK,Marseille,28,1995,2,1,121,1.3,2,1.49,6,4,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+Marcin Bułka,pl POL,GK,Nice,23,1999,34,34,"3,060",34.0,29,0.85,105,74,77.1,15,10,9,17,50.0,8,5,3,0,37.5,Matches
+Lucas Chevalier,fr FRA,GK,Lille,21,2001,33,33,"2,969",33.0,32,0.97,123,91,76.4,16,10,7,15,45.5,5,3,2,0,40.0,Matches
+Grégoire Coudert,fr FRA,GK,Brest,24,1999,3,2,181,2.0,0,0.00,4,4,100.0,2,0,0,2,100.0,0,0,0,0,,Matches
+Rémy Descamps,fr FRA,GK,Nantes,27,1996,6,6,540,6.0,11,1.83,37,26,73.0,2,2,2,1,16.7,2,1,0,1,0.0,Matches
+Arthur Desmas,fr FRA,GK,Le Havre,29,1994,33,33,"2,970",33.0,43,1.30,153,111,72.5,7,11,15,7,21.2,3,1,1,1,50.0,Matches
+Mory Diaw,sn SEN,GK,Clermont Foot,30,1993,30,30,"2,700",30.0,54,1.80,188,134,74.5,4,8,18,5,16.7,8,6,1,1,14.3,Matches
+Guillaume Dietsch,fr FRA,GK,Metz,22,2001,1,0,73,0.8,1,1.23,3,2,66.7,0,0,0,0,,0,0,0,0,,Matches
+Yehvann Diouf,fr FRA,GK,Reims,23,1999,34,34,"3,060",34.0,47,1.38,137,90,70.1,13,8,13,8,23.5,7,6,1,0,14.3,Matches
+Gianluigi Donnarumma,it ITA,GK,Paris S-G,24,1999,25,25,"2,169",24.1,20,0.83,110,89,84.5,18,6,1,10,40.0,4,3,1,0,25.0,Matches
+Mathieu Gorgelin,fr FRA,GK,Le Havre,32,1990,1,1,90,1.0,2,2.00,5,3,80.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+Philipp Köhn,ch SUI,GK,Monaco,25,1998,22,22,"1,980",22.0,32,1.45,97,65,72.2,11,5,6,5,22.7,6,5,1,0,16.7,Matches
+Alban Lafont,fr FRA,GK,Nantes,24,1999,28,28,"2,496",27.7,43,1.55,118,75,70.3,7,4,17,7,25.0,8,8,0,0,0.0,Matches
+Jean-Louis Leca,fr FRA,GK,Lens,37,1985,1,1,90,1.0,2,2.00,2,0,0.0,0,1,0,0,0.0,0,0,0,0,,Matches
+Benjamin Lecomte,fr FRA,GK,Montpellier,32,1991,30,30,"2,700",30.0,37,1.23,137,102,75.9,9,11,10,10,33.3,5,4,1,0,20.0,Matches
+Anthony Lopes,pt POR,GK,Lyon,32,1990,31,31,"2,790",31.0,49,1.58,155,106,71.0,16,4,11,9,29.0,6,4,1,1,20.0,Matches
+Pau López,es ESP,GK,Marseille,28,1994,33,33,"2,939",32.7,39,1.19,124,86,71.0,13,11,9,7,21.2,3,3,0,0,0.0,Matches
+Radosław Majecki,pl POL,GK,Monaco,23,1999,12,12,"1,080",12.0,10,0.83,54,45,81.5,9,2,1,7,58.3,0,0,0,0,,Matches
+Steve Mandanda,fr FRA,GK,Rennes,38,1985,34,34,"3,060",34.0,46,1.35,147,104,70.7,12,10,12,7,20.6,3,3,0,0,0.0,Matches
+Vito Mannone,it ITA,GK,Lille,35,1988,2,1,91,1.0,2,1.98,5,3,60.0,0,1,0,0,0.0,0,0,0,0,,Matches
+Yvon Mvogo,ch SUI,GK,Lorient,29,1994,34,34,"3,060",34.0,66,1.94,207,142,72.0,7,8,19,4,11.8,8,8,0,0,0.0,Matches
+Keylor Navas,cr CRC,GK,Paris S-G,36,1986,4,4,360,4.0,6,1.50,12,6,58.3,2,2,0,1,25.0,1,1,0,0,0.0,Matches
+
+Massamba Ndiaye,sn SEN,GK,Clermont Foot,21,2001,4,4,360,4.0,6,1.50,24,18,79.2,1,2,1,0,0.0,1,1,0,0,0.0,Matches
+Alexandre Oukidja,dz ALG,GK,Metz,35,1988,34,34,"2,987",33.2,57,1.72,185,128,72.4,8,5,21,6,17.6,6,6,0,0,0.0,Matches
+Denis Petrić,rs SRB,GK,Nantes,35,1988,1,0,24,0.3,1,3.75,1,0,0.0,0,0,0,0,,0,0,0,0,,Matches
+Guillaume Restes,fr FRA,GK,Toulouse,18,2005,34,34,"3,060",34.0,46,1.35,139,93,69.8,11,10,13,6,17.6,4,4,0,0,0.0,Matches
+Rémy Riou,fr FRA,GK,Lyon,35,1987,3,3,270,3.0,6,2.00,14,8,57.1,0,1,2,1,33.3,0,0,0,0,,Matches
+Brice Samba,fr FRA,GK,Lens,29,1994,33,33,"2,970",33.0,35,1.06,136,101,78.7,14,8,11,14,42.4,8,6,1,1,14.3,Matches
+Matz Sels,be BEL,GK,Strasbourg,31,1992,19,19,"1,710",19.0,24,1.26,62,40,62.9,6,7,6,3,15.8,1,1,0,0,0.0,Matches
+Arnau Tenas,es ESP,GK,Paris S-G,22,2001,6,5,529,5.9,7,1.19,25,18,72.0,2,2,1,1,20.0,0,0,0,0,,Matches

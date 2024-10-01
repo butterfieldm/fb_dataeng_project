@@ -1,0 +1,465 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,npxG + xAG/90,Matches
+
+
+Leroy Abanda,fr FRA,"DF,MF",OFI Crete,23,2000,23,15,"1,385",15.4,1,3,4,1,0,0,7,0,0.06,0.19,0.26,0.06,0.26,Matches
+Nelson Abbey,eng ENG,DF,Olympiacos,19,2003,4,3,302,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Acevedo,ar ARG,DF,Atromitos,31,1991,22,21,"1,819",20.2,2,0,2,2,0,0,5,1,0.10,0.00,0.10,0.10,0.10,Matches
+Matías Acuña,uy URU,FW,PAS Lamia,30,1992,15,5,535,5.9,3,1,4,3,0,0,5,0,0.50,0.17,0.67,0.50,0.67,Matches
+Lumor Agbenyenu,gh GHA,"DF,MF",AO Kifisia,26,1996,11,9,711,7.9,1,1,2,1,0,0,0,0,0.13,0.13,0.25,0.13,0.25,Matches
+Samet Akaydın,tr TUR,DF,Panathinaikos,29,1994,12,10,878,9.8,0,1,1,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches
+Oluwatobiloba Alagbe,ng NGA,MF,Asteras Tripoli,23,2000,24,14,"1,474",16.4,1,2,3,1,0,0,8,1,0.06,0.12,0.18,0.06,0.18,Matches
+Kosta Aleksic,rs SRB,FW,Panserraikos,25,1998,31,25,"2,169",24.1,7,1,8,7,0,1,7,0,0.29,0.04,0.33,0.29,0.33,Matches
+Sotiris Alexandropoulos,gr GRE,MF,Olympiacos,21,2001,19,8,744,8.3,1,0,1,1,0,0,4,0,0.12,0.00,0.12,0.12,0.12,Matches
+Nikolai Alho,fi FIN,"DF,MF",Volos NFC,30,1993,26,24,"2,085",23.2,1,2,3,1,0,0,3,1,0.04,0.09,0.13,0.04,0.13,Matches
+Federico Álvarez,ar ARG,DF,Asteras Tripoli,28,1994,28,16,"1,652",18.4,1,1,2,1,0,0,6,0,0.05,0.05,0.11,0.05,0.11,Matches
+Pedro Amaral,pt POR,"DF,MF",PAS Lamia,25,1997,18,15,"1,186",13.2,1,2,3,1,0,0,3,1,0.08,0.15,0.23,0.08,0.23,Matches
+Nordin Amrabat,ma MAR,MF,AEK Athens,36,1987,27,13,"1,225",13.6,6,7,13,3,3,3,2,0,0.44,0.51,0.96,0.22,0.73,Matches
+Alexandros Anagnostopoulos,gr GRE,GK,AO Kifisia,28,1994,23,23,"2,070",23.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolás Andereggen,ar ARG,"MF,FW",AO Kifisia,23,1999,17,7,634,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantinos Angelakis,gr GRE,FW,Asteras Tripoli,15,2007,2,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Karol Angielski,pl POL,FW,Atromitos,27,1996,30,15,"1,444",16.0,9,1,10,6,3,3,2,0,0.56,0.06,0.62,0.37,0.44,Matches
+Karim Ansarifard,ir IRN,"MF,FW",Aris,33,1990,12,3,366,4.1,1,1,2,1,0,0,4,0,0.25,0.25,0.49,0.25,0.49,Matches
+Marcos Antônio,br BRA,MF,PAOK,23,2000,11,3,342,3.8,2,0,2,2,0,0,0,0,0.53,0.00,0.53,0.53,0.53,Matches
+Fabien Antunes,fr FRA,MF,AO Kifisia,31,1991,5,1,183,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Apostolakis,gr GRE,MF,OFI Crete,18,2004,13,5,539,6.0,2,0,2,2,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches
+Apostolos Apostolopoulos,gr GRE,DF,Olympiacos,20,2002,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Youssef El-Arabi,ma MAR,FW,Olympiacos,36,1987,13,1,272,3.0,4,1,5,2,2,2,1,0,1.32,0.33,1.65,0.66,0.99,Matches
+Willian Arão,br BRA,"DF,MF",Panathinaikos,30,1992,32,26,"2,446",27.2,3,2,5,3,0,0,6,1,0.11,0.07,0.18,0.11,0.18,Matches
+Sergio Araujo,ar ARG,"FW,MF",AEK Athens,31,1992,25,8,848,9.4,1,1,2,1,0,0,3,0,0.11,0.11,0.21,0.11,0.21,Matches
+
+Kyriakos Aslanidis,gr GRE,DF,Volos NFC,21,2002,18,12,911,10.1,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Jasin Assehnoun,fi FIN,MF,Volos NFC,24,1998,14,12,"1,081",12.0,3,2,5,3,0,0,4,0,0.25,0.17,0.42,0.25,0.42,Matches
+Giorgos Athanasiadis,gr GRE,GK,AEK Athens,30,1993,13,13,"1,170",13.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolaos Athanasiou,gr GRE,"DF,MF",Atromitos,22,2001,17,12,"1,203",13.4,1,1,2,1,0,0,5,0,0.07,0.07,0.15,0.07,0.15,Matches
+Vasilis Athanasiou,gr GRE,GK,PAS Giannina,24,1999,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pichu Atienza,es ESP,DF,Asteras Tripoli,33,1990,11,9,838,9.3,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches
+Tasos Avlonitis,gr GRE,DF,Panserraikos,33,1990,15,12,"1,132",12.6,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches
+Admir Bajrovic,se SWE,FW,Panserraikos,27,1995,9,1,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Makis Bakadimas,gr GRE,DF,PAS Giannina,23,2000,13,11,"1,013",11.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michalis Bakakis,gr GRE,DF,Panetolikos,32,1991,6,0,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anastasios Bakasetas,gr GRE,"MF,FW",Panathinaikos,30,1993,15,15,"1,238",13.8,7,2,9,5,2,2,3,0,0.51,0.15,0.65,0.36,0.51,Matches
+Marko Bakić,me MNE,"MF,FW",OFI Crete,29,1993,27,20,"1,760",19.6,4,2,6,3,1,2,9,0,0.20,0.10,0.31,0.15,0.26,Matches
+Makana Baku,de GER,MF,OFI Crete,25,1998,14,13,"1,020",11.3,2,2,4,2,0,0,1,0,0.18,0.18,0.35,0.18,0.35,Matches
+Claudiu Balan,ro ROU,FW,PAS Giannina,29,1994,20,9,799,8.9,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Franco Baldassarra,ar ARG,MF,Panetolikos,24,1998,15,12,978,10.9,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Franck-Yves Bambock,fr FRA,MF,Panetolikos,28,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jean Barrientos,uy URU,MF,Volos NFC,32,1990,16,9,739,8.2,0,1,1,0,0,0,4,1,0.00,0.12,0.12,0.00,0.12,Matches
+Julián Bartolo,ar ARG,MF,Asteras Tripoli,27,1996,27,20,"1,614",17.9,3,4,7,2,1,1,3,0,0.17,0.22,0.39,0.11,0.33,Matches
+Noam Baumann,do DOM,GK,OFI Crete,27,1996,21,21,"1,845",20.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matúš Begala,sk SVK,MF,PAS Giannina,22,2001,5,0,123,1.4,1,0,1,1,0,0,1,0,0.73,0.00,0.73,0.73,0.73,Matches
+Christos Belevonis,gr GRE,FW,Panetolikos,21,2002,7,0,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jewison Bennette,cr CRC,MF,Aris,19,2004,2,2,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emil Bergström,se SWE,DF,Panserraikos,30,1993,30,29,"2,650",29.4,1,0,1,1,0,0,2,1,0.03,0.00,0.03,0.03,0.03,Matches
+Bernard,br BRA,"MF,FW",Panathinaikos,30,1992,31,25,"2,211",24.6,10,9,19,10,0,0,4,0,0.41,0.37,0.77,0.41,0.77,Matches
+Facundo Bertoglio,ar ARG,MF,Volos NFC,33,1990,22,8,857,9.5,2,0,2,2,0,0,3,0,0.21,0.00,0.21,0.21,0.21,Matches
+
+Jefté Betancor,es ESP,FW,Panserraikos,30,1993,13,9,729,8.1,4,0,4,4,0,0,1,0,0.49,0.00,0.49,0.49,0.49,Matches
+Giulian Biancone,fr FRA,DF,Olympiacos,23,2000,11,9,781,8.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pep Biel,es ESP,MF,Olympiacos,26,1996,13,6,579,6.4,1,3,4,1,0,0,2,0,0.16,0.47,0.62,0.16,0.62,Matches
+Thievy Bifouma,cg CGO,MF,AO Kifisia,31,1992,29,19,"1,692",18.8,2,1,3,2,0,0,2,0,0.11,0.05,0.16,0.11,0.16,Matches
+Iker Bilbao,es ESP,MF,PAS Giannina,27,1996,2,1,99,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gerónimo Bortagaray,uy URU,DF,PAS Giannina,22,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Botía,es ESP,DF,AO Kifisia,34,1989,13,7,766,8.5,1,1,2,1,0,0,7,0,0.12,0.12,0.23,0.12,0.23,Matches
+Giannis Bouzoukis,gr GRE,MF,Panetolikos,25,1998,8,3,231,2.6,1,0,1,1,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches
+Jakub Brabec,cz CZE,DF,Aris,30,1992,32,32,"2,826",31.4,1,0,1,1,0,0,6,0,0.03,0.00,0.03,0.03,0.03,Matches
+Brandon,es ESP,FW,PAOK,28,1995,33,20,"1,669",18.5,7,4,11,6,1,1,7,0,0.38,0.22,0.59,0.32,0.54,Matches
+Bressan,br BRA,DF,OFI Crete,30,1993,3,3,216,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Brignoli,it ITA,GK,Panathinaikos,31,1991,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Brnić,hr CRO,MF,Olympiacos,21,2001,4,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jovane Cabral,cv CPV,"MF,FW",Olympiacos,25,1998,4,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexander Callens,pe PER,DF,AEK Athens,31,1992,25,25,"2,169",24.1,2,0,2,2,0,0,7,0,0.08,0.00,0.08,0.08,0.08,Matches
+Aguibou Camara,gn GUI,"MF,FW",Atromitos,22,2001,22,19,"1,685",18.7,2,0,2,2,0,0,10,0,0.11,0.00,0.11,0.11,0.11,Matches
+Mohamed Camara,gn GUI,MF,Olympiacos,26,1997,17,16,"1,312",14.6,2,0,2,2,0,0,5,0,0.14,0.00,0.14,0.14,0.14,Matches
+Dario Čanađija,hr CRO,"MF,DF",AO Kifisia,29,1994,12,10,811,9.0,0,1,1,0,0,0,5,0,0.00,0.11,0.11,0.00,0.11,Matches
+Aitor Cantalapiedra,es ESP,"MF,FW",Panathinaikos,27,1996,13,5,560,6.2,3,1,4,2,1,1,2,0,0.48,0.16,0.64,0.32,0.48,Matches
+Luka Capan,hr CRO,DF,AO Kifisia,28,1995,20,18,"1,518",16.9,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Carlitos,es ESP,FW,PAS Lamia,33,1990,22,21,"1,633",18.1,10,5,15,8,2,4,4,0,0.55,0.28,0.83,0.44,0.72,Matches
+David Carmo,ao ANG,DF,Olympiacos,24,1999,11,11,990,11.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+David Carmona,es ESP,DF,Asteras Tripoli,26,1997,14,11,"1,017",11.3,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+João Carvalho,pt POR,MF,Olympiacos,26,1997,19,5,583,6.5,1,2,3,1,0,0,1,0,0.15,0.31,0.46,0.15,0.46,Matches
+José Castaño,es ESP,DF,Asteras Tripoli,24,1998,28,28,"2,477",27.5,0,2,2,0,0,0,7,1,0.00,0.07,0.07,0.00,0.07,Matches
+
+Jonny Castro,es ESP,DF,PAOK,29,1994,12,7,587,6.5,0,1,1,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches
+Vasilis Chatziemmanouil,gr GRE,GK,PAS Lamia,23,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zisis Chatzistravos,gr GRE,MF,Panserraikos,23,1999,25,16,"1,394",15.5,3,1,4,3,0,0,3,0,0.19,0.06,0.26,0.19,0.26,Matches
+Ilias Chatzitheodoridis,gr GRE,MF,Panetolikos,25,1997,26,19,"1,527",17.0,2,1,3,2,0,0,4,0,0.12,0.06,0.18,0.12,0.18,Matches
+Lucas Chávez,ar ARG,GK,Panetolikos,27,1995,11,10,915,10.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chiquinho,pt POR,MF,Olympiacos,28,1995,15,11,"1,037",11.5,1,1,2,1,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches
+Diamantis Chouchoumis,gr GRE,DF,Asteras Tripoli,29,1994,19,17,"1,423",15.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lefteris Choutesiotis,gr GRE,GK,Aris,29,1994,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adrián Chovan,sk SVK,GK,Panserraikos,27,1995,28,28,"2,520",28.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantinos Chrisopoulos,gr GRE,DF,AEK Athens,20,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazaros Christodoulopoulos,gr GRE,"FW,MF",Aris,36,1986,6,0,74,0.8,1,0,1,1,0,0,0,0,1.22,0.00,1.22,1.22,1.22,Matches
+Nikolaos Christogeorgos,gr GRE,GK,OFI Crete,23,2000,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Christopoulos,gr GRE,DF,Asteras Tripoli,23,2000,10,6,560,6.2,0,1,1,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches
+Enis Çokaj,al ALB,MF,Panathinaikos,24,1999,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adrián Colombino,uy URU,MF,Panserraikos,29,1993,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maximiliano Comba,ar ARG,"MF,FW",Volos NFC,29,1994,31,27,"2,270",25.2,5,0,5,5,0,0,9,0,0.20,0.00,0.20,0.20,0.20,Matches
+Quentin Cornette,fr FRA,MF,Volos NFC,29,1994,10,7,544,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateus Criciúma,br BRA,MF,AO Kifisia,24,1999,30,24,"2,197",24.4,2,7,9,2,0,0,8,2,0.08,0.29,0.37,0.08,0.37,Matches
+Julián Cuesta,es ESP,GK,Aris,32,1991,29,29,"2,610",29.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damil Dankerlui,sr SUR,"DF,MF",Panserraikos,26,1996,22,14,"1,304",14.5,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimír Darida,cz CZE,MF,Aris,32,1990,33,28,"2,657",29.5,3,6,9,3,0,0,6,0,0.10,0.20,0.30,0.10,0.30,Matches
+Laurens De Bock,be BEL,DF,Atromitos,30,1992,27,26,"2,245",24.9,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Deletić,rs SRB,"MF,FW",Volos NFC,29,1993,19,16,"1,337",14.9,4,1,5,4,0,0,5,0,0.27,0.07,0.34,0.27,0.34,Matches
+Panagiotis Deligiannidis,gr GRE,DF,Panserraikos,26,1996,26,23,"2,123",23.6,3,1,4,3,0,0,5,1,0.13,0.04,0.17,0.13,0.17,Matches
+Georgios Delizisis,gr GRE,DF,Aris,35,1987,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Mete-Kaan Demir,tr TUR,MF,PAS Giannina,25,1998,9,1,247,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kiril Despodov,bg BUL,MF,PAOK,26,1996,33,19,"1,764",19.6,11,7,18,11,0,0,3,0,0.56,0.36,0.92,0.56,0.92,Matches
+Apostolos Diamantis,gr GRE,DF,Panserraikos,23,2000,10,9,628,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Youba Diarra,ml MLI,MF,Asteras Tripoli,25,1998,9,0,105,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sergio Díaz,py PAR,FW,Panetolikos,25,1998,25,14,"1,220",13.6,3,2,5,3,0,0,3,0,0.22,0.15,0.37,0.22,0.37,Matches
+Nouha Dicko,ml MLI,FW,OFI Crete,31,1992,17,10,844,9.4,3,0,3,3,0,0,4,0,0.32,0.00,0.32,0.32,0.32,Matches
+Tuur Dierckx,be BEL,"MF,FW",Atromitos,28,1995,13,5,435,4.8,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches
+Cheick Doukouré,ci CIV,MF,Aris,30,1992,10,4,417,4.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartłomiej Drągowski,pl POL,GK,Panathinaikos,25,1997,12,12,996,11.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bruno Duarte,ar ARG,DF,Panetolikos,29,1994,24,21,"1,857",20.6,2,0,2,2,0,0,8,0,0.10,0.00,0.10,0.10,0.10,Matches
+Alan Dzagoev,ru RUS,MF,PAS Lamia,33,1990,2,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joe Efford,us USA,FW,PAS Giannina,26,1996,5,0,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Niclas Eliasson,se SWE,MF,AEK Athens,27,1995,36,29,"2,420",26.9,8,9,17,8,0,0,2,0,0.30,0.33,0.63,0.30,0.63,Matches
+Ahmet Engin,de GER,MF,Volos NFC,26,1996,8,1,189,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luis Enrique Palma,hn HON,MF,Aris,23,2000,1,1,90,1.0,0,1,1,0,0,0,0,0,0.00,1.00,1.00,0.00,1.00,Matches
+August Erlingmark,se SWE,"MF,DF",Atromitos,25,1998,21,11,"1,026",11.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rodrigo Erramuspe,ar ARG,DF,PAS Giannina,33,1990,26,26,"2,230",24.8,4,0,4,3,1,1,12,1,0.16,0.00,0.16,0.12,0.12,Matches
+Paolo Fernandes,es ESP,MF,AEK Athens,24,1998,8,0,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Juan Fernando Garro,ar ARG,MF,PAS Giannina,30,1992,13,2,382,4.2,1,1,2,1,0,0,2,1,0.24,0.24,0.47,0.24,0.47,Matches
+Franco Ferrari,ar ARG,DF,Aris,31,1992,22,16,"1,438",16.0,0,1,1,0,0,0,5,0,0.00,0.06,0.06,0.00,0.06,Matches
+André Ferreira Teixeira,pt POR,DF,AO Kifisia,29,1993,10,10,838,9.3,0,1,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches
+Giannis Fetfatzidis,gr GRE,"MF,FW",Aris,32,1990,18,6,500,5.6,3,1,4,3,0,0,0,0,0.54,0.18,0.72,0.54,0.72,Matches
+Elton Fikaj,al ALB,DF,Panathinaikos,17,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kostas Fortounis,gr GRE,"MF,FW",Olympiacos,30,1992,28,22,"1,933",21.5,6,7,13,6,0,2,7,0,0.28,0.33,0.61,0.28,0.61,Matches
+Nicolás Freire,ar ARG,DF,Olympiacos,29,1994,4,3,257,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Samúel Friðjónsson,is ISL,MF,Atromitos,27,1996,20,11,867,9.6,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches
+Mijat Gaćinović,rs SRB,"MF,FW",AEK Athens,28,1995,26,17,"1,515",16.8,3,1,4,2,1,1,9,0,0.18,0.06,0.24,0.12,0.18,Matches
+Konstantinos Galanopoulos,gr GRE,MF,AEK Athens,25,1997,14,6,545,6.1,0,1,1,0,0,0,4,0,0.00,0.17,0.17,0.00,0.17,Matches
+Felipe Gallegos,cl CHI,MF,OFI Crete,31,1991,29,26,"2,085",23.2,1,1,2,1,0,0,7,0,0.04,0.04,0.09,0.04,0.09,Matches
+Levi Garcia,tt TRI,FW,AEK Athens,25,1997,20,15,"1,160",12.9,13,2,15,11,2,3,0,0,1.01,0.16,1.16,0.85,1.01,Matches
+Manu García,es ESP,MF,Aris,25,1998,16,7,723,8.0,1,2,3,1,0,0,3,0,0.12,0.25,0.37,0.12,0.37,Matches
+Rubén García,es ESP,DF,Asteras Tripoli,24,1998,13,11,880,9.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Kostas Giannoulis,gr GRE,DF,OFI Crete,35,1987,3,2,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giorgos Giannoutsos,gr GRE,DF,PAS Lamia,25,1998,5,4,364,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kyriakos Giaxis,gr GRE,MF,PAOK,22,2001,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Federico Gino,uy URU,MF,PAS Giannina,30,1993,30,26,"2,198",24.4,0,3,3,0,0,0,10,1,0.00,0.12,0.12,0.00,0.12,Matches
+Nikolaos Gkotzamanidis,gr GRE,DF,Panserraikos,22,2001,11,6,658,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Glavčić,rs SRB,MF,Volos NFC,26,1997,28,24,"2,066",23.0,1,3,4,1,0,0,7,0,0.04,0.13,0.17,0.04,0.17,Matches
+Dan Glazer,il ISR,MF,OFI Crete,26,1996,22,12,"1,165",12.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adam Gnezda Čerin,si SVN,MF,Panathinaikos,24,1999,26,22,"2,053",22.8,3,2,5,3,0,0,1,0,0.13,0.09,0.22,0.13,0.22,Matches
+Marko Gobeljić,rs SRB,DF,AO Kifisia,30,1992,23,17,"1,590",17.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Eder González,es ESP,MF,Atromitos,26,1997,31,27,"2,423",26.9,3,3,6,3,0,0,6,0,0.11,0.11,0.22,0.11,0.22,Matches
+Sean Goss,nir NIR,MF,Asteras Tripoli,27,1995,19,11,876,9.7,0,1,1,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches
+Nikolaos Grammatikakis,gr GRE,GK,Asteras Tripoli,20,2003,8,7,708,7.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dino Grozdanic,hr CRO,"MF,DF",Asteras Tripoli,20,2002,9,7,567,6.3,1,0,1,1,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches
+Tomáš Hájek,,DF,Panserraikos,31,1991,3,3,136,1.5,0,0,0,0,0,0,1,2,0.00,0.00,0.00,0.00,0.00,Matches
+Ehsan Hajsafi,ir IRN,DF,AEK Athens,33,1990,19,18,"1,582",17.6,0,2,2,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches
+Santiago Hezze,ar ARG,MF,Olympiacos,21,2001,31,28,"2,425",26.9,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+André Horta,pt POR,MF,Olympiacos,26,1996,12,11,869,9.7,2,3,5,2,0,0,0,0,0.21,0.31,0.52,0.21,0.52,Matches
+Juan Manuel Munafo Horta,ar ARG,MF,Asteras Tripoli,35,1988,22,20,"1,597",17.7,2,0,2,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches
+
+Vitor Hugo,br BRA,DF,Panathinaikos,32,1991,8,6,522,5.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vicente Iborra,es ESP,MF,Olympiacos,35,1988,15,5,592,6.6,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches
+Ilian Iliev,bg BUL,MF,AO Kifisia,23,1999,19,10,843,9.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maksym Imerekov,ua UKR,DF,Atromitos,32,1991,7,5,451,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fotis Ioannidis,gr GRE,FW,Panathinaikos,23,2000,28,25,"2,139",23.8,15,7,22,10,5,5,3,0,0.63,0.29,0.93,0.42,0.72,Matches
+Jack Ipalibo,ng NGA,MF,AO Kifisia,25,1998,14,12,923,10.3,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches
+Tin Jedvaj,hr CRO,DF,Panathinaikos,27,1995,24,21,"1,940",21.6,2,0,2,2,0,0,6,0,0.09,0.00,0.09,0.09,0.09,Matches
+Alexander Jeremejeff,se SWE,FW,Panathinaikos,29,1993,15,3,394,4.4,8,1,9,8,0,0,1,0,1.83,0.23,2.06,1.83,2.06,Matches
+Jesús Jiménez,es ESP,MF,OFI Crete,29,1993,4,2,200,2.2,1,0,1,1,0,0,0,0,0.45,0.00,0.45,0.45,0.45,Matches
+Jony,ar ARG,MF,AO Kifisia,29,1994,13,10,655,7.3,0,2,2,0,0,0,1,0,0.00,0.27,0.27,0.00,0.27,Matches
+Jony,ar ARG,"MF,FW",Aris,29,1994,17,11,939,10.4,1,2,3,1,0,0,1,0,0.10,0.19,0.29,0.10,0.29,Matches
+Dušan Jovančić,rs SRB,MF,AO Kifisia,32,1990,7,1,166,1.8,1,0,1,1,0,0,2,0,0.54,0.00,0.54,0.54,0.54,Matches
+Stevan Jovetić,me MNE,"FW,MF",Olympiacos,33,1989,21,6,755,8.4,6,4,10,5,1,1,1,0,0.72,0.48,1.19,0.60,1.07,Matches
+Juankar,es ESP,DF,Panathinaikos,33,1990,18,16,"1,234",13.7,0,4,4,0,0,0,2,0,0.00,0.29,0.29,0.00,0.29,Matches
+Juanpi,ve VEN,MF,Panetolikos,29,1994,29,21,"1,859",20.7,1,4,5,1,0,0,8,0,0.05,0.19,0.24,0.05,0.24,Matches
+Denzhel Jubitana,sr SUR,"FW,MF",Atromitos,24,1999,23,13,"1,046",11.6,3,3,6,3,0,0,6,1,0.26,0.26,0.52,0.26,0.52,Matches
+Jens Jønsson,dk DEN,MF,AEK Athens,30,1993,31,23,"2,046",22.7,2,0,2,2,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches
+Ayoub El Kaabi,ma MAR,FW,Olympiacos,30,1993,31,22,"1,964",21.8,17,2,19,12,5,6,1,0,0.78,0.09,0.87,0.55,0.64,Matches
+Theofilos Kakadiaris,gr GRE,GK,Asteras Tripoli,16,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexios Kalogeropoulos,gr GRE,DF,Volos NFC,19,2004,25,24,"2,105",23.4,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikos Kaltsas,gr GRE,MF,Asteras Tripoli,33,1990,29,23,"2,005",22.3,5,7,12,5,0,0,9,1,0.22,0.31,0.54,0.22,0.54,Matches
+Joeri de Kamps,nl NED,MF,Volos NFC,31,1992,11,10,709,7.9,0,1,1,0,0,0,6,1,0.00,0.13,0.13,0.00,0.13,Matches
+Stefanos Kapino,gr GRE,GK,Panetolikos,29,1994,20,20,"1,800",20.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zisis Karahalios,gr GRE,MF,PAS Giannina,27,1996,28,24,"2,147",23.9,0,0,0,0,0,0,6,2,0.00,0.00,0.00,0.00,0.00,Matches
+Athanasios Karamanis,gr GRE,MF,Atromitos,19,2003,3,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Constantinos Karayiannis,cy CYP,DF,Volos NFC,23,2000,2,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikos Karelis,gr GRE,FW,Panetolikos,31,1992,22,18,"1,420",15.8,2,1,3,2,0,0,3,0,0.13,0.06,0.19,0.13,0.19,Matches
+Antreas Karo,cy CYP,DF,OFI Crete,26,1996,13,12,"1,035",11.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Panagiotis Katsikas,gr GRE,GK,Panserraikos,24,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wajdi Kechrida,tn TUN,"DF,MF",Atromitos,27,1995,19,18,"1,643",18.3,0,1,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches
+Tomasz Kędziora,pl POL,DF,PAOK,29,1994,29,28,"2,448",27.2,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches
+Giannis Kiakos,gr GRE,DF,PAS Giannina,25,1998,20,16,"1,325",14.7,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Fotios Kitsos,gr GRE,"DF,MF",Volos NFC,20,2003,19,7,803,8.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kyriakos Kivrakidis,gr GRE,"DF,MF",Atromitos,31,1992,13,10,836,9.3,0,1,1,0,0,0,0,1,0.00,0.11,0.11,0.00,0.11,Matches
+Boris Klaiman,il ISR,GK,PAS Giannina,32,1990,19,19,"1,710",19.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+László Kleinheisler,hu HUN,MF,Panathinaikos,29,1994,2,0,22,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Viktor Klonaridis,be BEL,"MF,DF",AO Kifisia,31,1992,12,5,462,5.1,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches
+Georgios Konstantakopoulos,gr GRE,MF,AO Kifisia,18,2004,11,4,458,5.1,1,1,2,1,0,0,1,0,0.20,0.20,0.39,0.20,0.39,Matches
+Giannis Konstantelias,gr GRE,MF,PAOK,20,2003,34,20,"2,024",22.5,9,7,16,9,0,0,4,0,0.40,0.31,0.71,0.40,0.71,Matches
+Vasilios Kontonikos,gr GRE,MF,PAS Lamia,17,2005,8,2,217,2.4,1,0,1,1,0,0,2,0,0.41,0.00,0.41,0.41,0.41,Matches
+Georgios Kornezos,gr GRE,DF,PAS Lamia,25,1998,20,15,"1,330",14.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexei Koșelev,md MDA,GK,PAS Lamia,29,1993,33,33,"2,970",33.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giorgos Kosteas,gr GRE,FW,Asteras Tripoli,20,2003,1,1,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Kostić,rs SRB,GK,Volos NFC,27,1995,10,10,900,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dominik Kotarski,hr CRO,GK,PAOK,23,2000,34,34,"3,060",34.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Kotsiras,gr GRE,"DF,MF",Panathinaikos,30,1992,31,25,"2,354",26.2,0,3,3,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches
+Konstantinos Koulierakis,gr GRE,DF,PAOK,19,2003,22,20,"1,847",20.5,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches
+Dániel Kovács,hu HUN,GK,Volos NFC,29,1994,13,13,"1,170",13.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ögmundur Kristinsson,is ISL,GK,AO Kifisia,34,1989,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dominik Kružliak,sk SVK,DF,Volos NFC,27,1996,3,2,225,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Andreas Kuen,at AUT,MF,Atromitos,28,1995,23,13,"1,118",12.4,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches
+Pierre Kunde,cm CMR,MF,Atromitos,28,1995,27,24,"2,046",22.7,0,3,3,0,0,0,5,2,0.00,0.13,0.13,0.00,0.13,Matches
+Iason Kyrkos,gr GRE,MF,PAS Giannina,20,2003,4,2,171,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Toshio Lake,nl NED,MF,PAS Lamia,22,2001,12,6,535,5.9,1,1,2,1,0,0,0,0,0.17,0.17,0.34,0.17,0.34,Matches
+Vassilis Lambropoulos,gr GRE,DF,OFI Crete,33,1990,22,16,"1,528",17.0,2,0,2,2,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+Loïck Landre,fr FRA,DF,AO Kifisia,31,1992,10,9,729,8.1,2,0,2,2,0,0,3,0,0.25,0.00,0.25,0.25,0.25,Matches
+Eric Larsson,se SWE,"DF,MF",OFI Crete,32,1991,24,21,"1,828",20.3,1,0,1,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches
+Fabiano Leismann,br BRA,DF,Aris,31,1991,27,26,"2,327",25.9,4,0,4,3,1,2,6,0,0.15,0.00,0.15,0.12,0.12,Matches
+Jean-Baptiste Leo,fr FRA,"FW,MF",PAS Giannina,27,1996,21,7,770,8.6,1,1,2,1,0,0,0,0,0.12,0.12,0.23,0.12,0.23,Matches
+Aaron Leya Iseka,be BEL,FW,OFI Crete,25,1997,13,12,982,10.9,4,1,5,3,1,1,2,0,0.37,0.09,0.46,0.27,0.37,Matches
+Angelos Liasos,gr GRE,MF,PAS Giannina,23,2000,18,11,"1,009",11.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgios Liavas,gr GRE,"MF,DF",Panetolikos,22,2001,31,24,"2,064",22.9,2,4,6,2,0,0,4,0,0.09,0.17,0.26,0.09,0.26,Matches
+Dimitris Limnios,gr GRE,"MF,FW",Panathinaikos,25,1998,12,4,339,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Robert Ljubicic,at AUT,MF,AEK Athens,24,1999,11,2,275,3.1,3,1,4,3,0,0,1,0,0.98,0.33,1.31,0.98,1.31,Matches
+Yuri Lodygin,ru RUS,GK,Panathinaikos,33,1990,15,14,"1,344",14.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandros Lolis,gr GRE,FW,PAS Giannina,20,2002,2,0,41,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sebastián Lomonaco,ar ARG,FW,Panetolikos,24,1998,10,4,383,4.3,2,0,2,2,0,0,2,0,0.47,0.00,0.47,0.47,0.47,Matches
+Samuele Longo,it ITA,FW,PAS Lamia,31,1992,11,3,362,4.0,1,2,3,1,0,0,2,0,0.25,0.50,0.75,0.25,0.75,Matches
+Lucão,br BRA,DF,OFI Crete,27,1996,8,5,521,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+José Luis Valiente,es ESP,MF,Asteras Tripoli,32,1991,12,0,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Luna,es ESP,DF,Volos NFC,32,1991,26,21,"1,898",21.1,0,5,5,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24,Matches
+Leftheris Lyratzis,gr GRE,DF,PAOK,23,2000,3,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Leftheris Lyratzis,gr GRE,DF,Asteras Tripoli,23,2000,11,11,946,10.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Theodosios Machairas,gr GRE,FW,Volos NFC,23,2000,9,2,340,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hörður Magnússon,is ISL,DF,Panathinaikos,30,1993,3,3,162,1.8,1,0,1,1,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches
+
+Flosard Malci,al ALB,FW,PAS Lamia,28,1994,23,11,"1,086",12.1,4,1,5,4,0,0,2,0,0.33,0.08,0.41,0.33,0.41,Matches
+Alexandros Malis,gr GRE,DF,Panetolikos,26,1997,21,20,"1,812",20.1,1,1,2,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches
+Daniel Mancini,ar ARG,MF,Panathinaikos,26,1996,30,15,"1,385",15.4,2,5,7,2,0,0,4,0,0.13,0.32,0.45,0.13,0.45,Matches
+Christos Mandas,gr GRE,GK,OFI Crete,21,2001,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches
+Petros Mantalos,gr GRE,"MF,FW",AEK Athens,31,1991,28,13,"1,210",13.4,1,7,8,0,1,1,4,1,0.07,0.52,0.60,0.00,0.52,Matches
+Vassilis Mantzis,gr GRE,FW,Asteras Tripoli,31,1991,27,7,855,9.5,2,1,3,2,0,0,3,0,0.21,0.11,0.32,0.21,0.32,Matches
+Juan Manuel García,ar ARG,FW,Volos NFC,30,1992,27,25,"2,122",23.6,9,3,12,6,3,4,10,1,0.38,0.13,0.51,0.25,0.38,Matches
+Gabriele Marchegiani,it ITA,GK,Atromitos,27,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikos Marinakis,gr GRE,"DF,MF",OFI Crete,29,1993,14,10,887,9.9,1,1,2,1,0,0,8,0,0.10,0.10,0.20,0.10,0.20,Matches
+Rubén Martínez,es ESP,"MF,FW",PAS Lamia,33,1989,28,25,"1,691",18.8,4,1,5,4,0,0,4,1,0.21,0.05,0.27,0.21,0.27,Matches
+Gelson Martins,pt POR,MF,Olympiacos,28,1995,14,6,572,6.4,2,3,5,2,0,0,2,0,0.31,0.47,0.79,0.31,0.79,Matches
+Jaloliddin Masharipov,uz UZB,MF,Panserraikos,29,1993,7,5,438,4.9,0,2,2,0,0,0,1,0,0.00,0.41,0.41,0.00,0.41,Matches
+Alexandros Maskanakis,gr GRE,MF,Panserraikos,18,2004,11,2,279,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Masouras,gr GRE,"DF,MF",AO Kifisia,26,1996,19,19,"1,628",18.1,1,1,2,1,0,0,3,0,0.06,0.06,0.11,0.06,0.11,Matches
+Giorgos Masouras,gr GRE,"MF,FW",Olympiacos,29,1994,32,25,"2,017",22.4,7,4,11,7,0,0,1,0,0.31,0.18,0.49,0.31,0.49,Matches
+Rónald Matarrita,cr CRC,DF,Aris,29,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Charalampos Mavrias,gr GRE,"DF,MF",Panetolikos,29,1994,24,15,"1,384",15.4,2,1,3,2,0,0,4,1,0.13,0.07,0.20,0.13,0.20,Matches
+Soualiho Meïté,fr FRA,MF,PAOK,29,1994,30,24,"2,181",24.2,1,1,2,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matches
+Miguel Mellado,ar ARG,MF,OFI Crete,30,1993,26,22,"1,878",20.9,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitris Metaxas,gr GRE,MF,Volos NFC,19,2003,6,0,113,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Michailidis,gr GRE,DF,PAOK,23,2000,12,12,"1,067",11.9,1,0,1,1,0,0,4,1,0.08,0.00,0.08,0.08,0.08,Matches
+Ivan Miličević,ba BIH,DF,AO Kifisia,25,1998,15,14,"1,287",14.3,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Leonint Mina,gr GRE,FW,PAS Giannina,19,2004,2,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Juan Miritello,ar ARG,FW,Asteras Tripoli,24,1999,29,25,"2,151",23.9,13,2,15,12,1,3,6,0,0.54,0.08,0.63,0.50,0.59,Matches
+Gerasimos Mitoglou,gr GRE,DF,AEK Athens,23,1999,13,6,637,7.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Sebastian Mladen,ro ROU,DF,Panetolikos,31,1991,22,22,"1,872",20.8,1,0,1,1,0,0,12,1,0.05,0.00,0.05,0.05,0.05,Matches
+Filip Mladenović,rs SRB,DF,Panathinaikos,31,1991,30,20,"1,940",21.6,1,5,6,1,0,0,8,0,0.05,0.23,0.28,0.05,0.28,Matches
+David Moberg Karlsson,se SWE,MF,Aris,29,1994,14,5,552,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milad Mohammadi,ir IRN,DF,AEK Athens,29,1993,10,9,796,8.8,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Martín Montoya,es ESP,DF,Aris,32,1991,31,26,"2,384",26.5,0,2,2,0,0,0,7,0,0.00,0.08,0.08,0.00,0.08,Matches
+Panagiotis Moraitis,gr GRE,FW,Volos NFC,26,1997,27,12,"1,251",13.9,5,0,5,4,1,2,2,0,0.36,0.00,0.36,0.29,0.29,Matches
+Maximiliano Moreira,uy URU,"MF,DF",Panserraikos,29,1994,26,20,"1,755",19.5,0,0,0,0,0,0,10,1,0.00,0.00,0.00,0.00,0.00,Matches
+Loren Morón,es ESP,FW,Aris,29,1993,35,30,"2,597",28.9,20,3,23,15,5,5,4,0,0.69,0.10,0.80,0.52,0.62,Matches
+Harold Moukoudi,cm CMR,DF,AEK Athens,25,1997,10,9,826,9.2,1,1,2,1,0,0,1,0,0.11,0.11,0.22,0.11,0.22,Matches
+Savvas Mourgos,gr GRE,MF,Panserraikos,25,1998,24,15,"1,057",11.7,2,2,4,1,1,1,3,0,0.17,0.17,0.34,0.09,0.26,Matches
+Samuel Mráz,sk SVK,FW,Volos NFC,26,1997,3,2,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Álex Mula,es ESP,"FW,MF",PAS Lamia,27,1996,4,0,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Thomas Murg,at AUT,MF,PAOK,28,1994,30,25,"1,734",19.3,8,4,12,8,0,1,5,0,0.42,0.21,0.62,0.42,0.62,Matches
+Georgios Mygas,gr GRE,"DF,MF",Volos NFC,29,1994,23,19,"1,588",17.6,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Gergely Nagy,hu HUN,GK,PAS Giannina,29,1994,5,5,421,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gergely Nagy,hu HUN,GK,PAS Lamia,29,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitrios Naoumis,gr GRE,DF,PAS Giannina,18,2004,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Khaled Narey,tg TOG,"DF,FW",PAOK,29,1994,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Näsberg,no NOR,DF,PAOK,27,1996,8,4,426,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fran Navarro,es ESP,FW,Olympiacos,25,1998,16,11,940,10.4,5,0,5,4,1,1,3,0,0.48,0.00,0.48,0.38,0.38,Matches
+Juan Neira,ar ARG,MF,OFI Crete,34,1989,22,5,626,7.0,2,2,4,1,1,1,5,0,0.29,0.29,0.58,0.14,0.43,Matches
+Evangelos Nikolaou,gr GRE,MF,Panetolikos,19,2004,2,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giannis Nikopolidis,gr GRE,GK,AO Kifisia,22,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sotiris Ninis,gr GRE,MF,AO Kifisia,33,1990,9,2,225,2.5,1,0,1,1,0,0,1,0,0.40,0.00,0.40,0.40,0.40,Matches
+Andreas Ntoi,gr GRE,DF,Olympiacos,20,2003,19,16,"1,493",16.6,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches
+
+Cristopher Núñez,cr CRC,MF,PAS Lamia,25,1997,32,31,"2,441",27.1,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches
+Moses Odubajo,eng ENG,DF,Aris,30,1993,28,26,"2,254",25.0,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+Angelos Oikonomou,gr GRE,MF,Panserraikos,27,1995,11,3,353,3.9,0,1,1,0,0,0,3,1,0.00,0.25,0.25,0.00,0.25,Matches
+Marios Oikonomou,gr GRE,DF,Panetolikos,30,1992,20,19,"1,674",18.6,1,0,1,1,0,0,4,1,0.05,0.00,0.05,0.05,0.05,Matches
+Bryan Olivera,uy URU,MF,Volos NFC,29,1994,4,1,104,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francisco Ortega,ar ARG,DF,Olympiacos,24,1999,23,20,"1,723",19.1,0,3,3,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches
+Jordi Osei-Tutu,eng ENG,"MF,DF",PAS Giannina,24,1998,8,6,549,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ismahila Ouédraogo,bf BFA,MF,Panserraikos,23,1999,24,20,"1,730",19.2,0,0,0,0,0,0,12,1,0.00,0.00,0.00,0.00,0.00,Matches
+Magomed Ozdoyev,ru RUS,MF,PAOK,30,1992,34,25,"2,167",24.1,6,1,7,6,0,0,2,0,0.25,0.04,0.29,0.25,0.29,Matches
+Ognjen Ožegović,rs SRB,FW,AO Kifisia,29,1994,30,27,"2,403",26.7,16,1,17,10,6,7,9,0,0.60,0.04,0.64,0.37,0.41,Matches
+Julián Palacios,ar ARG,"MF,FW",Asteras Tripoli,24,1999,11,6,473,5.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sebastián Palacios,ar ARG,"MF,FW",Panathinaikos,31,1992,25,19,"1,580",17.6,6,5,11,6,0,0,1,1,0.34,0.28,0.63,0.34,0.63,Matches
+Erik Palmer-Brown,us USA,DF,Panathinaikos,26,1997,3,2,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giorgos Pamlidis,gr GRE,"MF,FW",PAS Giannina,29,1993,27,24,"2,042",22.7,3,2,5,3,0,0,3,0,0.13,0.09,0.22,0.13,0.22,Matches
+Michail Panagidis,gr GRE,MF,Aris,19,2004,14,11,806,9.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantinos Panagou,gr GRE,DF,PAS Giannina,25,1998,6,3,334,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Epaminondas Pantelakis,gr GRE,DF,PAS Giannina,28,1995,26,25,"2,205",24.5,2,0,2,2,0,0,7,0,0.08,0.00,0.08,0.08,0.08,Matches
+Kyriakos Papadopoulos,gr GRE,DF,PAS Lamia,31,1992,21,21,"1,874",20.8,0,1,1,0,0,0,9,0,0.00,0.05,0.05,0.00,0.05,Matches
+Nikos Papadopoulos,gr GRE,GK,Asteras Tripoli,33,1990,18,18,"1,451",16.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Symeon Papadopoulos,gr GRE,GK,Volos NFC,23,2000,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonis Papasavvas,gr GRE,MF,AO Kifisia,28,1995,13,10,862,9.6,1,1,2,1,0,0,6,0,0.10,0.10,0.21,0.10,0.21,Matches
+Georgios Papavasiliou,gr GRE,FW,Panserraikos,31,1992,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rubén Pardo,es ESP,"MF,FW",Aris,30,1992,15,7,565,6.3,1,0,1,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches
+Alexandros Parras,gr GRE,DF,AO Kifisia,25,1998,11,5,464,5.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Triantafyllos Pasaridīs,gr GRE,DF,OFI Crete,27,1996,11,10,807,9.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Alexandros Paschalakis,gr GRE,GK,Olympiacos,34,1989,26,26,"2,340",26.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Domagoj Pavičić,hr CRO,MF,Aris,29,1994,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandr Pavlovets,by BLR,DF,PAS Lamia,26,1996,6,5,421,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolaos Peios,gr GRE,MF,AO Kifisia,24,1999,13,9,658,7.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pedro Pérez Conde,es ESP,FW,PAS Giannina,35,1988,27,19,"1,681",18.7,9,2,11,6,3,3,4,0,0.48,0.11,0.59,0.32,0.43,Matches
+Facundo Pérez,ar ARG,MF,Panetolikos,24,1999,30,25,"2,220",24.7,0,2,2,0,0,0,10,1,0.00,0.08,0.08,0.00,0.08,Matches
+Rubén Pérez,es ESP,MF,Panathinaikos,34,1989,22,18,"1,512",16.8,0,1,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches
+Stavros Petavrakis,gr GRE,DF,Panserraikos,30,1992,25,20,"1,774",19.7,0,2,2,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10,Matches
+Luiz Phellype,br BRA,FW,OFI Crete,29,1993,32,15,"1,653",18.4,4,2,6,3,1,2,3,0,0.22,0.11,0.33,0.16,0.27,Matches
+Kostas Pileas,cy CYP,"MF,DF",Panserraikos,24,1998,21,21,"1,649",18.3,1,1,2,0,1,2,3,0,0.05,0.05,0.11,0.00,0.05,Matches
+Stavros Pilios,gr GRE,DF,AEK Athens,22,2000,11,9,819,9.1,0,2,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches
+Orbelín Pineda,mx MEX,"MF,FW",AEK Athens,27,1996,33,23,"2,246",25.0,3,4,7,3,0,0,1,0,0.12,0.16,0.28,0.12,0.28,Matches
+Frederico Pires Duarte,pt POR,"MF,FW",Panetolikos,24,1999,30,19,"1,742",19.4,3,2,5,3,0,0,4,0,0.15,0.10,0.26,0.15,0.26,Matches
+Rodolfo Pizarro,mx MEX,MF,AEK Athens,29,1994,16,5,548,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Podence,pt POR,"MF,FW",Olympiacos,27,1995,31,22,"1,992",22.1,11,6,17,11,0,1,7,1,0.50,0.27,0.77,0.50,0.77,Matches
+Konstantinos Pomonis,gr GRE,DF,Atromitos,21,2002,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ezequiel Ponce,ar ARG,FW,AEK Athens,26,1997,29,15,"1,463",16.3,15,0,15,15,0,0,1,0,0.92,0.00,0.92,0.92,0.92,Matches
+Călin Popescu,ro ROU,MF,Volos NFC,21,2001,5,1,124,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jackson Porozo,ec ECU,DF,Olympiacos,22,2000,4,2,242,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Panagiotis Pritsas,gr GRE,MF,AO Kifisia,24,1999,13,8,687,7.6,0,1,1,0,0,0,2,1,0.00,0.13,0.13,0.00,0.13,Matches
+Quini,es ESP,DF,Olympiacos,33,1989,21,15,"1,460",16.2,2,0,2,2,0,0,6,0,0.12,0.00,0.12,0.12,0.12,Matches
+Luka Racic,dk DEN,DF,Volos NFC,24,1999,7,3,424,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vedad Radonja,ba BIH,DF,AEK Athens,21,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Baba Rahman,gh GHA,DF,PAOK,29,1994,28,24,"2,280",25.3,6,3,9,6,0,0,8,0,0.24,0.12,0.36,0.24,0.36,Matches
+Ramon,br BRA,DF,Olympiacos,22,2001,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Xesc Regis,es ESP,MF,Asteras Tripoli,26,1996,30,28,"2,338",26.0,6,6,12,5,1,1,6,0,0.23,0.23,0.46,0.19,0.42,Matches
+Panagiotis Retsos,gr GRE,DF,Olympiacos,24,1998,27,26,"2,067",23.0,0,0,0,0,0,0,11,2,0.00,0.00,0.00,0.00,0.00,Matches
+Omar Richards,eng ENG,"DF,MF",Olympiacos,25,1998,10,7,599,6.7,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches
+Daan Rienstra,nl NED,MF,PAS Giannina,30,1992,27,22,"1,723",19.1,1,1,2,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches
+Adrián Riera,es ESP,MF,OFI Crete,27,1996,27,14,"1,308",14.5,3,1,4,3,0,0,3,0,0.21,0.07,0.28,0.21,0.28,Matches
+Gaëtan Robail,fr FRA,"FW,MF",Atromitos,29,1994,23,16,"1,300",14.4,4,2,6,4,0,0,1,0,0.28,0.14,0.42,0.28,0.42,Matches
+Rodinei,br BRA,DF,Olympiacos,31,1992,30,29,"2,554",28.4,2,2,4,1,1,1,4,0,0.07,0.07,0.14,0.04,0.11,Matches
+Santiago Rosales,ar ARG,MF,PAS Giannina,28,1995,7,3,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lindsay Rose,mu MRI,DF,Aris,31,1992,17,11,"1,044",11.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kevin Rosero,co COL,MF,PAS Giannina,24,1998,32,23,"2,104",23.4,4,2,6,4,0,0,4,0,0.17,0.09,0.26,0.17,0.26,Matches
+Llazaros Rota,gr GRE,DF,AEK Athens,25,1997,22,21,"1,778",19.8,2,1,3,2,0,0,7,0,0.10,0.05,0.15,0.10,0.15,Matches
+Lukas Rupp,de GER,MF,Aris,32,1991,7,4,350,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emanuel Sakic,at AUT,"MF,DF",AO Kifisia,32,1991,3,2,197,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mbwana Samatta,tz TAN,FW,PAOK,30,1992,29,13,"1,322",14.7,2,4,6,2,0,1,3,0,0.14,0.27,0.41,0.14,0.41,Matches
+Omar Santana,es ESP,MF,PAS Lamia,32,1991,16,8,823,9.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Harold Santiago Mosquera,co COL,"MF,FW",OFI Crete,28,1995,23,5,725,8.1,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches
+Giorgos Saramantas,gr GRE,"DF,MF",PAS Lamia,31,1992,5,4,316,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joan Sastre Vanrell,es ESP,DF,PAOK,26,1997,26,19,"1,791",19.9,2,4,6,2,0,0,3,0,0.10,0.20,0.30,0.10,0.30,Matches
+Kike Saverio,es ESP,MF,Aris,24,1999,20,12,"1,095",12.2,3,2,5,3,0,0,4,0,0.25,0.16,0.41,0.25,0.41,Matches
+Manolis Sbokos,gr GRE,DF,AO Kifisia,20,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gustavo Scarpa,br BRA,MF,Olympiacos,29,1994,7,3,343,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bart Schenkeveld,nl NED,DF,Panathinaikos,31,1991,17,15,"1,346",15.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Morgan Schneiderlin,fr FRA,"MF,DF",AO Kifisia,33,1989,9,8,628,7.0,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches
+Stefan Schwab,at AUT,MF,PAOK,32,1990,33,15,"1,502",16.7,5,2,7,3,2,3,5,0,0.30,0.12,0.42,0.18,0.30,Matches
+Valentino Scotta,es ESP,DF,Aris,21,2001,7,6,585,6.5,1,3,4,1,0,0,2,0,0.15,0.46,0.62,0.15,0.62,Matches
+
+Jean Sepp Mvondo,cm CMR,MF,Aris,25,1998,22,17,"1,251",13.9,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fotis Sgouris,gr GRE,GK,Asteras Tripoli,21,2002,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christos Shelis,cy CYP,DF,Volos NFC,23,2000,23,23,"1,986",22.1,2,0,2,2,0,0,7,0,0.09,0.00,0.09,0.09,0.09,Matches
+Levan Shengelia,ge GEO,"FW,MF",Panetolikos,27,1995,20,10,"1,060",11.8,2,1,3,2,0,0,3,0,0.17,0.08,0.25,0.17,0.25,Matches
+Marios Siampanis,gr GRE,GK,Volos NFC,23,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sidcley,br BRA,DF,PAS Lamia,30,1993,30,21,"2,025",22.5,2,1,3,2,0,0,5,0,0.09,0.04,0.13,0.09,0.13,Matches
+Djibril Sidibé,fr FRA,DF,AEK Athens,31,1992,17,15,"1,209",13.4,1,0,1,1,0,0,0,1,0.07,0.00,0.07,0.07,0.07,Matches
+João Pedro Sousa Silva,gw GNB,FW,Panetolikos,26,1996,30,11,"1,303",14.5,5,2,7,3,2,2,3,0,0.35,0.14,0.48,0.21,0.35,Matches
+Pedro Silva Torrejón,ar ARG,"MF,DF",Panetolikos,26,1997,32,31,"2,805",31.2,4,4,8,4,0,0,4,0,0.13,0.13,0.26,0.13,0.26,Matches
+David Simón,es ESP,DF,PAS Lamia,34,1988,32,31,"2,716",30.2,1,3,4,1,0,0,11,1,0.03,0.10,0.13,0.03,0.13,Matches
+Sito,es ESP,MF,Asteras Tripoli,26,1996,18,9,743,8.3,0,1,1,0,0,0,0,0,0.00,0.12,0.12,0.00,0.12,Matches
+Vykintas Slivka,lt LTU,"MF,FW",PAS Lamia,28,1995,33,31,"2,653",29.5,6,4,10,6,0,0,7,1,0.20,0.14,0.34,0.20,0.34,Matches
+Rafa Soares,pt POR,DF,PAOK,28,1995,12,11,869,9.7,2,0,2,2,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches
+Jan Sobociński,pl POL,DF,PAS Giannina,24,1999,6,5,498,5.5,1,0,1,1,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches
+Marios Sofianos,gr GRE,MF,Panserraikos,19,2003,18,2,463,5.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ola Solbakken,no NOR,"MF,FW",Olympiacos,24,1998,5,4,257,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Facundo Soloa,ar ARG,MF,AO Kifisia,26,1996,13,10,912,10.1,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Carles Soria,es ESP,DF,PAS Giannina,26,1996,29,27,"2,405",26.7,0,7,7,0,0,0,8,0,0.00,0.26,0.26,0.00,0.26,Matches
+Dimitris Sotiriou,gr GRE,GK,OFI Crete,35,1987,4,3,315,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasilis Soulis,gr GRE,GK,PAS Giannina,28,1994,5,4,389,4.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasileios Sourlis,gr GRE,MF,Asteras Tripoli,20,2002,16,7,636,7.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasilios Spinos,gr GRE,DF,AO Kifisia,22,2001,5,3,215,2.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Andraž Šporar,si SVN,FW,Panathinaikos,29,1994,27,10,"1,138",12.6,8,1,9,6,2,4,3,0,0.63,0.08,0.71,0.47,0.55,Matches
+Paschalis Staikos,gr GRE,MF,Panserraikos,27,1996,29,25,"2,157",24.0,4,1,5,4,0,0,10,0,0.17,0.04,0.21,0.17,0.21,Matches
+Nikola Stajić,rs SRB,DF,Panetolikos,21,2001,9,5,453,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Caleb Stanko,us USA,MF,PAS Lamia,30,1993,26,11,"1,112",12.4,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cican Stankovic,at AUT,GK,AEK Athens,30,1992,23,23,"2,070",23.0,0,1,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches
+Antonis Stergiakis,gr GRE,GK,Panetolikos,24,1999,3,3,255,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Victor Stînă,md MDA,MF,Panserraikos,25,1998,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Magomed-Shapi Suleymanov,ru RUS,"MF,FW",Aris,23,1999,31,27,"2,225",24.7,5,4,9,5,0,0,2,0,0.20,0.16,0.36,0.20,0.36,Matches
+Damian Szymański,pl POL,MF,AEK Athens,28,1995,26,21,"1,815",20.2,2,4,6,2,0,0,11,0,0.10,0.20,0.30,0.10,0.30,Matches
+Jemal Tabidze,ge GEO,DF,Panetolikos,27,1996,6,6,515,5.7,1,0,1,1,0,0,2,1,0.17,0.00,0.17,0.17,0.17,Matches
+Efstathios Tachatos,gr GRE,DF,Volos NFC,21,2001,10,5,502,5.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Taison,br BRA,MF,PAOK,35,1988,29,24,"2,167",24.1,5,10,15,5,0,0,6,0,0.21,0.42,0.62,0.21,0.62,Matches
+Alexandros Tereziou,gr GRE,MF,PAS Lamia,23,2000,4,1,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrews Tetteh,ng NGA,"FW,MF",AO Kifisia,22,2001,30,15,"1,562",17.4,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+Giannis Theodosoulakis,gr GRE,DF,OFI Crete,18,2004,5,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantinos Thymianis,gr GRE,DF,Panserraikos,22,2001,18,12,"1,140",12.7,4,0,4,2,2,2,5,0,0.32,0.00,0.32,0.16,0.16,Matches
+Mathias Tomas,uy URU,MF,Panserraikos,22,2001,29,19,"1,603",17.8,1,5,6,1,0,0,5,0,0.06,0.28,0.34,0.06,0.34,Matches
+Jon Toral,es ESP,"MF,FW",OFI Crete,28,1995,25,20,"1,510",16.8,2,5,7,2,0,0,4,0,0.12,0.30,0.42,0.12,0.42,Matches
+Zoran Tošić,rs SRB,"MF,FW",PAS Lamia,36,1987,31,3,945,10.5,1,5,6,1,0,0,2,0,0.10,0.48,0.57,0.10,0.57,Matches
+Antonis Trimmatis,gr GRE,DF,Atromitos,24,1999,7,2,220,2.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+William Troost-Ekong,ng NGA,DF,PAOK,29,1993,10,10,873,9.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexis Trouillet,fr FRA,MF,Volos NFC,22,2000,24,14,"1,213",13.5,1,0,1,0,1,1,4,0,0.07,0.00,0.07,0.00,0.00,Matches
+Panagiotis Tsagkalidis,gr GRE,MF,Panserraikos,22,2001,3,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitris Tsakmakis,gr GRE,DF,Atromitos,24,1999,19,15,"1,351",15.0,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches
+Marios Tsaousis,gr GRE,DF,PAS Giannina,23,2000,22,18,"1,667",18.5,1,3,4,1,0,0,6,0,0.05,0.16,0.22,0.05,0.22,Matches
+Antonis Tsiftsis,gr GRE,GK,Asteras Tripoli,24,1999,9,8,781,8.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angelos Tsigaras,gr GRE,MF,Panetolikos,24,1999,20,7,647,7.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kosmas Tsilianidis,gr GRE,"FW,MF",PAS Lamia,29,1994,6,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Sotiris Tsiloulis,gr GRE,"MF,FW",PAS Lamia,28,1995,30,28,"2,210",24.6,5,2,7,5,0,0,3,0,0.20,0.08,0.29,0.20,0.29,Matches
+Theocharis Tsingaras,gr GRE,MF,PAOK,22,2000,11,6,419,4.7,1,0,1,1,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches
+Panagiotis Tsintotas,gr GRE,GK,Atromitos,30,1993,26,26,"2,339",26.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Tasos Tsokanis,gr GRE,"MF,DF",Volos NFC,32,1991,25,19,"1,724",19.2,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandros Tsompanidis,gr GRE,GK,Panserraikos,18,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikos Tsoukalos,gr GRE,FW,PAS Lamia,31,1992,11,0,172,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fanis Tzandaris,gr GRE,MF,PAS Lamia,30,1993,31,23,"2,129",23.7,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+Adam Tzanetopoulos,gr GRE,DF,PAS Lamia,28,1995,30,30,"2,686",29.8,1,0,1,1,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches
+Georgios Tzavellas,gr GRE,DF,Atromitos,35,1987,23,23,"2,070",23.0,1,0,1,1,0,0,8,0,0.04,0.00,0.04,0.04,0.04,Matches
+Panagiotis Tzimas,gr GRE,"MF,FW",PAS Giannina,22,2001,23,18,"1,362",15.1,3,0,3,3,0,0,11,0,0.20,0.00,0.20,0.20,0.20,Matches
+Stefanos Tzimas,gr GRE,FW,PAOK,17,2006,16,3,308,3.4,3,1,4,3,0,0,0,0,0.88,0.29,1.17,0.88,1.17,Matches
+Kostas Tzolakis,gr GRE,GK,Olympiacos,20,2002,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giorgos Tzovaras,gr GRE,MF,Atromitos,23,1999,6,1,182,2.0,1,1,2,1,0,0,1,0,0.49,0.49,0.99,0.49,0.99,Matches
+Nikos Vafeas,gr GRE,"DF,MF",AO Kifisia,26,1997,29,24,"2,441",27.1,2,0,2,2,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+Georgios Vagiannidis,gr GRE,DF,Panathinaikos,21,2001,22,16,"1,373",15.3,1,1,2,1,0,0,4,0,0.07,0.07,0.13,0.07,0.13,Matches
+Diego Valencia,cl CHI,"FW,MF",Atromitos,23,2000,29,23,"2,120",23.6,2,2,4,1,1,2,8,0,0.08,0.08,0.17,0.04,0.13,Matches
+Stavros Vasilantonopoulos,gr GRE,"DF,MF",PAS Lamia,31,1992,12,5,614,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fran Vélez,es ESP,"MF,DF",Aris,32,1991,10,3,428,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Benjamin Verbič,si SVN,"MF,FW",Panathinaikos,29,1993,22,12,901,10.0,4,0,4,4,0,0,4,0,0.40,0.00,0.40,0.40,0.40,Matches
+Nikos Vergos,gr GRE,FW,Atromitos,27,1996,31,15,"1,481",16.5,5,0,5,4,1,2,1,0,0.30,0.00,0.30,0.24,0.24,Matches
+Birger Verstraete,be BEL,MF,Aris,29,1994,24,19,"1,722",19.1,0,1,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05,Matches
+Rúben Vezo,pt POR,DF,Olympiacos,29,1994,5,2,257,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fede Vico,es ESP,"FW,MF",Asteras Tripoli,29,1994,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Domagoj Vida,hr CRO,DF,AEK Athens,34,1989,29,29,"2,565",28.5,6,1,7,6,0,0,5,0,0.21,0.04,0.25,0.21,0.25,Matches
+Vieirinha,pt POR,DF,PAOK,37,1986,17,9,725,8.1,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches
+
+Tonny Vilhena,nl NED,MF,Panathinaikos,28,1995,25,13,"1,095",12.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches
+Alexandros Voilis,gr GRE,"FW,MF",Panetolikos,23,2000,8,3,219,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Praxitelis Vouros,gr GRE,DF,OFI Crete,28,1995,31,30,"2,734",30.4,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Georgios Vrakas,gr GRE,"FW,MF",Atromitos,22,2001,10,3,349,3.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Amr Warda,eg EGY,MF,Panserraikos,29,1993,17,16,"1,479",16.4,5,3,8,2,3,3,2,0,0.30,0.18,0.49,0.12,0.30,Matches
+Tom van Weert,nl NED,FW,AEK Athens,33,1990,6,2,197,2.2,1,0,1,1,0,1,0,0,0.46,0.00,0.46,0.46,0.46,Matches
+Kaiyne Woolery,eng ENG,"MF,FW",Panserraikos,28,1995,17,3,445,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giorgos Xenitidis,gr GRE,MF,Panetolikos,23,1999,9,1,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Evgeni Yablonski,by BLR,MF,Asteras Tripoli,28,1995,15,12,"1,004",11.2,2,0,2,2,0,0,3,1,0.18,0.00,0.18,0.18,0.18,Matches
+Álvaro Zamora,cr CRC,"MF,FW",Aris,21,2002,32,10,"1,193",13.3,4,1,5,4,0,0,6,0,0.30,0.08,0.38,0.30,0.38,Matches
+Zeca,gr GRE,MF,Panathinaikos,34,1988,14,4,502,5.6,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Zine,ao ANG,MF,AEK Athens,21,2002,11,1,248,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrija Živković,rs SRB,MF,PAOK,27,1996,29,19,"1,809",20.1,10,8,18,9,1,2,8,0,0.50,0.40,0.90,0.45,0.85,Matches
+Živko Živković,rs SRB,GK,PAOK,34,1989,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikolaos Zouglis,gr GRE,MF,Asteras Tripoli,19,2003,28,10,"1,110",12.3,0,3,3,0,0,0,3,0,0.00,0.24,0.24,0.00,0.24,Matches
+Steven Zuber,ch SUI,"MF,FW",AEK Athens,31,1991,31,23,"1,870",20.8,7,4,11,7,0,0,4,0,0.34,0.19,0.53,0.34,0.53,Matches
+Ervin Zukanović,ba BIH,DF,Asteras Tripoli,36,1987,21,21,"1,890",21.0,3,0,3,3,0,0,5,0,0.14,0.00,0.14,0.14,0.14,Matches
+Guðmundur Þórarinsson,is ISL,"DF,MF",OFI Crete,31,1992,30,24,"2,253",25.0,2,2,4,2,0,0,3,0,0.08,0.08,0.16,0.08,0.16,Matches
+Neven Đurasek,hr CRO,MF,Aris,24,1998,22,9,794,8.8,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Filip Đuričić,rs SRB,MF,Panathinaikos,31,1992,19,10,914,10.2,3,2,5,3,0,0,5,0,0.30,0.20,0.49,0.30,0.49,Matches

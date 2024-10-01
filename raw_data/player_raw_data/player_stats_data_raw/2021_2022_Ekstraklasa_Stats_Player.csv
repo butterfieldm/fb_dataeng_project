@@ -1,0 +1,624 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,npxG + xAG/90,Matches
+
+
+Lobato ,es ESP,MF,Górnik Łęczna,27,1994,3,2,194,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Abramowicz,pl POL,DF,Radomiak Radom,30,1991,34,34,"3,038",33.8,4,4,8,4,0,0,3,0,0.12,0.12,0.24,0.12,0.24,Matches
+Joel Abu Hanna,il ISR,"DF,MF",Legia Warsaw,23,1998,7,6,424,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rafał Adamski,pl POL,FW,Zagłębie Lubin,19,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zlatan Alomerović,de GER,GK,Jagiellonia,30,1991,14,14,"1,260",14.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zlatan Alomerović,de GER,GK,Lechia Gdańsk,30,1991,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcos Álvarez,de GER,"FW,MF",Cracovia,29,1991,10,7,552,6.1,1,2,3,1,0,0,2,0,0.16,0.33,0.49,0.16,0.49,Matches
+Tiago Alexandre Mendes Alves,pt POR,"MF,FW",Piast Gliwice,25,1996,9,6,381,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+João Amaral,pt POR,MF,Lech Poznań,29,1991,32,28,"2,222",24.7,14,8,22,14,0,0,2,0,0.57,0.32,0.89,0.57,0.89,Matches
+Maciej Ambrosiewicz,pl POL,"MF,DF",Bruk-Bet Termalica Nieciecza,23,1998,10,6,503,5.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pelle van Amersfoort,nl NED,"MF,FW",Cracovia,25,1996,33,30,"2,696",30.0,8,1,9,7,1,1,7,0,0.27,0.03,0.30,0.23,0.27,Matches
+Michael Ameyaw,pl POL,MF,Piast Gliwice,20,2000,18,2,432,4.8,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches
+Jonathan de Amo,es ESP,DF,Górnik Łęczna,31,1990,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jonathan de Amo,es ESP,DF,Stal Mielec,31,1990,16,14,"1,261",14.0,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches
+Karol Angielski,pl POL,FW,Radomiak Radom,25,1996,34,26,"2,368",26.3,18,1,19,9,9,10,3,1,0.68,0.04,0.72,0.34,0.38,Matches
+Jakub Arak,pl POL,"FW,MF",RKS Raków,26,1995,18,3,360,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zoran Arsenić,hr CRO,DF,RKS Raków,27,1994,21,19,"1,579",17.5,1,0,1,1,0,0,6,1,0.06,0.00,0.06,0.06,0.06,Matches
+Błażej Augustyn,pl POL,DF,Jagiellonia,33,1988,13,12,"1,071",11.9,1,0,1,1,0,0,7,1,0.08,0.00,0.08,0.08,0.08,Matches
+Ishmael Baidoo,gh GHA,MF,Górnik Zabrze,22,1998,3,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Bainović,rs SRB,MF,Górnik Zabrze,25,1996,9,2,222,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Balaj,sk SVK,FW,Cracovia,23,1997,10,4,337,3.7,1,1,2,1,0,0,1,0,0.27,0.27,0.53,0.27,0.53,Matches
+Saša Balić,me MNE,DF,Zagłębie Lubin,31,1990,20,15,"1,205",13.4,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Przemysław Banaszak,pl POL,FW,Górnik Łęczna,24,1997,28,11,"1,111",12.3,4,1,5,3,1,1,3,1,0.32,0.08,0.41,0.24,0.32,Matches
+Paweł Baranowski,pl POL,DF,Górnik Łęczna,30,1990,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Bartkowski,pl POL,DF,Pogoń Szczecin,29,1991,27,27,"2,364",26.3,1,3,4,1,0,0,2,0,0.04,0.11,0.15,0.04,0.15,Matches
+
+Mateusz Bartolewski,pl POL,DF,Zagłębie Lubin,23,1998,26,24,"2,138",23.8,2,1,3,2,0,0,8,1,0.08,0.04,0.13,0.08,0.13,Matches
+Yevgeni Bashkirov,ru RUS,MF,Zagłębie Lubin,30,1991,6,5,362,4.0,1,1,2,1,0,0,1,0,0.25,0.25,0.50,0.25,0.50,Matches
+Filip Bednarek,pl POL,GK,Lech Poznań,28,1992,20,18,"1,722",19.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Łukasz Bejger,pl POL,DF,Śląsk Wrocław,19,2002,23,19,"1,669",18.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sebastian Bergier,pl POL,FW,Śląsk Wrocław,21,1999,2,0,56,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michal Bezpalec,cs TCH,"DF,MF",Bruk-Bet Termalica Nieciecza,24,1996,8,8,601,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wahan Biczachczian,am ARM,MF,Pogoń Szczecin,22,1999,14,4,476,5.3,3,1,4,3,0,0,0,0,0.57,0.19,0.76,0.57,0.76,Matches
+Bartosz Bida,pl POL,"FW,MF",Jagiellonia,20,2001,17,7,631,7.0,3,1,4,3,0,0,1,0,0.43,0.14,0.57,0.43,0.57,Matches
+Wiktor Biedrzycki,pl POL,DF,Bruk-Bet Termalica Nieciecza,24,1997,23,22,"1,965",21.8,1,0,1,0,1,1,6,0,0.05,0.00,0.05,0.00,0.00,Matches
+Jan Biegański,pl POL,MF,Lechia Gdańsk,18,2002,14,2,300,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mikołaj Biegański,pl POL,GK,Wisła Kraków,19,2002,19,19,"1,710",19.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Bielica,pl POL,GK,Górnik Zabrze,22,1999,14,14,"1,260",14.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Bieszczad,pl POL,GK,Zagłębie Lubin,18,2002,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Godfrey Bitok,ng NGA,DF,Jagiellonia,20,2000,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcel Blachewicz,om OMA,MF,Wisła Płock,18,2003,7,4,398,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Artur Bogusz,pl POL,DF,Radomiak Radom,28,1993,5,0,60,0.7,1,0,1,1,0,0,1,0,1.50,0.00,1.50,1.50,1.50,Matches
+Sebastian Bonecki,pl POL,"MF,DF",Bruk-Bet Termalica Nieciecza,26,1995,21,8,818,9.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Artur Boruc,pl POL,GK,Legia Warsaw,41,1980,11,11,971,10.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Karol Borys,pl POL,MF,Śląsk Wrocław,14,2006,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krystian Bracik,pl POL,DF,Cracovia,20,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Raphael Branco,br BRA,DF,Radomiak Radom,31,1990,32,31,"2,857",31.7,2,0,2,2,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches
+Felicio Brown,cr CRC,FW,Wisła Kraków,29,1991,18,9,852,9.5,2,0,2,2,0,0,5,0,0.21,0.00,0.21,0.21,0.21,Matches
+Michał Buchalik,pl POL,GK,Lechia Gdańsk,32,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcin Budziński,pl POL,"MF,FW",Stal Mielec,31,1990,7,4,343,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Łukasz Budziłek,pl POL,GK,Bruk-Bet Termalica Nieciecza,30,1991,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Adrian Bukowski,pl POL,MF,Śląsk Wrocław,18,2003,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jasmin Burić,ba BIH,GK,Zagłębie Lubin,34,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartłomiej Burman,pl POL,MF,Warta Poznań,20,2001,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Błaszczykowski,pl POL,MF,Wisła Kraków,35,1985,2,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Diego Carioca,br BRA,"MF,FW",Jagiellonia,23,1998,8,8,639,7.1,2,1,3,2,0,0,1,0,0.28,0.14,0.42,0.28,0.42,Matches
+Frank Castañeda,co COL,"FW,MF",Warta Poznań,27,1994,13,8,808,9.0,4,0,4,4,0,1,2,0,0.45,0.00,0.45,0.45,0.45,Matches
+Marcin Cebula,pl POL,"FW,MF",RKS Raków,25,1995,12,3,378,4.2,3,1,4,2,1,1,3,0,0.71,0.24,0.95,0.48,0.71,Matches
+Joseph Ceesay,gm GAM,"MF,DF",Lechia Gdańsk,23,1998,22,20,"1,556",17.3,0,3,3,0,0,0,2,0,0.00,0.17,0.17,0.00,0.17,Matches
+Thabo Cele,za RSA,"MF,FW",Radomiak Radom,24,1997,13,7,612,6.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jurgen Çelhaka,al ALB,MF,Legia Warsaw,20,2000,14,6,544,6.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fiodor Černych,lt LTU,"FW,MF",Jagiellonia,30,1991,29,19,"1,692",18.8,4,4,8,3,1,1,8,0,0.21,0.21,0.43,0.16,0.37,Matches
+Jhon Chancellor,ve VEN,DF,Zagłębie Lubin,29,1992,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Chodyna,pl POL,"DF,MF",Zagłębie Lubin,22,1999,32,29,"2,615",29.1,4,3,7,2,2,2,6,0,0.14,0.10,0.24,0.07,0.17,Matches
+Mateusz Cholewiak,pl POL,MF,Górnik Zabrze,31,1990,26,10,"1,105",12.3,1,2,3,1,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches
+Bozhidar Chorbadzhiyski,bg BUL,DF,Stal Mielec,25,1995,22,13,"1,228",13.6,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Michał Chrapek,pl POL,MF,Piast Gliwice,29,1992,31,31,"2,626",29.2,4,2,6,4,0,0,5,0,0.14,0.07,0.21,0.14,0.21,Matches
+Adam Chrzanowski,pl POL,DF,Wisła Płock,22,1999,9,8,681,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Cichocki,pl POL,DF,Radomiak Radom,29,1992,33,33,"2,970",33.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radosław Cielemęcki,pl POL,MF,Wisła Płock,18,2003,17,8,663,7.4,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches
+Bartłomiej Ciepiela,pl POL,MF,Legia Warsaw,20,2001,7,1,171,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adrian Cierpka,pl POL,MF,Górnik Łęczna,26,1995,3,1,82,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Clemens,de GER,"MF,FW",Lechia Gdańsk,29,1991,12,5,438,4.9,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches
+Joseph Colley,se SWE,DF,Wisła Kraków,22,1999,11,11,990,11.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Conrado,it ITA,"DF,MF",Lechia Gdańsk,24,1997,33,24,"2,066",23.0,1,3,4,1,0,0,6,0,0.04,0.13,0.17,0.04,0.17,Matches
+Milan Corryn,be BEL,"MF,FW",Warta Poznań,22,1999,21,14,"1,019",11.3,2,1,3,2,0,0,0,0,0.18,0.09,0.26,0.18,0.26,Matches
+
+Jordan Courtney-Perkins,au AUS,DF,RKS Raków,18,2002,2,1,92,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jordan Courtney-Perkins,au AUS,DF,Warta Poznań,18,2002,5,0,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patryk Czarnowski,pl POL,FW,Bruk-Bet Termalica Nieciecza,23,1998,6,1,124,1.4,1,0,1,1,0,0,0,0,0.73,0.00,0.73,0.73,0.73,Matches
+Patryk Czerech,pl POL,DF,Jagiellonia,20,2001,2,2,176,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alan Czerwiński,pl POL,DF,Lech Poznań,28,1993,11,6,472,5.2,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches
+Jakub Czerwiński,pl POL,DF,Piast Gliwice,29,1991,27,27,"2,430",27.0,3,1,4,3,0,0,3,0,0.11,0.04,0.15,0.11,0.15,Matches
+Szymon Czyż,pl POL,MF,RKS Raków,20,2001,8,1,161,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Szymon Czyż,pl POL,MF,Warta Poznań,20,2001,15,13,997,11.1,0,2,2,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+Mateusz Czyżycki,pl POL,"MF,FW",Warta Poznań,23,1998,17,5,586,6.5,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+Damian Dąbrowski,pl POL,MF,Pogoń Szczecin,28,1992,29,28,"2,530",28.1,1,4,5,0,1,1,7,0,0.04,0.14,0.18,0.00,0.14,Matches
+Robert Dadok,pl POL,MF,Górnik Zabrze,24,1996,32,28,"2,344",26.0,3,4,7,3,0,0,5,0,0.12,0.15,0.27,0.12,0.27,Matches
+Erik Daniel,cz CZE,"MF,FW",Zagłębie Lubin,29,1992,31,26,"2,163",24.0,3,3,6,3,0,0,3,0,0.12,0.12,0.25,0.12,0.25,Matches
+Mickey van der Hart,nl NED,GK,Lech Poznań,27,1994,16,16,"1,338",14.9,0,1,1,0,0,0,0,0,0.00,0.07,0.07,0.00,0.07,Matches
+Bassekou Diabaté,ml MLI,"FW,MF",Lechia Gdańsk,21,2000,18,3,496,5.5,0,1,1,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches
+Cheikhou Dieng,sn SEN,"MF,FW",Zagłębie Lubin,27,1993,11,5,473,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Doležal,cz CZE,FW,Zagłębie Lubin,31,1990,15,8,866,9.6,4,1,5,4,0,0,1,0,0.42,0.10,0.52,0.42,0.52,Matches
+Maciej Domański,pl POL,MF,Stal Mielec,30,1990,15,11,"1,013",11.3,1,4,5,0,1,1,3,0,0.09,0.36,0.44,0.00,0.36,Matches
+Andrii Dombrovskyi,ua UKR,MF,Bruk-Bet Termalica Nieciecza,25,1995,8,8,713,7.9,0,1,1,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches
+David Domgjoni,xk KVX,DF,Bruk-Bet Termalica Nieciecza,24,1997,8,6,523,5.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Barry Douglas,sct SCO,DF,Lech Poznań,31,1989,15,13,"1,194",13.3,1,2,3,1,0,0,5,0,0.08,0.15,0.23,0.08,0.23,Matches
+Igor Drapinski,pl POL,DF,Wisła Płock,17,2004,2,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Szymon Drewniak,pl POL,MF,Górnik Łęczna,28,1993,26,14,"1,482",16.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Drygas,pl POL,MF,Pogoń Szczecin,29,1991,24,13,"1,118",12.4,7,0,7,3,4,4,7,0,0.56,0.00,0.56,0.24,0.24,Matches
+Daniel Dudziński,pl POL,FW,Zagłębie Lubin,19,2002,8,0,162,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+İlkay Durmuş,tr TUR,"MF,FW",Lechia Gdańsk,27,1994,33,32,"2,760",30.7,6,3,9,6,0,0,2,0,0.20,0.10,0.29,0.20,0.29,Matches
+
+Adrian Dziedzic,pl POL,MF,Górnik Zabrze,18,2003,10,1,238,2.6,0,1,1,0,0,0,1,0,0.00,0.38,0.38,0.00,0.38,Matches
+Xavier Dziekonski,pl POL,GK,Jagiellonia,17,2003,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Dziwniel,pl POL,"MF,DF",Górnik Łęczna,28,1992,19,13,"1,137",12.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wiktor Długosz,pl POL,MF,RKS Raków,21,2000,17,5,704,7.8,1,0,1,1,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches
+Erik Expósito,es ESP,FW,Śląsk Wrocław,25,1996,28,24,"2,091",23.2,11,2,13,10,1,1,8,0,0.47,0.09,0.56,0.43,0.52,Matches
+Enis Fazlagikj,mk MKD,MF,Wisła Kraków,21,2000,13,11,"1,010",11.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luis Fernández,es ESP,"MF,FW",Wisła Kraków,27,1993,9,6,624,6.9,3,0,3,2,1,1,1,0,0.43,0.00,0.43,0.29,0.29,Matches
+Nikodem Fiedosewicz,pl POL,MF,Warta Poznań,23,1998,3,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcin Flis,pl POL,DF,Stal Mielec,27,1994,27,26,"2,355",26.2,1,0,1,1,0,0,7,0,0.04,0.00,0.04,0.04,0.04,Matches
+Mariusz Fornalczyk,pl POL,MF,Pogoń Szczecin,18,2003,18,6,508,5.6,2,1,3,2,0,0,3,0,0.35,0.18,0.53,0.35,0.53,Matches
+Michal Frydrych,cz CZE,DF,Wisła Kraków,31,1990,31,31,"2,639",29.3,4,1,5,4,0,0,3,3,0.14,0.03,0.17,0.14,0.17,Matches
+Dominik Furman,pl POL,MF,Wisła Płock,29,1992,25,17,"1,565",17.4,0,2,2,0,0,0,6,2,0.00,0.12,0.12,0.00,0.12,Matches
+Luka Gagnidze,ge GEO,MF,RKS Raków,18,2003,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Gajos,pl POL,MF,Lechia Gdańsk,30,1991,31,26,"2,261",25.1,4,1,5,3,1,1,3,0,0.16,0.04,0.20,0.12,0.16,Matches
+Víctor García Marín,es ESP,"MF,DF",Śląsk Wrocław,27,1994,24,15,"1,465",16.3,1,2,3,1,0,0,2,1,0.06,0.12,0.18,0.06,0.18,Matches
+Damian Gąska,pl POL,"MF,FW",Górnik Łęczna,24,1996,27,21,"1,740",19.3,5,4,9,5,0,0,4,0,0.26,0.21,0.47,0.26,0.47,Matches
+Fryderyk Gerbowski,pl POL,MF,Wisła Płock,18,2003,18,8,850,9.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Roman Gergel,sk SVK,"FW,MF",Bruk-Bet Termalica Nieciecza,33,1988,19,11,934,10.4,0,1,1,0,0,1,1,0,0.00,0.10,0.10,0.00,0.10,Matches
+Gerson,br BRA,DF,Górnik Łęczna,29,1992,10,9,747,8.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krystian Getinger,pl POL,"MF,DF",Stal Mielec,32,1988,31,31,"2,704",30.0,2,6,8,2,0,0,8,1,0.07,0.20,0.27,0.07,0.27,Matches
+Virgil Ghiță,ro ROU,DF,Cracovia,23,1998,10,10,818,9.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Gliwa,pl POL,GK,Stal Mielec,33,1988,3,3,270,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Janusz Gol,pl POL,MF,Górnik Łęczna,35,1985,29,29,"2,462",27.4,4,2,6,4,0,0,12,2,0.15,0.07,0.22,0.15,0.22,Matches
+Michal Golinski,pl POL,MF,Górnik Łęczna,21,2000,15,11,824,9.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wojciech Golla,pl POL,DF,Śląsk Wrocław,29,1992,31,31,"2,736",30.4,0,4,4,0,0,0,7,0,0.00,0.13,0.13,0.00,0.13,Matches
+
+Rui Gomes,pt POR,FW,Legia Warsaw,23,1997,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexander Gorgon,at AUT,MF,Pogoń Szczecin,32,1988,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Gostomski,pl POL,GK,Górnik Łęczna,32,1988,32,32,"2,880",32.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcin Grabowski,pl POL,"MF,DF",Bruk-Bet Termalica Nieciecza,21,2000,17,5,568,6.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartłomiej Gradecki,pl POL,GK,Wisła Płock,21,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Albin Granlund,fi FIN,"DF,MF",Stal Mielec,31,1989,17,7,705,7.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Narek Grigoryan,am ARM,MF,Jagiellonia,20,2001,3,0,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jędrzej Grobelny,pl POL,GK,Warta Poznań,20,2001,9,9,810,9.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Grosicki,pl POL,MF,Pogoń Szczecin,33,1988,26,21,"1,825",20.3,9,6,15,9,0,0,3,0,0.44,0.30,0.74,0.44,0.74,Matches
+Mateusz Grudzinski,pl POL,FW,Legia Warsaw,21,2000,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konrad Gruszkowski,pl POL,DF,Wisła Kraków,20,2001,30,28,"2,452",27.2,2,3,5,2,0,0,8,0,0.07,0.11,0.18,0.07,0.18,Matches
+Filip Gryglak,pl POL,MF,Śląsk Wrocław,16,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adrian Gryszkiewicz,pl POL,DF,Górnik Zabrze,21,1999,22,22,"1,969",21.9,1,0,1,1,0,0,9,0,0.05,0.00,0.05,0.05,0.05,Matches
+Jan Grzesik,pl POL,"MF,DF",Warta Poznań,26,1994,34,34,"3,060",34.0,3,1,4,3,0,0,3,0,0.09,0.03,0.12,0.09,0.12,Matches
+Mateusz Grzybek,pl POL,"DF,MF",Bruk-Bet Termalica Nieciecza,25,1996,26,26,"2,142",23.8,2,3,5,2,0,0,5,0,0.08,0.13,0.21,0.08,0.21,Matches
+Marc Gual,es ESP,FW,Jagiellonia,25,1996,7,7,546,6.1,3,0,3,3,0,0,1,0,0.49,0.00,0.49,0.49,0.49,Matches
+Alexandre Guedes,pt POR,FW,RKS Raków,27,1994,8,3,284,3.2,0,1,1,0,0,0,1,0,0.00,0.32,0.32,0.00,0.32,Matches
+Vladislavs Gutkovskis,lv LVA,FW,RKS Raków,26,1995,29,19,"1,785",19.8,9,3,12,9,0,0,2,0,0.45,0.15,0.61,0.45,0.61,Matches
+Valerian Gvilia,ge GEO,MF,RKS Raków,27,1994,21,12,"1,133",12.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sergiu Hanca,ro ROU,"MF,FW",Cracovia,29,1992,31,29,"2,431",27.0,4,4,8,4,0,1,8,1,0.15,0.15,0.30,0.15,0.30,Matches
+Matěj Hanousek,cz CZE,DF,Wisła Kraków,28,1993,31,31,"2,747",30.5,0,5,5,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches
+Tom Hateley,eng ENG,MF,Piast Gliwice,31,1989,23,19,"1,724",19.2,0,3,3,0,0,0,4,0,0.00,0.16,0.16,0.00,0.16,Matches
+Omran Haydary,af AFG,MF,Lechia Gdańsk,23,1998,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mathias Hebo,dk DEN,MF,Cracovia,25,1995,28,20,"1,908",21.2,2,1,3,2,0,0,3,0,0.09,0.05,0.14,0.09,0.14,Matches
+Koki Hinokio,jp JPN,MF,Zagłębie Lubin,20,2001,7,5,446,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Koki Hinokio,jp JPN,"MF,FW",Stal Mielec,20,2001,14,9,791,8.8,1,1,2,1,0,0,1,0,0.11,0.11,0.23,0.11,0.23,Matches
+Adam Hloušek,cz CZE,"MF,DF",Bruk-Bet Termalica Nieciecza,32,1988,10,6,618,6.9,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches
+Jakub Holúbek,sk SVK,"DF,MF",Piast Gliwice,30,1991,23,17,"1,499",16.7,1,1,2,1,0,0,1,0,0.06,0.06,0.12,0.06,0.12,Matches
+Mateusz Hołownia,pl POL,"DF,MF",Legia Warsaw,23,1998,10,10,772,8.6,1,1,2,1,0,0,3,0,0.12,0.12,0.23,0.12,0.23,Matches
+Lukáš Hroššo,sk SVK,GK,Cracovia,34,1987,20,20,"1,800",20.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michal Hubínek,cz CZE,MF,Bruk-Bet Termalica Nieciecza,26,1994,32,23,"2,059",22.9,1,1,2,1,0,0,3,0,0.04,0.04,0.09,0.04,0.09,Matches
+Dor Hugi,il ISR,MF,Wisła Kraków,26,1995,28,6,777,8.6,1,4,5,1,0,0,1,0,0.12,0.46,0.58,0.12,0.58,Matches
+Tomáš Huk,sk SVK,"DF,MF",Piast Gliwice,26,1994,29,29,"2,603",28.9,2,0,2,1,1,1,6,0,0.07,0.00,0.07,0.03,0.03,Matches
+Matěj Hybš,cz CZE,"DF,MF",Bruk-Bet Termalica Nieciecza,28,1993,13,12,"1,038",11.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Javier Hyjek,pl POL,MF,Śląsk Wrocław,20,2001,2,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dominik Hładun,pl POL,GK,Zagłębie Lubin,25,1995,23,23,"2,070",23.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jesús Imaz,es ESP,FW,Jagiellonia,30,1990,16,14,"1,342",14.9,9,2,11,8,1,2,4,0,0.60,0.13,0.74,0.54,0.67,Matches
+Mikael Ishak,se SWE,FW,Lech Poznań,28,1993,31,31,"2,644",29.4,18,6,24,14,4,5,5,0,0.61,0.20,0.82,0.48,0.68,Matches
+Jakub Iskra,pl POL,DF,Śląsk Wrocław,18,2002,8,1,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Robert Ivanov,fi FIN,DF,Warta Poznań,26,1994,31,31,"2,790",31.0,1,2,3,1,0,0,6,0,0.03,0.06,0.10,0.03,0.10,Matches
+Ivi,es ESP,"FW,MF",RKS Raków,27,1994,32,28,"2,460",27.3,20,6,26,14,6,8,2,0,0.73,0.22,0.95,0.51,0.73,Matches
+David Jablonský,cz CZE,DF,Cracovia,29,1991,7,7,585,6.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksander Jagiełło,pl POL,MF,Górnik Łęczna,26,1995,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Jakóbowski,pl POL,"MF,FW",Warta Poznań,28,1992,15,8,653,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damian Jakubik,pl POL,DF,Radomiak Radom,31,1990,24,24,"2,015",22.4,0,2,2,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches
+Patryk Janasik,pl POL,"MF,DF",Śląsk Wrocław,23,1997,24,20,"1,776",19.7,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches
+Rafał Janicki,pl POL,DF,Górnik Zabrze,29,1992,33,33,"2,781",30.9,2,0,2,2,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches
+Maciej Jankowski,pl POL,"FW,MF",Stal Mielec,31,1990,12,4,462,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Erik Janža,si SVN,"MF,DF",Górnik Zabrze,28,1993,32,32,"2,796",31.1,1,6,7,1,0,0,9,1,0.03,0.19,0.23,0.03,0.23,Matches
+Dennis Jastrzembski,pl POL,"MF,FW",Śląsk Wrocław,21,2000,15,9,778,8.6,1,1,2,1,0,0,3,0,0.12,0.12,0.23,0.12,0.23,Matches
+
+Artur Jędrzejczyk,pl POL,DF,Legia Warsaw,33,1987,19,16,"1,424",15.8,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jesús Jiménez,es ESP,"FW,MF",Górnik Zabrze,27,1993,19,19,"1,693",18.8,8,4,12,7,1,1,0,0,0.43,0.21,0.64,0.37,0.58,Matches
+Tomasz Jodłowiec,pl POL,MF,Piast Gliwice,35,1985,5,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mattias Johansson,se SWE,"DF,MF",Legia Warsaw,29,1992,20,18,"1,580",17.6,1,1,2,1,0,0,7,0,0.06,0.06,0.11,0.06,0.11,Matches
+Jorginho,gw GNB,"MF,FW",Wisła Płock,25,1995,22,11,"1,021",11.3,1,2,3,1,0,0,1,0,0.09,0.18,0.26,0.09,0.26,Matches
+Vlastimir Jovanović,ba BIH,MF,Bruk-Bet Termalica Nieciecza,36,1985,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Jugas,cz CZE,DF,Cracovia,29,1992,19,18,"1,581",17.6,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches
+Josip Juranović,hr CRO,"DF,MF",Legia Warsaw,25,1995,2,0,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivo Kaczmarski,pl POL,MF,RKS Raków,17,2004,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damian Kądzior,pl POL,"MF,FW",Piast Gliwice,29,1992,33,28,"2,456",27.3,6,6,12,5,1,2,2,0,0.22,0.22,0.44,0.18,0.40,Matches
+Otar Kakabadze,ge GEO,MF,Cracovia,26,1995,19,12,"1,186",13.2,3,2,5,3,0,0,2,0,0.23,0.15,0.38,0.23,0.38,Matches
+Bartłomiej Kalinkowski,pl POL,"MF,FW",Górnik Łęczna,27,1994,16,6,589,6.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Kamiński,pl POL,MF,Lech Poznań,19,2002,33,33,"2,636",29.3,9,6,15,9,0,0,2,0,0.31,0.20,0.51,0.31,0.51,Matches
+Krzysztof Kamiński,pl POL,GK,Wisła Płock,30,1990,29,29,"2,610",29.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radosław Kanach,pl POL,MF,Cracovia,22,1999,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartosz Kapustka,pl POL,MF,Legia Warsaw,24,1996,4,0,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Kaput,pl POL,MF,Radomiak Radom,23,1998,18,17,"1,480",16.4,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Kaput,pl POL,"MF,DF",Piast Gliwice,23,1998,11,3,341,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jesper Karlström,se SWE,MF,Lech Poznań,26,1995,32,30,"2,507",27.9,1,1,2,1,0,0,5,0,0.04,0.04,0.07,0.04,0.07,Matches
+Meik Karwot,de GER,"MF,FW",Radomiak Radom,28,1993,21,7,772,8.6,0,2,2,0,0,0,3,0,0.00,0.23,0.23,0.00,0.23,Matches
+Arkadiusz Kasparkiewicz,pl POL,"MF,DF",Stal Mielec,26,1994,13,13,"1,063",11.8,1,0,1,1,0,0,8,1,0.08,0.00,0.08,0.08,0.08,Matches
+Lirim Kastrati,xk KVX,"MF,FW",Legia Warsaw,22,1999,15,5,479,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandros Katranis,gr GRE,"DF,MF",Piast Gliwice,23,1998,19,15,"1,381",15.3,0,2,2,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches
+Jakub Kałuziński,pl POL,"MF,FW",Lechia Gdańsk,18,2002,18,13,991,11.0,1,2,3,1,0,0,2,0,0.09,0.18,0.27,0.09,0.27,Matches
+Tomasz Kędziora,pl POL,DF,Lech Poznań,27,1994,6,3,335,3.7,1,0,1,1,0,0,0,0,0.27,0.00,0.27,0.27,0.27,Matches
+
+Ihor Kharatin,ua UKR,"MF,DF",Legia Warsaw,26,1995,11,5,503,5.6,1,0,1,1,0,0,4,1,0.18,0.00,0.18,0.18,0.18,Matches
+Bartosz Kieliba,pl POL,DF,Warta Poznań,30,1990,4,4,315,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paweł Kieszek,pl POL,GK,Wisła Kraków,37,1984,14,14,"1,260",14.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Kiełb,pl POL,"MF,DF",Warta Poznań,28,1993,25,23,"1,787",19.9,0,2,2,0,0,0,6,1,0.00,0.10,0.10,0.00,0.10,Matches
+Jakub Kisiel,pl POL,MF,Legia Warsaw,18,2003,2,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jan Kliment,cz CZE,"FW,MF",Wisła Kraków,27,1993,22,15,"1,342",14.9,2,1,3,2,0,0,3,0,0.13,0.07,0.20,0.13,0.20,Matches
+Karol Knap,,MF,Cracovia,19,2001,15,8,686,7.6,0,1,1,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches
+Karol Knap,pl POL,MF,Cracovia,19,2001,8,5,477,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Kochalski,pl POL,GK,Radomiak Radom,21,2000,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladyslav Kocherhin,ua UKR,FW,RKS Raków,25,1996,3,1,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Kocyła,pl POL,"FW,MF",Bruk-Bet Termalica Nieciecza,19,2002,13,8,670,7.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Kocyła,pl POL,"MF,FW",Wisła Płock,19,2002,11,7,599,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Kolar,hr CRO,"FW,MF",Wisła Płock,26,1995,27,13,"1,182",13.1,4,3,7,4,0,0,3,0,0.30,0.23,0.53,0.30,0.53,Matches
+Aleksandar Kolev,bg BUL,FW,Stal Mielec,28,1992,7,3,277,3.1,1,0,1,1,0,0,1,0,0.32,0.00,0.32,0.32,0.32,Matches
+Martin Konczkowski,pl POL,"DF,MF",Piast Gliwice,27,1993,31,29,"2,536",28.2,2,4,6,2,0,0,1,0,0.07,0.14,0.21,0.07,0.21,Matches
+Yevhen Konoplyanka,ua UKR,"MF,FW",Cracovia,31,1989,10,6,532,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartosz Kopacz,pl POL,DF,Zagłębie Lubin,29,1992,15,15,"1,350",15.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartosz Kopacz,pl POL,DF,Lechia Gdańsk,29,1992,14,10,884,9.8,0,1,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches
+Michał Kopczyński,pl POL,MF,Warta Poznań,29,1992,26,17,"1,623",18.0,2,0,2,0,2,2,3,0,0.11,0.00,0.11,0.00,0.00,Matches
+Filip Koperski,pl POL,DF,Lechia Gdańsk,17,2004,6,3,326,3.6,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches
+Dawid Kort,pl POL,MF,Stal Mielec,26,1995,13,4,379,4.2,0,1,1,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24,Matches
+Kamil Kościelny,pl POL,DF,Stal Mielec,29,1991,8,0,150,1.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tihomir Kostadinov,mk MKD,MF,Piast Gliwice,25,1996,6,3,264,2.9,0,1,1,0,0,0,1,0,0.00,0.34,0.34,0.00,0.34,Matches
+Kacper Kostorz,pl POL,FW,Pogoń Szczecin,21,1999,4,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Kostorz,pl POL,FW,Legia Warsaw,21,1999,3,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Adrian Kostrzewski,pl POL,GK,Górnik Łęczna,22,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladen Kovačević,ba BIH,GK,RKS Raków,23,1998,27,27,"2,430",27.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sebastian Kowalczyk,pl POL,MF,Pogoń Szczecin,22,1998,30,25,"1,978",22.0,6,4,10,4,2,2,4,0,0.27,0.18,0.46,0.18,0.36,Matches
+Dawid Kownacki,pl POL,"MF,FW",Lech Poznań,24,1997,14,6,742,8.2,4,1,5,4,0,0,4,0,0.49,0.12,0.61,0.49,0.61,Matches
+Miłosz Kozak,pl POL,"MF,FW",Radomiak Radom,24,1997,10,7,564,6.3,0,2,2,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32,Matches
+Antoni Kozubal,pl POL,MF,Lech Poznań,16,2004,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Kozłowski,pl POL,MF,Pogoń Szczecin,17,2003,16,12,910,10.1,3,2,5,3,0,0,2,0,0.30,0.20,0.49,0.30,0.49,Matches
+Piotr Krawczyk,pl POL,"FW,MF",Górnik Zabrze,26,1994,30,22,"1,793",19.9,5,1,6,5,0,0,0,0,0.25,0.05,0.30,0.25,0.30,Matches
+Anton Krivotsyuk,az AZE,DF,Wisła Płock,22,1998,16,14,"1,346",15.0,2,1,3,2,0,0,8,0,0.13,0.07,0.20,0.13,0.20,Matches
+Michał Król,pl POL,DF,Górnik Łęczna,21,2000,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Kruk,pl POL,DF,Zagłębie Lubin,21,2000,13,13,"1,170",13.0,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches
+Egzon Kryeziu,si SVN,MF,Lechia Gdańsk,21,2000,13,4,400,4.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Serhij Krykun,ua UKR,MF,Górnik Łęczna,24,1996,32,23,"2,079",23.1,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches
+Oskar Krzyzak,pl POL,DF,RKS Raków,19,2002,3,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Krzyzanski,pl POL,MF,Wisła Płock,19,2001,1,0,14,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Krzysztof Kubica,pl POL,MF,Górnik Zabrze,21,2000,30,28,"2,084",23.2,9,3,12,9,0,0,5,0,0.39,0.13,0.52,0.39,0.52,Matches
+Jarosław Kubicki,pl POL,MF,Lechia Gdańsk,25,1995,30,27,"2,340",26.0,2,1,3,2,0,0,10,0,0.08,0.04,0.12,0.08,0.12,Matches
+Michał Kucharczyk,pl POL,"MF,FW",Pogoń Szczecin,30,1991,32,14,"1,667",18.5,5,1,6,5,0,0,3,0,0.27,0.05,0.32,0.27,0.32,Matches
+Dušan Kuciak,sk SVK,GK,Lechia Gdańsk,36,1985,27,27,"2,430",27.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartłomiej Kukułowicz,pl POL,DF,Bruk-Bet Termalica Nieciecza,20,2000,14,9,831,9.2,0,2,2,0,0,0,3,0,0.00,0.22,0.22,0.00,0.22,Matches
+Patryk Kun,pl POL,MF,RKS Raków,26,1995,30,28,"2,541",28.2,1,3,4,1,0,0,5,0,0.04,0.11,0.14,0.04,0.14,Matches
+Mateusz Kupczak,pl POL,"MF,DF",Warta Poznań,29,1992,32,28,"2,521",28.0,1,2,3,1,0,1,9,0,0.04,0.07,0.11,0.04,0.11,Matches
+Rafał Kurzawa,pl POL,MF,Pogoń Szczecin,28,1993,22,10,"1,056",11.7,1,2,3,1,0,0,3,0,0.09,0.17,0.26,0.09,0.26,Matches
+Patryk Kusztal,pl POL,MF,Zagłębie Lubin,18,2003,3,1,71,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Kuveljić,rs SRB,MF,Wisła Kraków,24,1997,17,4,389,4.3,1,0,1,1,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches
+
+Mateusz Kuzimski,pl POL,"FW,MF",Warta Poznań,30,1991,22,7,834,9.3,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches
+Nika Kvekveskiri,ge GEO,MF,Lech Poznań,29,1992,29,11,"1,200",13.3,2,1,3,2,0,0,4,1,0.15,0.07,0.23,0.15,0.23,Matches
+Bartosz Kwiecień,pl POL,DF,Jagiellonia,27,1994,7,4,374,4.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wiktor Kłos,pl POL,MF,Stal Mielec,21,2000,16,0,293,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartłomiej Kłudka,pl POL,DF,Zagłębie Lubin,19,2002,7,2,197,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dušan Lagator,me MNE,"DF,MF",Wisła Płock,27,1994,22,12,"1,045",11.6,1,0,1,1,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches
+Leândro,br BRA,DF,Górnik Łęczna,37,1983,31,27,"2,476",27.5,0,1,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches
+Ben Lederman,pl POL,MF,RKS Raków,21,2000,23,21,"1,808",20.1,1,2,3,1,0,0,5,0,0.05,0.10,0.15,0.05,0.15,Matches
+Daníel Leó Grétarsson,is ISL,DF,Śląsk Wrocław,25,1995,4,3,234,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Lepczyński,pl POL,DF,Zagłębie Lubin,20,2001,4,2,228,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Lesniak,sk SVK,MF,Wisła Płock,25,1996,26,10,"1,052",11.7,1,0,1,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches
+Szymon Lewkot,pl POL,"DF,MF",Śląsk Wrocław,22,1999,21,18,"1,607",17.9,1,0,1,1,0,0,7,0,0.06,0.00,0.06,0.06,0.06,Matches
+Patryk Lipski,pl POL,MF,Piast Gliwice,27,1994,13,8,774,8.6,0,3,3,0,0,1,1,0,0.00,0.35,0.35,0.00,0.35,Matches
+Adrian Lis,pl POL,GK,Warta Poznań,29,1992,25,25,"2,250",25.0,1,0,1,1,0,0,0,0,0.04,0.00,0.04,0.04,0.04,Matches
+Mateusz Lis,pl POL,GK,Wisła Kraków,24,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jason Lokilo,be BEL,"MF,FW",Górnik Łęczna,22,1998,25,18,"1,664",18.5,2,5,7,2,0,0,4,0,0.11,0.27,0.38,0.11,0.38,Matches
+Rafael Lopes,pt POR,"MF,FW",Legia Warsaw,30,1991,27,13,"1,248",13.9,5,2,7,5,0,0,6,1,0.36,0.14,0.50,0.36,0.50,Matches
+Florian Loshaj,xk KVX,MF,Cracovia,24,1996,21,3,682,7.6,1,1,2,1,0,0,5,0,0.13,0.13,0.26,0.13,0.26,Matches
+Tomasz Loska,pl POL,GK,Bruk-Bet Termalica Nieciecza,25,1996,22,22,"1,980",22.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adriel Loua,ci CIV,MF,Lech Poznań,25,1996,25,14,"1,255",13.9,1,2,3,1,0,0,3,0,0.07,0.14,0.22,0.07,0.22,Matches
+Miguel Luís,pt POR,"FW,MF",RKS Raków,22,1999,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miguel Luís,pt POR,"MF,FW",Warta Poznań,22,1999,14,13,957,10.6,3,1,4,3,0,0,1,0,0.28,0.09,0.38,0.28,0.38,Matches
+Luizão,br BRA,"MF,DF",Radomiak Radom,23,1998,9,7,553,6.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Luquinhas,br BRA,"MF,FW",Legia Warsaw,24,1996,15,11,"1,005",11.2,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches
+Sylwester Lusiusz,pl POL,MF,Cracovia,21,1999,26,17,"1,307",14.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Jakub Lutostanski,pl POL,FW,Jagiellonia,16,2004,3,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luís Machado,pt POR,MF,Radomiak Radom,28,1992,31,27,"1,924",21.4,2,1,3,2,0,0,6,0,0.09,0.05,0.14,0.09,0.14,Matches
+Krzysztof Mączyński,pl POL,MF,Śląsk Wrocław,34,1987,30,25,"2,191",24.3,0,2,2,0,0,0,8,0,0.00,0.08,0.08,0.00,0.08,Matches
+Mahir Madatov,az AZE,"FW,MF",Legia Warsaw,24,1997,15,8,873,9.7,2,1,3,2,0,0,1,0,0.21,0.10,0.31,0.21,0.31,Matches
+Niilo Mäenpää,fi FIN,MF,Warta Poznań,23,1998,12,5,513,5.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aschraf El Mahdioui,nl NED,MF,Wisła Kraków,25,1996,16,16,"1,435",15.9,1,0,1,1,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches
+Filip Majchrowicz,pl POL,GK,Radomiak Radom,21,2000,33,33,"2,970",33.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Przemysław Majewski,pl POL,MF,Stal Mielec,23,1998,4,1,95,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Mak,pl POL,"MF,FW",Stal Mielec,29,1991,20,20,"1,526",17.0,7,3,10,7,0,0,3,0,0.41,0.18,0.59,0.41,0.59,Matches
+Michał Mak,pl POL,MF,Górnik Łęczna,29,1991,24,13,"1,199",13.3,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches
+Rafał Makowski,pl POL,MF,Śląsk Wrocław,24,1996,13,6,557,6.2,1,2,3,1,0,0,2,0,0.16,0.32,0.48,0.16,0.48,Matches
+Tomasz Makowski,pl POL,MF,Lechia Gdańsk,22,1999,15,11,969,10.8,1,1,2,1,0,0,1,0,0.09,0.09,0.19,0.09,0.19,Matches
+Mariusz Malec,pl POL,DF,Pogoń Szczecin,26,1995,14,11,"1,013",11.3,0,1,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches
+Mario Maloča,hr CRO,DF,Lechia Gdańsk,32,1989,31,31,"2,753",30.6,0,2,2,0,0,0,8,0,0.00,0.07,0.07,0.00,0.07,Matches
+Alasana Manneh,gm GAM,MF,Górnik Zabrze,23,1998,30,30,"2,424",26.9,2,2,4,2,0,0,8,0,0.07,0.07,0.15,0.07,0.15,Matches
+Elvis Manu,nl NED,MF,Wisła Kraków,27,1993,11,5,546,6.1,2,1,3,2,0,0,2,0,0.33,0.16,0.49,0.33,0.49,Matches
+Filip Marchwiński,pl POL,MF,Lech Poznań,19,2002,18,0,187,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Abraham Marcus,ng NGA,"MF,FW",Radomiak Radom,21,2000,8,2,297,3.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Higinio Marín,es ESP,FW,Górnik Zabrze,27,1993,7,1,221,2.5,3,0,3,3,0,0,0,0,1.22,0.00,1.22,1.22,1.22,Matches
+André Martins,pt POR,MF,Legia Warsaw,31,1990,11,7,610,6.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Masiak,pl POL,MF,Zagłębie Lubin,16,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luís Mata,pt POR,DF,Pogoń Szczecin,24,1997,30,30,"2,518",28.0,0,4,4,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches
+Tiago Matos,pt POR,"MF,DF",Radomiak Radom,20,2001,20,5,728,8.1,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches
+Mateusz Matras,pl POL,"DF,MF",Stal Mielec,30,1991,34,33,"2,966",33.0,1,1,2,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06,Matches
+Eryk Matus,pl POL,FW,Jagiellonia,20,2001,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Konrad Matuszewski,pl POL,"DF,MF",Warta Poznań,19,2001,25,14,"1,421",15.8,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+Hubert Matynia,pl POL,DF,Pogoń Szczecin,25,1995,3,0,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miłosz Matysik,pl POL,"DF,MF",Jagiellonia,17,2004,13,11,902,10.0,1,1,2,1,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches
+Maurides,br BRA,FW,Radomiak Radom,27,1994,31,22,"1,791",19.9,5,1,6,5,0,0,1,0,0.25,0.05,0.30,0.25,0.30,Matches
+Muris Mešanović,ba BIH,"FW,MF",Bruk-Bet Termalica Nieciecza,31,1990,33,26,"2,185",24.3,11,1,12,10,1,2,3,0,0.45,0.04,0.49,0.41,0.45,Matches
+Damian Michalski,pl POL,DF,Wisła Płock,23,1998,28,26,"2,267",25.2,1,4,5,1,0,0,7,0,0.04,0.16,0.20,0.04,0.20,Matches
+Kacper Michalski,pl POL,DF,Górnik Zabrze,21,2000,2,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tomasz Midzierski,pl POL,DF,Górnik Łęczna,36,1985,17,14,"1,254",13.9,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches
+Antonio Milić,hr CRO,DF,Lech Poznań,27,1994,26,25,"2,230",24.8,4,2,6,4,0,0,3,0,0.16,0.08,0.24,0.16,0.24,Matches
+Cezary Miszta,pl POL,GK,Legia Warsaw,19,2001,15,14,"1,277",14.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Mladenović,rs SRB,"MF,DF",Legia Warsaw,29,1991,19,16,"1,475",16.4,0,1,1,0,0,0,6,1,0.00,0.06,0.06,0.00,0.06,Matches
+Filip Modelski,pl POL,DF,Bruk-Bet Termalica Nieciecza,28,1992,7,3,326,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tomasz Mokwa,pl POL,DF,Piast Gliwice,28,1993,3,2,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alkhaly Momo Cissé,gn GUI,MF,Wisła Kraków,18,2002,8,4,408,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ariel Mosór,pl POL,DF,Piast Gliwice,18,2003,29,24,"2,163",24.0,1,0,1,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04,Matches
+Bartosz Mrozek,pl POL,GK,Stal Mielec,21,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ernest Muçi,al ALB,"MF,FW",Legia Warsaw,20,2001,24,12,"1,078",12.0,4,0,4,4,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches
+Miguel Muñoz,es ESP,DF,Piast Gliwice,24,1996,3,2,185,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radosław Murawski,pl POL,MF,Lech Poznań,27,1994,21,16,"1,254",13.9,1,0,1,1,0,0,0,0,0.07,0.00,0.07,0.07,0.07,Matches
+Sebastian Musiolik,pl POL,FW,RKS Raków,25,1996,29,12,950,10.6,3,0,3,3,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches
+Mykola Musolitin,ua UKR,DF,Lechia Gdańsk,22,1999,4,1,95,1.1,0,1,1,0,0,0,0,0,0.00,0.95,0.95,0.00,0.95,Matches
+Lubambo Musonda,zm ZAM,MF,Śląsk Wrocław,26,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Przemysław Mystkowski,pl POL,"FW,MF",Jagiellonia,23,1998,19,9,773,8.6,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches
+Jakub Myszor,pl POL,"FW,MF",Cracovia,19,2002,26,11,"1,207",13.4,3,2,5,3,0,0,1,0,0.22,0.15,0.37,0.22,0.37,Matches
+Mateusz Młyński,pl POL,MF,Wisła Kraków,20,2001,23,12,"1,052",11.7,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+
+Michał Nalepa,pl POL,MF,Jagiellonia,26,1995,14,7,606,6.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Nalepa,pl POL,DF,Lechia Gdańsk,28,1993,28,28,"2,504",27.8,1,0,1,1,0,0,6,1,0.04,0.00,0.04,0.04,0.04,Matches
+Filipe Nascimento,pt POR,MF,Radomiak Radom,26,1995,26,23,"1,997",22.2,0,4,4,0,0,0,7,1,0.00,0.18,0.18,0.00,0.18,Matches
+Bojan Nastić,ba BIH,"DF,MF",Jagiellonia,27,1994,32,28,"2,428",27.0,0,6,6,0,0,0,5,0,0.00,0.22,0.22,0.00,0.22,Matches
+Tomasz Nawotka,pl POL,MF,Legia Warsaw,24,1997,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maik Nawrocki,pl POL,DF,Legia Warsaw,20,2001,19,18,"1,486",16.5,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches
+Tomasz Neugebauer,pl POL,DF,Lechia Gdańsk,18,2003,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Karol Niemczycki,pl POL,GK,Cracovia,22,1999,14,14,"1,260",14.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrzej Niewulis,pl POL,DF,RKS Raków,32,1989,20,20,"1,769",19.7,2,1,3,2,0,0,5,0,0.10,0.05,0.15,0.10,0.15,Matches
+Bartosz Nowak,pl POL,"FW,MF",Górnik Zabrze,27,1993,34,32,"2,548",28.3,8,7,15,8,0,0,1,0,0.28,0.25,0.53,0.28,0.53,Matches
+Jakub Nowakowski,pl POL,MF,Radomiak Radom,19,2001,3,1,96,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Obradović,rs SRB,DF,Wisła Płock,21,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kamil Ogorzały,pl POL,MF,Cracovia,20,2000,9,1,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patrick Olsen,dk DEN,MF,Śląsk Wrocław,27,1994,12,11,824,9.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paweł Olszewski,pl POL,DF,Jagiellonia,22,1999,13,8,716,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zdeněk Ondrášek,cz CZE,FW,Wisła Kraków,32,1988,14,10,903,10.0,2,0,2,2,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches
+Jakub Orpik,pl POL,MF,Jagiellonia,17,2003,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Orzechowski,pl POL,MF,Bruk-Bet Termalica Nieciecza,20,2001,4,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Orłowski,pl POL,DF,Górnik Łęczna,27,1994,4,4,342,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches
+Robert Ozog,pl POL,MF,Cracovia,21,2000,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Pacheco,es ESP,MF,Górnik Zabrze,30,1991,8,1,202,2.2,1,1,2,1,0,0,0,0,0.45,0.45,0.89,0.45,0.89,Matches
+Flávio Paixão,pt POR,"FW,MF",Lechia Gdańsk,36,1984,32,20,"1,753",19.5,10,6,16,7,3,3,2,0,0.51,0.31,0.82,0.36,0.67,Matches
+Kamil Pajnowski,pl POL,DF,Górnik Łęczna,23,1998,12,10,901,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Pakulski,pl POL,MF,Zagłębie Lubin,23,1998,10,3,382,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Pantić,rs SRB,DF,Zagłębie Lubin,29,1992,9,9,775,8.6,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches
+
+Giannis Papanikolaou,gr GRE,"MF,DF",RKS Raków,22,1998,26,24,"2,108",23.4,1,3,4,1,0,0,9,2,0.04,0.13,0.17,0.04,0.17,Matches
+Jayson Papeau,fr FRA,"MF,FW",Warta Poznań,25,1996,26,18,"1,526",17.0,0,2,2,0,0,0,8,0,0.00,0.12,0.12,0.00,0.12,Matches
+Piotr Parzyszek,pl POL,FW,Pogoń Szczecin,27,1993,27,11,"1,016",11.3,1,2,3,1,0,0,3,0,0.09,0.18,0.27,0.09,0.27,Matches
+Paviel Paŭlučenka,by BLR,GK,Bruk-Bet Termalica Nieciecza,23,1998,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandr Pavlovets,by BLR,DF,Warta Poznań,24,1996,4,2,246,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksander Pawlak,pl POL,"DF,MF",Wisła Płock,19,2001,7,7,555,6.2,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches
+Bartłomiej Pawłowski,pl POL,MF,Śląsk Wrocław,28,1992,12,10,821,9.1,0,2,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches
+Dariusz Pawłowski,pl POL,"MF,DF",Górnik Zabrze,22,1999,17,8,860,9.6,1,3,4,1,0,0,2,0,0.10,0.31,0.42,0.10,0.42,Matches
+Michał Pazdan,pl POL,DF,Jagiellonia,33,1987,27,26,"2,348",26.1,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches
+Jakub Pek,pl POL,MF,Bruk-Bet Termalica Nieciecza,20,2000,3,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tomáš Pekhart,cz CZE,FW,Legia Warsaw,32,1989,31,23,"1,999",22.2,9,2,11,8,1,1,6,0,0.41,0.09,0.50,0.36,0.45,Matches
+Joel Pereira,pt POR,DF,Lech Poznań,24,1996,28,20,"1,836",20.4,0,7,7,0,0,0,1,1,0.00,0.34,0.34,0.00,0.34,Matches
+Josué Pesqueira,pt POR,MF,Legia Warsaw,30,1990,30,28,"2,492",27.7,2,14,16,2,0,0,7,1,0.07,0.51,0.58,0.07,0.58,Matches
+Kamil Pestka,pl POL,"DF,MF",Cracovia,22,1998,27,23,"2,029",22.5,4,3,7,4,0,0,4,1,0.18,0.13,0.31,0.18,0.31,Matches
+Tomáš Petrášek,cz CZE,DF,RKS Raków,29,1992,25,23,"2,166",24.1,2,0,2,2,0,0,10,0,0.08,0.00,0.08,0.08,0.08,Matches
+Fabian Piasecki,pl POL,FW,Stal Mielec,26,1995,13,13,"1,106",12.3,4,4,8,3,1,2,3,0,0.33,0.33,0.65,0.24,0.57,Matches
+Fabian Piasecki,pl POL,FW,Śląsk Wrocław,26,1995,19,9,841,9.3,3,1,4,2,1,1,4,0,0.32,0.11,0.43,0.21,0.32,Matches
+Róbert Pich,sk SVK,"MF,FW",Śląsk Wrocław,32,1988,32,22,"2,013",22.4,6,1,7,3,3,3,0,0,0.27,0.04,0.31,0.13,0.18,Matches
+Tomasz Pieńko,pl POL,MF,Zagłębie Lubin,17,2004,13,1,209,2.3,1,1,2,1,0,0,0,0,0.43,0.43,0.86,0.43,0.86,Matches
+Rafał Pietrzak,pl POL,DF,Lechia Gdańsk,29,1992,29,15,"1,547",17.2,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches
+Ían Pino,es ESP,DF,Zagłębie Lubin,25,1996,9,7,668,7.4,0,1,1,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches
+Filip Piszczek,pl POL,"FW,MF",Jagiellonia,26,1995,5,3,174,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Piszczek,pl POL,FW,Cracovia,26,1995,8,5,391,4.3,2,0,2,2,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches
+František Plach,sk SVK,GK,Piast Gliwice,29,1992,33,33,"2,970",33.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patryk Plewka,pl POL,MF,Wisła Kraków,21,2000,17,12,988,11.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Karol Podliński,pl POL,FW,Zagłębie Lubin,23,1997,20,4,631,7.0,0,2,2,0,0,0,0,0,0.00,0.29,0.29,0.00,0.29,Matches
+Lukas Podolski,de GER,"FW,MF",Górnik Zabrze,36,1985,27,24,"2,215",24.6,9,4,13,9,0,0,8,0,0.37,0.16,0.53,0.37,0.53,Matches
+Marko Poletanović,rs SRB,MF,Wisła Kraków,28,1993,10,10,834,9.3,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches
+Marko Poletanović,rs SRB,MF,RKS Raków,28,1993,19,16,"1,335",14.8,1,1,2,0,1,1,2,0,0.07,0.07,0.13,0.00,0.07,Matches
+Artem Polyarus,ua UKR,MF,Bruk-Bet Termalica Nieciecza,29,1992,3,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konrad Poprawa,pl POL,DF,Śląsk Wrocław,23,1998,4,2,159,1.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+David Poręba,us USA,MF,Stal Mielec,18,2002,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Łukasz Poręba,pl POL,MF,Zagłębie Lubin,21,2000,29,23,"2,101",23.3,1,2,3,1,0,0,10,0,0.04,0.09,0.13,0.04,0.13,Matches
+Martin Pospíšil,cz CZE,MF,Jagiellonia,30,1991,33,27,"2,329",25.9,0,4,4,0,0,0,5,0,0.00,0.15,0.15,0.00,0.15,Matches
+Tomáš Poznar,cz CZE,FW,Bruk-Bet Termalica Nieciecza,32,1988,11,7,645,7.2,2,2,4,2,0,0,4,0,0.28,0.28,0.56,0.28,0.56,Matches
+Mateusz Praszelik,pl POL,"FW,MF",Śląsk Wrocław,20,2000,15,14,"1,110",12.3,4,3,7,4,0,0,0,0,0.32,0.24,0.57,0.32,0.57,Matches
+Tomáš Přikryl,cz CZE,"MF,DF",Jagiellonia,29,1992,28,27,"2,314",25.7,6,3,9,6,0,0,4,0,0.23,0.12,0.35,0.23,0.35,Matches
+Damian Primel,pl POL,GK,Stal Mielec,29,1992,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Israel Puerto,es ESP,DF,Jagiellonia,28,1993,19,19,"1,619",18.0,3,1,4,3,0,0,3,1,0.17,0.06,0.22,0.17,0.22,Matches
+Artem Putivtsev,ua UKR,DF,Bruk-Bet Termalica Nieciecza,32,1988,18,16,"1,446",16.1,1,1,2,1,0,0,8,0,0.06,0.06,0.12,0.06,0.12,Matches
+Matúš Putnocký,sk SVK,GK,Śląsk Wrocław,36,1984,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Arkadiusz Pyrka,pl POL,MF,Piast Gliwice,18,2002,30,14,"1,491",16.6,2,2,4,2,0,0,2,0,0.12,0.12,0.24,0.12,0.24,Matches
+Caye Quintana,es ESP,"MF,FW",Śląsk Wrocław,27,1993,25,9,833,9.3,2,0,2,2,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches
+Dani Quintana,es ESP,MF,Jagiellonia,34,1987,3,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bogdan Racovitan,ro ROU,DF,RKS Raków,21,2000,3,2,113,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Radecki,pl POL,"FW,MF",Radomiak Radom,28,1993,21,10,"1,009",11.2,1,2,3,1,0,0,3,0,0.09,0.18,0.27,0.09,0.27,Matches
+Adam Radwański,pl POL,"MF,FW",Bruk-Bet Termalica Nieciecza,23,1998,26,19,"1,579",17.5,2,2,4,2,0,0,2,0,0.11,0.11,0.23,0.11,0.23,Matches
+Michał Rakoczy,pl POL,"MF,FW",Cracovia,19,2002,24,16,"1,196",13.3,3,0,3,3,0,0,2,0,0.23,0.00,0.23,0.23,0.23,Matches
+Mikołaj Rakowski,pl POL,MF,Warta Poznań,19,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dani Ramírez,es ESP,MF,Lech Poznań,29,1992,26,7,750,8.3,1,4,5,1,0,0,2,0,0.12,0.48,0.60,0.12,0.60,Matches
+
+Cornel Râpă,ro ROU,"DF,MF",Cracovia,31,1990,33,32,"2,915",32.4,3,1,4,3,0,0,3,0,0.09,0.03,0.12,0.09,0.12,Matches
+Damian Rasak,pl POL,MF,Wisła Płock,25,1996,27,21,"1,941",21.6,3,2,5,3,0,0,3,0,0.14,0.09,0.23,0.14,0.23,Matches
+Adam Ratajczyk,pl POL,"MF,DF",Zagłębie Lubin,19,2002,11,4,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pedro Rebocho,pt POR,DF,Lech Poznań,26,1995,21,21,"1,844",20.5,1,4,5,1,0,0,1,0,0.05,0.20,0.24,0.05,0.24,Matches
+Constantin Reiner,at AUT,DF,Piast Gliwice,24,1997,6,4,328,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rhuan,br BRA,FW,Radomiak Radom,21,2000,5,0,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yuri Ribeiro,pt POR,"DF,MF",Legia Warsaw,24,1997,12,10,807,9.0,0,1,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches
+Sebastian Ring,se SWE,DF,Wisła Kraków,26,1995,6,3,290,3.2,1,0,1,1,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches
+Rivaldinho,br BRA,FW,Cracovia,26,1995,19,7,806,9.0,1,1,2,1,0,1,1,0,0.11,0.11,0.22,0.11,0.22,Matches
+Jean Carlos Silva Rocha,br BRA,MF,Pogoń Szczecin,25,1996,34,21,"1,759",19.5,2,3,5,2,0,0,2,0,0.10,0.15,0.26,0.10,0.26,Matches
+Luís Augusto Martins Rocha,pt POR,"MF,DF",Cracovia,28,1993,13,4,417,4.6,0,1,1,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches
+Matej Rodin,hr CRO,DF,Cracovia,25,1996,32,32,"2,880",32.0,2,1,3,2,0,0,9,0,0.06,0.03,0.09,0.06,0.09,Matches
+Mario Rodriguez,es ESP,MF,Warta Poznań,24,1997,16,5,596,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Thomas Rogne,no NOR,DF,Lech Poznań,31,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Taras Romanchuk,pl POL,MF,Jagiellonia,29,1991,30,30,"2,700",30.0,3,0,3,3,0,0,10,0,0.10,0.00,0.10,0.10,0.10,Matches
+Mario Rondón,ve VEN,"FW,MF",Radomiak Radom,35,1986,23,5,666,7.4,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches
+Lindsay Rose,mu MRI,DF,Legia Warsaw,29,1992,19,16,"1,514",16.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Rosołek,pl POL,"MF,FW",Legia Warsaw,19,2001,16,14,"1,134",12.6,3,3,6,3,0,0,3,0,0.24,0.24,0.48,0.24,0.48,Matches
+Leândro Rossi,br BRA,"MF,FW",Radomiak Radom,32,1988,33,32,"2,616",29.1,4,2,6,4,0,1,3,0,0.14,0.07,0.21,0.14,0.21,Matches
+Michał Rostkowski,pl POL,MF,Górnik Zabrze,20,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Rundić,rs SRB,DF,RKS Raków,29,1992,18,13,"1,070",11.9,1,2,3,1,0,0,1,0,0.08,0.17,0.25,0.08,0.25,Matches
+Bartosz Rymaniak,pl POL,DF,Górnik Łęczna,31,1989,24,19,"1,717",19.1,0,1,1,0,0,0,6,0,0.00,0.05,0.05,0.00,0.05,Matches
+Jakub Rzeźniczak,pl POL,DF,Wisła Płock,34,1986,28,25,"2,265",25.2,0,1,1,0,0,0,13,2,0.00,0.04,0.04,0.00,0.04,Matches
+Damir Sadiković,ba BIH,MF,Cracovia,26,1995,11,9,685,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Sadlok,pl POL,DF,Wisła Kraków,32,1989,20,16,"1,390",15.4,1,0,1,1,0,0,5,0,0.06,0.00,0.06,0.06,0.06,Matches
+
+Kacper Sadłocha,fo FRO,MF,Stal Mielec,20,2000,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartosz Salamon,pl POL,DF,Lech Poznań,30,1991,25,25,"2,250",25.0,3,0,3,3,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+Grzegorz Sandomierski,pl POL,GK,Górnik Zabrze,31,1989,20,20,"1,800",20.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Sangowski,pl POL,FW,Warta Poznań,19,2002,6,0,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vamara Sanogo,fr FRA,FW,Górnik Zabrze,26,1995,8,0,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jô Santos,br BRA,MF,Radomiak Radom,30,1991,5,1,185,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Sapała,pl POL,MF,RKS Raków,25,1995,9,1,204,2.3,0,1,1,0,0,0,2,0,0.00,0.44,0.44,0.00,0.44,Matches
+Rauno Sappinen,ee EST,FW,Piast Gliwice,25,1996,8,5,369,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ľubomír Šatka,sk SVK,DF,Lech Poznań,25,1995,25,22,"1,967",21.9,1,2,3,1,0,0,2,0,0.05,0.09,0.14,0.05,0.14,Matches
+Stefan Savic,at AUT,MF,Wisła Kraków,27,1994,25,16,"1,289",14.3,3,4,7,3,0,0,1,0,0.21,0.28,0.49,0.21,0.49,Matches
+Aleksandar Šćekić,me MNE,MF,Zagłębie Lubin,29,1991,11,10,855,9.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petr Schwarz,cz CZE,"MF,FW",Śląsk Wrocław,29,1991,31,28,"2,429",27.0,2,1,3,2,0,1,5,1,0.07,0.04,0.11,0.07,0.11,Matches
+Łukasz Sekulski,pl POL,FW,Wisła Płock,30,1990,28,23,"1,899",21.1,13,2,15,13,0,0,4,1,0.62,0.09,0.71,0.62,0.71,Matches
+Jean Sepp Mvondo,cm CMR,MF,Górnik Zabrze,23,1998,16,4,561,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Álex Serrano,es ESP,"MF,FW",Górnik Łęczna,26,1995,26,18,"1,528",17.0,0,2,2,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches
+Kacper Sezonienko,pl POL,"MF,FW",Lechia Gdańsk,18,2003,26,8,918,10.2,1,4,5,1,0,0,5,0,0.10,0.39,0.49,0.10,0.49,Matches
+Ilya Shkurin,by BLR,FW,RKS Raków,21,1999,2,1,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gonçalo Silva,pt POR,DF,Radomiak Radom,30,1991,11,9,731,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lorenco Šimić,hr CRO,DF,Zagłębie Lubin,25,1996,7,7,606,6.7,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches
+Michal Sipľak,sk SVK,"MF,DF",Cracovia,25,1996,24,19,"1,691",18.8,0,4,4,0,0,0,6,0,0.00,0.21,0.21,0.00,0.21,Matches
+Maksymilian Sitek,pl POL,"MF,FW",Stal Mielec,20,2000,33,33,"2,627",29.2,3,3,6,3,0,0,5,0,0.10,0.10,0.21,0.10,0.21,Matches
+Kacper Skibicki,pl POL,"MF,DF",Legia Warsaw,19,2001,17,11,855,9.5,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches
+Michał Skóraś,pl POL,MF,Lech Poznań,21,2000,29,11,"1,187",13.2,2,1,3,2,0,0,4,0,0.15,0.08,0.23,0.15,0.23,Matches
+Mateusz Skrzypczak,pl POL,DF,Lech Poznań,20,2000,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michal Škvarka,sk SVK,MF,Wisła Kraków,28,1992,28,22,"1,854",20.6,2,4,6,2,0,0,1,0,0.10,0.19,0.29,0.10,0.29,Matches
+
+Bartosz Slisz,pl POL,MF,Legia Warsaw,22,1999,32,31,"2,543",28.3,1,2,3,1,0,0,11,0,0.04,0.07,0.11,0.04,0.11,Matches
+Kacper Smoliński,pl POL,MF,Pogoń Szczecin,20,2001,7,4,345,3.8,0,1,1,0,0,0,1,0,0.00,0.26,0.26,0.00,0.26,Matches
+Jakub Snopczynski,pl POL,MF,Radomiak Radom,16,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alex Sobczyk,at AUT,FW,Górnik Zabrze,24,1997,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Artur Sobiech,pl POL,FW,Lech Poznań,31,1990,12,0,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hubert Sobol,pl POL,MF,Wisła Kraków,21,2000,7,0,82,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Waldemar Sobota,pl POL,"MF,FW",Śląsk Wrocław,34,1987,20,11,994,11.0,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches
+Dominik Sokół,pl POL,MF,Radomiak Radom,22,1999,22,0,239,2.7,1,0,1,1,0,0,2,0,0.38,0.00,0.38,0.38,0.38,Matches
+Patryk Sokołowski,pl POL,MF,Legia Warsaw,26,1994,14,10,905,10.1,2,0,2,2,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches
+Patryk Sokołowski,pl POL,MF,Piast Gliwice,26,1994,19,19,"1,710",19.0,5,0,5,5,0,0,3,0,0.26,0.00,0.26,0.26,0.26,Matches
+Mateusz Sopocko,pl POL,MF,Warta Poznań,22,1999,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Deian Sorescu,ro ROU,MF,RKS Raków,23,1997,9,8,722,8.0,1,1,2,1,0,0,1,0,0.12,0.12,0.25,0.12,0.25,Matches
+Thiago Souza,br BRA,MF,Cracovia,24,1997,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bartosz Śpiączka,pl POL,FW,Górnik Łęczna,29,1991,27,26,"2,242",24.9,11,0,11,10,1,1,7,0,0.44,0.00,0.44,0.40,0.40,Matches
+Kacper Śpiewak,pl POL,FW,Bruk-Bet Termalica Nieciecza,21,2000,28,13,"1,357",15.1,2,0,2,2,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+Dariusz Stalmach,pl POL,MF,Górnik Zabrze,15,2005,17,3,462,5.1,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches
+Filip Starzyński,pl POL,MF,Zagłębie Lubin,30,1991,27,22,"1,853",20.6,6,2,8,5,1,3,3,0,0.29,0.10,0.39,0.24,0.34,Matches
+Piotr Starzynski,pl POL,"MF,FW",Wisła Kraków,17,2004,18,6,560,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aron Stasiak,pl POL,FW,Pogoń Szczecin,22,1999,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+David Stec,at AUT,DF,Lechia Gdańsk,27,1994,5,5,430,4.8,0,1,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches
+Dominik Steczyk,pl POL,"FW,MF",Stal Mielec,22,1999,11,7,652,7.2,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches
+Dominik Steczyk,pl POL,"MF,FW",Piast Gliwice,22,1999,12,2,303,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Samuel Štefánik,sk SVK,"MF,FW",Bruk-Bet Termalica Nieciecza,29,1991,30,20,"1,803",20.0,1,4,5,1,0,0,2,0,0.05,0.20,0.25,0.05,0.25,Matches
+Pāvels Šteinbors,lv LVA,GK,Jagiellonia,35,1985,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dino Štiglec,hr CRO,"MF,DF",Śląsk Wrocław,30,1990,23,19,"1,578",17.5,1,5,6,1,0,0,3,0,0.06,0.29,0.34,0.06,0.34,Matches
+
+Dante Stipica,hr CRO,GK,Pogoń Szczecin,30,1991,34,34,"3,060",34.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Stojiljković,rs SRB,FW,Piast Gliwice,28,1992,8,1,139,1.5,1,0,1,1,0,0,0,0,0.65,0.00,0.65,0.65,0.65,Matches
+Paweł Stolarski,pl POL,DF,Pogoń Szczecin,25,1996,17,10,945,10.5,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches
+Rafał Strączek,pl POL,GK,Stal Mielec,22,1999,26,26,"2,340",26.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Richard Strebinger,at AUT,GK,Legia Warsaw,28,1993,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Karol Struski,pl POL,"MF,FW",Jagiellonia,20,2001,28,19,"1,610",17.9,1,2,3,1,0,0,7,0,0.06,0.11,0.17,0.06,0.17,Matches
+Igor Strzałek,pl POL,MF,Legia Warsaw,17,2004,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fábio Sturgeon,pt POR,"FW,MF",RKS Raków,27,1994,23,14,"1,044",11.6,1,1,2,1,0,0,3,1,0.09,0.09,0.17,0.09,0.17,Matches
+Luka Šušnjara,si SVN,MF,Wisła Płock,24,1997,4,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Świdzikowski,pl POL,DF,Radomiak Radom,31,1989,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jan Sýkora,cz CZE,MF,Lech Poznań,27,1993,4,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michal Szalachowski,pl POL,FW,Górnik Łęczna,17,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miłosz Szczepański,pl POL,"FW,MF",Lechia Gdańsk,23,1998,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miłosz Szczepański,pl POL,"MF,FW",Warta Poznań,23,1998,13,6,593,6.6,2,1,3,2,0,0,0,0,0.30,0.15,0.46,0.30,0.46,Matches
+Kryspin Szczesniak,pl POL,DF,Górnik Łęczna,20,2001,25,22,"2,043",22.7,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Adrian Szczutowski,pl POL,FW,Stal Mielec,20,2000,10,1,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcin Szeibe,pl POL,FW,Warta Poznań,21,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Szelągowski,pl POL,"MF,FW",RKS Raków,18,2002,14,2,282,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Szelągowski,pl POL,MF,Warta Poznań,18,2002,5,2,183,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kajetan Szmyt,pl POL,FW,Warta Poznań,19,2002,6,0,85,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Szot,pl POL,DF,Wisła Kraków,20,2001,12,6,594,6.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Serafin Szota,pl POL,DF,Wisła Kraków,22,1999,15,12,"1,152",12.8,1,0,1,1,0,0,4,1,0.08,0.00,0.08,0.08,0.08,Matches
+Łukasz Szramowski,pl POL,MF,Górnik Łęczna,19,2002,12,5,442,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michał Szromnik,pl POL,GK,Śląsk Wrocław,28,1993,25,25,"2,250",25.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Szwoch,pl POL,MF,Wisła Płock,28,1993,31,31,"2,660",29.6,5,4,9,3,2,2,8,0,0.17,0.14,0.30,0.10,0.24,Matches
+
+Jakub Szymanski,pl POL,DF,Górnik Zabrze,19,2002,11,5,645,7.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Karol Szymański,pl POL,GK,Piast Gliwice,28,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dawid Szymonowicz,pl POL,DF,Warta Poznań,26,1995,20,19,"1,676",18.6,2,0,2,2,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches
+Patryk Szysz,pl POL,"MF,FW",Zagłębie Lubin,23,1998,33,30,"2,507",27.9,11,6,17,8,3,3,3,0,0.39,0.22,0.61,0.29,0.50,Matches
+Oliwier Sławiński,pl POL,FW,Zagłębie Lubin,16,2005,3,0,49,0.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Tabiś,pl POL,"MF,DF",Jagiellonia,21,2000,18,6,548,6.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Márk Tamás,hu HUN,DF,Śląsk Wrocław,27,1993,10,10,847,9.4,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Tekijaški,rs SRB,DF,Bruk-Bet Termalica Nieciecza,24,1997,26,24,"2,064",22.9,1,0,1,1,0,0,4,1,0.04,0.00,0.04,0.04,0.04,Matches
+Ernest Terpiłowski,pl POL,"FW,MF",Bruk-Bet Termalica Nieciecza,19,2001,11,6,603,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+Marco Terrazzino,de GER,MF,Lechia Gdańsk,30,1991,22,11,999,11.1,4,1,5,4,0,0,4,0,0.36,0.09,0.45,0.36,0.45,Matches
+Pedro Tiba,pt POR,MF,Lech Poznań,32,1988,25,12,"1,217",13.5,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+Bogdan Țîru,ro ROU,DF,Jagiellonia,27,1994,25,21,"1,925",21.4,0,1,1,0,0,0,4,1,0.00,0.05,0.05,0.00,0.05,Matches
+Dawid Tkacz,pl POL,MF,Górnik Łęczna,16,2005,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristers Tobers,lv LVA,DF,Lechia Gdańsk,20,2000,11,4,403,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kacper Tobiasz,pl POL,GK,Legia Warsaw,18,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Grzegorz Tomasiewicz,pl POL,MF,Stal Mielec,25,1996,33,33,"2,881",32.0,8,2,10,2,6,7,6,0,0.25,0.06,0.31,0.06,0.12,Matches
+Piotr Tomasik,pl POL,"DF,MF",Wisła Płock,33,1987,29,27,"2,401",26.7,2,4,6,2,0,0,10,0,0.07,0.15,0.22,0.07,0.22,Matches
+Krzysztof Toporkiewicz,pl POL,MF,Jagiellonia,19,2002,5,2,164,1.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Toril,es ESP,FW,Piast Gliwice,24,1997,32,17,"1,687",18.7,6,3,9,6,0,0,3,0,0.32,0.16,0.48,0.32,0.48,Matches
+David Toshevski,mk MKD,FW,Górnik Zabrze,20,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Łukasz Trałka,pl POL,"DF,MF",Warta Poznań,37,1984,31,30,"2,491",27.7,1,2,3,1,0,0,7,1,0.04,0.07,0.11,0.04,0.11,Matches
+Kacper Trelowski,pl POL,GK,RKS Raków,17,2003,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Konstantinos Triantafyllopoulos,gr GRE,DF,Pogoń Szczecin,28,1993,30,30,"2,670",29.7,3,0,3,3,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches
+Andrzej Trubeha,pl POL,FW,Jagiellonia,23,1997,24,5,670,7.4,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+Heorhii Tsitaishvili,ge GEO,MF,Wisła Kraków,20,2000,7,6,546,6.1,1,2,3,1,0,0,1,0,0.16,0.33,0.49,0.16,0.49,Matches
+
+Fran Tudor,hr CRO,"MF,DF",RKS Raków,25,1995,31,31,"2,722",30.2,2,7,9,1,1,2,10,0,0.07,0.23,0.30,0.03,0.26,Matches
+Veton Tusha,xk KVX,FW,Bruk-Bet Termalica Nieciecza,18,2002,3,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Patryk Tuszyński,pl POL,FW,Wisła Płock,31,1989,20,3,526,5.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Twarowski,pl POL,FW,Jagiellonia,20,2001,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tomasz Tymosiak,pl POL,MF,Górnik Łęczna,28,1993,7,3,221,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Žarko Udovičić,rs SRB,MF,RKS Raków,33,1987,3,2,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maciej Urbańczyk,pl POL,MF,Stal Mielec,26,1995,28,18,"1,491",16.6,0,2,2,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches
+Alan Uryga,pl POL,DF,Wisła Kraków,27,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristián Vallo,sk SVK,"MF,DF",Wisła Płock,23,1998,27,22,"1,904",21.2,1,4,5,1,0,0,2,0,0.05,0.19,0.24,0.05,0.24,Matches
+Roland Varga,hu HUN,"FW,MF",Bruk-Bet Termalica Nieciecza,31,1990,4,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marcel Vasil,sk SVK,MF,Bruk-Bet Termalica Nieciecza,20,2001,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kristoffer Velde,no NOR,MF,Lech Poznań,21,1999,8,5,339,3.8,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches
+Benjamin Verbič,si SVN,MF,Legia Warsaw,27,1993,7,2,244,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Diogo Verdasca,pt POR,DF,Śląsk Wrocław,24,1996,22,19,"1,722",19.1,1,1,2,1,0,0,5,0,0.05,0.05,0.10,0.05,0.10,Matches
+Kristopher Vida,hu HUN,"MF,FW",Piast Gliwice,26,1995,26,17,"1,338",14.9,3,2,5,3,0,0,4,0,0.20,0.13,0.34,0.20,0.34,Matches
+Krystian Wachowiak,pl POL,MF,Wisła Kraków,19,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tomasz Walczak,pl POL,FW,Wisła Płock,15,2005,6,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damian Warchoł,pl POL,"MF,FW",Wisła Płock,26,1995,18,9,919,10.2,6,2,8,6,0,0,2,0,0.59,0.20,0.78,0.59,0.78,Matches
+Marcin Wasielewski,pl POL,"DF,MF",Bruk-Bet Termalica Nieciecza,26,1994,15,10,873,9.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jakub Wawszczyk,pl POL,DF,Stal Mielec,23,1998,3,1,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Wdowiak,pl POL,"MF,FW",RKS Raków,24,1996,33,23,"2,163",24.0,7,2,9,7,0,0,3,0,0.29,0.08,0.37,0.29,0.37,Matches
+Bartłomiej Wdowik,pl POL,"MF,DF",Jagiellonia,20,2000,23,11,"1,099",12.2,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches
+Marcel Wędrychowski,pl POL,"MF,FW",Górnik Łęczna,19,2002,18,9,769,8.5,1,1,2,1,0,0,2,0,0.12,0.12,0.23,0.12,0.23,Matches
+Damian Węglarz,pl POL,GK,Wisła Płock,25,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Wieteska,pl POL,DF,Legia Warsaw,24,1997,30,30,"2,692",29.9,4,1,5,4,0,0,8,0,0.13,0.03,0.17,0.13,0.17,Matches
+
+Kamil Wilczek,pl POL,"FW,MF",Piast Gliwice,33,1988,13,12,956,10.6,5,0,5,4,1,1,2,0,0.47,0.00,0.47,0.38,0.38,Matches
+Maciej Wilusz,pl POL,DF,RKS Raków,32,1988,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michal Wisniewski,pl POL,MF,Cracovia,22,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Przemysław Wiśniewski,pl POL,DF,Górnik Zabrze,23,1998,33,33,"2,935",32.6,0,1,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches
+Piotr Wlazło,pl POL,MF,Bruk-Bet Termalica Nieciecza,32,1989,30,28,"2,473",27.5,9,1,10,3,6,9,8,0,0.33,0.04,0.36,0.11,0.15,Matches
+Jakub Wójcicki,pl POL,"DF,MF",Zagłębie Lubin,33,1988,16,7,600,6.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oliwier Wojciechowski,pl POL,MF,Jagiellonia,16,2005,6,2,261,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paweł Wojciechowski,pl POL,FW,Górnik Łęczna,31,1990,10,1,181,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Norbert Wojtuszek,pl POL,MF,Górnik Zabrze,19,2001,8,0,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rafał Wolski,pl POL,"MF,FW",Wisła Płock,28,1992,26,23,"1,711",19.0,4,7,11,3,1,1,6,0,0.21,0.37,0.58,0.16,0.53,Matches
+Konrad Wrzesiński,pl POL,"MF,DF",Stal Mielec,27,1993,18,6,652,7.2,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches
+Paweł Wszołek,pl POL,MF,Legia Warsaw,29,1992,14,12,"1,091",12.1,6,3,9,6,0,0,0,0,0.49,0.25,0.74,0.49,0.74,Matches
+Dominik Wydra,at AUT,DF,RKS Raków,27,1994,3,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Wyjadłowski,pl POL,MF,Stal Mielec,21,2000,3,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michael Wyparło,pl POL,MF,Stal Mielec,17,2003,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Szymon Włodarczyk,pl POL,FW,Legia Warsaw,18,2003,7,0,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Yaw Yeboah,gh GHA,MF,Wisła Kraków,24,1997,19,17,"1,316",14.6,5,1,6,4,1,1,1,0,0.34,0.07,0.41,0.27,0.34,Matches
+Luka Zahović,si SVN,FW,Pogoń Szczecin,25,1995,30,21,"1,683",18.7,11,4,15,11,0,0,2,0,0.59,0.21,0.80,0.59,0.80,Matches
+Tomáš Zajíc,cz CZE,FW,Zagłębie Lubin,24,1996,10,9,682,7.6,2,1,3,2,0,0,1,0,0.26,0.13,0.40,0.26,0.40,Matches
+Patryk Zaucha,pl POL,MF,Cracovia,21,2000,5,4,259,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Oskar Zawada,pl POL,FW,Stal Mielec,25,1996,10,7,675,7.5,3,0,3,3,0,0,2,0,0.40,0.00,0.40,0.40,0.40,Matches
+Damian Zbozień,pl POL,DF,Wisła Płock,32,1989,13,10,862,9.6,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches
+Benedikt Zech,at AUT,DF,Pogoń Szczecin,30,1990,24,23,"1,983",22.0,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Zeman,cz CZE,"MF,FW",Bruk-Bet Termalica Nieciecza,32,1989,13,2,352,3.9,0,1,1,0,0,0,2,0,0.00,0.26,0.26,0.00,0.26,Matches
+Ilya Zhigulyov,ru RUS,MF,Zagłębie Lubin,25,1996,13,6,506,5.6,0,1,1,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches
+
+Georgy Zhukov,kz KAZ,MF,Wisła Kraków,26,1994,18,12,"1,058",11.8,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches
+Mateusz Ziolkowski,pl POL,FW,Górnik Zabrze,17,2003,2,0,40,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Saša Živec,si SVN,"MF,FW",Zagłębie Lubin,30,1991,18,9,837,9.3,2,1,3,2,0,0,1,0,0.22,0.11,0.32,0.22,0.32,Matches
+Łukasz Zjawiński,pl POL,FW,Lechia Gdańsk,20,2001,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adam Zreľák,sk SVK,FW,Warta Poznań,27,1994,29,24,"2,084",23.2,9,2,11,9,0,1,4,0,0.39,0.09,0.48,0.39,0.48,Matches
+Jakub Żubrowski,pl POL,MF,Zagłębie Lubin,29,1992,16,10,905,10.1,1,1,2,1,0,0,6,0,0.10,0.10,0.20,0.10,0.20,Matches
+Mateusz Żukowski,pl POL,DF,Lechia Gdańsk,19,2001,18,12,"1,217",13.5,2,1,3,2,0,0,2,0,0.15,0.07,0.22,0.15,0.22,Matches
+Maciej Żurawski,pl POL,MF,Pogoń Szczecin,20,2000,20,10,914,10.2,3,0,3,3,0,0,3,1,0.30,0.00,0.30,0.30,0.30,Matches
+Łukasz Zwoliński,pl POL,FW,Lechia Gdańsk,28,1993,32,25,"2,114",23.5,13,0,13,13,0,1,5,0,0.55,0.00,0.55,0.55,0.55,Matches
+Marcel Zylla,pl POL,"MF,FW",Śląsk Wrocław,21,2000,11,3,402,4.5,1,1,2,1,0,0,0,0,0.22,0.22,0.45,0.22,0.45,Matches
+Bartosz Zynek,pl POL,FW,Wisła Płock,19,2002,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paweł Żyra,pl POL,MF,Bruk-Bet Termalica Nieciecza,23,1998,5,2,233,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateusz Żyro,pl POL,"DF,MF",Stal Mielec,22,1998,32,28,"2,526",28.1,2,0,2,2,0,0,7,1,0.07,0.00,0.07,0.07,0.07,Matches
+Michał Żyro,pl POL,"FW,MF",Jagiellonia,28,1992,13,5,569,6.3,1,1,2,1,0,0,1,0,0.16,0.16,0.32,0.16,0.32,Matches
+Michał Żyro,pl POL,"FW,MF",Piast Gliwice,28,1992,4,3,193,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radoslaw Zysk,pl POL,FW,Jagiellonia,18,2003,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Łukasz Łakomy,pl POL,MF,Zagłębie Lubin,20,2001,20,16,"1,269",14.1,1,2,3,1,0,0,3,0,0.07,0.14,0.21,0.07,0.21,Matches
+Igor Łasicki,pl POL,DF,Pogoń Szczecin,26,1995,5,5,450,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleks Ławniczak,pl POL,DF,Zagłębie Lubin,22,1999,8,6,560,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleks Ławniczak,pl POL,DF,Warta Poznań,22,1999,12,10,954,10.6,0,2,2,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches
+Mateusz Łęgowski,pl POL,MF,Pogoń Szczecin,18,2003,19,4,687,7.6,1,1,2,1,0,0,3,0,0.13,0.13,0.26,0.13,0.26,Matches
+Daniel Łukasik,pl POL,MF,Radomiak Radom,30,1991,12,10,870,9.7,0,1,1,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches
+Adrian Łyszczarz,pl POL,FW,Śląsk Wrocław,21,1999,20,1,380,4.2,5,0,5,5,0,0,0,0,1.18,0.00,1.18,1.18,1.18,Matches
