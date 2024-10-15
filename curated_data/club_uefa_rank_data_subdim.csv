@@ -1,0 +1,786 @@
+club_id,club,confederation,country,uefa_rating,uefa_season_ranking,overall_uefa_rating,overall_uefa_club_rank,season
+1,AEK Athens,UEFA,Greece,1,69,4,83,2021_2022
+1,AEK Athens,UEFA,Greece,-1,-1,4,83,2022_2023
+1,AEK Athens,UEFA,Greece,3,57,4,83,2023_2024
+2,AGF,UEFA,Denmark,1,69,3,88,2021_2022
+2,AGF,UEFA,Denmark,-1,-1,3,88,2022_2023
+2,AGF,UEFA,Denmark,1,75,3,88,2023_2024
+3,AO Kifisia,,,-1,-1,-1,-1,
+4,AZ Alkmaar,UEFA,Netherlands,13,31,36,34,2021_2022
+4,AZ Alkmaar,UEFA,Netherlands,19,13,36,34,2022_2023
+4,AZ Alkmaar,UEFA,Netherlands,4,56,36,34,2023_2024
+5,Aalborg,,,-1,-1,-1,-1,
+5,Aalborg,,,-1,-1,-1,-1,
+6,Adana Demirspor,,,-1,-1,-1,-1,
+6,Adana Demirspor,,,-1,-1,-1,-1,
+6,Adana Demirspor,,,-1,-1,-1,-1,
+7,Admira,UEFA,Austria,-1,-1,0,102,2021_2022
+8,Ajaccio,,,-1,-1,-1,-1,
+9,Ajax,UEFA,Netherlands,22,10,35,35,2021_2022
+9,Ajax,UEFA,Netherlands,8,42,35,35,2022_2023
+9,Ajax,UEFA,Netherlands,5,54,35,35,2023_2024
+10,Alanyaspor,,,-1,-1,-1,-1,
+10,Alanyaspor,,,-1,-1,-1,-1,
+10,Alanyaspor,,,-1,-1,-1,-1,
+11,Alavés,,,-1,-1,-1,-1,
+11,Alavés,,,-1,-1,-1,-1,
+12,Almere City,,,-1,-1,-1,-1,
+13,Almería,,,-1,-1,-1,-1,
+13,Almería,,,-1,-1,-1,-1,
+14,Altay,,,-1,-1,-1,-1,
+15,Anderlecht,UEFA,Belgium,2,61,12,60,2021_2022
+15,Anderlecht,UEFA,Belgium,10,39,12,60,2022_2023
+15,Anderlecht,UEFA,Belgium,-1,-1,12,60,2023_2024
+16,Angers,,,-1,-1,-1,-1,
+16,Angers,,,-1,-1,-1,-1,
+17,Ankaragücü,,,-1,-1,-1,-1,
+17,Ankaragücü,,,-1,-1,-1,-1,
+18,Antalyaspor,,,-1,-1,-1,-1,
+18,Antalyaspor,,,-1,-1,-1,-1,
+18,Antalyaspor,,,-1,-1,-1,-1,
+19,Antwerp,UEFA,Belgium,4,54,12,60,2021_2022
+19,Antwerp,UEFA,Belgium,2,57,12,60,2022_2023
+19,Antwerp,UEFA,Belgium,6,49,12,60,2023_2024
+20,Apollon Smyrnis,,,-1,-1,-1,-1,
+21,Arda,UEFA,Bulgaria,1,69,1,98,2021_2022
+21,Arda,UEFA,Bulgaria,-1,-1,1,98,2022_2023
+21,Arda,UEFA,Bulgaria,-1,-1,1,98,2023_2024
+22,Aris,UEFA,Greece,1,69,5,77,2021_2022
+22,Aris,UEFA,Greece,2,66,5,77,2022_2023
+22,Aris,UEFA,Greece,2,70,5,77,2023_2024
+23,Arminia,,,-1,-1,-1,-1,
+24,Arouca,UEFA,Portugal,-1,-1,2,95,2021_2022
+24,Arouca,UEFA,Portugal,-1,-1,2,95,2022_2023
+24,Arouca,UEFA,Portugal,2,70,2,95,2023_2024
+25,Arsenal,UEFA,England,-1,-1,39,30,2021_2022
+25,Arsenal,UEFA,England,17,23,39,30,2022_2023
+25,Arsenal,UEFA,England,22,10,39,30,2023_2024
+26,Asteras Tripoli,UEFA,Greece,-1,-1,0,102,2021_2022
+26,Asteras Tripoli,UEFA,Greece,-1,-1,0,102,2022_2023
+26,Asteras Tripoli,UEFA,Greece,-1,-1,0,102,2023_2024
+27,Aston Villa,UEFA,England,-1,-1,17,53,2021_2022
+27,Aston Villa,UEFA,England,-1,-1,17,53,2022_2023
+27,Aston Villa,UEFA,England,17,22,17,53,2023_2024
+28,Atalanta,UEFA,Italy,16,22,44,24,2021_2022
+28,Atalanta,UEFA,Italy,-1,-1,44,24,2022_2023
+28,Atalanta,UEFA,Italy,28,4,44,24,2023_2024
+29,Athletic Club,UEFA,Spain,-1,-1,0,102,2021_2022
+29,Athletic Club,UEFA,Spain,-1,-1,0,102,2022_2023
+29,Athletic Club,UEFA,Spain,-1,-1,0,102,2023_2024
+30,Atlético Madrid,UEFA,Spain,19,15,51,15,2021_2022
+30,Atlético Madrid,UEFA,Spain,8,42,51,15,2022_2023
+30,Atlético Madrid,UEFA,Spain,24,7,51,15,2023_2024
+31,Atromitos,UEFA,Greece,-1,-1,0,102,2021_2022
+31,Atromitos,UEFA,Greece,-1,-1,0,102,2022_2023
+31,Atromitos,UEFA,Greece,-1,-1,0,102,2023_2024
+32,Augsburg,,,-1,-1,-1,-1,
+32,Augsburg,,,-1,-1,-1,-1,
+32,Augsburg,,,-1,-1,-1,-1,
+33,Austria Wien,UEFA,Austria,1,69,6,75,2021_2022
+33,Austria Wien,UEFA,Austria,2,57,6,75,2022_2023
+33,Austria Wien,UEFA,Austria,2,70,6,75,2023_2024
+34,Auxerre,,,-1,-1,-1,-1,
+35,B-SAD,,,-1,-1,-1,-1,
+36,Barcelona,UEFA,Spain,-1,-1,47,19,2021_2022
+36,Barcelona,UEFA,Spain,15,26,47,19,2021_2022
+36,Barcelona,UEFA,Spain,-1,-1,47,19,2022_2023
+36,Barcelona,UEFA,Spain,9,40,47,19,2022_2023
+36,Barcelona,UEFA,Spain,-1,-1,47,19,2023_2024
+36,Barcelona,UEFA,Spain,23,8,47,19,2023_2024
+37,Bayern Munich,UEFA,Germany,26,5,81,3,2021_2022
+37,Bayern Munich,UEFA,Germany,27,5,81,3,2022_2023
+37,Bayern Munich,UEFA,Germany,28,4,81,3,2023_2024
+38,Başakşehir,,,-1,-1,-1,-1,
+38,Başakşehir,,,-1,-1,-1,-1,
+38,Başakşehir,,,-1,-1,-1,-1,
+39,Beerschot,,,-1,-1,-1,-1,
+40,Benfica,UEFA,Portugal,20,13,59,11,2021_2022
+40,Benfica,UEFA,Portugal,25,6,59,11,2022_2023
+40,Benfica,UEFA,Portugal,14,31,59,11,2023_2024
+41,Beroe,UEFA,Bulgaria,-1,-1,0,102,2021_2022
+41,Beroe,UEFA,Bulgaria,-1,-1,0,102,2022_2023
+41,Beroe,UEFA,Bulgaria,-1,-1,0,102,2023_2024
+42,Betis,UEFA,Spain,11,36,33,37,2021_2022
+42,Betis,UEFA,Spain,16,27,33,37,2022_2023
+42,Betis,UEFA,Spain,6,49,33,37,2023_2024
+43,Beşiktaş,,,-1,-1,-1,-1,
+43,Beşiktaş,,,-1,-1,-1,-1,
+43,Beşiktaş,,,-1,-1,-1,-1,
+44,Blau-Weiß Linz,,,-1,-1,-1,-1,
+45,Boavista,,,-1,-1,-1,-1,
+45,Boavista,,,-1,-1,-1,-1,
+45,Boavista,,,-1,-1,-1,-1,
+46,Bochum,,,-1,-1,-1,-1,
+46,Bochum,,,-1,-1,-1,-1,
+46,Bochum,,,-1,-1,-1,-1,
+47,Bologna,UEFA,Italy,-1,-1,0,102,2021_2022
+47,Bologna,UEFA,Italy,-1,-1,0,102,2022_2023
+47,Bologna,UEFA,Italy,-1,-1,0,102,2023_2024
+48,Bordeaux,UEFA,France,-1,-1,0,102,2021_2022
+49,Botev Plovdiv,UEFA,Bulgaria,-1,-1,1,98,2021_2022
+49,Botev Plovdiv,UEFA,Bulgaria,1,72,1,98,2022_2023
+49,Botev Plovdiv,UEFA,Bulgaria,-1,-1,1,98,2023_2024
+50,Botev Vratsa,,,-1,-1,-1,-1,
+50,Botev Vratsa,,,-1,-1,-1,-1,
+50,Botev Vratsa,,,-1,-1,-1,-1,
+51,Bournemouth,,,-1,-1,-1,-1,
+51,Bournemouth,,,-1,-1,-1,-1,
+52,Braga,UEFA,Portugal,16,22,30,41,2021_2022
+52,Braga,UEFA,Portugal,7,48,30,41,2022_2023
+52,Braga,UEFA,Portugal,7,43,30,41,2023_2024
+53,Brentford,,,-1,-1,-1,-1,
+53,Brentford,,,-1,-1,-1,-1,
+53,Brentford,,,-1,-1,-1,-1,
+54,Brest,UEFA,France,-1,-1,0,102,2021_2022
+54,Brest,UEFA,France,-1,-1,0,102,2022_2023
+54,Brest,UEFA,France,-1,-1,0,102,2023_2024
+55,Brighton,UEFA,England,-1,-1,14,56,2021_2022
+55,Brighton,UEFA,England,-1,-1,14,56,2022_2023
+55,Brighton,UEFA,England,14,31,14,56,2023_2024
+56,Bruk-Bet Termalica Nieciecza,,,-1,-1,-1,-1,
+57,Brøndby,UEFA,Denmark,3,58,5,78,2021_2022
+57,Brøndby,UEFA,Denmark,2,66,5,78,2022_2023
+57,Brøndby,UEFA,Denmark,-1,-1,5,78,2023_2024
+58,Burnley,UEFA,England,-1,-1,0,102,2021_2022
+58,Burnley,UEFA,England,-1,-1,0,102,2023_2024
+59,CSKA 1948,UEFA,Bulgaria,-1,-1,1,98,2021_2022
+59,CSKA 1948,UEFA,Bulgaria,-1,-1,1,98,2022_2023
+59,CSKA 1948,UEFA,Bulgaria,1,75,1,98,2023_2024
+60,CSKA Sofia,UEFA,Bulgaria,1,75,5,78,2021_2022
+60,CSKA Sofia,UEFA,Bulgaria,2,57,5,78,2022_2023
+60,CSKA Sofia,UEFA,Bulgaria,1,75,5,78,2023_2024
+61,Cagliari,,,-1,-1,-1,-1,
+61,Cagliari,,,-1,-1,-1,-1,
+62,Cambuur,,,-1,-1,-1,-1,
+62,Cambuur,,,-1,-1,-1,-1,
+63,Casa Pia,,,-1,-1,-1,-1,
+63,Casa Pia,,,-1,-1,-1,-1,
+64,Celta Vigo,UEFA,Spain,-1,-1,0,102,2021_2022
+64,Celta Vigo,UEFA,Spain,-1,-1,0,102,2022_2023
+64,Celta Vigo,UEFA,Spain,-1,-1,0,102,2023_2024
+65,Cercle Brugge,UEFA,Belgium,-1,-1,0,102,2021_2022
+65,Cercle Brugge,UEFA,Belgium,-1,-1,0,102,2022_2023
+65,Cercle Brugge,UEFA,Belgium,-1,-1,0,102,2023_2024
+66,Charleroi,UEFA,Belgium,-1,-1,0,102,2021_2022
+66,Charleroi,UEFA,Belgium,-1,-1,0,102,2022_2023
+66,Charleroi,UEFA,Belgium,-1,-1,0,102,2023_2024
+67,Chaves,,,-1,-1,-1,-1,
+67,Chaves,,,-1,-1,-1,-1,
+68,Chelsea,UEFA,England,25,6,46,22,2021_2022
+68,Chelsea,UEFA,England,21,10,46,22,2022_2023
+68,Chelsea,UEFA,England,-1,-1,46,22,2023_2024
+69,Cherno More,UEFA,Bulgaria,-1,-1,0,102,2021_2022
+69,Cherno More,UEFA,Bulgaria,-1,-1,0,102,2022_2023
+69,Cherno More,UEFA,Bulgaria,-1,-1,0,102,2023_2024
+70,Clermont Foot,,,-1,-1,-1,-1,
+70,Clermont Foot,,,-1,-1,-1,-1,
+70,Clermont Foot,,,-1,-1,-1,-1,
+71,Club Brugge,UEFA,Belgium,7,47,45,23,2021_2022
+71,Club Brugge,UEFA,Belgium,17,23,45,23,2022_2023
+71,Club Brugge,UEFA,Belgium,21,12,45,23,2023_2024
+72,Cracovia,UEFA,Poland,-1,-1,0,102,2021_2022
+72,Cracovia,UEFA,Poland,-1,-1,0,102,2022_2023
+72,Cracovia,UEFA,Poland,-1,-1,0,102,2023_2024
+73,Cremonese,,,-1,-1,-1,-1,
+74,Crystal Palace,,,-1,-1,-1,-1,
+74,Crystal Palace,,,-1,-1,-1,-1,
+74,Crystal Palace,,,-1,-1,-1,-1,
+75,Cádiz,,,-1,-1,-1,-1,
+75,Cádiz,,,-1,-1,-1,-1,
+75,Cádiz,,,-1,-1,-1,-1,
+76,Darmstadt 98,,,-1,-1,-1,-1,
+77,Dortmund,UEFA,Germany,10,38,57,12,2021_2022
+77,Dortmund,UEFA,Germany,18,19,57,12,2022_2023
+77,Dortmund,UEFA,Germany,29,2,57,12,2023_2024
+78,Eint Frankfurt,UEFA,Germany,28,3,51,15,2021_2022
+78,Eint Frankfurt,UEFA,Germany,16,27,51,15,2022_2023
+78,Eint Frankfurt,UEFA,Germany,7,43,51,15,2023_2024
+79,Elche,,,-1,-1,-1,-1,
+79,Elche,,,-1,-1,-1,-1,
+80,Emmen,,,-1,-1,-1,-1,
+81,Empoli,,,-1,-1,-1,-1,
+81,Empoli,,,-1,-1,-1,-1,
+81,Empoli,,,-1,-1,-1,-1,
+82,Espanyol,,,-1,-1,-1,-1,
+82,Espanyol,,,-1,-1,-1,-1,
+83,Estoril,,,-1,-1,-1,-1,
+83,Estoril,,,-1,-1,-1,-1,
+83,Estoril,,,-1,-1,-1,-1,
+84,Estrela,,,-1,-1,-1,-1,
+85,Etar,,,-1,-1,-1,-1,
+86,Eupen,,,-1,-1,-1,-1,
+86,Eupen,,,-1,-1,-1,-1,
+86,Eupen,,,-1,-1,-1,-1,
+87,Everton,UEFA,England,-1,-1,0,102,2021_2022
+87,Everton,UEFA,England,-1,-1,0,102,2022_2023
+87,Everton,UEFA,England,-1,-1,0,102,2023_2024
+88,Excelsior,,,-1,-1,-1,-1,
+88,Excelsior,,,-1,-1,-1,-1,
+89,FC Copenhagen,UEFA,Denmark,13,31,72,4,2021_2022
+89,FC Copenhagen,UEFA,France,14,29,72,4,2021_2022
+89,FC Copenhagen,UEFA,Portugal,2,61,72,4,2021_2022
+89,FC Copenhagen,UEFA,Denmark,7,48,72,4,2022_2023
+89,FC Copenhagen,UEFA,France,11,36,72,4,2022_2023
+89,FC Copenhagen,UEFA,Portugal,-1,-1,72,4,2022_2023
+89,FC Copenhagen,UEFA,Denmark,15,29,72,4,2023_2024
+89,FC Copenhagen,UEFA,France,10,35,72,4,2023_2024
+89,FC Copenhagen,UEFA,Portugal,-1,-1,72,4,2023_2024
+90,FC Spartak Varna,,,-1,-1,-1,-1,
+91,FK IMT Novi Beograd,UEFA,Serbia,2,63,17,51,2023_2024
+92,FK Kolubara,,,-1,-1,-1,-1,
+92,FK Kolubara,,,-1,-1,-1,-1,
+93,FK Levski 2005,,,-1,-1,-1,-1,
+94,FK Mladost Novi Sad,UEFA,Serbia,-1,-1,3,86,2022_2023
+95,FK Železničar Pančevo,,,-1,-1,-1,-1,
+96,Famalicão,,,-1,-1,-1,-1,
+96,Famalicão,,,-1,-1,-1,-1,
+96,Famalicão,,,-1,-1,-1,-1,
+97,Farense,,,-1,-1,-1,-1,
+98,Fatih Karagümrük,,,-1,-1,-1,-1,
+98,Fatih Karagümrük,,,-1,-1,-1,-1,
+98,Fatih Karagümrük,,,-1,-1,-1,-1,
+99,Fenerbahçe,,,-1,-1,-1,-1,
+99,Fenerbahçe,,,-1,-1,-1,-1,
+99,Fenerbahçe,,,-1,-1,-1,-1,
+100,Feyenoord,UEFA,Netherlands,24,7,49,18,2021_2022
+100,Feyenoord,UEFA,Netherlands,17,23,49,18,2022_2023
+100,Feyenoord,UEFA,Netherlands,8,41,49,18,2023_2024
+101,Fiorentina,UEFA,Italy,-1,-1,42,27,2021_2022
+101,Fiorentina,UEFA,Italy,20,12,42,27,2022_2023
+101,Fiorentina,UEFA,Italy,22,10,42,27,2023_2024
+102,Fortuna Sittard,,,-1,-1,-1,-1,
+102,Fortuna Sittard,,,-1,-1,-1,-1,
+102,Fortuna Sittard,,,-1,-1,-1,-1,
+103,Freiburg,UEFA,Germany,-1,-1,28,43,2021_2022
+103,Freiburg,UEFA,Germany,15,30,28,43,2022_2023
+103,Freiburg,UEFA,Germany,13,33,28,43,2023_2024
+104,Frosinone,,,-1,-1,-1,-1,
+105,Fulham,,,-1,-1,-1,-1,
+105,Fulham,,,-1,-1,-1,-1,
+106,Galatasaray,,,-1,-1,-1,-1,
+106,Galatasaray,,,-1,-1,-1,-1,
+106,Galatasaray,,,-1,-1,-1,-1,
+107,Gaziantep FK,UEFA,Serbia,-1,-1,8,68,2021_2022
+107,Gaziantep FK,UEFA,Serbia,2,65,8,68,2021_2022
+107,Gaziantep FK,UEFA,Serbia,1,72,8,68,2022_2023
+107,Gaziantep FK,UEFA,Serbia,2,66,8,68,2022_2023
+107,Gaziantep FK,UEFA,Serbia,-1,-1,8,68,2023_2024
+107,Gaziantep FK,UEFA,Serbia,2,63,8,68,2023_2024
+108,Genk,UEFA,Belgium,4,54,11,63,2021_2022
+108,Genk,UEFA,Belgium,-1,-1,11,63,2022_2023
+108,Genk,UEFA,Belgium,7,43,11,63,2023_2024
+109,Genoa,,,-1,-1,-1,-1,
+109,Genoa,,,-1,-1,-1,-1,
+110,Gent,UEFA,Belgium,11,36,32,40,2021_2022
+110,Gent,UEFA,Belgium,11,36,32,40,2022_2023
+110,Gent,UEFA,Belgium,10,35,32,40,2023_2024
+111,Getafe,UEFA,Spain,-1,-1,0,102,2021_2022
+111,Getafe,UEFA,Spain,-1,-1,0,102,2022_2023
+111,Getafe,UEFA,Spain,-1,-1,0,102,2023_2024
+112,Gil Vicente FC,UEFA,Portugal,-1,-1,2,90,2021_2022
+112,Gil Vicente FC,UEFA,Portugal,2,57,2,90,2022_2023
+112,Gil Vicente FC,UEFA,Portugal,-1,-1,2,90,2023_2024
+113,Giresunspor,,,-1,-1,-1,-1,
+113,Giresunspor,,,-1,-1,-1,-1,
+114,Girona,UEFA,Spain,-1,-1,0,102,2022_2023
+114,Girona,UEFA,Spain,-1,-1,0,102,2023_2024
+115,Gladbach,UEFA,Germany,-1,-1,0,102,2021_2022
+115,Gladbach,UEFA,Germany,-1,-1,0,102,2022_2023
+115,Gladbach,UEFA,Germany,-1,-1,0,102,2023_2024
+116,Go Ahead Eag,UEFA,Netherlands,-1,-1,0,102,2021_2022
+116,Go Ahead Eag,UEFA,Netherlands,-1,-1,0,102,2022_2023
+116,Go Ahead Eag,UEFA,Netherlands,-1,-1,0,102,2023_2024
+117,Granada,UEFA,Spain,-1,-1,0,102,2021_2022
+117,Granada,UEFA,Spain,-1,-1,0,102,2023_2024
+118,Greuther Fürth,,,-1,-1,-1,-1,
+119,Groningen,,,-1,-1,-1,-1,
+119,Groningen,,,-1,-1,-1,-1,
+120,Górnik Zabrze,UEFA,Poland,-1,-1,0,102,2021_2022
+120,Górnik Zabrze,UEFA,Poland,-1,-1,0,102,2022_2023
+120,Górnik Zabrze,UEFA,Poland,-1,-1,0,102,2023_2024
+121,Górnik Łęczna,,,-1,-1,-1,-1,
+122,Göztepe,,,-1,-1,-1,-1,
+123,Hartberg,UEFA,Austria,-1,-1,0,102,2021_2022
+123,Hartberg,UEFA,Austria,-1,-1,0,102,2022_2023
+123,Hartberg,UEFA,Austria,-1,-1,0,102,2023_2024
+124,Hatayspor,,,-1,-1,-1,-1,
+124,Hatayspor,,,-1,-1,-1,-1,
+124,Hatayspor,,,-1,-1,-1,-1,
+125,Heerenveen,,,-1,-1,-1,-1,
+125,Heerenveen,,,-1,-1,-1,-1,
+125,Heerenveen,,,-1,-1,-1,-1,
+126,Heidenheim,UEFA,Germany,-1,-1,0,102,2023_2024
+127,Hellas Verona,,,-1,-1,-1,-1,
+127,Hellas Verona,,,-1,-1,-1,-1,
+127,Hellas Verona,,,-1,-1,-1,-1,
+128,Heracles Almelo,UEFA,Netherlands,-1,-1,0,102,2021_2022
+128,Heracles Almelo,UEFA,Netherlands,-1,-1,0,102,2023_2024
+129,Hertha BSC,UEFA,Germany,-1,-1,0,102,2021_2022
+129,Hertha BSC,UEFA,Germany,-1,-1,0,102,2022_2023
+130,Hoffenheim,UEFA,Germany,-1,-1,0,102,2021_2022
+130,Hoffenheim,UEFA,Germany,-1,-1,0,102,2022_2023
+130,Hoffenheim,UEFA,Germany,-1,-1,0,102,2023_2024
+131,Horsens,,,-1,-1,-1,-1,
+132,Hvidovre IF,,,-1,-1,-1,-1,
+133,Inter,UEFA,Italy,18,17,67,7,2021_2022
+133,Inter,UEFA,Italy,29,2,67,7,2022_2023
+133,Inter,UEFA,Italy,20,14,67,7,2023_2024
+134,Ionikos,,,-1,-1,-1,-1,
+134,Ionikos,,,-1,-1,-1,-1,
+135,Jagiellonia,UEFA,Poland,-1,-1,0,102,2021_2022
+135,Jagiellonia,UEFA,Poland,-1,-1,0,102,2022_2023
+135,Jagiellonia,UEFA,Poland,-1,-1,0,102,2023_2024
+136,Javor Ivanjica,,,-1,-1,-1,-1,
+136,Javor Ivanjica,,,-1,-1,-1,-1,
+137,Juventus,UEFA,Italy,20,13,37,33,2021_2022
+137,Juventus,UEFA,Italy,17,23,37,33,2022_2023
+137,Juventus,UEFA,Italy,-1,-1,37,33,2023_2024
+138,Kasımpaşa,,,-1,-1,-1,-1,
+138,Kasımpaşa,,,-1,-1,-1,-1,
+138,Kasımpaşa,,,-1,-1,-1,-1,
+139,Kayserispor,,,-1,-1,-1,-1,
+139,Kayserispor,,,-1,-1,-1,-1,
+139,Kayserispor,,,-1,-1,-1,-1,
+140,Konyaspor,,,-1,-1,-1,-1,
+140,Konyaspor,,,-1,-1,-1,-1,
+140,Konyaspor,,,-1,-1,-1,-1,
+141,Korona Kielce,,,-1,-1,-1,-1,
+141,Korona Kielce,,,-1,-1,-1,-1,
+142,Kortrijk,,,-1,-1,-1,-1,
+142,Kortrijk,,,-1,-1,-1,-1,
+142,Kortrijk,,,-1,-1,-1,-1,
+143,Köln,UEFA,Germany,-1,-1,6,75,2021_2022
+143,Köln,UEFA,Germany,6,50,6,75,2022_2023
+143,Köln,UEFA,Germany,-1,-1,6,75,2023_2024
+144,LASK,UEFA,Austria,15,26,18,50,2021_2022
+144,LASK,UEFA,Austria,-1,-1,18,50,2022_2023
+144,LASK,UEFA,Austria,3,57,18,50,2023_2024
+145,Las Palmas,,,-1,-1,-1,-1,
+146,Lazio,UEFA,Italy,9,41,33,37,2021_2022
+146,Lazio,UEFA,Italy,6,50,33,37,2022_2023
+146,Lazio,UEFA,Italy,18,18,33,37,2023_2024
+147,Le Havre,,,-1,-1,-1,-1,
+148,Lecce,,,-1,-1,-1,-1,
+148,Lecce,,,-1,-1,-1,-1,
+149,Lech Poznań,UEFA,Poland,-1,-1,16,55,2021_2022
+149,Lech Poznań,UEFA,Poland,14,31,16,55,2022_2023
+149,Lech Poznań,UEFA,Poland,2,70,16,55,2023_2024
+150,Lechia Gdańsk,UEFA,Poland,-1,-1,1,98,2021_2022
+150,Lechia Gdańsk,UEFA,Poland,1,72,1,98,2022_2023
+151,Leeds United,,,-1,-1,-1,-1,
+151,Leeds United,,,-1,-1,-1,-1,
+152,Legia Warsaw,UEFA,Poland,4,54,13,58,2021_2022
+152,Legia Warsaw,UEFA,Poland,-1,-1,13,58,2022_2023
+152,Legia Warsaw,UEFA,Poland,9,39,13,58,2023_2024
+153,Leicester City,UEFA,England,13,31,13,58,2021_2022
+153,Leicester City,UEFA,England,-1,-1,13,58,2022_2023
+154,Lens,UEFA,France,-1,-1,10,64,2021_2022
+154,Lens,UEFA,France,-1,-1,10,64,2022_2023
+154,Lens,UEFA,France,10,35,10,64,2023_2024
+155,Levadiakos,,,-1,-1,-1,-1,
+156,Levante,,,-1,-1,-1,-1,
+157,Leverkusen,UEFA,Germany,14,29,62,9,2021_2022
+157,Leverkusen,UEFA,Germany,19,13,62,9,2022_2023
+157,Leverkusen,UEFA,Germany,29,2,62,9,2023_2024
+158,Levski Sofia,UEFA,Bulgaria,-1,-1,4,83,2021_2022
+158,Levski Sofia,UEFA,Bulgaria,2,66,4,83,2022_2023
+158,Levski Sofia,UEFA,Bulgaria,2,63,4,83,2023_2024
+159,Lille,UEFA,France,17,19,34,36,2021_2022
+159,Lille,UEFA,France,-1,-1,34,36,2022_2023
+159,Lille,UEFA,France,17,22,34,36,2023_2024
+160,Liverpool,UEFA,England,33,1,72,5,2021_2022
+160,Liverpool,UEFA,England,19,13,72,5,2022_2023
+160,Liverpool,UEFA,England,20,14,72,5,2023_2024
+161,Loko Plovdiv,UEFA,Bulgaria,2,65,2,95,2021_2022
+161,Loko Plovdiv,UEFA,Bulgaria,-1,-1,2,95,2022_2023
+161,Loko Plovdiv,UEFA,Bulgaria,-1,-1,2,95,2023_2024
+162,Lokomotiv Sofia,,,-1,-1,-1,-1,
+162,Lokomotiv Sofia,,,-1,-1,-1,-1,
+162,Lokomotiv Sofia,,,-1,-1,-1,-1,
+163,Lorient,,,-1,-1,-1,-1,
+163,Lorient,,,-1,-1,-1,-1,
+163,Lorient,,,-1,-1,-1,-1,
+164,Ludogorets,UEFA,Bulgaria,3,58,17,53,2021_2022
+164,Ludogorets,UEFA,Bulgaria,5,53,17,53,2022_2023
+164,Ludogorets,UEFA,Bulgaria,9,39,17,53,2023_2024
+165,Luton Town,,,-1,-1,-1,-1,
+166,Lyngby,UEFA,Denmark,-1,-1,0,102,2022_2023
+166,Lyngby,UEFA,Denmark,-1,-1,0,102,2023_2024
+167,Lyon,UEFA,France,21,11,21,49,2021_2022
+167,Lyon,UEFA,France,-1,-1,21,49,2022_2023
+167,Lyon,UEFA,France,-1,-1,21,49,2023_2024
+168,Mainz 05,UEFA,Germany,-1,-1,0,102,2021_2022
+168,Mainz 05,UEFA,Germany,-1,-1,0,102,2022_2023
+168,Mainz 05,UEFA,Germany,-1,-1,0,102,2023_2024
+169,Mallorca,,,-1,-1,-1,-1,
+169,Mallorca,,,-1,-1,-1,-1,
+169,Mallorca,,,-1,-1,-1,-1,
+170,Manchester City,UEFA,England,27,4,88,2,2021_2022
+170,Manchester City,UEFA,England,33,1,88,2,2022_2023
+170,Manchester City,UEFA,England,28,4,88,2,2023_2024
+171,Manchester Utd,UEFA,England,18,17,44,24,2021_2022
+171,Manchester Utd,UEFA,England,19,13,44,24,2022_2023
+171,Manchester Utd,UEFA,England,7,43,44,24,2023_2024
+172,Marseille,UEFA,France,16,22,42,27,2021_2022
+172,Marseille,UEFA,France,8,42,42,27,2022_2023
+172,Marseille,UEFA,France,18,18,42,27,2023_2024
+173,Marítimo,UEFA,Portugal,-1,-1,0,102,2021_2022
+173,Marítimo,UEFA,Portugal,-1,-1,0,102,2022_2023
+174,Mechelen,,,-1,-1,-1,-1,
+174,Mechelen,,,-1,-1,-1,-1,
+174,Mechelen,,,-1,-1,-1,-1,
+175,Metalac GM,,,-1,-1,-1,-1,
+176,Metz,,,-1,-1,-1,-1,
+176,Metz,,,-1,-1,-1,-1,
+177,Midtjylland,UEFA,Denmark,7,47,17,51,2021_2022
+177,Midtjylland,UEFA,Denmark,8,42,17,51,2022_2023
+177,Midtjylland,UEFA,Denmark,2,63,17,51,2023_2024
+178,Miedź Legnica,,,-1,-1,-1,-1,
+179,Milan,UEFA,Italy,7,47,47,19,2021_2022
+179,Milan,UEFA,Italy,24,8,47,19,2022_2023
+179,Milan,UEFA,Italy,16,27,47,19,2023_2024
+180,Mladost Lučani,UEFA,Serbia,-1,-1,0,102,2021_2022
+180,Mladost Lučani,UEFA,Serbia,-1,-1,0,102,2022_2023
+180,Mladost Lučani,UEFA,Serbia,-1,-1,0,102,2023_2024
+181,Monaco,,,-1,-1,-1,-1,
+181,Monaco,,,-1,-1,-1,-1,
+181,Monaco,,,-1,-1,-1,-1,
+182,Montpellier,,,-1,-1,-1,-1,
+182,Montpellier,,,-1,-1,-1,-1,
+182,Montpellier,,,-1,-1,-1,-1,
+183,Monza,,,-1,-1,-1,-1,
+183,Monza,,,-1,-1,-1,-1,
+184,Moreirense,,,-1,-1,-1,-1,
+184,Moreirense,,,-1,-1,-1,-1,
+185,NEC Nijmegen,,,-1,-1,-1,-1,
+185,NEC Nijmegen,,,-1,-1,-1,-1,
+185,NEC Nijmegen,,,-1,-1,-1,-1,
+186,Nantes,UEFA,France,-1,-1,8,68,2021_2022
+186,Nantes,UEFA,France,8,42,8,68,2022_2023
+186,Nantes,UEFA,France,-1,-1,8,68,2023_2024
+187,Napoli,UEFA,Italy,9,41,51,15,2021_2022
+187,Napoli,UEFA,Italy,25,6,51,15,2022_2023
+187,Napoli,UEFA,Italy,17,22,51,15,2023_2024
+188,Napredak Kruš,,,-1,-1,-1,-1,
+188,Napredak Kruš,,,-1,-1,-1,-1,
+188,Napredak Kruš,,,-1,-1,-1,-1,
+189,Newcastle Utd,UEFA,England,-1,-1,8,68,2021_2022
+189,Newcastle Utd,UEFA,England,-1,-1,8,68,2022_2023
+189,Newcastle Utd,UEFA,England,8,41,8,68,2023_2024
+190,Nice,UEFA,France,-1,-1,14,56,2021_2022
+190,Nice,UEFA,France,14,31,14,56,2022_2023
+190,Nice,UEFA,France,-1,-1,14,56,2023_2024
+191,Nordsjælland,UEFA,Denmark,-1,-1,7,73,2021_2022
+191,Nordsjælland,UEFA,Denmark,-1,-1,7,73,2022_2023
+191,Nordsjælland,UEFA,Denmark,7,43,7,73,2023_2024
+192,Norwich City,,,-1,-1,-1,-1,
+193,Nott'ham Forest,,,-1,-1,-1,-1,
+193,Nott'ham Forest,,,-1,-1,-1,-1,
+194,Novi Pazar,,,-1,-1,-1,-1,
+194,Novi Pazar,,,-1,-1,-1,-1,
+194,Novi Pazar,,,-1,-1,-1,-1,
+195,OFI Crete,UEFA,Greece,-1,-1,0,102,2021_2022
+195,OFI Crete,UEFA,Greece,-1,-1,0,102,2022_2023
+195,OFI Crete,UEFA,Greece,-1,-1,0,102,2023_2024
+196,OH Leuven,,,-1,-1,-1,-1,
+196,OH Leuven,,,-1,-1,-1,-1,
+196,OH Leuven,,,-1,-1,-1,-1,
+197,Odense,,,-1,-1,-1,-1,
+197,Odense,,,-1,-1,-1,-1,
+197,Odense,,,-1,-1,-1,-1,
+198,Olympiacos,UEFA,Greece,8,45,28,43,2021_2022
+198,Olympiacos,UEFA,Greece,3,56,28,43,2022_2023
+198,Olympiacos,UEFA,Greece,17,22,28,43,2023_2024
+199,Oostende,UEFA,Belgium,-1,-1,0,102,2021_2022
+199,Oostende,UEFA,Belgium,-1,-1,0,102,2022_2023
+200,Osasuna,UEFA,Spain,-1,-1,2,90,2021_2022
+200,Osasuna,UEFA,Spain,-1,-1,2,90,2022_2023
+200,Osasuna,UEFA,Spain,2,63,2,90,2023_2024
+201,PAOK,UEFA,Greece,13,31,29,42,2021_2022
+201,PAOK,UEFA,Greece,1,72,29,42,2022_2023
+201,PAOK,UEFA,Greece,15,29,29,42,2023_2024
+202,PAS Giannina,UEFA,Greece,-1,-1,0,102,2021_2022
+202,PAS Giannina,UEFA,Greece,-1,-1,0,102,2022_2023
+202,PAS Giannina,UEFA,Greece,-1,-1,0,102,2023_2024
+203,PAS Lamia,,,-1,-1,-1,-1,
+203,PAS Lamia,,,-1,-1,-1,-1,
+203,PAS Lamia,,,-1,-1,-1,-1,
+204,PFC Hebar Pazardzhik,,,-1,-1,-1,-1,
+204,PFC Hebar Pazardzhik,,,-1,-1,-1,-1,
+205,PSV Eindhoven,UEFA,Netherlands,10,38,38,32,2021_2022
+205,PSV Eindhoven,UEFA,Netherlands,11,36,38,32,2022_2023
+205,PSV Eindhoven,UEFA,Netherlands,17,22,38,32,2023_2024
+206,Panathinaikos,UEFA,Greece,-1,-1,5,78,2021_2022
+206,Panathinaikos,UEFA,Greece,2,66,5,78,2022_2023
+206,Panathinaikos,UEFA,Greece,3,57,5,78,2023_2024
+207,Panetolikos,,,-1,-1,-1,-1,
+207,Panetolikos,,,-1,-1,-1,-1,
+207,Panetolikos,,,-1,-1,-1,-1,
+208,Panserraikos,,,-1,-1,-1,-1,
+209,Paris S-G,UEFA,France,19,15,61,10,2021_2022
+209,Paris S-G,UEFA,France,19,13,61,10,2022_2023
+209,Paris S-G,UEFA,France,23,8,61,10,2023_2024
+210,Partizan,,,-1,-1,-1,-1,
+210,Partizan,,,-1,-1,-1,-1,
+210,Partizan,,,-1,-1,-1,-1,
+211,Paços,,,-1,-1,-1,-1,
+211,Paços,,,-1,-1,-1,-1,
+212,Pendikspor,,,-1,-1,-1,-1,
+213,Piast Gliwice,UEFA,Poland,-1,-1,0,102,2021_2022
+213,Piast Gliwice,UEFA,Poland,-1,-1,0,102,2022_2023
+213,Piast Gliwice,UEFA,Poland,-1,-1,0,102,2023_2024
+214,Pirin Blagoevgrad,,,-1,-1,-1,-1,
+214,Pirin Blagoevgrad,,,-1,-1,-1,-1,
+214,Pirin Blagoevgrad,,,-1,-1,-1,-1,
+215,Pogoń Szczecin,UEFA,Poland,1,69,5,78,2021_2022
+215,Pogoń Szczecin,UEFA,Poland,1,72,5,78,2022_2023
+215,Pogoń Szczecin,UEFA,Poland,2,70,5,78,2023_2024
+216,Portimonense,,,-1,-1,-1,-1,
+216,Portimonense,,,-1,-1,-1,-1,
+216,Portimonense,,,-1,-1,-1,-1,
+217,Porto,UEFA,Portugal,10,38,47,19,2021_2022
+217,Porto,UEFA,Portugal,18,19,47,19,2022_2023
+217,Porto,UEFA,Portugal,19,16,47,19,2023_2024
+218,Proleter NS,,,-1,-1,-1,-1,
+219,Puszcza Niepołomice,,,-1,-1,-1,-1,
+220,R.F.C. Seraing,,,-1,-1,-1,-1,
+220,R.F.C. Seraing,,,-1,-1,-1,-1,
+221,RB Leipzig,UEFA,Germany,17,19,53,13,2021_2022
+221,RB Leipzig,UEFA,Germany,18,19,53,13,2022_2023
+221,RB Leipzig,UEFA,Germany,18,18,53,13,2023_2024
+222,RB Salzburg,UEFA,Austria,17,19,33,37,2021_2022
+222,RB Salzburg,UEFA,Austria,9,40,33,37,2022_2023
+222,RB Salzburg,UEFA,Austria,7,43,33,37,2023_2024
+223,RKC Waalwijk,,,-1,-1,-1,-1,
+223,RKC Waalwijk,,,-1,-1,-1,-1,
+223,RKC Waalwijk,,,-1,-1,-1,-1,
+224,RKS Raków,UEFA,Poland,2,61,8,68,2021_2022
+224,RKS Raków,UEFA,Poland,2,57,8,68,2022_2023
+224,RKS Raków,UEFA,Poland,3,57,8,68,2023_2024
+225,RWD Molenbeek,,,-1,-1,-1,-1,
+226,Radnik Surdulica,,,-1,-1,-1,-1,
+226,Radnik Surdulica,,,-1,-1,-1,-1,
+226,Radnik Surdulica,,,-1,-1,-1,-1,
+227,Radnički Kragujevac,UEFA,Serbia,-1,-1,0,102,2021_2022
+227,Radnički Kragujevac,UEFA,Serbia,-1,-1,0,102,2022_2023
+227,Radnički Kragujevac,UEFA,Serbia,-1,-1,0,102,2023_2024
+228,Radnički Niš,,,-1,-1,-1,-1,
+228,Radnički Niš,,,-1,-1,-1,-1,
+228,Radnički Niš,,,-1,-1,-1,-1,
+229,Radomiak Radom,,,-1,-1,-1,-1,
+229,Radomiak Radom,,,-1,-1,-1,-1,
+229,Radomiak Radom,,,-1,-1,-1,-1,
+230,Randers,UEFA,Denmark,7,47,7,73,2021_2022
+230,Randers,UEFA,Denmark,-1,-1,7,73,2022_2023
+230,Randers,UEFA,Denmark,-1,-1,7,73,2023_2024
+231,Rapid Wien,UEFA,Austria,4,54,9,66,2021_2022
+231,Rapid Wien,UEFA,Austria,2,57,9,66,2022_2023
+231,Rapid Wien,UEFA,Austria,2,63,9,66,2023_2024
+232,Rayo Vallecano,,,-1,-1,-1,-1,
+232,Rayo Vallecano,,,-1,-1,-1,-1,
+232,Rayo Vallecano,,,-1,-1,-1,-1,
+233,Real Madrid,UEFA,Spain,30,2,93,1,2021_2022
+233,Real Madrid,UEFA,Spain,29,2,93,1,2022_2023
+233,Real Madrid,UEFA,Spain,34,1,93,1,2023_2024
+234,Real Sociedad,UEFA,Spain,9,41,43,26,2021_2022
+234,Real Sociedad,UEFA,Spain,16,27,43,26,2022_2023
+234,Real Sociedad,UEFA,Spain,18,18,43,26,2023_2024
+235,Red Star,UEFA,Serbia,15,26,24,46,2021_2022
+235,Red Star,UEFA,Serbia,4,54,24,46,2022_2023
+235,Red Star,UEFA,Serbia,5,54,24,46,2023_2024
+236,Reims,UEFA,France,-1,-1,0,102,2021_2022
+236,Reims,UEFA,France,-1,-1,0,102,2022_2023
+236,Reims,UEFA,France,-1,-1,0,102,2023_2024
+237,Rennes,,,-1,-1,-1,-1,
+237,Rennes,,,-1,-1,-1,-1,
+237,Rennes,,,-1,-1,-1,-1,
+238,Ried,,,-1,-1,-1,-1,
+238,Ried,,,-1,-1,-1,-1,
+239,Rio Ave,UEFA,Portugal,-1,-1,0,102,2022_2023
+239,Rio Ave,UEFA,Portugal,-1,-1,0,102,2023_2024
+240,Rizespor,,,-1,-1,-1,-1,
+240,Rizespor,,,-1,-1,-1,-1,
+241,Roma,UEFA,Italy,23,9,66,8,2021_2022
+241,Roma,UEFA,Italy,22,9,66,8,2022_2023
+241,Roma,UEFA,Italy,21,12,66,8,2023_2024
+242,Ruch Chorzów,,,-1,-1,-1,-1,
+243,SC Austria Lustenau,,,-1,-1,-1,-1,
+243,SC Austria Lustenau,,,-1,-1,-1,-1,
+244,SCR Altach,UEFA,Austria,-1,-1,0,102,2021_2022
+244,SCR Altach,UEFA,Austria,-1,-1,0,102,2022_2023
+244,SCR Altach,UEFA,Austria,-1,-1,0,102,2023_2024
+245,SK Austria Klagenfurt,,,-1,-1,-1,-1,
+245,SK Austria Klagenfurt,,,-1,-1,-1,-1,
+245,SK Austria Klagenfurt,,,-1,-1,-1,-1,
+246,Saint-Étienne,UEFA,France,-1,-1,0,102,2021_2022
+247,Salernitana,,,-1,-1,-1,-1,
+247,Salernitana,,,-1,-1,-1,-1,
+247,Salernitana,,,-1,-1,-1,-1,
+248,Sampdoria,,,-1,-1,-1,-1,
+248,Sampdoria,,,-1,-1,-1,-1,
+249,Samsunspor,,,-1,-1,-1,-1,
+250,Santa Clara,UEFA,Portugal,2,61,2,90,2021_2022
+250,Santa Clara,UEFA,Portugal,-1,-1,2,90,2022_2023
+251,Sassuolo,UEFA,Italy,-1,-1,0,102,2021_2022
+251,Sassuolo,UEFA,Italy,-1,-1,0,102,2022_2023
+251,Sassuolo,UEFA,Italy,-1,-1,0,102,2023_2024
+252,Schalke 04,UEFA,Germany,-1,-1,0,102,2022_2023
+253,Septemvri Sofia,,,-1,-1,-1,-1,
+254,Sevilla,UEFA,Spain,12,35,39,30,2021_2022
+254,Sevilla,UEFA,Spain,21,10,39,30,2022_2023
+254,Sevilla,UEFA,Spain,6,49,39,30,2023_2024
+255,Sheffield Utd,,,-1,-1,-1,-1,
+256,Silkeborg,UEFA,Denmark,-1,-1,4,85,2021_2022
+256,Silkeborg,UEFA,Denmark,4,54,4,85,2022_2023
+256,Silkeborg,UEFA,Denmark,-1,-1,4,85,2023_2024
+257,Sint-Truiden,,,-1,-1,-1,-1,
+257,Sint-Truiden,,,-1,-1,-1,-1,
+257,Sint-Truiden,,,-1,-1,-1,-1,
+258,Sivasspor,,,-1,-1,-1,-1,
+258,Sivasspor,,,-1,-1,-1,-1,
+258,Sivasspor,,,-1,-1,-1,-1,
+259,Slavia Sofia,UEFA,Bulgaria,-1,-1,0,102,2021_2022
+259,Slavia Sofia,UEFA,Bulgaria,-1,-1,0,102,2022_2023
+259,Slavia Sofia,UEFA,Bulgaria,-1,-1,0,102,2023_2024
+260,Southampton,UEFA,England,-1,-1,0,102,2021_2022
+260,Southampton,UEFA,England,-1,-1,0,102,2022_2023
+261,Sparta R'dam,,,-1,-1,-1,-1,
+261,Sparta R'dam,,,-1,-1,-1,-1,
+261,Sparta R'dam,,,-1,-1,-1,-1,
+262,Spartak Subotic,UEFA,Serbia,-1,-1,0,102,2021_2022
+262,Spartak Subotic,UEFA,Serbia,-1,-1,0,102,2022_2023
+262,Spartak Subotic,UEFA,Serbia,-1,-1,0,102,2023_2024
+263,Spezia,,,-1,-1,-1,-1,
+263,Spezia,,,-1,-1,-1,-1,
+264,Sporting CP,UEFA,Portugal,16,22,42,27,2021_2022
+264,Sporting CP,UEFA,Portugal,14,31,42,27,2022_2023
+264,Sporting CP,UEFA,Portugal,12,34,42,27,2023_2024
+265,Stal Mielec,,,-1,-1,-1,-1,
+265,Stal Mielec,,,-1,-1,-1,-1,
+265,Stal Mielec,,,-1,-1,-1,-1,
+266,Standard Liège,UEFA,Belgium,-1,-1,0,102,2021_2022
+266,Standard Liège,UEFA,Belgium,-1,-1,0,102,2022_2023
+266,Standard Liège,UEFA,Belgium,-1,-1,0,102,2023_2024
+267,Strasbourg,UEFA,France,-1,-1,0,102,2021_2022
+267,Strasbourg,UEFA,France,-1,-1,0,102,2022_2023
+267,Strasbourg,UEFA,France,-1,-1,0,102,2023_2024
+268,Sturm Graz,UEFA,Austria,3,58,12,62,2021_2022
+268,Sturm Graz,UEFA,Austria,6,50,12,62,2022_2023
+268,Sturm Graz,UEFA,Austria,3,57,12,62,2023_2024
+269,Stuttgart,UEFA,Germany,-1,-1,0,102,2021_2022
+269,Stuttgart,UEFA,Germany,-1,-1,0,102,2022_2023
+269,Stuttgart,UEFA,Germany,-1,-1,0,102,2023_2024
+270,SønderjyskE,UEFA,Denmark,-1,-1,0,102,2021_2022
+271,TSC Bačka Top,UEFA,Serbia,-1,-1,3,88,2021_2022
+271,TSC Bačka Top,UEFA,Serbia,-1,-1,3,88,2022_2023
+271,TSC Bačka Top,UEFA,Serbia,3,57,3,88,2023_2024
+272,Tondela,,,-1,-1,-1,-1,
+273,Torino,UEFA,Italy,-1,-1,0,102,2021_2022
+273,Torino,UEFA,Italy,-1,-1,0,102,2022_2023
+273,Torino,UEFA,Italy,-1,-1,0,102,2023_2024
+274,Tottenham,UEFA,England,5,52,23,47,2021_2022
+274,Tottenham,UEFA,England,18,19,23,47,2022_2023
+274,Tottenham,UEFA,England,-1,-1,23,47,2023_2024
+275,Toulouse,UEFA,France,-1,-1,10,64,2022_2023
+275,Toulouse,UEFA,France,10,35,10,64,2023_2024
+276,Trabzonspor,,,-1,-1,-1,-1,
+276,Trabzonspor,,,-1,-1,-1,-1,
+276,Trabzonspor,,,-1,-1,-1,-1,
+277,Troyes,,,-1,-1,-1,-1,
+277,Troyes,,,-1,-1,-1,-1,
+278,Tsarsko Selo,,,-1,-1,-1,-1,
+279,Twente,UEFA,Netherlands,-1,-1,5,78,2021_2022
+279,Twente,UEFA,Netherlands,2,57,5,78,2022_2023
+279,Twente,UEFA,Netherlands,2,63,5,78,2023_2024
+280,Udinese,,,-1,-1,-1,-1,
+280,Udinese,,,-1,-1,-1,-1,
+280,Udinese,,,-1,-1,-1,-1,
+281,Union Berlin,UEFA,Germany,5,52,23,47,2021_2022
+281,Union Berlin,UEFA,Germany,12,34,23,47,2022_2023
+281,Union Berlin,UEFA,Germany,6,49,23,47,2023_2024
+282,Union SG,UEFA,Belgium,-1,-1,25,45,2021_2022
+282,Union SG,UEFA,Belgium,19,13,25,45,2022_2023
+282,Union SG,UEFA,Belgium,6,49,25,45,2023_2024
+283,Utrecht,UEFA,Netherlands,-1,-1,0,102,2021_2022
+283,Utrecht,UEFA,Netherlands,-1,-1,0,102,2022_2023
+283,Utrecht,UEFA,Netherlands,-1,-1,0,102,2023_2024
+284,Valencia,UEFA,Spain,-1,-1,0,102,2021_2022
+284,Valencia,UEFA,Spain,-1,-1,0,102,2022_2023
+284,Valencia,UEFA,Spain,-1,-1,0,102,2023_2024
+285,Valladolid,,,-1,-1,-1,-1,
+286,Vejle BK,,,-1,-1,-1,-1,
+286,Vejle BK,,,-1,-1,-1,-1,
+287,Venezia,,,-1,-1,-1,-1,
+288,Viborg,UEFA,Denmark,-1,-1,2,90,2021_2022
+288,Viborg,UEFA,Denmark,2,57,2,90,2022_2023
+288,Viborg,UEFA,Denmark,-1,-1,2,90,2023_2024
+289,Villarreal,UEFA,Spain,24,7,52,14,2021_2022
+289,Villarreal,UEFA,Spain,12,34,52,14,2022_2023
+289,Villarreal,UEFA,Spain,16,27,52,14,2023_2024
+290,Vitesse,UEFA,Netherlands,9,41,9,66,2021_2022
+290,Vitesse,UEFA,Netherlands,-1,-1,9,66,2022_2023
+290,Vitesse,UEFA,Netherlands,-1,-1,9,66,2023_2024
+291,Vitória,UEFA,Portugal,-1,-1,3,86,2021_2022
+291,Vitória,UEFA,Portugal,2,66,3,86,2022_2023
+291,Vitória,UEFA,Portugal,1,75,3,86,2023_2024
+292,Vizela,,,-1,-1,-1,-1,
+292,Vizela,,,-1,-1,-1,-1,
+292,Vizela,,,-1,-1,-1,-1,
+293,Vojvodina,,,-1,-1,-1,-1,
+293,Vojvodina,,,-1,-1,-1,-1,
+293,Vojvodina,,,-1,-1,-1,-1,
+294,Volendam,,,-1,-1,-1,-1,
+294,Volendam,,,-1,-1,-1,-1,
+295,Volos NFC,,,-1,-1,-1,-1,
+295,Volos NFC,,,-1,-1,-1,-1,
+295,Volos NFC,,,-1,-1,-1,-1,
+296,Voždovac,,,-1,-1,-1,-1,
+296,Voždovac,,,-1,-1,-1,-1,
+296,Voždovac,,,-1,-1,-1,-1,
+297,WSG Tirol,,,-1,-1,-1,-1,
+297,WSG Tirol,,,-1,-1,-1,-1,
+297,WSG Tirol,,,-1,-1,-1,-1,
+298,Warta Poznań,,,-1,-1,-1,-1,
+298,Warta Poznań,,,-1,-1,-1,-1,
+298,Warta Poznań,,,-1,-1,-1,-1,
+299,Watford,,,-1,-1,-1,-1,
+300,Werder Bremen,,,-1,-1,-1,-1,
+300,Werder Bremen,,,-1,-1,-1,-1,
+301,West Ham,UEFA,England,21,11,69,6,2021_2022
+301,West Ham,UEFA,England,29,2,69,6,2022_2023
+301,West Ham,UEFA,England,19,16,69,6,2023_2024
+302,Westerlo,,,-1,-1,-1,-1,
+302,Westerlo,,,-1,-1,-1,-1,
+303,Widzew Łódź,,,-1,-1,-1,-1,
+303,Widzew Łódź,,,-1,-1,-1,-1,
+304,Willem II,UEFA,Netherlands,-1,-1,0,102,2021_2022
+305,Wisła Kraków,UEFA,Poland,-1,-1,0,102,2021_2022
+306,Wisła Płock,,,-1,-1,-1,-1,
+306,Wisła Płock,,,-1,-1,-1,-1,
+307,Wolfsberger AC,UEFA,Austria,-1,-1,2,90,2021_2022
+307,Wolfsberger AC,UEFA,Austria,2,57,2,90,2022_2023
+307,Wolfsberger AC,UEFA,Austria,-1,-1,2,90,2023_2024
+308,Wolfsburg,UEFA,Germany,8,45,8,68,2021_2022
+308,Wolfsburg,UEFA,Germany,-1,-1,8,68,2022_2023
+308,Wolfsburg,UEFA,Germany,-1,-1,8,68,2023_2024
+309,Wolves,UEFA,England,-1,-1,0,102,2021_2022
+309,Wolves,UEFA,England,-1,-1,0,102,2022_2023
+309,Wolves,UEFA,England,-1,-1,0,102,2023_2024
+310,Yeni Mal'spor,,,-1,-1,-1,-1,
+311,Zagłębie Lubin,UEFA,Poland,-1,-1,0,102,2021_2022
+311,Zagłębie Lubin,UEFA,Poland,-1,-1,0,102,2022_2023
+311,Zagłębie Lubin,UEFA,Poland,-1,-1,0,102,2023_2024
+312,Zulte Waregem,UEFA,Belgium,-1,-1,0,102,2021_2022
+312,Zulte Waregem,UEFA,Belgium,-1,-1,0,102,2022_2023
+313,Zwolle,,,-1,-1,-1,-1,
+313,Zwolle,,,-1,-1,-1,-1,
+314,Ümraniyespor,,,-1,-1,-1,-1,
+315,Čukarički,,,-1,-1,-1,-1,
+315,Čukarički,,,-1,-1,-1,-1,
+315,Čukarički,,,-1,-1,-1,-1,
+316,İstanbulspor,,,-1,-1,-1,-1,
+316,İstanbulspor,,,-1,-1,-1,-1,
+317,Łódzki KS,,,-1,-1,-1,-1,
+318,Śląsk Wrocław,UEFA,Poland,2,65,2,95,2021_2022
+318,Śląsk Wrocław,UEFA,Poland,-1,-1,2,95,2022_2023
+318,Śląsk Wrocław,UEFA,Poland,-1,-1,2,95,2023_2024
