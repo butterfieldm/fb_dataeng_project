@@ -1,0 +1,774 @@
+club_id,club,num_of_players,avg_age,avg_possession,matches_played,league,season
+1,AEK Athens,30,29,,36,Super_League_Greece,2023_2024
+1,AEK Athens,31,28,,36,Super_League_Greece,2021_2022
+1,AEK Athens,29,28,,36,Super_League_Greece,2022_2023
+2,AGF,28,26,48,32,Danish_Superliga,2022_2023
+2,AGF,31,25,45,32,Danish_Superliga,2021_2022
+2,AGF,30,26,48,32,Danish_Superliga,2023_2024
+3,AO Kifisia,35,27,,33,Super_League_Greece,2023_2024
+4,AZ Alkmaar,29,24,53,34,Eredivisie,2022_2023
+4,AZ Alkmaar,28,24,55,34,Eredivisie,2021_2022
+4,AZ Alkmaar,33,24,54,34,Eredivisie,2023_2024
+5,Aalborg,30,25,48,32,Danish_Superliga,2022_2023
+5,Aalborg,28,25,50,32,Danish_Superliga,2021_2022
+6,Adana Demirspor,44,28,51,38,Super_Lig,2023_2024
+6,Adana Demirspor,34,27,48,38,Super_Lig,2021_2022
+6,Adana Demirspor,36,29,49,36,Super_Lig,2022_2023
+7,Admira,29,25,45,32,Austrian_Bundesliga,2021_2022
+8,Ajaccio,36,29,43,38,Ligue_1,2022_2023
+9,Ajax,30,25,66,34,Eredivisie,2022_2023
+9,Ajax,30,26,66,34,Eredivisie,2021_2022
+9,Ajax,35,22,59,34,Eredivisie,2023_2024
+10,Alanyaspor,25,28,52,38,Super_Lig,2023_2024
+10,Alanyaspor,32,28,53,38,Super_Lig,2021_2022
+10,Alanyaspor,29,27,53,36,Super_Lig,2022_2023
+11,Alavés,33,27,42,38,La_Liga,2021_2022
+11,Alavés,30,25,41,38,La_Liga,2023_2024
+12,Almere City,29,24,44,34,Eredivisie,2023_2024
+13,Almería,29,26,45,38,La_Liga,2022_2023
+13,Almería,35,25,46,38,La_Liga,2023_2024
+14,Altay,30,28,44,38,Super_Lig,2021_2022
+15,Anderlecht,32,26,53,30,Belgian_Pro_League,2023_2024
+15,Anderlecht,25,24,56,34,Belgian_Pro_League,2021_2022
+15,Anderlecht,33,24,54,34,Belgian_Pro_League,2022_2023
+16,Angers,33,25,46,38,Ligue_1,2022_2023
+16,Angers,30,27,48,38,Ligue_1,2021_2022
+17,Ankaragücü,31,27,48,38,Super_Lig,2023_2024
+17,Ankaragücü,40,27,50,36,Super_Lig,2022_2023
+18,Antalyaspor,27,29,51,38,Super_Lig,2023_2024
+18,Antalyaspor,31,29,48,38,Super_Lig,2021_2022
+18,Antalyaspor,34,28,49,36,Super_Lig,2022_2023
+19,Antwerp,27,24,59,30,Belgian_Pro_League,2023_2024
+19,Antwerp,31,26,52,34,Belgian_Pro_League,2021_2022
+19,Antwerp,32,25,56,34,Belgian_Pro_League,2022_2023
+20,Apollon Smyrnis,34,29,,33,Super_League_Greece,2021_2022
+21,Arda,30,25,,36,Bulgarian_First_League,2022_2023
+21,Arda,28,26,,36,Bulgarian_First_League,2023_2024
+21,Arda,30,25,,32,Bulgarian_First_League,2021_2022
+22,Aris,33,29,,36,Super_League_Greece,2023_2024
+22,Aris,29,29,,36,Super_League_Greece,2021_2022
+22,Aris,28,28,,36,Super_League_Greece,2022_2023
+23,Arminia,26,25,40,34,Bundesliga,2021_2022
+24,Arouca,31,26,53,34,Primeira_Liga,2023_2024
+24,Arouca,35,27,49,34,Primeira_Liga,2021_2022
+24,Arouca,29,26,47,34,Primeira_Liga,2022_2023
+25,Arsenal,25,25,58,38,Premier_League,2023_2024
+25,Arsenal,26,24,59,38,Premier_League,2022_2023
+25,Arsenal,27,24,52,38,Premier_League,2021_2022
+26,Asteras Tripoli,33,27,,33,Super_League_Greece,2023_2024
+26,Asteras Tripoli,27,26,,33,Super_League_Greece,2021_2022
+26,Asteras Tripoli,33,29,,33,Super_League_Greece,2022_2023
+27,Aston Villa,31,26,53,38,Premier_League,2023_2024
+27,Aston Villa,26,27,49,38,Premier_League,2022_2023
+27,Aston Villa,31,26,46,38,Premier_League,2021_2022
+28,Atalanta,27,26,49,38,Serie_A,2022_2023
+28,Atalanta,29,26,51,38,Serie_A,2023_2024
+28,Atalanta,32,27,55,38,Serie_A,2021_2022
+29,Athletic Club,26,26,48,38,La_Liga,2021_2022
+29,Athletic Club,26,27,51,38,La_Liga,2022_2023
+29,Athletic Club,27,27,49,38,La_Liga,2023_2024
+30,Atlético Madrid,26,28,50,38,La_Liga,2021_2022
+30,Atlético Madrid,27,28,50,38,La_Liga,2022_2023
+30,Atlético Madrid,27,29,50,38,La_Liga,2023_2024
+31,Atromitos,27,27,,33,Super_League_Greece,2023_2024
+31,Atromitos,31,28,,33,Super_League_Greece,2021_2022
+31,Atromitos,26,27,,33,Super_League_Greece,2022_2023
+32,Augsburg,34,25,41,34,Bundesliga,2022_2023
+32,Augsburg,26,26,41,34,Bundesliga,2021_2022
+32,Augsburg,29,26,43,34,Bundesliga,2023_2024
+33,Austria Wien,29,25,52,32,Austrian_Bundesliga,2022_2023
+33,Austria Wien,26,24,48,32,Austrian_Bundesliga,2021_2022
+33,Austria Wien,28,25,57,32,Austrian_Bundesliga,2023_2024
+34,Auxerre,33,27,43,38,Ligue_1,2022_2023
+35,B-SAD,37,25,43,34,Primeira_Liga,2021_2022
+36,Barcelona,38,26,64,38,La_Liga,2021_2022
+36,Barcelona,29,25,64,38,La_Liga,2022_2023
+36,Barcelona,29,26,64,38,La_Liga,2023_2024
+37,Bayern Munich,28,26,64,34,Bundesliga,2022_2023
+37,Bayern Munich,30,26,64,34,Bundesliga,2021_2022
+37,Bayern Munich,30,27,61,34,Bundesliga,2023_2024
+38,Başakşehir,35,28,53,38,Super_Lig,2023_2024
+38,Başakşehir,33,29,56,38,Super_Lig,2021_2022
+38,Başakşehir,38,29,52,36,Super_Lig,2022_2023
+39,Beerschot,33,26,44,34,Belgian_Pro_League,2021_2022
+40,Benfica,34,26,59,34,Primeira_Liga,2023_2024
+40,Benfica,35,27,60,34,Primeira_Liga,2021_2022
+40,Benfica,32,26,63,34,Primeira_Liga,2022_2023
+41,Beroe,38,27,,35,Bulgarian_First_League,2022_2023
+41,Beroe,40,24,,35,Bulgarian_First_League,2023_2024
+41,Beroe,28,28,,32,Bulgarian_First_League,2021_2022
+42,Betis,31,28,53,38,La_Liga,2021_2022
+42,Betis,30,28,50,38,La_Liga,2022_2023
+42,Betis,35,27,50,38,La_Liga,2023_2024
+43,Beşiktaş,37,27,55,38,Super_Lig,2023_2024
+43,Beşiktaş,29,27,55,38,Super_Lig,2021_2022
+43,Beşiktaş,35,28,52,36,Super_Lig,2022_2023
+44,Blau-Weiß Linz,25,25,44,32,Austrian_Bundesliga,2023_2024
+45,Boavista,23,26,48,34,Primeira_Liga,2023_2024
+45,Boavista,28,26,44,34,Primeira_Liga,2021_2022
+45,Boavista,30,27,48,34,Primeira_Liga,2022_2023
+46,Bochum,26,29,46,34,Bundesliga,2022_2023
+46,Bochum,28,28,44,34,Bundesliga,2021_2022
+46,Bochum,25,29,46,34,Bundesliga,2023_2024
+47,Bologna,27,26,54,38,Serie_A,2022_2023
+47,Bologna,28,25,58,38,Serie_A,2023_2024
+47,Bologna,36,26,50,38,Serie_A,2021_2022
+48,Bordeaux,39,25,47,38,Ligue_1,2021_2022
+49,Botev Plovdiv,44,25,,36,Bulgarian_First_League,2022_2023
+49,Botev Plovdiv,46,25,,36,Bulgarian_First_League,2023_2024
+49,Botev Plovdiv,30,26,,31,Bulgarian_First_League,2021_2022
+50,Botev Vratsa,32,26,,35,Bulgarian_First_League,2022_2023
+50,Botev Vratsa,31,27,,35,Bulgarian_First_League,2023_2024
+50,Botev Vratsa,37,24,,32,Bulgarian_First_League,2021_2022
+51,Bournemouth,30,25,44,38,Premier_League,2023_2024
+51,Bournemouth,31,26,40,38,Premier_League,2022_2023
+52,Braga,25,27,56,34,Primeira_Liga,2023_2024
+52,Braga,40,25,53,34,Primeira_Liga,2021_2022
+52,Braga,31,26,54,34,Primeira_Liga,2022_2023
+53,Brentford,28,26,45,38,Premier_League,2023_2024
+53,Brentford,25,26,43,38,Premier_League,2022_2023
+53,Brentford,29,25,44,38,Premier_League,2021_2022
+54,Brest,29,26,44,38,Ligue_1,2022_2023
+54,Brest,25,27,53,34,Ligue_1,2023_2024
+54,Brest,25,25,43,38,Ligue_1,2021_2022
+55,Brighton,30,25,59,38,Premier_League,2023_2024
+55,Brighton,29,26,60,38,Premier_League,2022_2023
+55,Brighton,26,26,54,38,Premier_League,2021_2022
+56,Bruk-Bet Termalica Nieciecza,38,26,,34,Ekstraklasa,2021_2022
+57,Brøndby,30,25,51,32,Danish_Superliga,2022_2023
+57,Brøndby,33,24,52,32,Danish_Superliga,2021_2022
+57,Brøndby,31,26,54,32,Danish_Superliga,2023_2024
+58,Burnley,31,24,47,38,Premier_League,2023_2024
+58,Burnley,23,28,40,38,Premier_League,2021_2022
+59,CSKA 1948,34,26,,35,Bulgarian_First_League,2022_2023
+59,CSKA 1948,41,25,,36,Bulgarian_First_League,2023_2024
+59,CSKA 1948,41,26,,32,Bulgarian_First_League,2021_2022
+60,CSKA Sofia,30,26,,35,Bulgarian_First_League,2022_2023
+60,CSKA Sofia,34,26,,35,Bulgarian_First_League,2023_2024
+60,CSKA Sofia,31,26,,31,Bulgarian_First_League,2021_2022
+61,Cagliari,29,26,42,38,Serie_A,2023_2024
+61,Cagliari,33,26,44,38,Serie_A,2021_2022
+62,Cambuur,31,25,47,34,Eredivisie,2022_2023
+62,Cambuur,27,26,48,34,Eredivisie,2021_2022
+63,Casa Pia,32,27,43,34,Primeira_Liga,2023_2024
+63,Casa Pia,31,28,42,34,Primeira_Liga,2022_2023
+64,Celta Vigo,25,28,55,38,La_Liga,2021_2022
+64,Celta Vigo,26,26,50,38,La_Liga,2022_2023
+64,Celta Vigo,31,26,46,38,La_Liga,2023_2024
+65,Cercle Brugge,27,23,45,30,Belgian_Pro_League,2023_2024
+65,Cercle Brugge,25,23,46,34,Belgian_Pro_League,2021_2022
+65,Cercle Brugge,27,23,44,34,Belgian_Pro_League,2022_2023
+66,Charleroi,30,25,47,30,Belgian_Pro_League,2023_2024
+66,Charleroi,34,24,50,34,Belgian_Pro_League,2021_2022
+66,Charleroi,29,24,51,34,Belgian_Pro_League,2022_2023
+67,Chaves,31,27,43,34,Primeira_Liga,2023_2024
+67,Chaves,31,27,46,34,Primeira_Liga,2022_2023
+68,Chelsea,32,24,58,38,Premier_League,2023_2024
+68,Chelsea,32,26,58,38,Premier_League,2022_2023
+68,Chelsea,26,27,61,38,Premier_League,2021_2022
+69,Cherno More,31,26,,35,Bulgarian_First_League,2022_2023
+69,Cherno More,29,27,,35,Bulgarian_First_League,2023_2024
+69,Cherno More,31,26,,31,Bulgarian_First_League,2021_2022
+70,Clermont Foot,28,27,48,38,Ligue_1,2022_2023
+70,Clermont Foot,31,26,48,34,Ligue_1,2023_2024
+70,Clermont Foot,28,26,50,38,Ligue_1,2021_2022
+71,Club Brugge,29,25,56,30,Belgian_Pro_League,2023_2024
+71,Club Brugge,31,26,58,34,Belgian_Pro_League,2021_2022
+71,Club Brugge,32,26,57,34,Belgian_Pro_League,2022_2023
+72,Cracovia,33,26,,34,Ekstraklasa,2021_2022
+72,Cracovia,31,25,,34,Ekstraklasa,2022_2023
+72,Cracovia,29,26,,34,Ekstraklasa,2023_2024
+73,Cremonese,33,26,42,38,Serie_A,2022_2023
+74,Crystal Palace,26,26,42,38,Premier_League,2023_2024
+74,Crystal Palace,26,26,46,38,Premier_League,2022_2023
+74,Crystal Palace,24,27,51,38,Premier_League,2021_2022
+75,Cádiz,33,28,41,38,La_Liga,2021_2022
+75,Cádiz,38,29,41,38,La_Liga,2022_2023
+75,Cádiz,34,28,43,38,La_Liga,2023_2024
+76,Darmstadt 98,32,27,45,34,Bundesliga,2023_2024
+77,Dortmund,30,25,58,34,Bundesliga,2022_2023
+77,Dortmund,33,25,59,34,Bundesliga,2021_2022
+77,Dortmund,32,26,57,34,Bundesliga,2023_2024
+78,Eint Frankfurt,28,26,52,34,Bundesliga,2022_2023
+78,Eint Frankfurt,27,26,49,34,Bundesliga,2021_2022
+78,Eint Frankfurt,34,25,52,34,Bundesliga,2023_2024
+79,Elche,28,29,48,38,La_Liga,2021_2022
+79,Elche,32,28,45,38,La_Liga,2022_2023
+80,Emmen,30,25,48,34,Eredivisie,2022_2023
+81,Empoli,32,25,47,38,Serie_A,2022_2023
+81,Empoli,34,26,44,38,Serie_A,2023_2024
+81,Empoli,28,24,47,38,Serie_A,2021_2022
+82,Espanyol,34,27,46,38,La_Liga,2021_2022
+82,Espanyol,33,27,43,38,La_Liga,2022_2023
+83,Estoril,31,24,48,34,Primeira_Liga,2023_2024
+83,Estoril,31,25,47,34,Primeira_Liga,2021_2022
+83,Estoril,33,24,47,34,Primeira_Liga,2022_2023
+84,Estrela,34,27,47,34,Primeira_Liga,2023_2024
+85,Etar,41,26,,35,Bulgarian_First_League,2023_2024
+86,Eupen,26,25,44,30,Belgian_Pro_League,2023_2024
+86,Eupen,34,26,49,34,Belgian_Pro_League,2021_2022
+86,Eupen,30,24,47,34,Belgian_Pro_League,2022_2023
+87,Everton,26,27,40,38,Premier_League,2023_2024
+87,Everton,28,26,42,38,Premier_League,2022_2023
+87,Everton,33,26,40,38,Premier_League,2021_2022
+88,Excelsior,28,23,41,34,Eredivisie,2022_2023
+88,Excelsior,27,23,45,34,Eredivisie,2023_2024
+89,FC Copenhagen,32,24,56,32,Danish_Superliga,2022_2023
+89,FC Copenhagen,35,25,50,32,Danish_Superliga,2021_2022
+89,FC Copenhagen,28,26,53,32,Danish_Superliga,2023_2024
+90,FC Spartak Varna,40,26,,35,Bulgarian_First_League,2022_2023
+91,FK IMT Novi Beograd,38,23,,37,Serbian_SuperLiga,2023_2024
+92,FK Kolubara,35,27,,37,Serbian_SuperLiga,2021_2022
+92,FK Kolubara,39,26,,37,Serbian_SuperLiga,2022_2023
+93,FK Levski 2005,32,26,,35,Bulgarian_First_League,2023_2024
+94,FK Mladost Novi Sad,39,27,,37,Serbian_SuperLiga,2022_2023
+95,FK Železničar Pančevo,36,27,,37,Serbian_SuperLiga,2023_2024
+96,Famalicão,27,23,47,34,Primeira_Liga,2023_2024
+96,Famalicão,37,23,47,34,Primeira_Liga,2021_2022
+96,Famalicão,33,24,47,34,Primeira_Liga,2022_2023
+97,Farense,25,28,42,34,Primeira_Liga,2023_2024
+98,Fatih Karagümrük,35,28,50,38,Super_Lig,2023_2024
+98,Fatih Karagümrük,34,29,52,38,Super_Lig,2021_2022
+98,Fatih Karagümrük,34,27,48,36,Super_Lig,2022_2023
+99,Fenerbahçe,33,28,57,38,Super_Lig,2023_2024
+99,Fenerbahçe,31,26,55,38,Super_Lig,2021_2022
+99,Fenerbahçe,29,26,59,36,Super_Lig,2022_2023
+100,Feyenoord,30,23,58,34,Eredivisie,2022_2023
+100,Feyenoord,31,24,58,34,Eredivisie,2021_2022
+100,Feyenoord,25,24,61,34,Eredivisie,2023_2024
+101,Fiorentina,30,26,56,38,Serie_A,2022_2023
+101,Fiorentina,30,27,57,38,Serie_A,2023_2024
+101,Fiorentina,28,26,57,38,Serie_A,2021_2022
+102,Fortuna Sittard,28,26,44,34,Eredivisie,2022_2023
+102,Fortuna Sittard,29,26,43,34,Eredivisie,2021_2022
+102,Fortuna Sittard,32,26,43,34,Eredivisie,2023_2024
+103,Freiburg,27,27,48,34,Bundesliga,2022_2023
+103,Freiburg,26,26,49,34,Bundesliga,2021_2022
+103,Freiburg,25,27,46,34,Bundesliga,2023_2024
+104,Frosinone,34,24,49,38,Serie_A,2023_2024
+105,Fulham,25,28,50,38,Premier_League,2023_2024
+105,Fulham,29,28,48,38,Premier_League,2022_2023
+106,Galatasaray,32,28,61,38,Super_Lig,2023_2024
+106,Galatasaray,36,26,54,38,Super_Lig,2021_2022
+106,Galatasaray,33,27,56,36,Super_Lig,2022_2023
+107,Gaziantep FK,30,29,42,38,Super_Lig,2023_2024
+107,Gaziantep FK,32,28,46,38,Super_Lig,2021_2022
+107,Gaziantep FK,24,28,43,36,Super_Lig,2022_2023
+108,Genk,26,24,53,30,Belgian_Pro_League,2023_2024
+108,Genk,27,24,58,34,Belgian_Pro_League,2021_2022
+108,Genk,28,24,53,34,Belgian_Pro_League,2022_2023
+109,Genoa,34,26,44,38,Serie_A,2023_2024
+109,Genoa,40,27,43,38,Serie_A,2021_2022
+110,Gent,32,26,54,30,Belgian_Pro_League,2023_2024
+110,Gent,28,27,54,34,Belgian_Pro_League,2021_2022
+110,Gent,31,26,55,34,Belgian_Pro_League,2022_2023
+111,Getafe,31,26,41,38,La_Liga,2021_2022
+111,Getafe,25,27,39,38,La_Liga,2022_2023
+111,Getafe,33,27,44,38,La_Liga,2023_2024
+112,Gil Vicente FC,31,25,49,34,Primeira_Liga,2023_2024
+112,Gil Vicente FC,29,25,54,34,Primeira_Liga,2021_2022
+112,Gil Vicente FC,32,25,53,34,Primeira_Liga,2022_2023
+113,Giresunspor,36,26,47,38,Super_Lig,2021_2022
+113,Giresunspor,26,26,43,36,Super_Lig,2022_2023
+114,Girona,29,26,51,38,La_Liga,2022_2023
+114,Girona,25,26,56,38,La_Liga,2023_2024
+115,Gladbach,27,26,53,34,Bundesliga,2022_2023
+115,Gladbach,26,26,54,34,Bundesliga,2021_2022
+115,Gladbach,27,25,46,34,Bundesliga,2023_2024
+116,Go Ahead Eag,27,24,46,34,Eredivisie,2022_2023
+116,Go Ahead Eag,26,24,47,34,Eredivisie,2021_2022
+116,Go Ahead Eag,23,25,44,34,Eredivisie,2023_2024
+117,Granada,32,28,44,38,La_Liga,2021_2022
+117,Granada,40,26,45,38,La_Liga,2023_2024
+118,Greuther Fürth,29,25,43,34,Bundesliga,2021_2022
+119,Groningen,36,23,46,34,Eredivisie,2022_2023
+119,Groningen,28,24,48,34,Eredivisie,2021_2022
+120,Górnik Zabrze,30,26,,34,Ekstraklasa,2021_2022
+120,Górnik Zabrze,33,27,,34,Ekstraklasa,2022_2023
+120,Górnik Zabrze,26,26,,34,Ekstraklasa,2023_2024
+121,Górnik Łęczna,33,28,,34,Ekstraklasa,2021_2022
+122,Göztepe,36,27,49,38,Super_Lig,2021_2022
+123,Hartberg,32,26,46,32,Austrian_Bundesliga,2022_2023
+123,Hartberg,30,27,51,32,Austrian_Bundesliga,2021_2022
+123,Hartberg,23,24,52,32,Austrian_Bundesliga,2023_2024
+124,Hatayspor,33,25,47,38,Super_Lig,2023_2024
+124,Hatayspor,31,28,48,38,Super_Lig,2021_2022
+124,Hatayspor,28,28,49,36,Super_Lig,2022_2023
+125,Heerenveen,26,24,50,34,Eredivisie,2022_2023
+125,Heerenveen,32,24,47,34,Eredivisie,2021_2022
+125,Heerenveen,26,25,49,34,Eredivisie,2023_2024
+126,Heidenheim,22,26,42,34,Bundesliga,2023_2024
+127,Hellas Verona,36,26,41,38,Serie_A,2022_2023
+127,Hellas Verona,36,25,44,38,Serie_A,2023_2024
+127,Hellas Verona,31,26,50,38,Serie_A,2021_2022
+128,Heracles Almelo,31,23,46,34,Eredivisie,2021_2022
+128,Heracles Almelo,27,25,46,34,Eredivisie,2023_2024
+129,Hertha BSC,32,26,42,34,Bundesliga,2022_2023
+129,Hertha BSC,36,26,43,34,Bundesliga,2021_2022
+130,Hoffenheim,31,26,48,34,Bundesliga,2022_2023
+130,Hoffenheim,32,26,53,34,Bundesliga,2021_2022
+130,Hoffenheim,30,27,49,34,Bundesliga,2023_2024
+131,Horsens,25,26,42,32,Danish_Superliga,2022_2023
+132,Hvidovre IF,29,27,51,32,Danish_Superliga,2023_2024
+133,Inter,25,28,55,38,Serie_A,2022_2023
+133,Inter,27,29,57,38,Serie_A,2023_2024
+133,Inter,27,28,56,38,Serie_A,2021_2022
+134,Ionikos,30,29,,33,Super_League_Greece,2021_2022
+134,Ionikos,30,30,,33,Super_League_Greece,2022_2023
+135,Jagiellonia,38,27,,34,Ekstraklasa,2021_2022
+135,Jagiellonia,31,27,,34,Ekstraklasa,2022_2023
+135,Jagiellonia,27,26,,34,Ekstraklasa,2023_2024
+136,Javor Ivanjica,34,24,,37,Serbian_SuperLiga,2022_2023
+136,Javor Ivanjica,31,25,,37,Serbian_SuperLiga,2023_2024
+137,Juventus,29,27,49,38,Serie_A,2022_2023
+137,Juventus,31,26,48,38,Serie_A,2023_2024
+137,Juventus,32,27,51,38,Serie_A,2021_2022
+138,Kasımpaşa,32,27,47,38,Super_Lig,2023_2024
+138,Kasımpaşa,32,27,51,38,Super_Lig,2021_2022
+138,Kasımpaşa,39,28,45,36,Super_Lig,2022_2023
+139,Kayserispor,33,28,52,38,Super_Lig,2023_2024
+139,Kayserispor,38,28,44,38,Super_Lig,2021_2022
+139,Kayserispor,28,28,51,36,Super_Lig,2022_2023
+140,Konyaspor,36,28,46,38,Super_Lig,2023_2024
+140,Konyaspor,27,28,51,38,Super_Lig,2021_2022
+140,Konyaspor,31,28,50,36,Super_Lig,2022_2023
+141,Korona Kielce,34,27,,34,Ekstraklasa,2022_2023
+141,Korona Kielce,28,27,,34,Ekstraklasa,2023_2024
+142,Kortrijk,36,24,43,30,Belgian_Pro_League,2023_2024
+142,Kortrijk,32,25,47,34,Belgian_Pro_League,2021_2022
+142,Kortrijk,32,25,49,34,Belgian_Pro_League,2022_2023
+143,Köln,27,26,49,34,Bundesliga,2022_2023
+143,Köln,26,27,54,34,Bundesliga,2021_2022
+143,Köln,26,25,46,34,Bundesliga,2023_2024
+144,LASK,31,26,54,32,Austrian_Bundesliga,2022_2023
+144,LASK,32,25,56,32,Austrian_Bundesliga,2021_2022
+144,LASK,30,25,54,32,Austrian_Bundesliga,2023_2024
+145,Las Palmas,29,25,59,38,La_Liga,2023_2024
+146,Lazio,24,28,52,38,Serie_A,2022_2023
+146,Lazio,22,28,53,38,Serie_A,2023_2024
+146,Lazio,27,29,55,38,Serie_A,2021_2022
+147,Le Havre,27,26,44,34,Ligue_1,2023_2024
+148,Lecce,29,24,41,38,Serie_A,2022_2023
+148,Lecce,26,24,44,38,Serie_A,2023_2024
+149,Lech Poznań,28,26,,34,Ekstraklasa,2021_2022
+149,Lech Poznań,29,26,,34,Ekstraklasa,2022_2023
+149,Lech Poznań,26,27,,34,Ekstraklasa,2023_2024
+150,Lechia Gdańsk,31,27,,34,Ekstraklasa,2021_2022
+150,Lechia Gdańsk,28,28,,34,Ekstraklasa,2022_2023
+151,Leeds United,29,25,47,38,Premier_League,2022_2023
+151,Leeds United,29,26,52,38,Premier_League,2021_2022
+152,Legia Warsaw,39,26,,34,Ekstraklasa,2021_2022
+152,Legia Warsaw,28,26,,34,Ekstraklasa,2022_2023
+152,Legia Warsaw,30,27,,34,Ekstraklasa,2023_2024
+153,Leicester City,28,26,47,38,Premier_League,2022_2023
+153,Leicester City,28,26,52,38,Premier_League,2021_2022
+154,Lens,29,26,55,38,Ligue_1,2022_2023
+154,Lens,27,26,52,34,Ligue_1,2023_2024
+154,Lens,28,26,50,38,Ligue_1,2021_2022
+155,Levadiakos,34,26,,33,Super_League_Greece,2022_2023
+156,Levante,31,28,47,38,La_Liga,2021_2022
+157,Leverkusen,27,24,52,34,Bundesliga,2022_2023
+157,Leverkusen,29,24,53,34,Bundesliga,2021_2022
+157,Leverkusen,24,26,61,34,Bundesliga,2023_2024
+158,Levski Sofia,28,23,,35,Bulgarian_First_League,2022_2023
+158,Levski Sofia,32,23,,35,Bulgarian_First_League,2023_2024
+158,Levski Sofia,31,24,,31,Bulgarian_First_League,2021_2022
+159,Lille,26,26,60,38,Ligue_1,2022_2023
+159,Lille,28,25,56,34,Ligue_1,2023_2024
+159,Lille,26,26,50,38,Ligue_1,2021_2022
+160,Liverpool,30,26,61,38,Premier_League,2023_2024
+160,Liverpool,28,27,60,38,Premier_League,2022_2023
+160,Liverpool,27,27,62,38,Premier_League,2021_2022
+161,Loko Plovdiv,31,25,,35,Bulgarian_First_League,2022_2023
+161,Loko Plovdiv,33,25,,35,Bulgarian_First_League,2023_2024
+161,Loko Plovdiv,28,26,,32,Bulgarian_First_League,2021_2022
+162,Lokomotiv Sofia,29,26,,36,Bulgarian_First_League,2022_2023
+162,Lokomotiv Sofia,29,26,,35,Bulgarian_First_League,2023_2024
+162,Lokomotiv Sofia,32,26,,32,Bulgarian_First_League,2021_2022
+163,Lorient,30,25,46,38,Ligue_1,2022_2023
+163,Lorient,38,24,46,34,Ligue_1,2023_2024
+163,Lorient,29,26,44,38,Ligue_1,2021_2022
+164,Ludogorets,32,26,,35,Bulgarian_First_League,2022_2023
+164,Ludogorets,44,27,,35,Bulgarian_First_League,2023_2024
+164,Ludogorets,32,27,,31,Bulgarian_First_League,2021_2022
+165,Luton Town,28,26,42,38,Premier_League,2023_2024
+166,Lyngby,31,25,45,32,Danish_Superliga,2022_2023
+166,Lyngby,34,25,46,32,Danish_Superliga,2023_2024
+167,Lyon,29,25,58,38,Ligue_1,2022_2023
+167,Lyon,35,26,51,34,Ligue_1,2023_2024
+167,Lyon,30,25,58,38,Ligue_1,2021_2022
+168,Mainz 05,27,27,44,34,Bundesliga,2022_2023
+168,Mainz 05,28,26,46,34,Bundesliga,2021_2022
+168,Mainz 05,30,26,46,34,Bundesliga,2023_2024
+169,Mallorca,33,27,45,38,La_Liga,2021_2022
+169,Mallorca,31,27,41,38,La_Liga,2022_2023
+169,Mallorca,25,28,45,38,La_Liga,2023_2024
+170,Manchester City,25,26,65,38,Premier_League,2023_2024
+170,Manchester City,24,27,64,38,Premier_League,2022_2023
+170,Manchester City,26,27,67,38,Premier_League,2021_2022
+171,Manchester Utd,31,26,50,38,Premier_League,2023_2024
+171,Manchester Utd,26,26,53,38,Premier_League,2022_2023
+171,Manchester Utd,29,27,52,38,Premier_League,2021_2022
+172,Marseille,30,27,56,38,Ligue_1,2022_2023
+172,Marseille,33,27,53,34,Ligue_1,2023_2024
+172,Marseille,27,25,61,38,Ligue_1,2021_2022
+173,Marítimo,30,27,48,34,Primeira_Liga,2021_2022
+173,Marítimo,39,26,48,34,Primeira_Liga,2022_2023
+174,Mechelen,30,26,50,30,Belgian_Pro_League,2023_2024
+174,Mechelen,27,26,53,34,Belgian_Pro_League,2021_2022
+174,Mechelen,31,26,51,34,Belgian_Pro_League,2022_2023
+175,Metalac GM,33,23,,37,Serbian_SuperLiga,2021_2022
+176,Metz,30,26,35,34,Ligue_1,2023_2024
+176,Metz,36,25,42,38,Ligue_1,2021_2022
+177,Midtjylland,33,25,50,32,Danish_Superliga,2022_2023
+177,Midtjylland,35,25,49,32,Danish_Superliga,2021_2022
+177,Midtjylland,35,25,47,32,Danish_Superliga,2023_2024
+178,Miedź Legnica,31,27,,34,Ekstraklasa,2022_2023
+179,Milan,30,26,55,38,Serie_A,2022_2023
+179,Milan,35,26,56,38,Serie_A,2023_2024
+179,Milan,28,25,54,38,Serie_A,2021_2022
+180,Mladost Lučani,39,28,,37,Serbian_SuperLiga,2021_2022
+180,Mladost Lučani,40,28,,37,Serbian_SuperLiga,2022_2023
+180,Mladost Lučani,36,31,,37,Serbian_SuperLiga,2023_2024
+181,Monaco,27,24,48,38,Ligue_1,2022_2023
+181,Monaco,30,25,53,34,Ligue_1,2023_2024
+181,Monaco,27,24,54,38,Ligue_1,2021_2022
+182,Montpellier,31,26,45,38,Ligue_1,2022_2023
+182,Montpellier,31,26,44,34,Ligue_1,2023_2024
+182,Montpellier,27,25,48,38,Ligue_1,2021_2022
+183,Monza,31,26,55,38,Serie_A,2022_2023
+183,Monza,31,26,53,38,Serie_A,2023_2024
+184,Moreirense,29,26,46,34,Primeira_Liga,2023_2024
+184,Moreirense,29,27,44,34,Primeira_Liga,2021_2022
+185,NEC Nijmegen,22,25,50,34,Eredivisie,2022_2023
+185,NEC Nijmegen,25,24,47,34,Eredivisie,2021_2022
+185,NEC Nijmegen,28,26,48,34,Eredivisie,2023_2024
+186,Nantes,29,26,45,38,Ligue_1,2022_2023
+186,Nantes,35,26,44,34,Ligue_1,2023_2024
+186,Nantes,26,26,43,38,Ligue_1,2021_2022
+187,Napoli,27,26,61,38,Serie_A,2022_2023
+187,Napoli,29,27,60,38,Serie_A,2023_2024
+187,Napoli,27,27,58,38,Serie_A,2021_2022
+188,Napredak Kruš,35,26,,37,Serbian_SuperLiga,2021_2022
+188,Napredak Kruš,30,27,,37,Serbian_SuperLiga,2022_2023
+188,Napredak Kruš,36,27,,37,Serbian_SuperLiga,2023_2024
+189,Newcastle Utd,32,27,52,38,Premier_League,2023_2024
+189,Newcastle Utd,27,27,52,38,Premier_League,2022_2023
+189,Newcastle Utd,29,27,40,38,Premier_League,2021_2022
+190,Nice,34,26,51,38,Ligue_1,2022_2023
+190,Nice,27,25,52,34,Ligue_1,2023_2024
+190,Nice,27,25,51,38,Ligue_1,2021_2022
+191,Nordsjælland,28,22,54,32,Danish_Superliga,2022_2023
+191,Nordsjælland,33,21,54,32,Danish_Superliga,2021_2022
+191,Nordsjælland,28,23,57,32,Danish_Superliga,2023_2024
+192,Norwich City,28,26,42,38,Premier_League,2021_2022
+193,Nott'ham Forest,33,25,40,38,Premier_League,2023_2024
+193,Nott'ham Forest,33,26,37,38,Premier_League,2022_2023
+194,Novi Pazar,38,25,,37,Serbian_SuperLiga,2021_2022
+194,Novi Pazar,35,25,,37,Serbian_SuperLiga,2022_2023
+194,Novi Pazar,40,25,,37,Serbian_SuperLiga,2023_2024
+195,OFI Crete,30,28,,33,Super_League_Greece,2023_2024
+195,OFI Crete,31,27,,33,Super_League_Greece,2021_2022
+195,OFI Crete,33,27,,33,Super_League_Greece,2022_2023
+196,OH Leuven,29,24,44,30,Belgian_Pro_League,2023_2024
+196,OH Leuven,30,26,49,34,Belgian_Pro_League,2021_2022
+196,OH Leuven,29,25,50,34,Belgian_Pro_League,2022_2023
+197,Odense,35,25,50,32,Danish_Superliga,2022_2023
+197,Odense,27,25,52,32,Danish_Superliga,2021_2022
+197,Odense,30,25,49,32,Danish_Superliga,2023_2024
+198,Olympiacos,36,27,,36,Super_League_Greece,2023_2024
+198,Olympiacos,35,28,,36,Super_League_Greece,2021_2022
+198,Olympiacos,42,28,,36,Super_League_Greece,2022_2023
+199,Oostende,30,23,45,34,Belgian_Pro_League,2021_2022
+199,Oostende,33,24,43,34,Belgian_Pro_League,2022_2023
+200,Osasuna,29,27,46,38,La_Liga,2021_2022
+200,Osasuna,26,27,48,38,La_Liga,2022_2023
+200,Osasuna,29,27,47,38,La_Liga,2023_2024
+201,PAOK,28,27,,36,Super_League_Greece,2023_2024
+201,PAOK,33,27,,36,Super_League_Greece,2021_2022
+201,PAOK,30,26,,36,Super_League_Greece,2022_2023
+202,PAS Giannina,34,28,,33,Super_League_Greece,2023_2024
+202,PAS Giannina,26,27,,36,Super_League_Greece,2021_2022
+202,PAS Giannina,34,26,,33,Super_League_Greece,2022_2023
+203,PAS Lamia,32,29,,36,Super_League_Greece,2023_2024
+203,PAS Lamia,30,28,,33,Super_League_Greece,2021_2022
+203,PAS Lamia,37,29,,33,Super_League_Greece,2022_2023
+204,PFC Hebar Pazardzhik,36,26,,35,Bulgarian_First_League,2022_2023
+204,PFC Hebar Pazardzhik,28,25,,35,Bulgarian_First_League,2023_2024
+205,PSV Eindhoven,32,25,55,34,Eredivisie,2022_2023
+205,PSV Eindhoven,30,25,57,34,Eredivisie,2021_2022
+205,PSV Eindhoven,29,26,64,34,Eredivisie,2023_2024
+206,Panathinaikos,32,29,,36,Super_League_Greece,2023_2024
+206,Panathinaikos,28,28,,36,Super_League_Greece,2021_2022
+206,Panathinaikos,27,28,,36,Super_League_Greece,2022_2023
+207,Panetolikos,30,27,,33,Super_League_Greece,2023_2024
+207,Panetolikos,29,26,,33,Super_League_Greece,2021_2022
+207,Panetolikos,33,27,,33,Super_League_Greece,2022_2023
+208,Panserraikos,32,26,,33,Super_League_Greece,2023_2024
+209,Paris S-G,26,26,60,38,Ligue_1,2022_2023
+209,Paris S-G,29,24,65,34,Ligue_1,2023_2024
+209,Paris S-G,36,27,63,38,Ligue_1,2021_2022
+210,Partizan,32,27,,37,Serbian_SuperLiga,2021_2022
+210,Partizan,30,27,,37,Serbian_SuperLiga,2022_2023
+210,Partizan,32,26,,37,Serbian_SuperLiga,2023_2024
+211,Paços,30,27,49,34,Primeira_Liga,2021_2022
+211,Paços,36,26,46,34,Primeira_Liga,2022_2023
+212,Pendikspor,35,29,50,38,Super_Lig,2023_2024
+213,Piast Gliwice,29,27,,34,Ekstraklasa,2021_2022
+213,Piast Gliwice,25,27,,34,Ekstraklasa,2022_2023
+213,Piast Gliwice,29,27,,34,Ekstraklasa,2023_2024
+214,Pirin Blagoevgrad,35,26,,35,Bulgarian_First_League,2022_2023
+214,Pirin Blagoevgrad,35,25,,35,Bulgarian_First_League,2023_2024
+214,Pirin Blagoevgrad,36,30,,32,Bulgarian_First_League,2021_2022
+215,Pogoń Szczecin,27,27,,34,Ekstraklasa,2021_2022
+215,Pogoń Szczecin,30,27,,34,Ekstraklasa,2022_2023
+215,Pogoń Szczecin,29,28,,34,Ekstraklasa,2023_2024
+216,Portimonense,31,25,44,34,Primeira_Liga,2023_2024
+216,Portimonense,35,25,48,34,Primeira_Liga,2021_2022
+216,Portimonense,35,25,48,34,Primeira_Liga,2022_2023
+217,Porto,32,25,63,34,Primeira_Liga,2023_2024
+217,Porto,33,25,62,34,Primeira_Liga,2021_2022
+217,Porto,28,27,58,34,Primeira_Liga,2022_2023
+218,Proleter NS,37,26,,37,Serbian_SuperLiga,2021_2022
+219,Puszcza Niepołomice,33,26,,34,Ekstraklasa,2023_2024
+220,R.F.C. Seraing,29,24,47,34,Belgian_Pro_League,2021_2022
+220,R.F.C. Seraing,31,24,41,34,Belgian_Pro_League,2022_2023
+221,RB Leipzig,25,26,58,34,Bundesliga,2022_2023
+221,RB Leipzig,29,25,56,34,Bundesliga,2021_2022
+221,RB Leipzig,26,25,55,34,Bundesliga,2023_2024
+222,RB Salzburg,31,22,56,32,Austrian_Bundesliga,2022_2023
+222,RB Salzburg,31,22,64,32,Austrian_Bundesliga,2021_2022
+222,RB Salzburg,30,22,58,32,Austrian_Bundesliga,2023_2024
+223,RKC Waalwijk,27,26,45,34,Eredivisie,2022_2023
+223,RKC Waalwijk,26,25,43,34,Eredivisie,2021_2022
+223,RKC Waalwijk,26,26,45,34,Eredivisie,2023_2024
+224,RKS Raków,36,25,,34,Ekstraklasa,2021_2022
+224,RKS Raków,30,26,,34,Ekstraklasa,2022_2023
+224,RKS Raków,34,25,,34,Ekstraklasa,2023_2024
+225,RWD Molenbeek,38,25,43,30,Belgian_Pro_League,2023_2024
+226,Radnik Surdulica,31,24,,37,Serbian_SuperLiga,2021_2022
+226,Radnik Surdulica,36,25,,37,Serbian_SuperLiga,2022_2023
+226,Radnik Surdulica,33,24,,37,Serbian_SuperLiga,2023_2024
+227,Radnički Kragujevac,42,26,,37,Serbian_SuperLiga,2021_2022
+227,Radnički Kragujevac,40,27,,37,Serbian_SuperLiga,2022_2023
+227,Radnički Kragujevac,37,25,,37,Serbian_SuperLiga,2023_2024
+228,Radnički Niš,34,27,,37,Serbian_SuperLiga,2021_2022
+228,Radnički Niš,42,25,,37,Serbian_SuperLiga,2022_2023
+228,Radnički Niš,40,25,,37,Serbian_SuperLiga,2023_2024
+229,Radomiak Radom,29,27,,34,Ekstraklasa,2021_2022
+229,Radomiak Radom,33,27,,34,Ekstraklasa,2022_2023
+229,Radomiak Radom,34,27,,34,Ekstraklasa,2023_2024
+230,Randers,31,26,48,32,Danish_Superliga,2022_2023
+230,Randers,27,26,47,32,Danish_Superliga,2021_2022
+230,Randers,31,25,48,32,Danish_Superliga,2023_2024
+231,Rapid Wien,29,25,52,32,Austrian_Bundesliga,2022_2023
+231,Rapid Wien,39,24,53,32,Austrian_Bundesliga,2021_2022
+231,Rapid Wien,31,24,53,32,Austrian_Bundesliga,2023_2024
+232,Rayo Vallecano,28,27,49,38,La_Liga,2021_2022
+232,Rayo Vallecano,28,27,51,38,La_Liga,2022_2023
+232,Rayo Vallecano,26,29,49,38,La_Liga,2023_2024
+233,Real Madrid,31,27,59,38,La_Liga,2021_2022
+233,Real Madrid,26,27,60,38,La_Liga,2022_2023
+233,Real Madrid,27,27,59,38,La_Liga,2023_2024
+234,Real Sociedad,32,25,54,38,La_Liga,2021_2022
+234,Real Sociedad,30,25,54,38,La_Liga,2022_2023
+234,Real Sociedad,31,25,55,38,La_Liga,2023_2024
+235,Red Star,36,28,,37,Serbian_SuperLiga,2021_2022
+235,Red Star,37,27,,37,Serbian_SuperLiga,2022_2023
+235,Red Star,34,26,,37,Serbian_SuperLiga,2023_2024
+236,Reims,34,24,48,38,Ligue_1,2022_2023
+236,Reims,29,25,50,34,Ligue_1,2023_2024
+236,Reims,35,24,42,38,Ligue_1,2021_2022
+237,Rennes,32,25,55,38,Ligue_1,2022_2023
+237,Rennes,29,25,52,34,Ligue_1,2023_2024
+237,Rennes,28,25,55,38,Ligue_1,2021_2022
+238,Ried,33,25,45,32,Austrian_Bundesliga,2022_2023
+238,Ried,26,25,45,32,Austrian_Bundesliga,2021_2022
+239,Rio Ave,33,27,48,34,Primeira_Liga,2023_2024
+239,Rio Ave,30,26,48,34,Primeira_Liga,2022_2023
+240,Rizespor,29,25,47,38,Super_Lig,2023_2024
+240,Rizespor,36,28,48,38,Super_Lig,2021_2022
+241,Roma,30,27,48,38,Serie_A,2022_2023
+241,Roma,30,27,54,38,Serie_A,2023_2024
+241,Roma,29,26,51,38,Serie_A,2021_2022
+242,Ruch Chorzów,37,27,,34,Ekstraklasa,2023_2024
+243,SC Austria Lustenau,26,24,48,32,Austrian_Bundesliga,2022_2023
+243,SC Austria Lustenau,30,24,40,32,Austrian_Bundesliga,2023_2024
+244,SCR Altach,32,25,48,32,Austrian_Bundesliga,2022_2023
+244,SCR Altach,32,26,43,32,Austrian_Bundesliga,2021_2022
+244,SCR Altach,29,26,43,32,Austrian_Bundesliga,2023_2024
+245,SK Austria Klagenfurt,25,27,46,32,Austrian_Bundesliga,2022_2023
+245,SK Austria Klagenfurt,28,25,38,32,Austrian_Bundesliga,2021_2022
+245,SK Austria Klagenfurt,23,26,48,32,Austrian_Bundesliga,2023_2024
+246,Saint-Étienne,39,25,48,38,Ligue_1,2021_2022
+247,Salernitana,30,27,44,38,Serie_A,2022_2023
+247,Salernitana,39,27,44,38,Serie_A,2023_2024
+247,Salernitana,42,27,41,38,Serie_A,2021_2022
+248,Sampdoria,40,27,46,38,Serie_A,2022_2023
+248,Sampdoria,34,29,46,38,Serie_A,2021_2022
+249,Samsunspor,33,27,47,38,Super_Lig,2023_2024
+250,Santa Clara,32,26,45,34,Primeira_Liga,2021_2022
+250,Santa Clara,34,25,42,34,Primeira_Liga,2022_2023
+251,Sassuolo,31,26,49,38,Serie_A,2022_2023
+251,Sassuolo,30,26,43,38,Serie_A,2023_2024
+251,Sassuolo,29,26,54,38,Serie_A,2021_2022
+252,Schalke 04,35,27,46,34,Bundesliga,2022_2023
+253,Septemvri Sofia,37,23,,35,Bulgarian_First_League,2022_2023
+254,Sevilla,33,28,59,38,La_Liga,2021_2022
+254,Sevilla,35,28,52,38,La_Liga,2022_2023
+254,Sevilla,35,28,50,38,La_Liga,2023_2024
+255,Sheffield Utd,35,25,35,38,Premier_League,2023_2024
+256,Silkeborg,30,25,58,32,Danish_Superliga,2022_2023
+256,Silkeborg,26,24,58,32,Danish_Superliga,2021_2022
+256,Silkeborg,28,24,53,32,Danish_Superliga,2023_2024
+257,Sint-Truiden,25,23,56,30,Belgian_Pro_League,2023_2024
+257,Sint-Truiden,32,26,43,34,Belgian_Pro_League,2021_2022
+257,Sint-Truiden,24,27,44,34,Belgian_Pro_League,2022_2023
+258,Sivasspor,34,29,41,38,Super_Lig,2023_2024
+258,Sivasspor,32,30,46,38,Super_Lig,2021_2022
+258,Sivasspor,29,30,46,36,Super_Lig,2022_2023
+259,Slavia Sofia,30,26,,36,Bulgarian_First_League,2022_2023
+259,Slavia Sofia,34,26,,36,Bulgarian_First_League,2023_2024
+259,Slavia Sofia,36,25,,31,Bulgarian_First_League,2021_2022
+260,Southampton,36,24,44,38,Premier_League,2022_2023
+260,Southampton,25,25,47,38,Premier_League,2021_2022
+261,Sparta R'dam,30,26,47,34,Eredivisie,2022_2023
+261,Sparta R'dam,32,27,42,34,Eredivisie,2021_2022
+261,Sparta R'dam,26,25,47,34,Eredivisie,2023_2024
+262,Spartak Subotic,43,24,,37,Serbian_SuperLiga,2021_2022
+262,Spartak Subotic,34,25,,37,Serbian_SuperLiga,2022_2023
+262,Spartak Subotic,38,24,,37,Serbian_SuperLiga,2023_2024
+263,Spezia,34,25,47,38,Serie_A,2022_2023
+263,Spezia,30,24,42,38,Serie_A,2021_2022
+264,Sporting CP,29,26,59,34,Primeira_Liga,2023_2024
+264,Sporting CP,31,26,59,34,Primeira_Liga,2021_2022
+264,Sporting CP,32,25,63,34,Primeira_Liga,2022_2023
+265,Stal Mielec,35,26,,34,Ekstraklasa,2021_2022
+265,Stal Mielec,26,27,,34,Ekstraklasa,2022_2023
+265,Stal Mielec,26,27,,34,Ekstraklasa,2023_2024
+266,Standard Liège,34,24,50,30,Belgian_Pro_League,2023_2024
+266,Standard Liège,38,24,48,34,Belgian_Pro_League,2021_2022
+266,Standard Liège,30,25,51,34,Belgian_Pro_League,2022_2023
+267,Strasbourg,29,27,45,38,Ligue_1,2022_2023
+267,Strasbourg,30,24,44,34,Ligue_1,2023_2024
+267,Strasbourg,26,27,49,38,Ligue_1,2021_2022
+268,Sturm Graz,30,24,49,32,Austrian_Bundesliga,2022_2023
+268,Sturm Graz,24,24,50,32,Austrian_Bundesliga,2021_2022
+268,Sturm Graz,27,24,49,32,Austrian_Bundesliga,2023_2024
+269,Stuttgart,30,24,50,34,Bundesliga,2022_2023
+269,Stuttgart,34,24,50,34,Bundesliga,2021_2022
+269,Stuttgart,27,25,59,34,Bundesliga,2023_2024
+270,SønderjyskE,33,25,45,32,Danish_Superliga,2021_2022
+271,TSC Bačka Top,33,26,,37,Serbian_SuperLiga,2021_2022
+271,TSC Bačka Top,30,27,,37,Serbian_SuperLiga,2022_2023
+271,TSC Bačka Top,26,26,,37,Serbian_SuperLiga,2023_2024
+272,Tondela,27,25,45,34,Primeira_Liga,2021_2022
+273,Torino,28,25,53,38,Serie_A,2022_2023
+273,Torino,30,26,51,38,Serie_A,2023_2024
+273,Torino,31,25,53,38,Serie_A,2021_2022
+274,Tottenham,29,25,61,38,Premier_League,2023_2024
+274,Tottenham,29,27,50,38,Premier_League,2022_2023
+274,Tottenham,25,26,51,38,Premier_League,2021_2022
+275,Toulouse,29,25,51,38,Ligue_1,2022_2023
+275,Toulouse,26,23,48,34,Ligue_1,2023_2024
+276,Trabzonspor,33,26,52,38,Super_Lig,2023_2024
+276,Trabzonspor,31,27,55,38,Super_Lig,2021_2022
+276,Trabzonspor,37,27,54,36,Super_Lig,2022_2023
+277,Troyes,32,25,42,38,Ligue_1,2022_2023
+277,Troyes,35,27,44,38,Ligue_1,2021_2022
+278,Tsarsko Selo,46,28,,32,Bulgarian_First_League,2021_2022
+279,Twente,26,26,57,34,Eredivisie,2022_2023
+279,Twente,28,25,51,34,Eredivisie,2021_2022
+279,Twente,26,25,56,34,Eredivisie,2023_2024
+280,Udinese,30,26,48,38,Serie_A,2022_2023
+280,Udinese,32,25,39,38,Serie_A,2023_2024
+280,Udinese,29,26,42,38,Serie_A,2021_2022
+281,Union Berlin,28,27,43,34,Bundesliga,2022_2023
+281,Union Berlin,28,28,43,34,Bundesliga,2021_2022
+281,Union Berlin,30,28,42,34,Bundesliga,2023_2024
+282,Union SG,26,26,49,30,Belgian_Pro_League,2023_2024
+282,Union SG,25,26,48,34,Belgian_Pro_League,2021_2022
+282,Union SG,26,25,51,34,Belgian_Pro_League,2022_2023
+283,Utrecht,33,26,49,34,Eredivisie,2022_2023
+283,Utrecht,36,25,48,34,Eredivisie,2021_2022
+283,Utrecht,35,25,48,34,Eredivisie,2023_2024
+284,Valencia,34,24,43,38,La_Liga,2021_2022
+284,Valencia,28,24,52,38,La_Liga,2022_2023
+284,Valencia,29,23,44,38,La_Liga,2023_2024
+285,Valladolid,36,27,48,38,La_Liga,2022_2023
+286,Vejle BK,40,25,45,32,Danish_Superliga,2021_2022
+286,Vejle BK,30,26,40,32,Danish_Superliga,2023_2024
+287,Venezia,39,26,42,38,Serie_A,2021_2022
+288,Viborg,29,24,48,32,Danish_Superliga,2022_2023
+288,Viborg,29,24,49,32,Danish_Superliga,2021_2022
+288,Viborg,29,23,49,32,Danish_Superliga,2023_2024
+289,Villarreal,29,28,56,38,La_Liga,2021_2022
+289,Villarreal,32,28,56,38,La_Liga,2022_2023
+289,Villarreal,32,27,49,38,La_Liga,2023_2024
+290,Vitesse,30,23,48,34,Eredivisie,2022_2023
+290,Vitesse,29,23,52,34,Eredivisie,2021_2022
+290,Vitesse,31,24,50,34,Eredivisie,2023_2024
+291,Vitória,27,26,48,34,Primeira_Liga,2023_2024
+291,Vitória,31,24,48,34,Primeira_Liga,2021_2022
+291,Vitória,34,24,47,34,Primeira_Liga,2022_2023
+292,Vizela,31,24,49,34,Primeira_Liga,2023_2024
+292,Vizela,31,26,44,34,Primeira_Liga,2021_2022
+292,Vizela,30,25,45,34,Primeira_Liga,2022_2023
+293,Vojvodina,29,25,,37,Serbian_SuperLiga,2021_2022
+293,Vojvodina,29,25,,37,Serbian_SuperLiga,2022_2023
+293,Vojvodina,33,25,,37,Serbian_SuperLiga,2023_2024
+294,Volendam,31,23,41,34,Eredivisie,2022_2023
+294,Volendam,37,23,41,34,Eredivisie,2023_2024
+295,Volos NFC,33,27,,33,Super_League_Greece,2023_2024
+295,Volos NFC,28,27,,33,Super_League_Greece,2021_2022
+295,Volos NFC,36,27,,36,Super_League_Greece,2022_2023
+296,Voždovac,30,24,,37,Serbian_SuperLiga,2021_2022
+296,Voždovac,38,22,,37,Serbian_SuperLiga,2022_2023
+296,Voždovac,35,22,,37,Serbian_SuperLiga,2023_2024
+297,WSG Tirol,26,24,49,32,Austrian_Bundesliga,2022_2023
+297,WSG Tirol,28,24,51,32,Austrian_Bundesliga,2021_2022
+297,WSG Tirol,27,24,48,32,Austrian_Bundesliga,2023_2024
+298,Warta Poznań,34,26,,34,Ekstraklasa,2021_2022
+298,Warta Poznań,29,26,,34,Ekstraklasa,2022_2023
+298,Warta Poznań,30,26,,34,Ekstraklasa,2023_2024
+299,Watford,30,28,40,38,Premier_League,2021_2022
+300,Werder Bremen,25,27,49,34,Bundesliga,2022_2023
+300,Werder Bremen,30,27,46,34,Bundesliga,2023_2024
+301,West Ham,26,28,41,38,Premier_League,2023_2024
+301,West Ham,25,28,42,38,Premier_League,2022_2023
+301,West Ham,25,28,47,38,Premier_League,2021_2022
+302,Westerlo,32,25,47,30,Belgian_Pro_League,2023_2024
+302,Westerlo,26,25,49,34,Belgian_Pro_League,2022_2023
+303,Widzew Łódź,27,26,,34,Ekstraklasa,2022_2023
+303,Widzew Łódź,29,27,,34,Ekstraklasa,2023_2024
+304,Willem II,33,24,45,34,Eredivisie,2021_2022
+305,Wisła Kraków,34,26,,34,Ekstraklasa,2021_2022
+306,Wisła Płock,32,27,,34,Ekstraklasa,2021_2022
+306,Wisła Płock,33,27,,34,Ekstraklasa,2022_2023
+307,Wolfsberger AC,26,24,49,32,Austrian_Bundesliga,2022_2023
+307,Wolfsberger AC,24,26,51,32,Austrian_Bundesliga,2021_2022
+307,Wolfsberger AC,28,24,50,32,Austrian_Bundesliga,2023_2024
+308,Wolfsburg,28,24,50,34,Bundesliga,2022_2023
+308,Wolfsburg,30,26,50,34,Bundesliga,2021_2022
+308,Wolfsburg,28,25,48,34,Bundesliga,2023_2024
+309,Wolves,27,26,48,38,Premier_League,2023_2024
+309,Wolves,32,26,49,38,Premier_League,2022_2023
+309,Wolves,26,27,49,38,Premier_League,2021_2022
+310,Yeni Mal'spor,42,26,41,38,Super_Lig,2021_2022
+311,Zagłębie Lubin,39,25,,34,Ekstraklasa,2021_2022
+311,Zagłębie Lubin,31,25,,34,Ekstraklasa,2022_2023
+311,Zagłębie Lubin,26,26,,34,Ekstraklasa,2023_2024
+312,Zulte Waregem,27,27,45,34,Belgian_Pro_League,2021_2022
+312,Zulte Waregem,36,26,46,34,Belgian_Pro_League,2022_2023
+313,Zwolle,32,25,50,34,Eredivisie,2021_2022
+313,Zwolle,29,26,49,34,Eredivisie,2023_2024
+314,Ümraniyespor,38,29,47,36,Super_Lig,2022_2023
+315,Čukarički,33,23,,37,Serbian_SuperLiga,2021_2022
+315,Čukarički,36,24,,37,Serbian_SuperLiga,2022_2023
+315,Čukarički,43,25,,37,Serbian_SuperLiga,2023_2024
+316,İstanbulspor,34,26,46,38,Super_Lig,2023_2024
+316,İstanbulspor,36,26,43,36,Super_Lig,2022_2023
+317,Łódzki KS,37,26,,34,Ekstraklasa,2023_2024
+318,Śląsk Wrocław,33,27,,34,Ekstraklasa,2021_2022
+318,Śląsk Wrocław,29,25,,34,Ekstraklasa,2022_2023
+318,Śląsk Wrocław,31,25,,34,Ekstraklasa,2023_2024

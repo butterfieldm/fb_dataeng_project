@@ -1,0 +1,499 @@
+squad,country,season,uefa_rating,confederation,overall_uefa_rating,uefa_season_ranking,overall_uefa_club_rank
+Manchester City,England,2021_2022,27,UEFA,88,4,2
+Real Madrid,Spain,2021_2022,30,UEFA,93,2,1
+Bayern Munich,Germany,2021_2022,26,UEFA,81,5,3
+Liverpool,England,2021_2022,33,UEFA,72,1,5
+Roma,Italy,2021_2022,23,UEFA,66,9,8
+Paris S-G,France,2021_2022,19,UEFA,61,15,10
+Dortmund,Germany,2021_2022,10,UEFA,57,38,12
+Inter,Italy,2021_2022,18,UEFA,67,17,7
+Villarreal,Spain,2021_2022,24,UEFA,52,7,14
+Chelsea,England,2021_2022,25,UEFA,46,6,22
+Leverkusen,Germany,2021_2022,14,UEFA,62,29,9
+Benfica,Portugal,2021_2022,20,UEFA,59,13,11
+RB Leipzig,Germany,2021_2022,17,UEFA,53,19,13
+Atlético Madrid,Spain,2021_2022,19,UEFA,51,15,15
+Porto,Portugal,2021_2022,10,UEFA,47,38,19
+Manchester Utd,England,2021_2022,18,UEFA,44,17,24
+Barcelona,Spain,2021_2022,15,UEFA,47,26,19
+West Ham,England,2021_2022,21,UEFA,69,11,6
+Arsenal,England,2021_2022,-1,UEFA,39,-1,30
+Atalanta,Italy,2021_2022,16,UEFA,44,22,24
+Juventus,Italy,2021_2022,20,UEFA,37,13,33
+Milan,Italy,2021_2022,7,UEFA,47,47,19
+Club Brugge,Belgium,2021_2022,7,UEFA,45,47,23
+Napoli,Italy,2021_2022,9,UEFA,51,41,15
+Feyenoord,Netherlands,2021_2022,24,UEFA,49,7,18
+Sevilla,Spain,2021_2022,12,UEFA,39,35,30
+Ajax,Netherlands,2021_2022,22,UEFA,35,10,35
+Eint Frankfurt,Germany,2021_2022,28,UEFA,51,3,15
+Real Sociedad,Spain,2021_2022,9,UEFA,43,41,26
+PSV Eindhoven,Netherlands,2021_2022,10,UEFA,38,38,32
+Lazio,Italy,2021_2022,9,UEFA,33,41,37
+Sporting CP,Portugal,2021_2022,16,UEFA,42,22,27
+Marseille,France,2021_2022,16,UEFA,42,22,27
+Lille,France,2021_2022,17,UEFA,34,19,36
+RB Salzburg,Austria,2021_2022,17,UEFA,33,19,37
+AZ Alkmaar,Netherlands,2021_2022,13,UEFA,36,31,34
+Fiorentina,Italy,2021_2022,-1,UEFA,42,-1,27
+Braga,Portugal,2021_2022,16,UEFA,30,22,41
+Tottenham,England,2021_2022,5,UEFA,23,52,47
+Olympiacos,Greece,2021_2022,8,UEFA,28,45,43
+FC Copenhagen,France,2021_2022,14,UEFA,72,29,4
+FC Copenhagen,Denmark,2021_2022,13,UEFA,72,31,4
+Red Star,Serbia,2021_2022,15,UEFA,24,26,46
+Gent,Belgium,2021_2022,11,UEFA,32,36,40
+PAOK,Greece,2021_2022,13,UEFA,29,31,42
+Betis,Spain,2021_2022,11,UEFA,33,36,37
+Union SG,Belgium,2021_2022,-1,UEFA,25,-1,45
+Freiburg,Germany,2021_2022,-1,UEFA,28,-1,43
+LASK,Austria,2021_2022,15,UEFA,18,26,50
+Midtjylland,Denmark,2021_2022,7,UEFA,17,47,51
+Aston Villa,England,2021_2022,-1,UEFA,17,-1,53
+Lyon,France,2021_2022,21,UEFA,21,11,49
+Union Berlin,Germany,2021_2022,5,UEFA,23,52,47
+Leicester City,England,2021_2022,13,UEFA,13,31,58
+Ludogorets,Bulgaria,2021_2022,3,UEFA,17,58,53
+FK IMT Novi Beograd,Serbia,2021_2022,7,UEFA,17,47,51
+Antwerp,Belgium,2021_2022,4,UEFA,12,54,60
+Nice,France,2021_2022,-1,UEFA,14,-1,56
+Lech Poznań,Poland,2021_2022,-1,UEFA,16,-1,55
+Legia Warsaw,Poland,2021_2022,4,UEFA,13,54,58
+Sturm Graz,Austria,2021_2022,3,UEFA,12,58,62
+Rapid Wien,Austria,2021_2022,4,UEFA,9,54,66
+Anderlecht,Belgium,2021_2022,2,UEFA,12,61,60
+Gladbach,Germany,2021_2022,-1,UEFA,0,-1,102
+Hoffenheim,Germany,2021_2022,-1,UEFA,0,-1,102
+Brighton,England,2021_2022,-1,UEFA,14,-1,56
+Granada,Spain,2021_2022,-1,UEFA,0,-1,102
+Lens,France,2021_2022,-1,UEFA,10,-1,64
+Genk,Belgium,2021_2022,4,UEFA,11,54,63
+Wolfsburg,Germany,2021_2022,8,UEFA,8,45,68
+Toulouse,France,2021_2022,-1,UEFA,10,-1,64
+Wolfsberger AC,Austria,2021_2022,-1,UEFA,2,-1,90
+AEK Athens,Greece,2021_2022,1,UEFA,4,69,83
+CSKA Sofia,Bulgaria,2021_2022,1,UEFA,5,75,78
+Vitesse,Netherlands,2021_2022,9,UEFA,9,41,66
+Brest,France,2021_2022,-1,UEFA,0,-1,102
+Newcastle Utd,England,2021_2022,-1,UEFA,8,-1,68
+Nantes,France,2021_2022,-1,UEFA,8,-1,68
+Twente,Netherlands,2021_2022,-1,UEFA,5,-1,78
+RKS Raków,Poland,2021_2022,2,UEFA,8,61,68
+Austria Wien,Austria,2021_2022,1,UEFA,6,69,75
+FK Mladost Novi Sad,Serbia,2021_2022,2,UEFA,3,65,86
+Panathinaikos,Greece,2021_2022,-1,UEFA,5,-1,78
+Randers,Denmark,2021_2022,7,UEFA,7,47,73
+Nordsjælland,Denmark,2021_2022,-1,UEFA,7,-1,73
+Bologna,Italy,2021_2022,-1,UEFA,0,-1,102
+Aris,Greece,2021_2022,1,UEFA,5,69,77
+Brøndby,Denmark,2021_2022,3,UEFA,5,58,78
+TSC Bačka Top,Serbia,2021_2022,-1,UEFA,3,-1,88
+Gaziantep FK,Serbia,2021_2022,2,UEFA,8,65,68
+Köln,Germany,2021_2022,-1,UEFA,6,-1,75
+Stuttgart,Germany,2021_2022,-1,UEFA,0,-1,102
+Girona,Spain,2021_2022,-1,UEFA,0,-1,102
+Silkeborg,Denmark,2021_2022,-1,UEFA,4,-1,85
+Vitória,Portugal,2021_2022,-1,UEFA,3,-1,86
+Pogoń Szczecin,Poland,2021_2022,1,UEFA,5,69,78
+AGF,Denmark,2021_2022,1,UEFA,3,69,88
+Levski Sofia,Bulgaria,2021_2022,-1,UEFA,4,-1,83
+Śląsk Wrocław,Poland,2021_2022,2,UEFA,2,65,95
+Loko Plovdiv,Bulgaria,2021_2022,2,UEFA,2,65,95
+CSKA 1948,Bulgaria,2021_2022,-1,UEFA,1,-1,98
+Botev Plovdiv,Bulgaria,2021_2022,-1,UEFA,1,-1,98
+Standard Liège,Belgium,2021_2022,-1,UEFA,0,-1,102
+Athletic Club,Spain,2021_2022,-1,UEFA,0,-1,102
+Osasuna,Spain,2021_2022,-1,UEFA,2,-1,90
+Viborg,Denmark,2021_2022,-1,UEFA,2,-1,90
+Gil Vicente FC,Portugal,2021_2022,-1,UEFA,2,-1,90
+Santa Clara,Portugal,2021_2022,2,UEFA,2,61,90
+FC Copenhagen,Portugal,2021_2022,2,UEFA,72,61,4
+Charleroi,Belgium,2021_2022,-1,UEFA,0,-1,102
+Rio Ave,Portugal,2021_2022,-1,UEFA,0,-1,102
+Heidenheim,Germany,2021_2022,-1,UEFA,0,-1,102
+Wisła Kraków,Poland,2021_2022,-1,UEFA,0,-1,102
+Cercle Brugge,Belgium,2021_2022,-1,UEFA,0,-1,102
+Jagiellonia,Poland,2021_2022,-1,UEFA,0,-1,102
+Arouca,Portugal,2021_2022,-1,UEFA,2,-1,95
+Willem II,Netherlands,2021_2022,-1,UEFA,0,-1,102
+Reims,France,2021_2022,-1,UEFA,0,-1,102
+SønderjyskE,Denmark,2021_2022,-1,UEFA,0,-1,102
+Piast Gliwice,Poland,2021_2022,-1,UEFA,0,-1,102
+Arda,Bulgaria,2021_2022,1,UEFA,1,69,98
+OFI Crete,Greece,2021_2022,-1,UEFA,0,-1,102
+Lechia Gdańsk,Poland,2021_2022,-1,UEFA,1,-1,98
+Hartberg,Austria,2021_2022,-1,UEFA,0,-1,102
+Gaziantep FK,Serbia,2021_2022,-1,UEFA,8,-1,68
+Cherno More,Bulgaria,2021_2022,-1,UEFA,0,-1,102
+Go Ahead Eag,Netherlands,2021_2022,-1,UEFA,0,-1,102
+Radnički Kragujevac,Serbia,2021_2022,-1,UEFA,0,-1,102
+Slavia Sofia,Bulgaria,2021_2022,-1,UEFA,0,-1,102
+Cracovia,Poland,2021_2022,-1,UEFA,0,-1,102
+Mainz 05,Germany,2021_2022,-1,UEFA,0,-1,102
+Zagłębie Lubin,Poland,2021_2022,-1,UEFA,0,-1,102
+Southampton,England,2021_2022,-1,UEFA,0,-1,102
+Celta Vigo,Spain,2021_2022,-1,UEFA,0,-1,102
+Heracles Almelo,Netherlands,2021_2022,-1,UEFA,0,-1,102
+PAS Giannina,Greece,2021_2022,-1,UEFA,0,-1,102
+Sassuolo,Italy,2021_2022,-1,UEFA,0,-1,102
+Beroe,Bulgaria,2021_2022,-1,UEFA,0,-1,102
+Everton,England,2021_2022,-1,UEFA,0,-1,102
+Hertha BSC,Germany,2021_2022,-1,UEFA,0,-1,102
+No Match,Greece,2021_2022,-1,UEFA,0,-1,102
+Lyngby,Denmark,2021_2022,-1,UEFA,0,-1,102
+Marítimo,Portugal,2021_2022,-1,UEFA,0,-1,102
+Oostende,Belgium,2021_2022,-1,UEFA,0,-1,102
+Zulte Waregem,Belgium,2021_2022,-1,UEFA,0,-1,102
+SCR Altach,Austria,2021_2022,-1,UEFA,0,-1,102
+No Match,Poland,2021_2022,-1,UEFA,0,-1,102
+Mladost Lučani,Serbia,2021_2022,-1,UEFA,0,-1,102
+No Match,Bulgaria,2021_2022,-1,UEFA,0,-1,102
+Schalke 04,Germany,2021_2022,-1,UEFA,0,-1,102
+Bordeaux,France,2021_2022,-1,UEFA,0,-1,102
+Górnik Zabrze,Poland,2021_2022,-1,UEFA,0,-1,102
+Admira,Austria,2021_2022,-1,UEFA,0,-1,102
+Burnley,England,2021_2022,-1,UEFA,0,-1,102
+Asteras Tripoli,Greece,2021_2022,-1,UEFA,0,-1,102
+Spartak Subotic,Serbia,2021_2022,-1,UEFA,0,-1,102
+Utrecht,Netherlands,2021_2022,-1,UEFA,0,-1,102
+Torino,Italy,2021_2022,-1,UEFA,0,-1,102
+Wolves,England,2021_2022,-1,UEFA,0,-1,102
+Saint-Étienne,France,2021_2022,-1,UEFA,0,-1,102
+Strasbourg,France,2021_2022,-1,UEFA,0,-1,102
+Barcelona,Spain,2021_2022,-1,UEFA,47,-1,19
+Valencia,Spain,2021_2022,-1,UEFA,0,-1,102
+Atromitos,Greece,2021_2022,-1,UEFA,0,-1,102
+No Match,Denmark,2021_2022,-1,UEFA,0,-1,102
+Getafe,Spain,2021_2022,-1,UEFA,0,-1,102
+Manchester City,England,2022_2023,33,UEFA,88,1,2
+Real Madrid,Spain,2022_2023,29,UEFA,93,2,1
+Bayern Munich,Germany,2022_2023,27,UEFA,81,5,3
+Liverpool,England,2022_2023,19,UEFA,72,13,5
+Roma,Italy,2022_2023,22,UEFA,66,9,8
+Paris S-G,France,2022_2023,19,UEFA,61,13,10
+Dortmund,Germany,2022_2023,18,UEFA,57,19,12
+Inter,Italy,2022_2023,29,UEFA,67,2,7
+Villarreal,Spain,2022_2023,12,UEFA,52,34,14
+Chelsea,England,2022_2023,21,UEFA,46,10,22
+Leverkusen,Germany,2022_2023,19,UEFA,62,13,9
+Benfica,Portugal,2022_2023,25,UEFA,59,6,11
+RB Leipzig,Germany,2022_2023,18,UEFA,53,19,13
+Atlético Madrid,Spain,2022_2023,8,UEFA,51,42,15
+Porto,Portugal,2022_2023,18,UEFA,47,19,19
+Manchester Utd,England,2022_2023,19,UEFA,44,13,24
+Barcelona,Spain,2022_2023,9,UEFA,47,40,19
+West Ham,England,2022_2023,29,UEFA,69,2,6
+Arsenal,England,2022_2023,17,UEFA,39,23,30
+Atalanta,Italy,2022_2023,-1,UEFA,44,-1,24
+Juventus,Italy,2022_2023,17,UEFA,37,23,33
+Milan,Italy,2022_2023,24,UEFA,47,8,19
+Club Brugge,Belgium,2022_2023,17,UEFA,45,23,23
+Napoli,Italy,2022_2023,25,UEFA,51,6,15
+Feyenoord,Netherlands,2022_2023,17,UEFA,49,23,18
+Sevilla,Spain,2022_2023,21,UEFA,39,10,30
+Ajax,Netherlands,2022_2023,8,UEFA,35,42,35
+Eint Frankfurt,Germany,2022_2023,16,UEFA,51,27,15
+Real Sociedad,Spain,2022_2023,16,UEFA,43,27,26
+PSV Eindhoven,Netherlands,2022_2023,11,UEFA,38,36,32
+Lazio,Italy,2022_2023,6,UEFA,33,50,37
+Sporting CP,Portugal,2022_2023,14,UEFA,42,31,27
+Marseille,France,2022_2023,8,UEFA,42,42,27
+Lille,France,2022_2023,-1,UEFA,34,-1,36
+RB Salzburg,Austria,2022_2023,9,UEFA,33,40,37
+AZ Alkmaar,Netherlands,2022_2023,19,UEFA,36,13,34
+Fiorentina,Italy,2022_2023,20,UEFA,42,12,27
+Braga,Portugal,2022_2023,7,UEFA,30,48,41
+Tottenham,England,2022_2023,18,UEFA,23,19,47
+Olympiacos,Greece,2022_2023,3,UEFA,28,56,43
+FC Copenhagen,France,2022_2023,11,UEFA,72,36,4
+FC Copenhagen,Denmark,2022_2023,7,UEFA,72,48,4
+Red Star,Serbia,2022_2023,4,UEFA,24,54,46
+Gent,Belgium,2022_2023,11,UEFA,32,36,40
+PAOK,Greece,2022_2023,1,UEFA,29,72,42
+Betis,Spain,2022_2023,16,UEFA,33,27,37
+Union SG,Belgium,2022_2023,19,UEFA,25,13,45
+Freiburg,Germany,2022_2023,15,UEFA,28,30,43
+LASK,Austria,2022_2023,-1,UEFA,18,-1,50
+Midtjylland,Denmark,2022_2023,8,UEFA,17,42,51
+Aston Villa,England,2022_2023,-1,UEFA,17,-1,53
+Lyon,France,2022_2023,-1,UEFA,21,-1,49
+Union Berlin,Germany,2022_2023,12,UEFA,23,34,47
+Leicester City,England,2022_2023,-1,UEFA,13,-1,58
+Ludogorets,Bulgaria,2022_2023,5,UEFA,17,53,53
+FK IMT Novi Beograd,Serbia,2022_2023,8,UEFA,17,42,51
+Antwerp,Belgium,2022_2023,2,UEFA,12,57,60
+Nice,France,2022_2023,14,UEFA,14,31,56
+Lech Poznań,Poland,2022_2023,14,UEFA,16,31,55
+Legia Warsaw,Poland,2022_2023,-1,UEFA,13,-1,58
+Sturm Graz,Austria,2022_2023,6,UEFA,12,50,62
+Rapid Wien,Austria,2022_2023,2,UEFA,9,57,66
+Anderlecht,Belgium,2022_2023,10,UEFA,12,39,60
+Gladbach,Germany,2022_2023,-1,UEFA,0,-1,102
+Hoffenheim,Germany,2022_2023,-1,UEFA,0,-1,102
+Brighton,England,2022_2023,-1,UEFA,14,-1,56
+Granada,Spain,2022_2023,-1,UEFA,0,-1,102
+Lens,France,2022_2023,-1,UEFA,10,-1,64
+Genk,Belgium,2022_2023,-1,UEFA,11,-1,63
+Wolfsburg,Germany,2022_2023,-1,UEFA,8,-1,68
+Toulouse,France,2022_2023,-1,UEFA,10,-1,64
+Wolfsberger AC,Austria,2022_2023,2,UEFA,2,57,90
+AEK Athens,Greece,2022_2023,-1,UEFA,4,-1,83
+CSKA Sofia,Bulgaria,2022_2023,2,UEFA,5,57,78
+Vitesse,Netherlands,2022_2023,-1,UEFA,9,-1,66
+Brest,France,2022_2023,-1,UEFA,0,-1,102
+Newcastle Utd,England,2022_2023,-1,UEFA,8,-1,68
+Nantes,France,2022_2023,8,UEFA,8,42,68
+Twente,Netherlands,2022_2023,2,UEFA,5,57,78
+RKS Raków,Poland,2022_2023,2,UEFA,8,57,68
+Austria Wien,Austria,2022_2023,2,UEFA,6,57,75
+FK Mladost Novi Sad,Serbia,2022_2023,-1,UEFA,3,-1,86
+Panathinaikos,Greece,2022_2023,2,UEFA,5,66,78
+Randers,Denmark,2022_2023,-1,UEFA,7,-1,73
+Nordsjælland,Denmark,2022_2023,-1,UEFA,7,-1,73
+Bologna,Italy,2022_2023,-1,UEFA,0,-1,102
+Aris,Greece,2022_2023,2,UEFA,5,66,77
+Brøndby,Denmark,2022_2023,2,UEFA,5,66,78
+TSC Bačka Top,Serbia,2022_2023,-1,UEFA,3,-1,88
+Gaziantep FK,Serbia,2022_2023,2,UEFA,8,66,68
+Köln,Germany,2022_2023,6,UEFA,6,50,75
+Stuttgart,Germany,2022_2023,-1,UEFA,0,-1,102
+Girona,Spain,2022_2023,-1,UEFA,0,-1,102
+Silkeborg,Denmark,2022_2023,4,UEFA,4,54,85
+Vitória,Portugal,2022_2023,2,UEFA,3,66,86
+Pogoń Szczecin,Poland,2022_2023,1,UEFA,5,72,78
+AGF,Denmark,2022_2023,-1,UEFA,3,-1,88
+Levski Sofia,Bulgaria,2022_2023,2,UEFA,4,66,83
+Śląsk Wrocław,Poland,2022_2023,-1,UEFA,2,-1,95
+Loko Plovdiv,Bulgaria,2022_2023,-1,UEFA,2,-1,95
+CSKA 1948,Bulgaria,2022_2023,-1,UEFA,1,-1,98
+Botev Plovdiv,Bulgaria,2022_2023,1,UEFA,1,72,98
+Standard Liège,Belgium,2022_2023,-1,UEFA,0,-1,102
+Athletic Club,Spain,2022_2023,-1,UEFA,0,-1,102
+Osasuna,Spain,2022_2023,-1,UEFA,2,-1,90
+Viborg,Denmark,2022_2023,2,UEFA,2,57,90
+Gil Vicente FC,Portugal,2022_2023,2,UEFA,2,57,90
+Santa Clara,Portugal,2022_2023,-1,UEFA,2,-1,90
+FC Copenhagen,Portugal,2022_2023,-1,UEFA,72,-1,4
+Charleroi,Belgium,2022_2023,-1,UEFA,0,-1,102
+Rio Ave,Portugal,2022_2023,-1,UEFA,0,-1,102
+Heidenheim,Germany,2022_2023,-1,UEFA,0,-1,102
+Wisła Kraków,Poland,2022_2023,-1,UEFA,0,-1,102
+Cercle Brugge,Belgium,2022_2023,-1,UEFA,0,-1,102
+Jagiellonia,Poland,2022_2023,-1,UEFA,0,-1,102
+Arouca,Portugal,2022_2023,-1,UEFA,2,-1,95
+Willem II,Netherlands,2022_2023,-1,UEFA,0,-1,102
+Reims,France,2022_2023,-1,UEFA,0,-1,102
+SønderjyskE,Denmark,2022_2023,-1,UEFA,0,-1,102
+Piast Gliwice,Poland,2022_2023,-1,UEFA,0,-1,102
+Arda,Bulgaria,2022_2023,-1,UEFA,1,-1,98
+OFI Crete,Greece,2022_2023,-1,UEFA,0,-1,102
+Lechia Gdańsk,Poland,2022_2023,1,UEFA,1,72,98
+Hartberg,Austria,2022_2023,-1,UEFA,0,-1,102
+Gaziantep FK,Serbia,2022_2023,1,UEFA,8,72,68
+Cherno More,Bulgaria,2022_2023,-1,UEFA,0,-1,102
+Go Ahead Eag,Netherlands,2022_2023,-1,UEFA,0,-1,102
+Radnički Kragujevac,Serbia,2022_2023,-1,UEFA,0,-1,102
+Slavia Sofia,Bulgaria,2022_2023,-1,UEFA,0,-1,102
+Cracovia,Poland,2022_2023,-1,UEFA,0,-1,102
+Mainz 05,Germany,2022_2023,-1,UEFA,0,-1,102
+Zagłębie Lubin,Poland,2022_2023,-1,UEFA,0,-1,102
+Southampton,England,2022_2023,-1,UEFA,0,-1,102
+Celta Vigo,Spain,2022_2023,-1,UEFA,0,-1,102
+Heracles Almelo,Netherlands,2022_2023,-1,UEFA,0,-1,102
+PAS Giannina,Greece,2022_2023,-1,UEFA,0,-1,102
+Sassuolo,Italy,2022_2023,-1,UEFA,0,-1,102
+Beroe,Bulgaria,2022_2023,-1,UEFA,0,-1,102
+Everton,England,2022_2023,-1,UEFA,0,-1,102
+Hertha BSC,Germany,2022_2023,-1,UEFA,0,-1,102
+No Match,Greece,2022_2023,-1,UEFA,0,-1,102
+Lyngby,Denmark,2022_2023,-1,UEFA,0,-1,102
+Marítimo,Portugal,2022_2023,-1,UEFA,0,-1,102
+Oostende,Belgium,2022_2023,-1,UEFA,0,-1,102
+Zulte Waregem,Belgium,2022_2023,-1,UEFA,0,-1,102
+SCR Altach,Austria,2022_2023,-1,UEFA,0,-1,102
+No Match,Poland,2022_2023,-1,UEFA,0,-1,102
+Mladost Lučani,Serbia,2022_2023,-1,UEFA,0,-1,102
+No Match,Bulgaria,2022_2023,-1,UEFA,0,-1,102
+Schalke 04,Germany,2022_2023,-1,UEFA,0,-1,102
+Bordeaux,France,2022_2023,-1,UEFA,0,-1,102
+Górnik Zabrze,Poland,2022_2023,-1,UEFA,0,-1,102
+Admira,Austria,2022_2023,-1,UEFA,0,-1,102
+Burnley,England,2022_2023,-1,UEFA,0,-1,102
+Asteras Tripoli,Greece,2022_2023,-1,UEFA,0,-1,102
+Spartak Subotic,Serbia,2022_2023,-1,UEFA,0,-1,102
+Utrecht,Netherlands,2022_2023,-1,UEFA,0,-1,102
+Torino,Italy,2022_2023,-1,UEFA,0,-1,102
+Wolves,England,2022_2023,-1,UEFA,0,-1,102
+Saint-Étienne,France,2022_2023,-1,UEFA,0,-1,102
+Strasbourg,France,2022_2023,-1,UEFA,0,-1,102
+Barcelona,Spain,2022_2023,-1,UEFA,47,-1,19
+Valencia,Spain,2022_2023,-1,UEFA,0,-1,102
+Atromitos,Greece,2022_2023,-1,UEFA,0,-1,102
+No Match,Denmark,2022_2023,-1,UEFA,0,-1,102
+Getafe,Spain,2022_2023,-1,UEFA,0,-1,102
+Manchester City,England,2023_2024,28,UEFA,88,4,2
+Real Madrid,Spain,2023_2024,34,UEFA,93,1,1
+Bayern Munich,Germany,2023_2024,28,UEFA,81,4,3
+Liverpool,England,2023_2024,20,UEFA,72,14,5
+Roma,Italy,2023_2024,21,UEFA,66,12,8
+Paris S-G,France,2023_2024,23,UEFA,61,8,10
+Dortmund,Germany,2023_2024,29,UEFA,57,2,12
+Inter,Italy,2023_2024,20,UEFA,67,14,7
+Villarreal,Spain,2023_2024,16,UEFA,52,27,14
+Chelsea,England,2023_2024,-1,UEFA,46,-1,22
+Leverkusen,Germany,2023_2024,29,UEFA,62,2,9
+Benfica,Portugal,2023_2024,14,UEFA,59,31,11
+RB Leipzig,Germany,2023_2024,18,UEFA,53,18,13
+Atlético Madrid,Spain,2023_2024,24,UEFA,51,7,15
+Porto,Portugal,2023_2024,19,UEFA,47,16,19
+Manchester Utd,England,2023_2024,7,UEFA,44,43,24
+Barcelona,Spain,2023_2024,23,UEFA,47,8,19
+West Ham,England,2023_2024,19,UEFA,69,16,6
+Arsenal,England,2023_2024,22,UEFA,39,10,30
+Atalanta,Italy,2023_2024,28,UEFA,44,4,24
+Juventus,Italy,2023_2024,-1,UEFA,37,-1,33
+Milan,Italy,2023_2024,16,UEFA,47,27,19
+Club Brugge,Belgium,2023_2024,21,UEFA,45,12,23
+Napoli,Italy,2023_2024,17,UEFA,51,22,15
+Feyenoord,Netherlands,2023_2024,8,UEFA,49,41,18
+Sevilla,Spain,2023_2024,6,UEFA,39,49,30
+Ajax,Netherlands,2023_2024,5,UEFA,35,54,35
+Eint Frankfurt,Germany,2023_2024,7,UEFA,51,43,15
+Real Sociedad,Spain,2023_2024,18,UEFA,43,18,26
+PSV Eindhoven,Netherlands,2023_2024,17,UEFA,38,22,32
+Lazio,Italy,2023_2024,18,UEFA,33,18,37
+Sporting CP,Portugal,2023_2024,12,UEFA,42,34,27
+Marseille,France,2023_2024,18,UEFA,42,18,27
+Lille,France,2023_2024,17,UEFA,34,22,36
+RB Salzburg,Austria,2023_2024,7,UEFA,33,43,37
+AZ Alkmaar,Netherlands,2023_2024,4,UEFA,36,56,34
+Fiorentina,Italy,2023_2024,22,UEFA,42,10,27
+Braga,Portugal,2023_2024,7,UEFA,30,43,41
+Tottenham,England,2023_2024,-1,UEFA,23,-1,47
+Olympiacos,Greece,2023_2024,17,UEFA,28,22,43
+FC Copenhagen,France,2023_2024,10,UEFA,72,35,4
+FC Copenhagen,Denmark,2023_2024,15,UEFA,72,29,4
+Red Star,Serbia,2023_2024,5,UEFA,24,54,46
+Gent,Belgium,2023_2024,10,UEFA,32,35,40
+PAOK,Greece,2023_2024,15,UEFA,29,29,42
+Betis,Spain,2023_2024,6,UEFA,33,49,37
+Union SG,Belgium,2023_2024,6,UEFA,25,49,45
+Freiburg,Germany,2023_2024,13,UEFA,28,33,43
+LASK,Austria,2023_2024,3,UEFA,18,57,50
+Midtjylland,Denmark,2023_2024,2,UEFA,17,63,51
+Aston Villa,England,2023_2024,17,UEFA,17,22,53
+Lyon,France,2023_2024,-1,UEFA,21,-1,49
+Union Berlin,Germany,2023_2024,6,UEFA,23,49,47
+Leicester City,England,2023_2024,-1,UEFA,13,-1,58
+Ludogorets,Bulgaria,2023_2024,9,UEFA,17,39,53
+FK IMT Novi Beograd,Serbia,2023_2024,2,UEFA,17,63,51
+Antwerp,Belgium,2023_2024,6,UEFA,12,49,60
+Nice,France,2023_2024,-1,UEFA,14,-1,56
+Lech Poznań,Poland,2023_2024,2,UEFA,16,70,55
+Legia Warsaw,Poland,2023_2024,9,UEFA,13,39,58
+Sturm Graz,Austria,2023_2024,3,UEFA,12,57,62
+Rapid Wien,Austria,2023_2024,2,UEFA,9,63,66
+Anderlecht,Belgium,2023_2024,-1,UEFA,12,-1,60
+Gladbach,Germany,2023_2024,-1,UEFA,0,-1,102
+Hoffenheim,Germany,2023_2024,-1,UEFA,0,-1,102
+Brighton,England,2023_2024,14,UEFA,14,31,56
+Granada,Spain,2023_2024,-1,UEFA,0,-1,102
+Lens,France,2023_2024,10,UEFA,10,35,64
+Genk,Belgium,2023_2024,7,UEFA,11,43,63
+Wolfsburg,Germany,2023_2024,-1,UEFA,8,-1,68
+Toulouse,France,2023_2024,10,UEFA,10,35,64
+Wolfsberger AC,Austria,2023_2024,-1,UEFA,2,-1,90
+AEK Athens,Greece,2023_2024,3,UEFA,4,57,83
+CSKA Sofia,Bulgaria,2023_2024,1,UEFA,5,75,78
+Vitesse,Netherlands,2023_2024,-1,UEFA,9,-1,66
+Brest,France,2023_2024,-1,UEFA,0,-1,102
+Newcastle Utd,England,2023_2024,8,UEFA,8,41,68
+Nantes,France,2023_2024,-1,UEFA,8,-1,68
+Twente,Netherlands,2023_2024,2,UEFA,5,63,78
+RKS Raków,Poland,2023_2024,3,UEFA,8,57,68
+Austria Wien,Austria,2023_2024,2,UEFA,6,70,75
+FK Mladost Novi Sad,Serbia,2023_2024,1,UEFA,3,75,86
+Panathinaikos,Greece,2023_2024,3,UEFA,5,57,78
+Randers,Denmark,2023_2024,-1,UEFA,7,-1,73
+Nordsjælland,Denmark,2023_2024,7,UEFA,7,43,73
+Bologna,Italy,2023_2024,-1,UEFA,0,-1,102
+Aris,Greece,2023_2024,2,UEFA,5,70,77
+Brøndby,Denmark,2023_2024,-1,UEFA,5,-1,78
+TSC Bačka Top,Serbia,2023_2024,3,UEFA,3,57,88
+Gaziantep FK,Serbia,2023_2024,2,UEFA,8,63,68
+Köln,Germany,2023_2024,-1,UEFA,6,-1,75
+Stuttgart,Germany,2023_2024,-1,UEFA,0,-1,102
+Girona,Spain,2023_2024,-1,UEFA,0,-1,102
+Silkeborg,Denmark,2023_2024,-1,UEFA,4,-1,85
+Vitória,Portugal,2023_2024,1,UEFA,3,75,86
+Pogoń Szczecin,Poland,2023_2024,2,UEFA,5,70,78
+AGF,Denmark,2023_2024,1,UEFA,3,75,88
+Levski Sofia,Bulgaria,2023_2024,2,UEFA,4,63,83
+Śląsk Wrocław,Poland,2023_2024,-1,UEFA,2,-1,95
+Loko Plovdiv,Bulgaria,2023_2024,-1,UEFA,2,-1,95
+CSKA 1948,Bulgaria,2023_2024,1,UEFA,1,75,98
+Botev Plovdiv,Bulgaria,2023_2024,-1,UEFA,1,-1,98
+Standard Liège,Belgium,2023_2024,-1,UEFA,0,-1,102
+Athletic Club,Spain,2023_2024,-1,UEFA,0,-1,102
+Osasuna,Spain,2023_2024,2,UEFA,2,63,90
+Viborg,Denmark,2023_2024,-1,UEFA,2,-1,90
+Gil Vicente FC,Portugal,2023_2024,-1,UEFA,2,-1,90
+Santa Clara,Portugal,2023_2024,-1,UEFA,2,-1,90
+FC Copenhagen,Portugal,2023_2024,-1,UEFA,72,-1,4
+Charleroi,Belgium,2023_2024,-1,UEFA,0,-1,102
+Rio Ave,Portugal,2023_2024,-1,UEFA,0,-1,102
+Heidenheim,Germany,2023_2024,-1,UEFA,0,-1,102
+Wisła Kraków,Poland,2023_2024,-1,UEFA,0,-1,102
+Cercle Brugge,Belgium,2023_2024,-1,UEFA,0,-1,102
+Jagiellonia,Poland,2023_2024,-1,UEFA,0,-1,102
+Arouca,Portugal,2023_2024,2,UEFA,2,70,95
+Willem II,Netherlands,2023_2024,-1,UEFA,0,-1,102
+Reims,France,2023_2024,-1,UEFA,0,-1,102
+SønderjyskE,Denmark,2023_2024,-1,UEFA,0,-1,102
+Piast Gliwice,Poland,2023_2024,-1,UEFA,0,-1,102
+Arda,Bulgaria,2023_2024,-1,UEFA,1,-1,98
+OFI Crete,Greece,2023_2024,-1,UEFA,0,-1,102
+Lechia Gdańsk,Poland,2023_2024,-1,UEFA,1,-1,98
+Hartberg,Austria,2023_2024,-1,UEFA,0,-1,102
+Gaziantep FK,Serbia,2023_2024,-1,UEFA,8,-1,68
+Cherno More,Bulgaria,2023_2024,-1,UEFA,0,-1,102
+Go Ahead Eag,Netherlands,2023_2024,-1,UEFA,0,-1,102
+Radnički Kragujevac,Serbia,2023_2024,-1,UEFA,0,-1,102
+Slavia Sofia,Bulgaria,2023_2024,-1,UEFA,0,-1,102
+Cracovia,Poland,2023_2024,-1,UEFA,0,-1,102
+Mainz 05,Germany,2023_2024,-1,UEFA,0,-1,102
+Zagłębie Lubin,Poland,2023_2024,-1,UEFA,0,-1,102
+Southampton,England,2023_2024,-1,UEFA,0,-1,102
+Celta Vigo,Spain,2023_2024,-1,UEFA,0,-1,102
+Heracles Almelo,Netherlands,2023_2024,-1,UEFA,0,-1,102
+PAS Giannina,Greece,2023_2024,-1,UEFA,0,-1,102
+Sassuolo,Italy,2023_2024,-1,UEFA,0,-1,102
+Beroe,Bulgaria,2023_2024,-1,UEFA,0,-1,102
+Everton,England,2023_2024,-1,UEFA,0,-1,102
+Hertha BSC,Germany,2023_2024,-1,UEFA,0,-1,102
+No Match,Greece,2023_2024,-1,UEFA,0,-1,102
+Lyngby,Denmark,2023_2024,-1,UEFA,0,-1,102
+Marítimo,Portugal,2023_2024,-1,UEFA,0,-1,102
+Oostende,Belgium,2023_2024,-1,UEFA,0,-1,102
+Zulte Waregem,Belgium,2023_2024,-1,UEFA,0,-1,102
+SCR Altach,Austria,2023_2024,-1,UEFA,0,-1,102
+No Match,Poland,2023_2024,-1,UEFA,0,-1,102
+Mladost Lučani,Serbia,2023_2024,-1,UEFA,0,-1,102
+No Match,Bulgaria,2023_2024,-1,UEFA,0,-1,102
+Schalke 04,Germany,2023_2024,-1,UEFA,0,-1,102
+Bordeaux,France,2023_2024,-1,UEFA,0,-1,102
+Górnik Zabrze,Poland,2023_2024,-1,UEFA,0,-1,102
+Admira,Austria,2023_2024,-1,UEFA,0,-1,102
+Burnley,England,2023_2024,-1,UEFA,0,-1,102
+Asteras Tripoli,Greece,2023_2024,-1,UEFA,0,-1,102
+Spartak Subotic,Serbia,2023_2024,-1,UEFA,0,-1,102
+Utrecht,Netherlands,2023_2024,-1,UEFA,0,-1,102
+Torino,Italy,2023_2024,-1,UEFA,0,-1,102
+Wolves,England,2023_2024,-1,UEFA,0,-1,102
+Saint-Étienne,France,2023_2024,-1,UEFA,0,-1,102
+Strasbourg,France,2023_2024,-1,UEFA,0,-1,102
+Barcelona,Spain,2023_2024,-1,UEFA,47,-1,19
+Valencia,Spain,2023_2024,-1,UEFA,0,-1,102
+Atromitos,Greece,2023_2024,-1,UEFA,0,-1,102
+No Match,Denmark,2023_2024,-1,UEFA,0,-1,102
+Getafe,Spain,2023_2024,-1,UEFA,0,-1,102

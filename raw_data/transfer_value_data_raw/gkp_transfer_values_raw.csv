@@ -1,0 +1,521 @@
+Player,Age,Date,Record MV
+Jan Oblak,26,11.06.2019,€100.00m
+N/A,N/A,N/A,N/A
+Alisson,27,10.12.2019,€90.00m
+Marc-André ter Stegen,27,11.06.2019,€90.00m
+Thibaut Courtois,28,08.10.2020,€75.00m
+Ederson,25,13.06.2019,€70.00m
+David de Gea,27,28.05.2018,€70.00m
+Gianluigi Donnarumma,22,15.07.2021,€65.00m
+Kepa Arrizabalaga,24,13.06.2019,€60.00m
+Giorgi Mamardashvili,23,18.07.2024,€45.00m
+Diogo Costa,23,02.03.2023,€45.00m
+André Onana,23,18.12.2019,€45.00m
+Mike Maignan,27,15.06.2023,€45.00m
+Manuel Neuer,28,04.02.2015,€45.00m
+Aaron Ramsdale,25,20.06.2023,€40.00m
+Gregor Kobel,26,14.12.2023,€40.00m
+Alex Meret,22,12.12.2019,€40.00m
+Jordan Pickford,24,19.12.2018,€40.00m
+Wojciech Szczęsny,29,12.12.2019,€40.00m
+Guglielmo Vicario,27,14.03.2024,€35.00m
+David Raya,28,19.12.2023,€35.00m
+Emiliano Martínez,28,16.07.2021,€35.00m
+Bernd Leno,27,10.12.2019,€35.00m
+Gianluigi Buffon,27,28.07.2005,€35.00m
+Iker Casillas,29,27.08.2010,€35.00m
+Edouard Mendy,29,23.12.2021,€32.00m
+Robert Sánchez,24,03.11.2022,€32.00m
+N/A,N/A,N/A,N/A
+Unai Simón,23,23.07.2020,€30.00m
+Hugo Lloris,31,16.07.2018,€30.00m
+Petr Cech,26,23.02.2009,€28.50m
+Anatoliy Trubin,22,27.12.2023,€25.00m
+Lucas Chevalier,22,03.06.2024,€25.00m
+Andriy Lunin,25,07.06.2024,€25.00m
+Thomas Strakosha,24,12.12.2019,€25.00m
+Álex Remiro,27,07.11.2022,€25.00m
+Anthony Lopes,28,07.03.2019,€25.00m
+Júlio César,30,27.01.2010,€25.00m
+Pau López,24,12.12.2019,€24.00m
+Joe Hart,25,28.01.2013,€24.00m
+Samir Handanovič,28,19.06.2013,€24.00m
+Bart Verbruggen,22,01.10.2024,€22.00m
+Illan Meslier,22,03.11.2022,€22.00m
+Dean Henderson,24,28.05.2021,€22.00m
+Jack Butland,25,28.05.2018,€22.00m
+Pepe Reina,27,13.08.2010,€22.00m
+Salvatore Sirigu,27,01.08.2014,€21.50m
+Filip Jørgensen,22,07.06.2024,€20.00m
+Marcin Bulka,24,03.06.2024,€20.00m
+Djordje Petrovic,24,27.05.2024,€20.00m
+Alban Lafont,24,27.03.2023,€20.00m
+Caoimhín Kelleher,25,27.05.2024,€20.00m
+Matvey Safonov,25,04.06.2024,€20.00m
+N/A,N/A,N/A,N/A
+Juan Musso,26,25.08.2020,€20.00m
+Sergio Rico,23,24.01.2017,€20.00m
+Nick Pope,31,20.06.2023,€20.00m
+Jasper Cillessen,29,12.07.2018,€20.00m
+Keylor Navas,29,15.07.2016,€20.00m
+Rui Patrício,25,28.03.2013,€20.00m
+Igor Akinfeev,23,14.12.2009,€20.00m
+Alessio Cragno,24,06.06.2019,€20.00m
+Víctor Valdés,28,27.08.2010,€20.00m
+Sébastien Frey,27,09.02.2008,€20.00m
+Uğurcan Çakır,25,25.05.2021,€19.00m
+Guillaume Restes,19,03.06.2024,€18.00m
+Gavin Bazunu,21,16.03.2023,€18.00m
+James Trafford,21,14.03.2024,€18.00m
+Diant Ramaj,22,31.05.2024,€18.00m
+Michele Di Gregorio,26,05.06.2024,€18.00m
+José Sá,29,15.06.2022,€18.00m
+David Soria,26,20.12.2019,€18.00m
+Bono,29,19.03.2021,€18.00m
+Fernando Pacheco,26,21.12.2018,€18.00m
+Odysseas Vlachodimos,26,28.01.2021,€18.00m
+Neto,29,21.12.2018,€18.00m
+Mattia Perin,24,02.01.2017,€18.00m
+Tomas Vaclik,29,21.12.2018,€18.00m
+Fernando Muslera,28,11.08.2014,€18.00m
+N/A,N/A,N/A,N/A
+Alphonse Areola,26,07.03.2019,€17.50m
+Pierluigi Gollini,25,25.08.2020,€17.00m
+Benjamin Lecomte,28,03.06.2019,€17.00m
+Steve Mandanda,27,23.05.2012,€17.00m
+Marco Carnesecchi,23,05.06.2024,€16.00m
+Altay Bayindir,23,12.10.2021,€16.00m
+Bartlomiej Dragowski,23,03.06.2021,€16.00m
+Alexander Nübel,23,17.12.2019,€16.00m
+Diego López,27,22.07.2009,€16.00m
+René Adler,25,17.01.2010,€16.00m
+Bento,25,17.06.2024,€15.00m
+Álvaro Valles,26,21.03.2024,€15.00m
+Justin Bijlow,25,23.06.2023,€15.00m
+Andrei Radu,22,06.06.2019,€15.00m
+Emil Audero,22,01.03.2019,€15.00m
+Rui Silva,28,03.06.2022,€15.00m
+Dominik Livakovic,26,28.05.2021,€15.00m
+Brice Samba,29,16.10.2023,€15.00m
+Fraser Forster,28,01.06.2016,€15.00m
+Claudio Bravo,32,01.07.2015,€15.00m
+Dida,31,23.06.2005,€15.00m
+Kamil Grabara,25,09.10.2024,€14.00m
+Walter Benítez,29,30.05.2022,€14.00m
+Gerónimo Rulli,25,05.06.2017,€14.00m
+Ivan Provedel,29,20.12.2023,€14.00m
+N/A,N/A,N/A,N/A
+Koen Casteels,28,09.06.2021,€14.00m
+Roman Bürki,28,06.03.2019,€14.00m
+Simon Mignolet,26,12.08.2014,€14.00m
+Doni,28,04.07.2008,€14.00m
+Marco Amelia,24,30.03.2007,€14.00m
+Oliver Kahn,35,04.10.2004,€14.00m
+Aleksandr Maksimenko,23,02.06.2021,€13.00m
+Péter Gulácsi,31,01.06.2021,€13.00m
+Yann Sommer,29,22.10.2018,€13.00m
+Ralf Fährmann,29,05.06.2018,€13.00m
+Asmir Begovic,27,12.02.2015,€13.00m
+Federico Marchetti,30,19.06.2013,€13.00m
+Jeroen Zoet,27,28.12.2018,€12.50m
+Anthony Patterson,24,24.05.2024,€12.00m
+Arijanet Muric,24,01.06.2023,€12.00m
+Luís Maximiano,23,03.06.2022,€12.00m
+Jiri Pavlenka,26,06.03.2019,€12.00m
+Mark Flekken,30,09.10.2023,€12.00m
+Sam Johnstone,29,13.05.2022,€12.00m
+Marko Dmitrovic,27,20.12.2019,€12.00m
+Loris Karius,24,28.05.2018,€12.00m
+Timo Horn,24,19.06.2017,€12.00m
+Onur Kıvrak,26,23.07.2014,€12.00m
+Sergio Asenjo,29,21.12.2018,€12.00m
+Lukas Hradecky,28,22.08.2018,€12.00m
+N/A,N/A,N/A,N/A
+Kevin Trapp,25,04.02.2016,€12.00m
+Diego Alves,25,01.01.2011,€12.00m
+Emiliano Viviano,25,21.06.2011,€12.00m
+Kasper Schmeichel,31,16.07.2018,€12.00m
+Artur Boruc,28,07.09.2008,€12.00m
+Diego Benaglio,26,18.11.2009,€11.50m
+Maarten Vandevoordt,21,19.12.2023,€11.00m
+Maarten Stekelenburg,28,17.01.2011,€11.00m
+Mickaël Landreau,25,01.11.2004,€11.00m
+Andrey Lunev,27,14.06.2019,€10.50m
+Volkan Demirel,29,01.07.2011,€10.50m
+Etienne Green,21,16.12.2021,€10.00m
+Julen Agirrezabala,23,11.10.2024,€10.00m
+Joan García,23,11.10.2024,€10.00m
+Noah Atubolu,22,29.05.2024,€10.00m
+Ersin Destanoğlu,21,31.03.2022,€10.00m
+Yehvann Diouf,23,16.10.2023,€10.00m
+Matt Turner,29,09.10.2023,€10.00m
+Paul Bernardoni,23,07.01.2021,€10.00m
+Florian Müller,21,05.06.2019,€10.00m
+Conan Ledesma,29,07.11.2022,€10.00m
+Freddie Woodman,24,08.06.2021,€10.00m
+Zack Steffen,24,17.12.2019,€10.00m
+Georgiy Bushchan,28,06.09.2022,€10.00m
+Danny Ward,25,13.08.2018,€10.00m
+N/A,N/A,N/A,N/A
+Angus Gunn,22,13.08.2018,€10.00m
+Marco Sportiello,24,15.07.2016,€10.00m
+Rubén Blanco,24,05.03.2020,€10.00m
+Predrag Rajković,27,07.11.2022,€10.00m
+Mathew Ryan,27,13.06.2019,€10.00m
+Yuriy Lodygin,25,18.06.2015,€10.00m
+Aitor Fernández,28,05.03.2020,€10.00m
+Esteban Andrada,28,05.12.2019,€10.00m
+Marco Silvestri,29,29.12.2020,€10.00m
+Robin Olsen,28,20.12.2018,€10.00m
+Vicente Guaita,25,07.08.2012,€10.00m
+Oliver Baumann,28,05.06.2018,€10.00m
+Andriy Pyatov,26,11.03.2011,€10.00m
+Stéphane Ruffier,28,14.01.2015,€10.00m
+Eduardo,27,15.07.2010,€10.00m
+Heurelho Gomes,29,13.08.2010,€10.00m
+Craig Gordon,24,01.09.2007,€10.00m
+Carlos Kameni,23,04.02.2008,€10.00m
+Cédric Carrasso,28,28.12.2010,€10.00m
+Tim Howard,31,13.08.2010,€10.00m
+Shay Given,33,24.01.2010,€10.00m
+Tim Wiese,28,17.01.2010,€10.00m
+Timo Hildebrand,28,04.04.2008,€10.00m
+Ron-Robert Zieler,25,12.02.2014,€9.50m
+Rüştü Reçber,31,04.10.2004,€9.50m
+N/A,N/A,N/A,N/A
+Gabriel Slonina,19,20.06.2023,€9.00m
+Mads Hermansen,23,21.12.2023,€9.00m
+Mile Svilar,24,05.06.2024,€9.00m
+Jonas Omlin,29,22.06.2023,€9.00m
+Alfred Gomis,27,15.10.2020,€9.00m
+Francesco Bardi,22,01.07.2014,€9.00m
+Alexander Schwolow,27,05.06.2019,€9.00m
+Stefan Ortega,30,20.06.2023,€9.00m
+Adrián,29,01.08.2016,€9.00m
+Agustín Marchesín,32,28.01.2021,€9.00m
+Roberto,29,27.09.2015,€9.00m
+Tim Krul,25,15.01.2014,€9.00m
+Lukasz Fabianski,31,01.08.2016,€9.00m
+Sergey Ryzhikov,29,16.12.2009,€9.00m
+José Moreira,22,05.02.2005,€9.00m
+Paul Robinson,26,14.06.2006,€9.00m
+Robert Enke,31,10.06.2009,€9.00m
+Aleksandr Belenov,28,23.02.2015,€8.50m
+Michel Vorm,28,24.06.2012,€8.50m
+Manuel Almunia,32,29.06.2009,€8.50m
+Allan McGregor,28,24.10.2010,€8.50m
+Leo Franco,30,21.06.2007,€8.50m
+Vladan Kovačević,24,30.03.2023,€8.00m
+Josep Martínez,26,05.06.2024,€8.00m
+Gautier Larsonneur,23,07.01.2021,€8.00m
+N/A,N/A,N/A,N/A
+Lucas Perri,26,11.12.2023,€8.00m
+Jean Butez,28,09.06.2023,€8.00m
+Iñaki Peña,24,22.12.2023,€8.00m
+Philipp Köhn,25,18.12.2023,€8.00m
+Sergio Herrera,28,03.06.2022,€8.00m
+Bruno Varela,23,13.06.2018,€8.00m
+Matz Sels,27,19.12.2019,€8.00m
+David Ospina,26,01.07.2015,€8.00m
+Neil Etheridge,29,13.06.2019,€8.00m
+Guilherme,26,02.07.2012,€8.00m
+Volkan Babacan,27,01.06.2016,€8.00m
+Antonio Adán,30,05.06.2017,€8.00m
+Andrea Consigli,27,01.07.2014,€8.00m
+Guillermo Ochoa,23,15.06.2009,€8.00m
+Gianluca Curci,25,10.01.2011,€8.00m
+Benoît Costil,26,14.01.2014,€8.00m
+Helton,29,20.09.2007,€8.00m
+Rob Green,29,26.06.2009,€8.00m
+Ivan Pelizzoli,23,04.10.2004,€8.00m
+Morgan De Sanctis,28,23.10.2005,€8.00m
+Grégory Coupet,32,02.03.2005,€8.00m
+Roman Weidenfeller,26,15.01.2007,€8.00m
+Jaume Doménech,29,20.12.2019,€7.50m
+Ondrej Kolar,26,27.12.2020,€7.50m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m
+Franco Armani,32,18.12.2018,€7.50m
+N/A,N/A,N/A,N/A
+Joel Robles,29,20.12.2019,€7.50m
+Martin Dúbravka,31,30.07.2020,€7.50m
+Juan Pablo Carrizo,23,24.09.2007,€7.50m
+Kiko Casilla,28,23.10.2014,€7.50m
+Vladimir Gabulov,26,13.07.2010,€7.50m
+Jérémie Janot,29,23.12.2006,€7.50m
+Francesco Toldo,32,04.10.2004,€7.50m
+Gabriel Grando,21,17.12.2021,€7.00m
+Dmytro Riznyk,25,06.06.2024,€7.00m
+Matej Kovar,24,29.05.2024,€7.00m
+Stefano Turati,22,20.12.2023,€7.00m
+Luis Malagón,27,10.10.2024,€7.00m
+Dominik Kotarski,24,26.09.2024,€7.00m
+Agustín Rossi,27,26.10.2022,€7.00m
+João Paulo,27,19.08.2022,€7.00m
+Ivo Grbic,24,08.10.2020,€7.00m
+Timon Wellenreuther,28,31.05.2024,€7.00m
+Helton Leite,30,21.05.2021,€7.00m
+Marvin Schwäbe,28,22.06.2023,€7.00m
+Tomas Koubek,25,04.06.2018,€7.00m
+Hendrik Van Crombrugge,26,30.03.2020,€7.00m
+Marco Bizot,29,12.03.2020,€7.00m
+Lukasz Skorupski,26,08.06.2017,€7.00m
+Etrit Berisha,28,29.12.2017,€7.00m

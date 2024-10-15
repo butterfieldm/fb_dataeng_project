@@ -1,0 +1,31 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Patrik Carlgren,se SWE,GK,Randers,31,1992,32,32,"2,880",32.0,49,1.53,141,97,68.1,10,11,11,6,18.8,6,4,1,1,20.0,Matches
+Hans Christian Bernat,dk DEN,GK,Odense,22,2000,8,7,675,7.5,8,1.07,33,24,75.8,2,3,2,3,42.9,0,0,0,0,,Matches
+Carljohan Eriksson,fi FIN,GK,Nordsjælland,28,1995,2,2,180,2.0,2,1.00,4,2,50.0,0,1,1,1,50.0,0,0,0,0,,Matches
+Martin Fraisl,at AUT,GK,Midtjylland,30,1993,7,7,576,6.4,9,1.41,27,19,70.4,5,1,1,1,14.3,1,1,0,0,0.0,Matches
+Kamil Grabara,pl POL,GK,FC Copenhagen,24,1999,31,31,"2,790",31.0,38,1.23,113,75,66.4,17,5,9,8,25.8,1,0,1,0,100.0,Matches
+Andreas Gülstorff,dk DEN,GK,Nordsjælland,20,2003,1,1,90,1.0,1,1.00,0,0,,0,1,0,0,0.0,1,1,0,0,0.0,Matches
+Andreas Hansen,dk DEN,GK,Nordsjælland,27,1995,29,29,"2,610",29.0,31,1.07,111,82,73.9,16,8,5,6,20.7,3,2,0,1,0.0,Matches
+Jesper Hansen,dk DEN,GK,AGF,38,1985,13,11,"1,090",12.1,14,1.16,42,29,69.0,5,4,2,4,36.4,1,1,0,0,0.0,Matches
+Martin Hansen,dk DEN,GK,Odense,33,1990,10,10,855,9.5,17,1.79,41,25,61.0,2,2,6,1,10.0,1,1,0,0,0.0,Matches
+David Jensen,dk DEN,GK,Lyngby,31,1992,8,8,720,8.0,19,2.37,42,23,54.8,2,1,5,1,12.5,0,0,0,0,,Matches
+Adrian Kappenberger,dk DEN,GK,Hvidovre IF,26,1996,7,7,630,7.0,16,2.29,40,25,62.5,1,1,5,0,0.0,3,1,0,2,0.0,Matches
+Kasper Kiilerich,dk DEN,GK,Viborg,17,2005,1,0,46,0.5,5,9.78,7,3,42.9,0,0,0,0,,1,1,0,0,0.0,Matches
+Mads Kikkenborg,dk DEN,GK,Lyngby,23,1999,17,17,"1,530",17.0,27,1.59,69,44,63.8,5,5,7,3,17.6,2,2,0,0,0.0,Matches
+Nicolai Larsen,dk DEN,GK,Silkeborg,32,1991,32,32,"2,847",31.6,49,1.55,158,111,69.6,10,6,16,6,18.8,3,1,1,1,50.0,Matches
+Jonas Lössl,dk DEN,GK,Midtjylland,34,1989,26,25,"2,304",25.6,34,1.33,82,51,63.4,14,5,6,6,24.0,4,4,0,0,0.0,Matches
+Lucas Lund Pedersen,dk DEN,GK,Viborg,23,2000,17,17,"1,484",16.5,24,1.46,77,53,68.8,5,4,8,1,5.9,0,0,0,0,,Matches
+Nico Mantl,de GER,GK,Viborg,23,2000,15,15,"1,350",15.0,19,1.27,63,44,69.8,6,3,6,1,6.7,0,0,0,0,,Matches
+Thomas Mikkelsen,dk DEN,GK,Brøndby,39,1983,5,5,450,5.0,6,1.20,22,16,72.7,3,0,2,1,20.0,0,0,0,0,,Matches
+Viljar Myhra,no NOR,GK,Odense,27,1996,15,15,"1,350",15.0,23,1.53,69,47,68.1,4,3,8,1,6.7,1,1,0,0,0.0,Matches
+Bailey Peacock-Farrell,nir NIR,GK,AGF,26,1996,21,21,"1,788",19.9,32,1.61,92,65,70.7,6,7,8,4,19.0,5,5,0,0,0.0,Matches
+Patrick Pentz,at AUT,GK,Brøndby,26,1997,27,27,"2,430",27.0,29,1.07,105,80,74.3,15,8,4,9,33.3,4,2,2,0,50.0,Matches
+Jacob Pryts,dk DEN,GK,Silkeborg,25,1998,1,0,33,0.4,1,2.73,1,0,0.0,0,0,0,0,,0,0,0,0,,Matches
+Theo Sander,dk DEN,GK,FC Copenhagen,18,2005,1,1,90,1.0,0,0.00,5,5,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+Jannich Storch,dk DEN,GK,Lyngby,30,1993,7,7,630,7.0,7,1.00,30,23,76.7,2,3,2,0,0.0,0,0,0,0,,Matches
+Nathan Trott,eng ENG,GK,Vejle BK,24,1998,31,31,"2,790",31.0,35,1.13,131,102,76.3,9,9,13,6,19.4,8,4,2,2,33.3,Matches
+
+Igor Vekič,si SVN,GK,Vejle BK,25,1998,1,1,90,1.0,1,1.00,7,6,85.7,0,0,1,0,0.0,0,0,0,0,,Matches
+Filip Đukić,me MNE,GK,Hvidovre IF,23,1999,25,25,"2,250",25.0,45,1.80,144,105,71.5,3,7,15,3,12.0,6,4,2,0,33.3,Matches

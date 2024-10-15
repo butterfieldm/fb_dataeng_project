@@ -1,0 +1,35 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Arnaud Bodart,be BEL,GK,Standard Liège,24,1998,34,34,"3,059",34.0,46,1.35,141,98,71.6,16,7,11,11,32.4,6,6,0,0,0.0,Matches
+Sinan Bolat,tr TUR,GK,Westerlo,33,1988,33,33,"2,970",33.0,51,1.55,154,103,72.7,14,9,10,10,30.3,9,9,0,0,0.0,Matches
+Sammy Bossut,be BEL,GK,Zulte Waregem,36,1985,22,22,"1,980",22.0,50,2.27,114,65,60.5,3,6,13,2,9.1,5,5,0,0,0.0,Matches
+Louis Bostyn,be BEL,GK,Zulte Waregem,28,1993,12,12,"1,080",12.0,28,2.33,73,46,65.8,3,3,6,0,0.0,4,3,0,1,0.0,Matches
+Jean Butez,fr FRA,GK,Antwerp,27,1995,34,34,"3,060",34.0,26,0.76,101,75,76.2,22,6,6,19,55.9,3,2,0,1,0.0,Matches
+Valentin Cojocaru,ro ROU,GK,OH Leuven,26,1995,34,34,"3,060",34.0,48,1.41,152,103,73.0,13,9,12,8,23.5,9,7,2,0,22.2,Matches
+Jo Coppens,be BEL,GK,Sint-Truiden,31,1990,4,3,281,3.1,4,1.28,11,7,63.6,1,1,1,1,33.3,0,0,0,0,,Matches
+Gaëtan Coucke,be BEL,GK,Mechelen,23,1998,29,29,"2,600",28.9,51,1.77,145,94,67.6,11,7,11,7,24.1,4,4,0,0,0.0,Matches
+Guillaume Dietsch,fr FRA,GK,R.F.C. Seraing,21,2001,23,23,"2,070",23.0,47,2.04,122,75,63.9,4,2,17,1,4.3,4,3,1,0,25.0,Matches
+Timothy Galje,be BEL,GK,R.F.C. Seraing,21,2001,7,7,630,7.0,15,2.14,33,19,63.6,0,2,5,0,0.0,3,3,0,0,0.0,Matches
+Nick Gillekens,be BEL,GK,Westerlo,27,1995,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Guillaume Hubert,be BEL,GK,Oostende,28,1994,22,22,"1,980",22.0,45,2.05,109,62,61.5,5,5,12,3,13.6,6,3,2,1,40.0,Matches
+Marko Ilić,rs SRB,GK,Kortrijk,24,1998,17,17,"1,530",17.0,33,1.94,105,71,73.3,3,3,11,3,17.6,6,5,1,0,16.7,Matches
+Hervé Koffi,bf BFA,GK,Charleroi,25,1996,28,28,"2,520",28.0,37,1.32,126,90,73.0,12,5,11,8,28.6,3,3,0,0,0.0,Matches
+Radosław Majecki,pl POL,GK,Cercle Brugge,22,1999,28,28,"2,475",27.5,37,1.35,111,73,76.6,10,10,8,6,21.4,14,11,3,0,21.4,Matches
+Timothy Martin,lu LUX,GK,R.F.C. Seraing,21,2001,4,4,360,4.0,6,1.50,16,10,62.5,1,1,2,0,0.0,0,0,0,0,,Matches
+Simon Mignolet,be BEL,GK,Club Brugge,34,1988,34,34,"3,060",34.0,36,1.06,121,86,71.9,16,11,7,13,38.2,3,2,1,0,33.3,Matches
+Anthony Moris,lu LUX,GK,Union SG,32,1990,34,34,"3,060",34.0,41,1.21,109,68,68.8,23,6,5,8,23.5,9,7,2,0,22.2,Matches
+Lennart Moser,de GER,GK,Eupen,22,1999,31,30,"2,745",30.5,66,2.16,173,108,65.9,6,7,17,5,16.7,11,7,2,2,22.2,Matches
+Paul Nardi,fr FRA,GK,Gent,28,1994,24,24,"2,160",24.0,24,1.00,76,52,73.7,12,6,6,11,45.8,4,4,0,0,0.0,Matches
+Manaf Nurudeen,gh GHA,GK,Eupen,23,1999,4,4,315,3.5,9,2.57,24,15,62.5,1,0,3,0,0.0,0,0,0,0,,Matches
+Pierre Patron,fr FRA,GK,Charleroi,24,1997,6,6,540,6.0,10,1.67,26,17,61.5,2,1,3,1,16.7,0,0,0,0,,Matches
+Dillon Phillips,eng ENG,GK,Oostende,27,1995,12,12,"1,080",12.0,31,2.58,57,25,49.1,2,1,9,0,0.0,4,2,2,0,50.0,Matches
+Davy Roef,be BEL,GK,Gent,28,1994,10,10,900,10.0,14,1.40,39,25,71.8,4,2,4,2,20.0,3,3,0,0,0.0,Matches
+Daniel Schmidt,jp JPN,GK,Sint-Truiden,30,1992,31,31,"2,779",30.9,36,1.17,116,82,73.3,10,8,13,8,25.8,5,5,0,0,0.0,Matches
+
+Yannick Thoelen,be BEL,GK,Mechelen,32,1990,6,5,460,5.1,13,2.54,21,9,61.9,0,0,5,0,0.0,5,5,0,0,0.0,Matches
+Hendrik Van Crombrugge,be BEL,GK,Anderlecht,29,1993,17,17,"1,530",17.0,23,1.35,62,40,66.1,6,2,9,3,17.6,2,2,0,0,0.0,Matches
+Tom Vandenberghe,be BEL,GK,Kortrijk,29,1992,17,17,"1,530",17.0,28,1.65,81,56,67.9,5,4,8,4,23.5,3,2,0,1,0.0,Matches
+Maarten Vandevoordt,be BEL,GK,Genk,20,2002,34,34,"3,060",34.0,37,1.09,141,103,77.3,23,6,5,8,23.5,7,5,1,1,16.7,Matches
+Bart Verbruggen,nl NED,GK,Anderlecht,19,2002,17,17,"1,530",17.0,21,1.24,83,64,74.7,7,5,5,8,47.1,0,0,0,0,,Matches
+Warleson,br BRA,GK,Cercle Brugge,25,1996,7,6,585,6.5,9,1.38,31,22,74.2,3,1,2,0,0.0,1,1,0,0,0.0,Matches

@@ -1,0 +1,79 @@
+comp_id,competition,league_nation_id,nation,confederation,champion,top_scorer,season
+1,3F Superliga,5,DEN,UEFA,FC Copenhagen,Gustav Isaksen - 18,2022_2023
+1,3F Superliga,5,DEN,UEFA,FC Copenhagen,Nicklas Helenius - 17,2021_2022
+1,3F Superliga,5,DEN,UEFA,FC Midtjylland,German Onugkha - 15,2023_2024
+2,Admiral Bundesliga,1,AUT,UEFA,FC Red Bull Salzburg,Guido Burgstaller - 21,2022_2023
+2,Admiral Bundesliga,1,AUT,UEFA,FC Red Bull Salzburg,Karim Adeyemi - 19,2021_2022
+2,Admiral Bundesliga,1,AUT,UEFA,SK Sturm Graz,Karim Konaté - 20,2023_2024
+4,Copa del Rey,8,ESP,UEFA,Athletic Club,"Abdón Prats, Asier Villalibre... - 6",2023_2024
+4,Copa del Rey,8,ESP,UEFA,Real Betis,Borja Iglesias - 5,2021_2022
+4,Copa del Rey,8,ESP,UEFA,Real Madrid CF,Kiké - 5,2022_2023
+5,Coppa Italia Frecciarossa,13,ITA,UEFA,Internazionale,Dušan Vlahović - 4,2021_2022
+5,Coppa Italia Frecciarossa,13,ITA,UEFA,Internazionale,Walid Cheddira - 5,2022_2023
+5,Coppa Italia Frecciarossa,13,ITA,UEFA,Juventus FC,Arkadiusz Milik - 4,2023_2024
+6,Coupe de France,9,FRA,UEFA,FC Nantes,"Tolu Arokodare, Arkadiusz Milik... - 5",2021_2022
+6,Coupe de France,9,FRA,UEFA,Paris Saint-Germain FC,Kylian Mbappé - 8,2023_2024
+6,Coupe de France,9,FRA,UEFA,Toulouse FC,Thijs Dallinga - 6,2022_2023
+8,DFB-Pokal,4,GER,UEFA,Bayer 04 Leverkusen,Amine Adli - 5,2023_2024
+8,DFB-Pokal,4,GER,UEFA,RB Leipzig,Randal Kolo Muani - 6,2022_2023
+8,DFB-Pokal,4,GER,UEFA,RB Leipzig,Robert Glatzel - 5,2021_2022
+9,DFL-Supercup,4,GER,UEFA,FC Bayern Munich,"Benjamin Pavard, Serge Gnabry... - 1",2022_2023
+9,DFL-Supercup,4,GER,UEFA,FC Bayern Munich,Robert Lewandowski - 2,2021_2022
+9,DFL-Supercup,4,GER,UEFA,RB Leipzig,Dani Olmo - 3,2023_2024
+11,EA Sports FC Supercup,13,ITA,UEFA,Internazionale,Alessio Zerbin - 2,2023_2024
+12,EA Sports Supercup,13,ITA,UEFA,,"Edin Džeko, Lautaro Martínez... - 1",2022_2023
+13,EFL Cup,10,ENG,UEFA,Liverpool FC,"Eddie Nketiah, Marcus Forss - 5",2021_2022
+13,EFL Cup,10,ENG,UEFA,Liverpool FC,Morgan Rogers - 5,2023_2024
+13,EFL Cup,10,ENG,UEFA,Manchester United FC,Marcus Rashford - 6,2022_2023
+14,Eredivisie,7,NED,UEFA,AFC Ajax,Sébastien Haller - 21,2021_2022
+14,Eredivisie,7,NED,UEFA,Feyenoord Rotterdam,"Anastasios Douvikas, Xavi Simons - 19",2022_2023
+14,Eredivisie,7,NED,UEFA,PSV Eindhoven,"Vangelis Pavlidis, Luuk de Jong - 29",2023_2024
+15,FA Community Shield,10,ENG,UEFA,Arsenal FC,"Leandro Trossard, Cole Palmer - 1",2023_2024
+15,FA Community Shield,10,ENG,UEFA,Leicester City FC,Kelechi Iheanacho - 1,2021_2022
+15,FA Community Shield,10,ENG,UEFA,Liverpool FC,"Trent Alexander-Arnold, Darwin Núñez... - 1",2022_2023
+17,Fußball-Bundesliga,4,GER,UEFA,Bayer 04 Leverkusen,Harry Kane - 36,2023_2024
+17,Fußball-Bundesliga,4,GER,UEFA,FC Bayern Munich,"Niclas Füllkrug, Christopher Nkunku - 16",2022_2023
+17,Fußball-Bundesliga,4,GER,UEFA,FC Bayern Munich,Robert Lewandowski - 35,2021_2022
+22,Jupiler Pro League,2,BEL,UEFA,Club Brugge KV,Deniz Undav - 25,2021_2022
+22,Jupiler Pro League,2,BEL,UEFA,Club Brugge KV,Kévin Denkey - 23,2023_2024
+22,Jupiler Pro League,2,BEL,UEFA,Royal Antwerp FC,Hugo Cuypers - 20,2022_2023
+23,LaLiga EA Sports,8,ESP,UEFA,Real Madrid CF,Artem Dovbyk - 24,2023_2024
+24,LaLiga Santander,8,ESP,UEFA,FC Barcelona,Robert Lewandowski - 23,2022_2023
+24,LaLiga Santander,8,ESP,UEFA,Real Madrid CF,Karim Benzema - 27,2021_2022
+26,Liga Portugal Betclic,11,POR,UEFA,Sporting CP,Viktor Gyökeres - 29,2023_2024
+27,Liga Portugal Bwin,11,POR,UEFA,FC Porto,Darwin Núñez - 26,2021_2022
+27,Liga Portugal Bwin,11,POR,UEFA,SL Benfica,Mehdi Taremi - 22,2022_2023
+28,Ligue 1 Uber Eats,9,FRA,UEFA,Paris Saint-Germain FC,Kylian Mbappé - 27,2023_2024
+28,Ligue 1 Uber Eats,9,FRA,UEFA,Paris Saint-Germain FC,Kylian Mbappé - 28,2021_2022
+28,Ligue 1 Uber Eats,9,FRA,UEFA,Paris Saint-Germain FC,Kylian Mbappé - 29,2022_2023
+29,Linglong Tire SuperLiga,12,SRB,UEFA,Red Star Belgrade,Ricardo Jorge Pires Gomes - 29,2021_2022
+31,Mozzart Bet SuperLiga,12,SRB,UEFA,Red Star Belgrade,"Milos Lukovic, Saldanha - 17",2023_2024
+31,Mozzart Bet SuperLiga,12,SRB,UEFA,Red Star Belgrade,Ricardo Jorge Pires Gomes - 19,2022_2023
+33,PKO Bank Polski Ekstraklasa,6,POL,UEFA,Jagiellonia Białystok,Erik Expósito - 19,2023_2024
+33,PKO Bank Polski Ekstraklasa,6,POL,UEFA,KKS Lech Poznań,Ivi - 20,2021_2022
+33,PKO Bank Polski Ekstraklasa,6,POL,UEFA,Raków Częstochowa,Marc Gual - 16,2022_2023
+35,Premier League,10,ENG,UEFA,Manchester City FC,Erling Haaland - 27,2023_2024
+35,Premier League,10,ENG,UEFA,Manchester City FC,Erling Haaland - 36,2022_2023
+35,Premier League,10,ENG,UEFA,Manchester City FC,"Son Heung-min, Mohamed Salah - 23",2021_2022
+38,Serie A TIM,13,ITA,UEFA,AC Milan,Ciro Immobile - 27,2021_2022
+38,Serie A TIM,13,ITA,UEFA,SSC Napoli,Victor Osimhen - 26,2022_2023
+39,Serie A TIM; Serie A Made in Italy,13,ITA,UEFA,Internazionale,Lautaro Martínez - 24,2023_2024
+40,Spor Toto Süper Lig,15,TUR,UEFA,Galatasaray SK,Enner Valencia - 29,2022_2023
+40,Spor Toto Süper Lig,15,TUR,UEFA,Trabzonspor,Umut Bozok - 20,2021_2022
+41,Stoiximan Super League,14,GRE,UEFA,AEK Athens FC,Cédric Bakambu - 18,2022_2023
+41,Stoiximan Super League,14,GRE,UEFA,PAOK FC,Loren Morón - 20,2023_2024
+42,Super League Interwetten,14,GRE,UEFA,Olympiacos FC,Tom van Weert - 17,2021_2022
+45,Supercopa de España,8,ESP,UEFA,,"Robert Lewandowski, Karim Benzema - 2",2022_2023
+45,Supercopa de España,8,ESP,UEFA,Real Madrid CF,Karim Benzema - 2,2021_2022
+45,Supercopa de España,8,ESP,UEFA,Real Madrid CF,Vinicius Júnior - 3,2023_2024
+46,Supercoppa Frecciarossa,13,ITA,UEFA,Internazionale,"Alexis Sánchez, Lautaro Martínez... - 1",2021_2022
+47,The Emirates FA Cup,10,ENG,UEFA,Liverpool FC,"Jayden Stockley, Riyad Mahrez - 4",2021_2022
+47,The Emirates FA Cup,10,ENG,UEFA,Manchester City FC,Paul Mullin - 8,2022_2023
+47,The Emirates FA Cup,10,ENG,UEFA,Manchester United FC,"Sammie Szmodics, Ellis Simms - 6",2023_2024
+49,Trendyol Süper Lig,15,TUR,UEFA,Galatasaray SK,Mauro Icardi - 25,2023_2024
+50,Trophée des Champions,9,FRA,UEFA,Lille OSC,Xeka - 1,2021_2022
+50,Trophée des Champions,9,FRA,UEFA,Paris Saint-Germain FC,"Kylian Mbappé, Lee Kang-in - 1",2023_2024
+50,Trophée des Champions,9,FRA,UEFA,Paris Saint-Germain FC,Neymar - 2,2022_2023
+53,efbet League,3,BUL,UEFA,PFC Ludogorets Razgrad,Aleksandar Kolev - 15,2023_2024
+53,efbet League,3,BUL,UEFA,PFC Ludogorets Razgrad,Ivaylo Chochev - 21,2022_2023
+53,efbet League,3,BUL,UEFA,PFC Ludogorets Razgrad,Pieros Sotiriou - 17,2021_2022

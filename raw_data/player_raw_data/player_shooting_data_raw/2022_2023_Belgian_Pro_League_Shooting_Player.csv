@@ -1,0 +1,564 @@
+Player,Nation,Position,Squad,Age,Year of birth,90s Played,Goals,Shots Total,Shots on Target,Shots on Target %,Shots Total/90,Shots on target/90,Goals/Shot,Goals/Shot on Target,Average Shot Distance,Shots from Free Kicks,Penalty Kicks Made,Penalty Kicks Attempted,xG: Expected Goals,npxG: Non-Penalty xG,npxG/Shot,Goals - xG,Non-Penalty Goals - npxG,Matches
+
+
+Leroy Abanda,fr FRA,"DF,MF",R.F.C. Seraing,22,2000,7.6,0,6,0,0.0,0.79,0.00,0.00,,18.5,2,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+Francis Abu,gh GHA,MF,Cercle Brugge,21,2001,18.3,1,27,6,22.2,1.48,0.33,0.04,0.17,27.8,0,0,0,0.9,0.9,0.03,+0.1,+0.1,Matches
+Simon Adingra,ci CIV,"DF,FW",Union SG,20,2002,21.2,10,40,18,45.0,1.89,0.85,0.25,0.56,15.4,0,0,0,5.4,5.4,0.14,+4.6,+4.6,Matches
+Brian Agbor,cm CMR,"DF,MF",Gent,21,2001,0.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Enock Agyei,be BEL,"FW,MF",Mechelen,17,2005,3.7,0,4,0,0.0,1.08,0.00,0.00,,19.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Halil Akbunar,tr TUR,"MF,FW",Westerlo,28,1993,8.5,2,17,7,41.2,2.01,0.83,0.12,0.29,16.9,0,0,0,1.5,1.5,0.09,+0.5,+0.5,Matches
+Alessandro Albanese,be BEL,"MF,DF",Oostende,22,2000,6.2,0,15,8,53.3,2.40,1.28,0.00,0.00,22.5,1,0,0,0.8,0.8,0.05,-0.8,-0.8,Matches
+Toby Alderweireld,be BEL,DF,Antwerp,33,1989,30.0,5,27,8,29.6,0.90,0.27,0.11,0.38,18.3,1,2,2,3.7,2.1,0.08,+1.3,+0.9,Matches
+Alfonso,mz MOZ,MF,Oostende,22,1999,14.4,0,7,1,14.3,0.49,0.07,0.00,0.00,24.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+Teddy Alloh,fr FRA,DF,Eupen,20,2002,4.0,0,1,1,100.0,0.25,0.25,0.00,0.00,18.8,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Dinis Almeida,pt POR,DF,Antwerp,27,1995,3.5,0,2,0,0.0,0.57,0.00,0.00,,11.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Éder Álvarez Balanta,co COL,MF,Club Brugge,29,1993,3.1,0,1,0,0.0,0.32,0.00,0.00,,20.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Steven Alzate,co COL,MF,Standard Liège,23,1998,21.9,2,12,6,50.0,0.55,0.27,0.17,0.33,18.8,0,0,0,1.6,1.6,0.13,+0.4,+0.4,Matches
+Selim Amallah,ma MAR,"MF,FW",Standard Liège,25,1996,8.8,4,22,4,18.2,2.50,0.46,0.05,0.25,24.6,2,3,3,3.8,1.5,0.07,+0.2,-0.5,Matches
+Thierry Ambrose,gp GLP,FW,Oostende,25,1997,25.1,7,61,22,36.1,2.43,0.88,0.07,0.18,20.7,0,3,5,8.2,4.0,0.06,-1.2,0.0,Matches
+Michael Amir Murillo,pa PAN,DF,Anderlecht,26,1996,27.5,3,20,6,30.0,0.73,0.22,0.15,0.50,13.6,1,0,0,3.0,3.0,0.16,0.0,0.0,Matches
+Francis Amuzu,be BEL,"FW,DF",Anderlecht,22,1999,25.5,3,46,18,39.1,1.80,0.70,0.07,0.17,17.6,1,0,0,3.8,3.8,0.08,-0.8,-0.8,Matches
+Stelios Andreou,cy CYP,DF,Charleroi,20,2002,20.0,0,4,2,50.0,0.20,0.10,0.00,0.00,12.7,0,0,0,0.4,0.4,0.10,-0.4,-0.4,Matches
+Nilson Angulo,ec ECU,"DF,FW",Anderlecht,19,2003,0.3,0,1,1,100.0,3.10,3.10,0.00,0.00,11.0,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Kelvin Arase,at AUT,"MF,DF",Oostende,23,1999,5.4,1,7,4,57.1,1.30,0.74,0.14,0.25,15.7,0,0,0,0.6,0.6,0.09,+0.4,+0.4,Matches
+Kristian Arnstad,no NOR,MF,Anderlecht,18,2003,14.0,1,13,5,38.5,0.93,0.36,0.08,0.20,20.1,1,0,0,0.8,0.8,0.07,+0.2,+0.2,Matches
+Tolu Arokodare,ng NGA,"FW,MF",Genk,21,2000,1.5,1,5,1,20.0,3.24,0.65,0.20,1.00,15.5,0,0,0,0.5,0.5,0.09,+0.5,+0.5,Matches
+Gerardo Arteaga,mx MEX,DF,Genk,23,1998,31.2,2,16,3,18.8,0.51,0.10,0.13,0.67,19.5,0,0,0,1.7,1.7,0.10,+0.3,+0.3,Matches
+Majeed Ashimeru,gh GHA,MF,Anderlecht,24,1997,20.5,2,14,3,21.4,0.68,0.15,0.14,0.67,20.9,0,0,0,1.0,1.0,0.07,+1.0,+1.0,Matches
+David Atanga,gh GHA,"FW,MF",Oostende,25,1996,13.9,5,25,13,52.0,1.80,0.93,0.20,0.38,15.7,0,0,0,5.0,5.0,0.20,0.0,0.0,Matches
+
+Christalino Atemona,de GER,"DF,MF",Kortrijk,20,2002,6.0,0,2,0,0.0,0.33,0.00,0.00,,23.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Lynnt Audoor,be BEL,"MF,DF",Club Brugge,18,2003,0.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Felipe Avenatti,uy URU,FW,Kortrijk,29,1993,21.6,7,45,22,48.9,2.09,1.02,0.16,0.32,15.7,0,0,0,4.5,4.5,0.10,+2.5,+2.5,Matches
+Gastón Ávila,ar ARG,DF,Antwerp,20,2001,10.9,0,13,3,23.1,1.19,0.27,0.00,0.00,24.7,4,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches
+Oussama El Azzouzi,ma MAR,MF,Union SG,21,2001,5.7,0,1,0,0.0,0.18,0.00,0.00,,22.2,0,0,0,0.1,0.1,0.09,-0.1,-0.1,Matches
+Abou-Malal Ba,fr FRA,MF,R.F.C. Seraing,24,1998,7.3,0,1,1,100.0,0.14,0.14,0.00,0.00,9.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Youssouph Badji,sn SEN,"FW,MF",Charleroi,20,2001,13.2,5,34,13,38.2,2.58,0.99,0.15,0.38,13.0,0,0,0,3.3,3.3,0.10,+1.7,+1.7,Matches
+Bilal Bafdili,be BEL,"MF,FW",Mechelen,17,2004,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jonas Bager,dk DEN,DF,Charleroi,26,1996,19.1,1,1,1,100.0,0.05,0.05,1.00,1.00,1.7,0,0,0,0.3,0.3,0.31,+0.7,+0.7,Matches
+Brandon Baiye,be BEL,MF,Eupen,21,2000,5.2,1,2,1,50.0,0.39,0.19,0.50,1.00,23.0,0,0,0,0.1,0.1,0.04,+0.9,+0.9,Matches
+Michel-Ange Balikwisha,be BEL,FW,Antwerp,21,2001,20.7,6,32,16,50.0,1.54,0.77,0.19,0.38,14.3,0,0,0,4.1,4.1,0.13,+1.9,+1.9,Matches
+William Balikwisha,cd COD,"MF,FW",Standard Liège,23,1999,25.6,5,42,15,35.7,1.64,0.59,0.12,0.33,20.2,0,0,0,4.4,4.4,0.11,+0.6,+0.6,Matches
+Mateo Barać,hr CRO,DF,Oostende,28,1994,4.3,0,3,1,33.3,0.69,0.23,0.00,0.00,6.9,0,0,0,0.5,0.5,0.16,-0.5,-0.5,Matches
+Jacob Barrett Laursen,dk DEN,"DF,MF",Standard Liège,27,1994,8.2,0,2,0,0.0,0.24,0.00,0.00,,17.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Jelle Bataille,be BEL,DF,Antwerp,23,1999,22.1,0,9,1,11.1,0.41,0.05,0.00,0.00,16.5,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Matches
+David Bates,sct SCO,DF,Mechelen,25,1996,22.1,2,14,4,28.6,0.63,0.18,0.14,0.50,7.9,0,0,0,1.8,1.8,0.13,+0.2,+0.2,Matches
+Nick Bätzner,de GER,"FW,MF",Oostende,22,2000,21.0,6,37,12,32.4,1.76,0.57,0.16,0.50,18.3,3,0,1,5.5,4.8,0.13,+0.5,+1.2,Matches
+Robert Bauer,de GER,DF,Sint-Truiden,27,1995,21.0,0,6,2,33.3,0.29,0.10,0.00,0.00,31.7,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Nadhir Benbouali,dz ALG,"FW,MF",Charleroi,22,2000,8.3,2,17,7,41.2,2.04,0.84,0.12,0.29,13.0,0,0,0,2.5,2.5,0.17,-1.5,-1.5,Matches
+Amine Benchaib,ma MAR,MF,Kortrijk,24,1998,0.8,0,1,0,0.0,1.27,0.00,0.00,,23.3,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+Ján Bernát,sk SVK,MF,Westerlo,21,2001,2.2,0,4,1,25.0,1.85,0.46,0.00,0.00,18.5,1,0,0,0.4,0.4,0.11,-0.4,-0.4,Matches
+Antoine Bernier,be BEL,"FW,MF",R.F.C. Seraing,24,1997,19.3,3,39,13,33.3,2.03,0.68,0.08,0.23,16.3,3,0,0,3.2,3.2,0.08,-0.2,-0.2,Matches
+Mohamed Berte,be BEL,FW,Oostende,20,2002,3.0,0,6,4,66.7,2.02,1.35,0.00,0.00,16.0,0,0,0,0.9,0.9,0.15,-0.9,-0.9,Matches
+Loïc Bessile,tg TOG,DF,Charleroi,23,1999,6.9,1,7,2,28.6,1.02,0.29,0.14,0.50,13.1,0,0,0,0.7,0.7,0.09,+0.3,+0.3,Matches
+Loïc Bessile,tg TOG,DF,Eupen,23,1999,5.8,0,3,0,0.0,0.52,0.00,0.00,,7.8,0,0,0,0.3,0.3,0.11,-0.3,-0.3,Matches
+
+Lucas Bijker,nl NED,DF,Mechelen,29,1993,1.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Nathan Bitumazala,fr FRA,"MF,DF",Eupen,19,2002,9.8,0,7,2,28.6,0.72,0.20,0.00,0.00,20.8,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Eric Bocat,fr FRA,DF,Sint-Truiden,23,1999,15.7,0,19,2,10.5,1.21,0.13,0.00,0.00,18.9,0,0,0,1.1,1.1,0.06,-1.1,-1.1,Matches
+Arnaud Bodart,be BEL,GK,Standard Liège,24,1998,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Merveille Bokadi,cd COD,DF,Standard Liège,30,1992,30.7,1,12,3,25.0,0.39,0.10,0.08,0.33,12.1,0,0,0,2.2,2.2,0.19,-1.2,-1.2,Matches
+Sinan Bolat,tr TUR,GK,Westerlo,33,1988,33.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Boli Bolingoli-Mbombo,be BEL,DF,Mechelen,27,1995,13.7,0,6,0,0.0,0.44,0.00,0.00,,25.9,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Aleksandar Boljević,me MNE,"DF,FW",Standard Liège,26,1995,2.3,0,5,2,40.0,2.20,0.88,0.00,0.00,19.2,1,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches
+Adrien Bongiovanni,be BEL,MF,Charleroi,22,1999,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Victor Boniface,ng NGA,FW,Union SG,21,2000,24.7,7,77,23,29.9,3.12,0.93,0.09,0.30,16.2,1,0,0,7.9,7.9,0.10,-0.9,-0.9,Matches
+Viktor Boone,be BEL,DF,Union SG,24,1998,0.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Indy Boonen,be BEL,"FW,MF",Oostende,23,1999,4.3,1,8,1,12.5,1.85,0.23,0.13,1.00,14.5,0,0,0,0.8,0.8,0.09,+0.2,+0.2,Matches
+Sammy Bossut,be BEL,GK,Zulte Waregem,36,1985,22.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Louis Bostyn,be BEL,GK,Zulte Waregem,28,1993,12.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mehdi Boukamir,ma MAR,DF,Charleroi,18,2004,8.2,0,3,1,33.3,0.37,0.12,0.00,0.00,10.5,0,0,0,0.4,0.4,0.14,-0.4,-0.4,Matches
+Frank Boya,cm CMR,MF,Sint-Truiden,26,1996,25.9,1,51,12,23.5,1.97,0.46,0.02,0.08,25.3,3,0,0,2.9,2.9,0.06,-1.9,-1.9,Matches
+Dedryck Boyata,be BEL,DF,Club Brugge,31,1990,6.1,0,1,0,0.0,0.16,0.00,0.00,,2.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Stan Braem,be BEL,"FW,MF",Zulte Waregem,23,1998,2.2,2,9,4,44.4,4.13,1.84,0.22,0.50,10.9,0,0,0,1.0,1.0,0.11,+1.0,+1.0,Matches
+Christian Brüls,be BEL,"MF,FW",Sint-Truiden,33,1988,14.0,1,16,3,18.8,1.14,0.21,0.00,0.00,23.2,5,1,1,2.1,1.3,0.08,-1.1,-1.3,Matches
+Christian Brüls,be BEL,"MF,FW",Zulte Waregem,33,1988,11.2,0,14,4,28.6,1.25,0.36,0.00,0.00,23.8,3,0,0,0.6,0.6,0.04,-0.6,-0.6,Matches
+Gianni Bruno,be BEL,FW,Sint-Truiden,30,1991,23.2,18,61,30,49.2,2.63,1.29,0.23,0.47,15.8,0,4,5,14.0,10.1,0.17,+4.0,+3.9,Matches
+Massimo Bruno,be BEL,"MF,DF",Kortrijk,28,1993,13.4,3,24,14,58.3,1.80,1.05,0.13,0.21,20.7,0,0,0,1.6,1.6,0.07,+1.4,+1.4,Matches
+Tajon Buchanan,ca CAN,"DF,FW",Club Brugge,23,1999,18.0,1,27,8,29.6,1.50,0.44,0.04,0.13,18.8,0,0,0,2.6,2.6,0.10,-1.6,-1.6,Matches
+Denys Bunchukov,ua UKR,MF,R.F.C. Seraing,19,2003,3.3,0,3,1,33.3,0.92,0.31,0.00,0.00,14.3,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Matches
+Christian Burgess,eng ENG,DF,Union SG,30,1991,30.3,3,22,7,31.8,0.73,0.23,0.14,0.43,7.7,0,0,0,2.8,2.8,0.13,+0.2,+0.2,Matches
+
+Jean Butez,fr FRA,GK,Antwerp,27,1995,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mathieu Cachbach,be BEL,MF,R.F.C. Seraing,21,2001,18.9,0,6,1,16.7,0.32,0.05,0.00,0.00,26.6,1,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Alexandro Calut,be BEL,"DF,MF",Standard Liège,19,2003,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Cihan Çanak,tr TUR,"MF,FW",Standard Liège,17,2005,10.0,1,17,2,11.8,1.70,0.20,0.06,0.50,20.6,0,0,0,1.5,1.5,0.09,-0.5,-0.5,Matches
+Brecht Capon,be BEL,"DF,MF",Oostende,34,1988,12.4,0,11,2,18.2,0.88,0.16,0.00,0.00,14.3,0,0,0,0.6,0.6,0.05,-0.6,-0.6,Matches
+Rasmus Carstensen,dk DEN,DF,Genk,21,2000,0.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Nicolás Castro,ar ARG,"MF,FW",Genk,21,2000,6.5,0,16,4,25.0,2.46,0.62,0.00,0.00,22.7,1,0,0,0.9,0.9,0.06,-0.9,-0.9,Matches
+Alessio Castro-Montes,be BEL,"DF,MF",Gent,25,1997,20.3,1,25,9,36.0,1.23,0.44,0.04,0.11,19.1,1,0,0,1.7,1.7,0.07,-0.7,-0.7,Matches
+Nacer Chadli,be BEL,"MF,FW",Westerlo,32,1989,14.4,5,23,8,34.8,1.59,0.55,0.13,0.38,12.5,0,2,2,5.5,4.0,0.17,-0.5,-1.0,Matches
+Youssef Challouk,be BEL,"DF,FW",Kortrijk,26,1995,0.1,0,1,0,0.0,6.92,0.00,0.00,,25.2,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+Regan Charles-Cook,gd GRN,"FW,DF",Eupen,25,1997,24.5,6,29,8,27.6,1.18,0.33,0.21,0.75,16.7,0,0,0,3.7,3.7,0.13,+2.3,+2.3,Matches
+Isaac Christie-Davies,wls WAL,MF,Eupen,24,1997,14.8,0,12,2,16.7,0.81,0.14,0.00,0.00,19.1,0,0,0,0.8,0.8,0.07,-0.8,-0.8,Matches
+Gojko Cimirot,ba BIH,"MF,DF",Standard Liège,29,1992,23.4,0,5,2,40.0,0.21,0.09,0.00,0.00,19.9,0,0,0,0.4,0.4,0.08,-0.4,-0.4,Matches
+Alessandro Ciranni,be BEL,DF,Zulte Waregem,26,1996,22.8,1,15,4,26.7,0.66,0.18,0.07,0.25,18.1,1,0,0,1.1,1.1,0.08,-0.1,-0.1,Matches
+Valentin Cojocaru,ro ROU,GK,OH Leuven,26,1995,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Sérgio Conceição,pt POR,"DF,MF",R.F.C. Seraing,25,1996,8.3,0,11,2,18.2,1.33,0.24,0.00,0.00,16.8,3,0,0,0.8,0.8,0.07,-0.8,-0.8,Matches
+Jo Coppens,be BEL,GK,Sint-Truiden,31,1990,3.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Kobe Corbanie,be BEL,"DF,MF",Antwerp,17,2005,0.4,0,1,1,100.0,2.65,2.65,0.00,0.00,25.9,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Gaëtan Coucke,be BEL,GK,Mechelen,23,1998,28.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Alessio da Cruz,,"MF,FW",Mechelen,25,1997,20.2,3,22,12,54.5,1.09,0.60,0.14,0.25,13.4,0,0,0,2.6,2.6,0.12,+0.4,+0.4,Matches
+Carlos Cuesta,co COL,DF,Genk,23,1999,28.1,1,13,2,15.4,0.46,0.07,0.08,0.50,9.7,0,0,0,1.5,1.5,0.12,-0.5,-0.5,Matches
+Hugo Cuypers,be BEL,FW,Gent,25,1997,29.8,20,92,42,45.7,3.09,1.41,0.17,0.38,13.2,0,4,4,19.9,16.9,0.18,+0.1,-0.9,Matches
+Maxime D'Arpino,fr FRA,"DF,MF",Oostende,26,1996,1.3,0,2,0,0.0,1.50,0.00,0.00,,30.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Kristof D'haene,be BEL,"DF,MF",Kortrijk,32,1990,26.1,1,9,2,22.2,0.34,0.08,0.11,0.50,20.0,0,0,1,1.3,0.4,0.04,-0.3,+0.6,Matches
+Robbie D'Haese,be BEL,"MF,DF",Oostende,23,1999,13.2,1,11,5,45.5,0.84,0.38,0.09,0.20,19.5,0,0,0,1.0,1.0,0.09,0.0,0.0,Matches
+
+Erdon Daci,mk MKD,FW,Westerlo,24,1998,1.9,1,7,2,28.6,3.68,1.05,0.14,0.50,10.4,0,0,0,1.0,1.0,0.16,0.0,0.0,Matches
+Jón Dagur Þorsteinsson,is ISL,"FW,MF",OH Leuven,23,1998,23.6,12,44,16,36.4,1.86,0.68,0.14,0.38,18.6,0,6,6,10.9,6.2,0.14,+1.1,-0.2,Matches
+Ameen Al-Dakhil,be BEL,DF,Sint-Truiden,20,2002,15.5,0,5,2,40.0,0.32,0.13,0.00,0.00,18.2,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Jesper Daland,no NOR,DF,Cercle Brugge,22,2000,30.1,1,18,6,33.3,0.60,0.20,0.06,0.17,10.8,0,0,0,1.7,1.7,0.09,-0.7,-0.7,Matches
+Osher Davida,il ISR,"FW,MF",Standard Liège,21,2001,5.6,0,7,2,28.6,1.26,0.36,0.00,0.00,21.1,0,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches
+Jason Davidson,au AUS,DF,Eupen,31,1991,29.6,0,28,5,17.9,0.95,0.17,0.00,0.00,17.2,0,0,0,1.9,1.9,0.07,-1.9,-1.9,Matches
+Davo,es ESP,"FW,MF",Eupen,27,1994,1.3,0,1,0,0.0,0.80,0.00,0.00,,13.1,0,0,0,0.1,0.1,0.12,-0.1,-0.1,Matches
+Laurens De Bock,be BEL,DF,Zulte Waregem,29,1992,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Alexandre De Bruyn,be BEL,"MF,FW",Kortrijk,28,1994,1.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Wout De Buyser,be BEL,"DF,MF",Zulte Waregem,21,2001,0.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Maxim De Cuyper,be BEL,DF,Westerlo,21,2000,32.8,8,27,9,33.3,0.82,0.27,0.15,0.44,20.5,3,4,5,6.4,2.5,0.09,+1.6,+1.5,Matches
+Ritchie De Laet,be BEL,DF,Antwerp,33,1988,23.0,1,19,4,21.1,0.83,0.17,0.05,0.25,16.7,0,0,0,1.3,1.3,0.07,-0.3,-0.3,Matches
+Dion De Neve,be BEL,"DF,MF",Kortrijk,20,2002,5.0,1,4,2,50.0,0.80,0.40,0.25,0.50,17.5,0,0,0,0.5,0.5,0.12,+0.5,+0.5,Matches
+Noah De Ridder,be BEL,DF,Gent,18,2003,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Julien De Sart,be BEL,MF,Gent,27,1994,16.6,2,24,4,16.7,1.44,0.24,0.08,0.50,23.8,2,0,0,1.7,1.7,0.07,+0.3,+0.3,Matches
+Zeno Debast,be BEL,DF,Anderlecht,18,2003,32.2,0,14,2,14.3,0.43,0.06,0.00,0.00,19.0,1,0,0,0.8,0.8,0.06,-0.8,-0.8,Matches
+Robbe Decostere,be BEL,"DF,MF",Cercle Brugge,24,1998,8.6,0,1,0,0.0,0.12,0.00,0.00,,22.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Hannes Delcroix,be BEL,DF,Anderlecht,23,1999,12.9,0,3,0,0.0,0.23,0.00,0.00,,9.7,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches
+Olivier Deman,be BEL,"DF,MF",Cercle Brugge,22,2000,27.1,1,26,5,19.2,0.96,0.18,0.04,0.20,19.8,0,0,0,1.6,1.5,0.06,-0.6,-0.5,Matches
+Pape Demba Diop,sn SEN,MF,Zulte Waregem,18,2003,0.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mahamadou Dembélé,fr FRA,MF,R.F.C. Seraing,23,1999,0.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Dylan Demuynck,be BEL,"MF,FW",Zulte Waregem,18,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Kévin Denkey,tg TOG,FW,Cercle Brugge,21,2000,25.7,9,70,27,38.6,2.73,1.05,0.13,0.33,15.7,1,0,1,11.9,10.9,0.16,-2.9,-1.9,Matches
+Jerome Deom,be BEL,MF,Eupen,23,1999,5.6,0,4,2,50.0,0.71,0.36,0.00,0.00,21.0,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+Laurent Depoitre,be BEL,FW,Gent,33,1988,10.4,5,24,11,45.8,2.31,1.06,0.21,0.45,12.9,0,0,0,4.3,4.3,0.18,+0.7,+0.7,Matches
+
+Timothy Derijck,be BEL,DF,Zulte Waregem,35,1987,19.0,1,7,4,57.1,0.37,0.21,0.14,0.25,15.6,0,0,0,0.8,0.8,0.12,+0.2,+0.2,Matches
+Anthony Descotte,be BEL,"FW,DF",Charleroi,18,2003,1.5,0,4,1,25.0,2.63,0.66,0.00,0.00,17.5,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Cyriel Dessers,ng NGA,FW,Genk,27,1994,2.6,3,12,10,83.3,4.70,3.91,0.17,0.20,14.5,0,1,1,2.9,2.1,0.18,+0.1,-0.1,Matches
+Dorian Dessoleil,be BEL,DF,Kortrijk,29,1992,12.5,0,5,1,20.0,0.40,0.08,0.00,0.00,18.1,1,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Gilles Dewaele,be BEL,DF,Standard Liège,26,1996,7.8,0,2,1,50.0,0.26,0.13,0.00,0.00,19.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Sieben Dewaele,be BEL,MF,Oostende,23,1999,14.7,0,2,0,0.0,0.14,0.00,0.00,,19.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Ibrahim Diakité,gn GUI,"DF,MF",Eupen,18,2003,3.8,0,1,0,0.0,0.26,0.00,0.00,,21.1,0,0,0,0.1,0.1,0.09,-0.1,-0.1,Matches
+Amadou Diawara,gn GUI,MF,Anderlecht,25,1997,17.3,1,11,3,27.3,0.64,0.17,0.09,0.33,25.0,0,0,0,0.5,0.5,0.05,+0.5,+0.5,Matches
+Matisse Didden,be BEL,DF,Genk,20,2001,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Tuur Dierckx,be BEL,"MF,FW",Westerlo,27,1995,13.7,5,18,8,44.4,1.31,0.58,0.11,0.25,20.6,0,3,4,4.9,1.7,0.10,+0.1,+0.3,Matches
+Guillaume Dietsch,fr FRA,GK,R.F.C. Seraing,21,2001,23.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Novatus Dismas,tz TAN,"DF,MF",Zulte Waregem,19,2002,25.8,0,16,5,31.3,0.62,0.19,0.00,0.00,25.1,1,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches
+Josué Doke,tg TOG,"DF,FW",Charleroi,18,2004,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Joren Dom,be BEL,"MF,DF",OH Leuven,32,1989,13.4,0,14,5,35.7,1.04,0.37,0.00,0.00,17.0,0,0,0,1.0,1.0,0.07,-1.0,-1.0,Matches
+Jean-Luc Dompé,fr FRA,"FW,MF",Zulte Waregem,26,1995,3.2,0,9,6,66.7,2.83,1.89,0.00,0.00,17.0,1,0,0,0.7,0.7,0.08,-0.7,-0.7,Matches
+Arnaud Dony,be BEL,"DF,MF",Union SG,18,2004,1.0,0,2,0,0.0,2.02,0.00,0.00,,24.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Nene Dorgeles,ml MLI,"FW,MF",Westerlo,19,2002,16.5,8,43,20,46.5,2.61,1.21,0.19,0.40,15.8,0,0,0,5.7,5.7,0.13,+2.3,+2.3,Matches
+Denis Drăguș,ro ROU,FW,Standard Liège,23,1999,11.3,4,32,12,37.5,2.82,1.06,0.13,0.33,17.9,1,0,0,3.6,3.6,0.12,+0.4,+0.4,Matches
+Oleksandr Drambaiev,ua UKR,"DF,MF",Zulte Waregem,21,2001,13.7,1,4,2,50.0,0.29,0.15,0.25,0.50,9.5,0,0,0,0.8,0.8,0.21,+0.2,+0.2,Matches
+Anders Dreyer,dk DEN,FW,Anderlecht,24,1998,13.0,4,38,12,31.6,2.92,0.92,0.11,0.33,17.8,0,0,0,3.4,3.4,0.09,+0.6,+0.6,Matches
+Olivier Dumont,be BEL,MF,Sint-Truiden,20,2002,4.1,1,4,1,25.0,0.97,0.24,0.25,1.00,12.3,0,0,0,0.3,0.3,0.07,+0.7,+0.7,Matches
+Julien Duranville,be BEL,"DF,MF",Anderlecht,16,2006,3.0,1,7,2,28.6,2.34,0.67,0.14,0.50,21.2,0,0,0,0.4,0.4,0.05,+0.6,+0.6,Matches
+Ivan Durdov,hr CRO,"FW,MF",Oostende,22,2000,4.0,0,7,1,14.3,1.73,0.25,0.00,0.00,11.3,0,0,0,0.8,0.8,0.12,-0.8,-0.8,Matches
+Noë Dussenne,be BEL,DF,Standard Liège,30,1992,26.9,5,19,6,31.6,0.71,0.22,0.16,0.50,18.4,1,2,2,3.2,1.6,0.09,+1.8,+1.4,Matches
+Pierre Dwomoh,be BEL,MF,Oostende,18,2004,3.4,0,5,1,20.0,1.48,0.30,0.00,0.00,21.0,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+
+Nikolas Dyhr,dk DEN,DF,Kortrijk,21,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Aron Dønnum,no NOR,"DF,MF",Standard Liège,24,1998,27.9,3,27,8,29.6,0.97,0.29,0.11,0.38,15.2,1,0,0,2.9,2.9,0.11,+0.1,+0.1,Matches
+Dennis Eckert,de GER,FW,Union SG,25,1997,2.3,2,7,2,28.6,3.09,0.88,0.14,0.50,13.9,0,1,1,1.9,1.1,0.16,+0.1,-0.1,Matches
+Jurgen Ekkelenkamp,nl NED,MF,Antwerp,22,2000,20.8,5,46,10,21.7,2.21,0.48,0.11,0.50,16.0,6,0,0,5.5,5.5,0.12,-0.5,-0.5,Matches
+Simon Elisor,fr FRA,FW,R.F.C. Seraing,23,1999,6.6,1,11,4,36.4,1.68,0.61,0.09,0.25,12.7,0,0,1,2.5,1.7,0.16,-1.5,-0.7,Matches
+Renaud Emond,be BEL,FW,Standard Liège,30,1991,6.3,2,15,7,46.7,2.39,1.11,0.13,0.29,14.3,2,0,1,2.7,1.8,0.12,-0.7,+0.2,Matches
+Gustav Engvall,se SWE,"FW,DF",Mechelen,26,1996,0.8,0,3,1,33.3,3.60,1.20,0.00,0.00,9.1,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Matches
+Sebastiano Esposito,it ITA,FW,Anderlecht,20,2002,5.7,1,12,3,25.0,2.10,0.53,0.08,0.33,18.0,2,0,0,1.4,1.4,0.12,-0.4,-0.4,Matches
+Alieu Fadera,gm GAM,"FW,DF",Zulte Waregem,20,2001,30.2,6,39,16,41.0,1.29,0.53,0.15,0.38,13.8,0,0,0,6.2,6.2,0.16,-0.2,-0.2,Matches
+Matias Fernandez-Pardo,be BEL,DF,Gent,17,2005,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Karol Fila,pl POL,DF,Zulte Waregem,24,1998,10.7,1,4,1,25.0,0.37,0.09,0.25,1.00,20.6,0,0,0,0.6,0.6,0.14,+0.4,+0.4,Matches
+Oleksandr Filin,ru RUS,DF,Eupen,26,1996,8.1,0,1,0,0.0,0.12,0.00,0.00,,7.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Viktor Fischer,dk DEN,FW,Antwerp,28,1994,0.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mathias Fixelles,be BEL,"MF,FW",Westerlo,25,1996,18.2,2,17,8,47.1,0.93,0.44,0.12,0.25,21.5,0,0,0,1.0,1.0,0.06,+1.0,+1.0,Matches
+Malick Fofana,be BEL,"DF,FW",Gent,17,2005,8.5,0,6,3,50.0,0.70,0.35,0.00,0.00,23.2,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches
+Núrio Fortuna,ao ANG,DF,Gent,27,1995,10.8,1,9,3,33.3,0.83,0.28,0.11,0.33,13.6,0,0,0,1.0,1.0,0.11,0.0,0.0,Matches
+Marlon Fossey,us USA,"MF,DF",Standard Liège,23,1998,18.7,4,9,4,44.4,0.48,0.21,0.44,1.00,5.4,0,0,0,2.5,2.5,0.31,+0.5,+0.5,Matches
+Lyle Foster,za RSA,FW,Westerlo,21,2000,17.2,8,41,17,41.5,2.39,0.99,0.20,0.47,14.6,0,0,0,5.8,5.8,0.14,+2.2,+2.2,Matches
+Guillaume François,be BEL,DF,Union SG,32,1990,5.0,0,4,0,0.0,0.81,0.00,0.00,,21.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Michael Frey,ch SUI,FW,Antwerp,28,1994,6.2,7,19,8,42.1,3.08,1.30,0.26,0.63,15.7,0,2,2,3.9,2.3,0.12,+3.1,+2.7,Matches
+Matías Galarza,ar ARG,"MF,FW",Genk,20,2002,0.9,0,3,0,0.0,3.38,0.00,0.00,,25.9,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Timothy Galje,be BEL,GK,R.F.C. Seraing,21,2001,7.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+João Gamboa,pt POR,"MF,DF",OH Leuven,25,1996,1.0,0,1,0,0.0,0.98,0.00,0.00,,26.1,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Zinho Gano,gw GNB,FW,Zulte Waregem,28,1993,16.9,12,50,22,44.0,2.96,1.30,0.18,0.41,11.7,0,3,3,11.6,9.2,0.19,+0.4,-0.2,Matches
+Djeidi Gassama,fr FRA,"FW,MF",Eupen,18,2003,8.0,2,11,6,54.5,1.37,0.75,0.18,0.33,17.8,0,0,0,1.7,1.7,0.15,+0.3,+0.3,Matches
+
+Yann Gboho,fr FRA,"FW,MF",Cercle Brugge,21,2001,7.7,2,15,5,33.3,1.95,0.65,0.13,0.40,12.6,0,0,0,2.9,2.9,0.19,-0.9,-0.9,Matches
+Pieter Gerkens,be BEL,MF,Antwerp,26,1995,16.0,1,15,4,26.7,0.94,0.25,0.07,0.25,16.7,0,0,0,2.0,2.0,0.13,-1.0,-1.0,Matches
+Jay-Dee Geusens,be BEL,FW,Genk,20,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ali Gholizadeh,ir IRN,"MF,FW",Charleroi,26,1996,10.8,1,27,8,29.6,2.50,0.74,0.04,0.13,18.5,0,0,0,1.7,1.7,0.07,-0.7,-0.7,Matches
+Jo Gilis,be BEL,FW,OH Leuven,22,2000,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Nick Gillekens,be BEL,GK,Westerlo,27,1995,1.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Bruno Godeau,be BEL,DF,Gent,30,1992,6.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Sergio Gómez,es ESP,DF,Anderlecht,21,2000,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Vagner Gonçalves,cv CPV,"FW,MF",R.F.C. Seraing,26,1996,15.8,4,26,10,38.5,1.65,0.63,0.12,0.30,22.5,6,1,1,2.4,1.6,0.06,+1.6,+1.4,Matches
+Mario González,es ESP,FW,OH Leuven,26,1996,18.2,13,32,18,56.3,1.76,0.99,0.28,0.50,13.4,0,4,5,10.1,6.2,0.19,+2.9,+2.8,Matches
+Jan Gorenc,si SVN,DF,Eupen,23,1999,2.0,0,1,0,0.0,0.51,0.00,0.00,,9.2,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+Fernand Gouré,ci CIV,MF,Westerlo,20,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Milan Govaers,be BEL,DF,Oostende,18,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Makhtar Gueye,sn SEN,"MF,FW",Oostende,24,1997,0.4,0,3,1,33.3,7.11,2.37,0.00,0.00,13.2,0,0,0,0.6,0.6,0.19,-0.6,-0.6,Matches
+Valentin Guillaume,be BEL,"MF,FW",R.F.C. Seraing,21,2001,5.3,0,2,0,0.0,0.38,0.00,0.00,,12.4,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Muhammed Gümüskaya,tr TUR,"FW,MF",Westerlo,21,2001,2.1,0,7,1,14.3,3.30,0.47,0.00,0.00,19.2,1,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches
+Pape Habib Guèye,sn SEN,FW,Kortrijk,22,1999,13.4,3,24,8,33.3,1.79,0.60,0.13,0.38,14.9,0,0,0,4.7,4.7,0.19,-1.7,-1.7,Matches
+Anouar Ait El Hadj,be BEL,"MF,FW",Anderlecht,20,2002,1.1,1,3,2,66.7,2.81,1.87,0.33,0.50,19.4,0,0,0,0.4,0.4,0.13,+0.6,+0.6,Matches
+Anouar Ait El Hadj,be BEL,"FW,MF",Genk,20,2002,1.4,0,5,2,40.0,3.60,1.44,0.00,0.00,16.7,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches
+Geoffry Hairemans,be BEL,"FW,MF",Mechelen,30,1991,27.8,9,39,16,41.0,1.40,0.57,0.21,0.50,21.7,9,1,1,4.2,3.5,0.09,+4.8,+4.5,Matches
+Luqman Hakim,my MAS,FW,Kortrijk,20,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Lennert Hallaert,be BEL,"FW,DF",Zulte Waregem,19,2003,1.8,0,1,0,0.0,0.56,0.00,0.00,,25.7,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Andreas Hanche-Olsen,no NOR,DF,Gent,25,1997,4.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Taichi Hara,jp JPN,FW,Sint-Truiden,23,1999,5.6,0,11,3,27.3,1.98,0.54,0.00,0.00,10.3,0,0,0,1.8,1.8,0.17,-1.8,-1.8,Matches
+Arthur Harinck,be BEL,DF,Zulte Waregem,17,2004,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+
+Faris Haroun,be BEL,MF,Antwerp,36,1985,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Daiki Hashioka,jp JPN,"DF,MF",Sint-Truiden,23,1999,30.6,0,20,5,25.0,0.65,0.16,0.00,0.00,21.7,0,0,0,1.2,1.2,0.06,-1.2,-1.2,Matches
+Ibe Hautekiet,be BEL,DF,Standard Liège,20,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Daichi Hayashi,jp JPN,FW,Sint-Truiden,25,1997,22.1,7,30,15,50.0,1.36,0.68,0.23,0.47,13.6,0,0,0,3.9,3.9,0.13,+3.1,+3.1,Matches
+Heitor,br BRA,DF,Cercle Brugge,21,2000,1.6,0,4,2,50.0,2.43,1.22,0.00,0.00,26.9,1,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Jack Hendry,sct SCO,DF,Club Brugge,27,1995,4.3,0,3,1,33.3,0.70,0.23,0.00,0.00,5.7,0,0,0,0.5,0.5,0.15,-0.5,-0.5,Matches
+David Henen,tg TOG,"DF,FW",Kortrijk,26,1996,7.5,0,3,0,0.0,0.40,0.00,0.00,,22.5,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Jorge Hernandez,us USA,"MF,FW",Mechelen,21,2000,1.4,0,2,1,50.0,1.46,0.73,0.00,0.00,14.3,0,0,0,0.2,0.2,0.11,-0.2,-0.2,Matches
+Daan Heymans,be BEL,"MF,FW",Charleroi,23,1999,19.1,6,37,13,35.1,1.93,0.68,0.14,0.38,13.6,0,1,1,6.1,5.3,0.15,-0.1,-0.3,Matches
+Bryan Heynen,be BEL,MF,Genk,25,1997,30.9,10,40,17,42.5,1.29,0.55,0.18,0.41,11.6,0,3,4,9.3,6.3,0.16,+0.7,+0.7,Matches
+Andrew Hjulsager,dk DEN,"MF,FW",Gent,27,1995,12.7,2,18,8,44.4,1.42,0.63,0.11,0.25,20.3,0,0,0,1.4,1.4,0.08,+0.6,+0.6,Matches
+Wesley Hoedt,nl NED,DF,Anderlecht,28,1994,14.3,0,15,5,33.3,1.05,0.35,0.00,0.00,16.1,2,0,0,1.0,1.0,0.07,-1.0,-1.0,Matches
+Raphael Holzhauser,at AUT,"FW,MF",OH Leuven,29,1993,7.0,1,12,3,25.0,1.71,0.43,0.00,0.00,23.2,3,1,1,2.0,1.2,0.10,-1.0,-1.2,Matches
+Fraser Hornby,sct SCO,FW,Oostende,22,1999,17.9,8,55,24,43.6,3.07,1.34,0.13,0.29,16.8,4,1,1,6.7,5.9,0.11,+1.3,+1.1,Matches
+Amirhossein Hosseinzadeh,ir IRN,"MF,FW",Charleroi,21,2000,12.2,2,22,8,36.4,1.80,0.66,0.09,0.25,18.6,0,0,0,2.2,2.2,0.10,-0.2,-0.2,Matches
+Dino Hotić,ba BIH,"MF,FW",Cercle Brugge,27,1995,21.6,5,41,9,22.0,1.90,0.42,0.10,0.44,22.7,14,1,2,4.7,3.1,0.08,+0.3,+0.9,Matches
+Patrik Hrošovský,sk SVK,MF,Genk,30,1992,33.5,2,39,10,25.6,1.16,0.30,0.05,0.20,23.0,0,0,0,2.2,2.2,0.06,-0.2,-0.2,Matches
+David Hubert,be BEL,MF,Zulte Waregem,34,1988,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Guillaume Hubert,be BEL,GK,Oostende,28,1994,22.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Hong Hyunseok,kr KOR,"MF,FW",Gent,23,1999,26.5,5,27,8,29.6,1.02,0.30,0.19,0.63,16.5,1,0,0,3.1,3.1,0.12,+1.9,+1.9,Matches
+Franck Idumbo,be BEL,FW,OH Leuven,20,2002,0.2,0,2,2,100.0,8.57,8.57,0.00,0.00,14.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Ejaita Ifoni,ng NGA,FW,R.F.C. Seraing,21,2000,2.0,0,1,0,0.0,0.50,0.00,0.00,,10.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Marco Ilaimaharitra,mg MAD,MF,Charleroi,27,1995,29.7,3,27,9,33.3,0.91,0.30,0.04,0.11,25.1,0,2,2,3.4,1.9,0.07,-0.4,-0.9,Matches
+Marko Ilić,rs SRB,GK,Kortrijk,24,1998,17.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Abdulrazaq Ishaq,ng NGA,"DF,MF",Anderlecht,20,2002,1.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+
+Vakoun Issouf Bayo,ci CIV,FW,Charleroi,25,1997,9.7,3,40,14,35.0,4.11,1.44,0.08,0.21,14.5,0,0,0,6.2,6.2,0.15,-3.2,-3.2,Matches
+Junya Ito,jp JPN,FW,Genk,29,1993,1.0,0,3,3,100.0,3.00,3.00,0.00,0.00,14.2,0,0,0,0.4,0.4,0.12,-0.4,-0.4,Matches
+Vincent Janssen,nl NED,FW,Antwerp,28,1994,25.6,16,78,26,33.3,3.04,1.01,0.13,0.38,17.7,0,6,6,11.9,7.2,0.09,+4.1,+2.8,Matches
+Wolke Janssens,be BEL,DF,Sint-Truiden,27,1995,24.8,0,3,0,0.0,0.12,0.00,0.00,,31.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+James Jeggo,au AUS,MF,Eupen,30,1992,10.0,0,4,1,25.0,0.40,0.10,0.00,0.00,24.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Edisson Jordanov,bg BUL,DF,Westerlo,29,1993,14.5,0,10,2,20.0,0.69,0.14,0.00,0.00,21.4,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+Ferran Jutglà,es ESP,FW,Club Brugge,23,1999,21.7,13,88,42,47.7,4.06,1.94,0.14,0.29,16.1,0,1,2,11.6,10.0,0.11,+1.4,+2.0,Matches
+Abdelkahar Kadri,dz ALG,"MF,FW",Kortrijk,22,2000,13.6,4,27,10,37.0,1.99,0.74,0.15,0.40,19.8,0,0,0,2.5,2.5,0.09,+1.5,+1.5,Matches
+Shinji Kagawa,jp JPN,"MF,FW",Sint-Truiden,33,1989,8.0,2,10,2,20.0,1.25,0.25,0.10,0.50,22.3,0,1,1,1.4,0.6,0.06,+0.6,+0.4,Matches
+Marco Kana,be BEL,MF,Anderlecht,19,2002,3.9,0,1,0,0.0,0.26,0.00,0.00,,24.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Ismaël Kandouss,ma MAR,DF,Union SG,24,1997,23.7,1,14,3,21.4,0.59,0.13,0.07,0.33,10.4,0,0,0,1.6,1.6,0.12,-0.6,-0.6,Matches
+Fanos Katelaris,cy CYP,DF,Oostende,25,1996,9.9,0,3,0,0.0,0.30,0.00,0.00,,22.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Fatih Kaya,,"FW,MF",Sint-Truiden,22,1999,1.9,0,2,0,0.0,1.03,0.00,0.00,,19.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Joris Kayembe,cd COD,DF,Charleroi,27,1994,26.6,1,14,6,42.9,0.53,0.23,0.07,0.17,14.5,0,0,0,1.2,1.2,0.08,-0.2,-0.2,Matches
+Emilio Kehrer,de GER,"FW,MF",Cercle Brugge,20,2002,1.8,1,6,2,33.3,3.31,1.10,0.17,0.50,18.7,0,0,0,0.3,0.3,0.06,+0.7,+0.7,Matches
+Habib Keita,ml MLI,MF,Kortrijk,20,2002,12.7,1,14,2,14.3,1.10,0.16,0.07,0.50,21.6,1,0,0,1.1,1.1,0.08,-0.1,-0.1,Matches
+Mandela Keita,be BEL,"MF,DF",OH Leuven,20,2002,2.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mandela Keita,be BEL,MF,Antwerp,20,2002,9.4,0,5,1,20.0,0.53,0.11,0.00,0.00,24.6,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Sibiry Keita,ml MLI,DF,Eupen,21,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Gyrano Kerk,sr SUR,FW,Antwerp,26,1995,9.5,4,23,11,47.8,2.41,1.15,0.17,0.36,14.3,0,0,0,4.1,4.1,0.18,-0.1,-0.1,Matches
+Bilal El Khannouss,ma MAR,MF,Genk,18,2004,24.5,1,44,10,22.7,1.80,0.41,0.02,0.10,19.7,0,0,0,2.6,2.5,0.06,-1.6,-1.5,Matches
+Gerald Kilota,fr FRA,"DF,MF",R.F.C. Seraing,28,1994,4.0,0,4,0,0.0,1.00,0.00,0.00,,24.1,1,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Sofian Kiyine,ma MAR,MF,OH Leuven,24,1997,11.7,2,28,6,21.4,2.40,0.51,0.04,0.17,24.5,1,1,2,3.2,1.6,0.06,-1.2,-0.6,Matches
+Stefan Knežević,ch SUI,DF,Charleroi,25,1996,14.3,0,6,2,33.3,0.42,0.14,0.00,0.00,10.0,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches
+Hervé Koffi,bf BFA,GK,Charleroi,25,1996,28.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+
+Aboubakary Koita,mr MTN,"DF,MF",Sint-Truiden,23,1998,15.1,0,40,17,42.5,2.65,1.13,0.00,0.00,23.6,6,0,0,1.9,1.9,0.05,-1.9,-1.9,Matches
+Mory Konaté,gn GUI,MF,Sint-Truiden,28,1993,21.6,1,21,5,23.8,0.97,0.23,0.05,0.20,22.7,0,0,0,1.3,1.3,0.06,-0.3,-0.3,Matches
+Jan Král,cz CZE,DF,Eupen,23,1999,5.1,0,3,1,33.3,0.59,0.20,0.00,0.00,14.2,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches
+Léandre Kuavita,be BEL,"MF,FW",Standard Liège,18,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mykola Kukharevych,ua UKR,"FW,DF",OH Leuven,21,2001,0.6,0,1,0,0.0,1.64,0.00,0.00,,20.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Sven Kums,be BEL,MF,Gent,34,1988,30.0,2,27,5,18.5,0.90,0.17,0.07,0.40,20.5,2,0,0,2.0,2.0,0.07,0.0,0.0,Matches
+Sami Lahssaini,be BEL,MF,R.F.C. Seraing,23,1998,16.7,0,11,0,0.0,0.66,0.00,0.00,,25.4,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Konstantinos Laifis,cy CYP,DF,Standard Liège,29,1993,26.3,1,23,7,30.4,0.88,0.27,0.04,0.14,15.2,0,0,0,2.1,2.1,0.10,-1.1,-1.1,Matches
+Boris lambert,be BEL,"DF,MF",Eupen,22,2000,28.7,4,19,5,26.3,0.66,0.17,0.21,0.80,10.6,0,0,0,2.5,2.5,0.13,+1.5,+1.5,Matches
+Didier Lamkel Zé,cm CMR,"FW,MF",Kortrijk,25,1996,9.5,1,13,6,46.2,1.36,0.63,0.00,0.00,18.7,0,1,1,1.7,0.9,0.07,-0.7,-0.9,Matches
+Noa Lang,nl NED,FW,Club Brugge,23,1999,20.7,8,49,19,38.8,2.37,0.92,0.10,0.26,18.4,0,3,3,8.2,5.8,0.12,-0.2,-0.8,Matches
+Loïc Lapoussin,mg MAD,DF,Union SG,26,1996,24.5,3,28,10,35.7,1.14,0.41,0.11,0.30,17.6,0,0,0,1.6,1.6,0.06,+1.4,+1.4,Matches
+Cyle Larin,ca CAN,FW,Club Brugge,27,1995,2.2,1,9,4,44.4,4.07,1.81,0.11,0.25,14.5,0,0,1,2.1,1.3,0.15,-1.1,-0.3,Matches
+Dimitri Lavalée,be BEL,"DF,MF",Mechelen,25,1997,19.5,0,14,3,21.4,0.72,0.15,0.00,0.00,22.7,0,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches
+Toni Leistner,de GER,DF,Sint-Truiden,31,1990,23.9,1,12,2,16.7,0.50,0.08,0.08,0.50,13.6,0,0,0,0.5,0.5,0.04,+0.5,+0.5,Matches
+Darko Lemajić,rs SRB,"FW,MF",Gent,28,1993,2.3,2,10,3,30.0,4.33,1.30,0.20,0.67,11.6,0,0,0,1.4,1.4,0.14,+0.6,+0.6,Matches
+Theo Leoni,be BEL,MF,Anderlecht,22,2000,1.0,0,1,1,100.0,1.03,1.03,0.00,0.00,25.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+Christophe Lepoint,be BEL,"DF,MF",R.F.C. Seraing,37,1984,21.6,1,9,1,11.1,0.42,0.05,0.11,1.00,10.3,0,0,0,0.8,0.8,0.09,+0.2,+0.2,Matches
+Andrea Librici,be BEL,FW,Sint-Truiden,17,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Lucas Lissens,be BEL,DF,Anderlecht,21,2001,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Stjepan Lončar,ba BIH,MF,Kortrijk,25,1996,13.1,0,9,1,11.1,0.69,0.08,0.00,0.00,22.7,1,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+Borja López,es ESP,DF,Zulte Waregem,28,1994,15.8,1,9,1,11.1,0.57,0.06,0.11,1.00,13.9,0,0,0,0.9,0.9,0.10,+0.1,+0.1,Matches
+Jhon Lucumí,co COL,DF,Genk,24,1998,3.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Senne Lynen,be BEL,MF,Union SG,23,1999,29.6,0,23,4,17.4,0.78,0.13,0.00,0.00,24.6,1,0,0,1.0,1.0,0.05,-1.0,-1.0,Matches
+Koki Machida,jp JPN,DF,Union SG,24,1997,6.5,0,3,1,33.3,0.46,0.15,0.00,0.00,14.4,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches
+
+Nicolas Madsen,dk DEN,MF,Westerlo,22,2000,25.7,2,24,6,25.0,0.93,0.23,0.08,0.33,21.5,0,0,0,1.4,1.4,0.06,+0.6,+0.6,Matches
+Mathieu Maertens,be BEL,"FW,MF",OH Leuven,27,1995,22.4,5,40,15,37.5,1.78,0.67,0.13,0.33,19.7,0,0,0,3.3,3.3,0.08,+1.7,+1.7,Matches
+Tyreek Magee,jm JAM,"FW,MF",Eupen,22,1999,1.0,0,3,1,33.3,2.90,0.97,0.00,0.00,28.3,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Gary Magnée,be BEL,"MF,DF",Eupen,22,1999,24.4,3,30,12,40.0,1.23,0.49,0.10,0.25,21.4,0,0,0,2.1,2.1,0.07,+0.9,+0.9,Matches
+Radosław Majecki,pl POL,GK,Cercle Brugge,22,1999,27.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Yonas Malede,il ISR,"FW,MF",Mechelen,22,1999,12.8,0,20,5,25.0,1.56,0.39,0.00,0.00,17.4,0,0,1,2.3,1.6,0.08,-2.3,-1.6,Matches
+Kristiyan Malinov,bg BUL,MF,OH Leuven,28,1994,14.7,0,4,0,0.0,0.27,0.00,0.00,,21.0,0,0,0,0.4,0.4,0.10,-0.4,-0.4,Matches
+Benson Manuel,ao ANG,FW,Antwerp,25,1997,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jean Marcelin,fr FRA,DF,Cercle Brugge,22,2000,8.3,0,7,0,0.0,0.84,0.00,0.00,,8.3,0,0,0,0.7,0.7,0.10,-0.7,-0.7,Matches
+Damien Marcq,fr FRA,DF,Charleroi,33,1988,16.3,2,5,2,40.0,0.31,0.12,0.40,1.00,12.7,0,0,0,0.3,0.3,0.07,+1.7,+1.7,Matches
+Sulayman Marreh,gm GAM,MF,Gent,26,1996,4.4,1,5,1,20.0,1.14,0.23,0.20,1.00,23.0,0,0,0,0.4,0.4,0.07,+0.6,+0.6,Matches
+Timothy Martin,lu LUX,GK,R.F.C. Seraing,21,2001,4.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Clinton Mata,ao ANG,DF,Club Brugge,29,1992,17.3,0,3,1,33.3,0.17,0.06,0.00,0.00,27.8,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Yusuke Matsuo,jp JPN,"FW,MF",Westerlo,25,1997,5.1,0,9,4,44.4,1.75,0.78,0.00,0.00,16.6,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Matches
+Nekadio Mayanga,,DF,R.F.C. Seraing,20,2002,1.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Noah Mbamba,be BEL,MF,Club Brugge,17,2005,0.8,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Dylan Mbayo,be BEL,"FW,MF",Kortrijk,20,2001,7.6,1,8,3,37.5,1.06,0.40,0.13,0.33,20.0,0,0,0,0.8,0.8,0.09,+0.2,+0.2,Matches
+Isaac Mbenza,be BEL,"FW,DF",Charleroi,26,1996,24.8,4,42,16,38.1,1.69,0.65,0.10,0.25,19.4,1,0,0,4.8,4.8,0.12,-0.8,-0.8,Matches
+Moustapha Mbow,sn SEN,DF,R.F.C. Seraing,22,2000,24.6,1,5,1,20.0,0.20,0.04,0.20,1.00,14.3,0,0,0,0.2,0.2,0.04,+0.8,+0.8,Matches
+Cameron McGeehan,nir NIR,MF,Oostende,27,1995,18.0,4,54,19,35.2,3.00,1.06,0.07,0.21,17.3,0,0,0,5.1,5.1,0.10,-1.1,-1.1,Matches
+Mark McKenzie,us USA,DF,Genk,23,1999,30.0,1,11,2,18.2,0.37,0.07,0.09,0.50,8.2,0,0,0,1.8,1.8,0.16,-0.8,-0.8,Matches
+Dapo Mebude,sct SCO,"FW,MF",Oostende,21,2001,2.5,0,2,0,0.0,0.80,0.00,0.00,,17.8,0,0,0,0.3,0.3,0.17,-0.3,-0.3,Matches
+Brandon Mechele,be BEL,DF,Club Brugge,29,1993,28.6,2,9,2,22.2,0.31,0.07,0.22,1.00,8.4,0,0,0,1.0,1.0,0.11,+1.0,+1.0,Matches
+Zech Medley,eng ENG,DF,Oostende,22,2000,10.3,1,5,3,60.0,0.48,0.29,0.20,0.33,14.2,0,0,0,0.6,0.6,0.13,+0.4,+0.4,Matches
+Nayel Mehssatou,cl CHI,"DF,MF",Kortrijk,20,2002,20.6,0,4,1,25.0,0.19,0.05,0.00,0.00,28.1,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+
+Bjorn Meijer,nl NED,DF,Club Brugge,19,2003,26.3,3,19,9,47.4,0.72,0.34,0.16,0.33,11.5,1,0,0,2.4,2.4,0.13,+0.6,+0.6,Matches
+Filippo Melegoni,it ITA,"MF,DF",Standard Liège,23,1999,8.2,1,5,2,40.0,0.61,0.24,0.20,0.50,15.5,0,0,0,0.6,0.6,0.12,+0.4,+0.4,Matches
+Hamza Mendyl,ma MAR,DF,OH Leuven,24,1997,22.9,0,6,1,16.7,0.26,0.04,0.00,0.00,15.0,0,0,0,0.8,0.8,0.14,-0.8,-0.8,Matches
+Billel Messaoudi,dz ALG,"FW,MF",Kortrijk,24,1997,18.3,2,56,17,30.4,3.07,0.93,0.04,0.12,18.4,3,0,0,4.5,4.5,0.08,-2.5,-2.5,Matches
+Senna Miangue,be BEL,DF,Cercle Brugge,25,1997,4.8,0,4,0,0.0,0.83,0.00,0.00,,15.1,0,0,0,0.4,0.4,0.10,-0.4,-0.4,Matches
+Simon Mignolet,be BEL,GK,Club Brugge,34,1988,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Lucas Mineiro,br BRA,MF,Westerlo,26,1996,5.6,0,5,2,40.0,0.89,0.36,0.00,0.00,20.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Koji Miyoshi,jp JPN,FW,Antwerp,25,1997,7.1,1,15,7,46.7,2.12,0.99,0.07,0.14,18.9,0,0,0,1.6,1.6,0.10,-0.6,-0.6,Matches
+Ryota Morioka,jp JPN,MF,Charleroi,31,1991,11.1,3,12,6,50.0,1.08,0.54,0.25,0.50,19.2,0,0,0,1.2,1.2,0.10,+1.8,+1.8,Matches
+Anthony Moris,lu LUX,GK,Union SG,32,1990,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Lennart Moser,de GER,GK,Eupen,22,1999,30.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Marius Mouandilmadji,td CHA,FW,R.F.C. Seraing,25,1997,21.5,11,39,10,25.6,1.81,0.47,0.15,0.60,14.9,0,5,5,8.5,4.6,0.12,+2.5,+1.4,Matches
+Kerim Mrabti,se SWE,"MF,FW",Mechelen,28,1994,9.4,1,9,2,22.2,0.96,0.21,0.11,0.50,21.1,0,0,0,0.8,0.8,0.09,+0.2,+0.2,Matches
+Arbnor Muja,al ALB,FW,Antwerp,23,1998,15.3,3,37,17,45.9,2.43,1.11,0.08,0.18,16.8,0,0,0,3.7,3.7,0.10,-0.7,-0.7,Matches
+Ngal'Ayel Mukau,,"MF,FW",Mechelen,17,2004,1.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Daniel Muñoz,co COL,DF,Genk,26,1996,29.0,7,32,17,53.1,1.10,0.59,0.22,0.41,12.3,0,0,0,4.0,4.0,0.12,+3.0,+3.0,Matches
+Andy Musayev,be BEL,"FW,MF",Oostende,19,2003,2.3,0,2,1,50.0,0.87,0.43,0.00,0.00,12.0,0,0,0,0.4,0.4,0.22,-0.4,-0.4,Matches
+Steve Mvoué,cm CMR,MF,R.F.C. Seraing,20,2002,12.8,1,13,2,15.4,1.02,0.16,0.08,0.50,24.3,0,0,0,0.5,0.5,0.04,+0.5,+0.5,Matches
+Moussa N'Diaye,sn SEN,DF,Anderlecht,20,2002,9.6,0,2,0,0.0,0.21,0.00,0.00,,21.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Ignace N'Dri,ci CIV,"FW,MF",Eupen,21,2000,23.3,7,70,23,32.9,3.01,0.99,0.10,0.30,16.9,0,0,0,6.2,6.2,0.09,+0.8,+0.8,Matches
+Stanley N'Soki,fr FRA,DF,Club Brugge,23,1999,1.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Radja Nainggolan,be BEL,MF,Antwerp,34,1988,7.4,1,22,4,18.2,2.97,0.54,0.05,0.25,22.2,4,0,0,1.3,1.3,0.06,-0.3,-0.3,Matches
+Paul Nardi,fr FRA,GK,Gent,28,1994,24.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Théo Ndicka,fr FRA,"DF,MF",Oostende,22,2000,13.6,2,19,8,42.1,1.39,0.59,0.11,0.25,19.5,0,0,0,1.4,1.4,0.07,+0.6,+0.6,Matches
+Alioune Ndour,sn SEN,"FW,DF",Zulte Waregem,24,1997,13.3,6,32,15,46.9,2.40,1.13,0.19,0.40,14.4,0,0,0,4.4,4.4,0.14,+1.6,+1.6,Matches
+
+András Németh,hu HUN,FW,Genk,19,2002,4.1,1,8,3,37.5,1.94,0.73,0.13,0.33,12.2,0,0,0,0.7,0.7,0.09,+0.3,+0.3,Matches
+Roman Neustädter,ru RUS,"DF,MF",Westerlo,34,1988,21.1,1,10,1,10.0,0.47,0.05,0.10,1.00,12.4,0,0,0,1.5,1.5,0.15,-0.5,-0.5,Matches
+Michael Ngadeu-Ngadjui,cm CMR,DF,Gent,31,1990,29.6,1,19,4,21.1,0.64,0.14,0.05,0.25,12.9,0,0,0,1.1,1.1,0.06,-0.1,-0.1,Matches
+Pierre-Yves Ngawa,be BEL,DF,OH Leuven,30,1992,0.2,0,1,0,0.0,4.29,0.00,0.00,,6.7,0,0,0,0.1,0.1,0.09,-0.1,-0.1,Matches
+Julien Ngoy,be BEL,FW,Mechelen,24,1997,17.2,5,23,8,34.8,1.34,0.46,0.17,0.50,14.6,0,1,1,4.9,4.2,0.18,+0.1,-0.2,Matches
+Nathan Ngoy,be BEL,DF,Standard Liège,19,2003,3.4,0,2,1,50.0,0.59,0.30,0.00,0.00,10.5,0,0,0,0.3,0.3,0.13,-0.3,-0.3,Matches
+Casper Nielsen,dk DEN,MF,Club Brugge,28,1994,26.8,7,53,16,30.2,1.98,0.60,0.13,0.44,21.9,4,0,1,5.7,4.8,0.09,+1.3,+2.2,Matches
+Bart Nieuwkoop,nl NED,DF,Union SG,26,1996,24.3,3,19,9,47.4,0.78,0.37,0.16,0.33,13.7,0,0,0,2.2,2.2,0.12,+0.8,+0.8,Matches
+Gustaf Nilsson,se SWE,FW,Union SG,25,1997,9.9,5,29,11,37.9,2.92,1.11,0.17,0.45,13.0,0,0,0,4.5,4.5,0.15,+0.5,+0.5,Matches
+Ken Nkuba,be BEL,DF,Charleroi,20,2002,23.2,4,33,12,36.4,1.42,0.52,0.12,0.33,17.8,0,0,0,3.1,3.1,0.09,+0.9,+0.9,Matches
+Casper de Norre,be BEL,MF,OH Leuven,25,1997,33.9,4,23,11,47.8,0.68,0.32,0.17,0.36,19.5,0,0,0,2.2,2.2,0.10,+1.8,+1.8,Matches
+Lucas Noubi,be BEL,DF,Standard Liège,17,2005,3.8,0,1,0,0.0,0.26,0.00,0.00,,28.5,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+Bruny Nsimba,be BEL,"FW,DF",Antwerp,22,2000,1.4,1,6,2,33.3,4.39,1.46,0.17,0.50,17.3,0,0,0,0.5,0.5,0.09,+0.5,+0.5,Matches
+Nachon Nsingi,be BEL,FW,OH Leuven,21,2001,12.7,5,33,18,54.5,2.59,1.41,0.15,0.28,15.7,0,0,0,3.8,3.8,0.12,+1.2,+1.2,Matches
+Isaac Nuhu,gh GHA,"FW,MF",Eupen,20,2002,11.9,2,26,8,30.8,2.18,0.67,0.08,0.25,17.7,2,0,0,2.9,2.9,0.11,-0.9,-0.9,Matches
+Manaf Nurudeen,gh GHA,GK,Eupen,23,1999,3.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Antonio Nusa,no NOR,FW,Club Brugge,17,2005,6.2,1,13,5,38.5,2.10,0.81,0.08,0.20,17.8,0,0,0,1.0,1.0,0.07,0.0,0.0,Matches
+Vadis Odjidja-Ofoe,be BEL,MF,Gent,33,1989,14.8,1,34,7,20.6,2.30,0.47,0.03,0.14,24.5,1,0,0,1.9,1.9,0.06,-0.9,-0.9,Matches
+Denis Odoi,gh GHA,"DF,MF",Club Brugge,34,1988,21.0,0,12,4,33.3,0.57,0.19,0.00,0.00,21.4,0,0,0,0.7,0.7,0.06,-0.7,-0.7,Matches
+Lorenzo Offermann,be BEL,FW,Eupen,20,2002,0.1,0,1,1,100.0,9.00,9.00,0.00,0.00,5.9,0,0,0,0.5,0.5,0.48,-0.5,-0.5,Matches
+Chinonso Offor,ng NGA,"FW,MF",Zulte Waregem,22,2000,5.2,2,13,6,46.2,2.50,1.15,0.15,0.33,14.7,0,0,0,1.5,1.5,0.12,+0.5,+0.5,Matches
+Noah Ohio,nl NED,FW,Standard Liège,19,2003,10.2,5,29,8,27.6,2.84,0.78,0.17,0.63,15.6,0,0,0,3.1,3.1,0.11,+1.9,+1.9,Matches
+Shinji Okazaki,jp JPN,"MF,FW",Sint-Truiden,36,1986,28.3,1,23,6,26.1,0.81,0.21,0.04,0.17,11.8,0,0,0,2.9,2.9,0.13,-1.9,-1.9,Matches
+Joseph Okumu,ke KEN,DF,Gent,25,1997,26.1,1,19,8,42.1,0.73,0.31,0.05,0.13,20.3,0,0,0,1.8,1.8,0.10,-0.8,-0.8,Matches
+Kristoffer Olsson,se SWE,MF,Anderlecht,27,1995,0.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+
+Paul Onuachu,ng NGA,FW,Genk,28,1994,13.1,16,37,16,43.2,2.82,1.22,0.32,0.75,12.7,0,4,4,10.7,7.3,0.20,+5.3,+4.7,Matches
+Raphael Onyedika,ng NGA,MF,Club Brugge,21,2001,21.8,0,19,4,21.1,0.87,0.18,0.00,0.00,22.7,0,0,0,1.5,1.5,0.08,-1.5,-1.5,Matches
+Daniel Opare,gh GHA,DF,R.F.C. Seraing,31,1990,18.4,0,3,0,0.0,0.16,0.00,0.00,,30.5,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Nathan Opoku,gh GHA,FW,OH Leuven,21,2001,3.7,3,8,4,50.0,2.17,1.08,0.38,0.75,13.3,0,0,0,1.7,1.7,0.21,+1.3,+1.3,Matches
+Gift Orban,ng NGA,FW,Gent,20,2002,8.7,9,33,20,60.6,3.78,2.29,0.27,0.45,17.4,1,0,0,4.6,4.6,0.14,+4.4,+4.4,Matches
+Manuel Osifo,be BEL,"MF,DF",Oostende,19,2003,2.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Owen Otasowie,us USA,DF,Club Brugge,21,2001,0.7,0,2,0,0.0,2.69,0.00,0.00,,9.0,0,0,0,0.2,0.2,0.10,-0.2,-0.2,Matches
+Aziz Ouattara,ci CIV,"MF,DF",Genk,21,2001,4.6,2,5,3,60.0,1.09,0.66,0.40,0.67,13.8,0,0,0,1.0,1.0,0.20,+1.0,+1.0,Matches
+Dylan Ouédraogo,bf BFA,DF,OH Leuven,24,1998,12.7,0,5,0,0.0,0.39,0.00,0.00,,17.3,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Samuel Oum Gouet,cm CMR,MF,Mechelen,24,1997,3.3,0,1,0,0.0,0.30,0.00,0.00,,31.5,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+Elisha Owusu,gh GHA,MF,Gent,24,1997,5.1,0,5,0,0.0,0.97,0.00,0.00,,27.7,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Luca Oyen,be BEL,"FW,MF",Genk,19,2003,0.6,0,2,2,100.0,3.53,3.53,0.00,0.00,17.0,0,0,0,0.2,0.2,0.10,-0.2,-0.2,Matches
+Valentine Ozornwafor,ng NGA,DF,Charleroi,23,1999,0.6,0,1,0,0.0,1.73,0.00,0.00,,9.3,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Willian Pacho,ec ECU,DF,Antwerp,20,2001,32.2,0,7,0,0.0,0.22,0.00,0.00,,11.8,0,0,0,1.4,1.4,0.20,-1.4,-1.4,Matches
+Rune Paeshuyse,be BEL,DF,Eupen,20,2002,24.1,0,2,1,50.0,0.08,0.04,0.00,0.00,19.1,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Joseph Paintsil,gh GHA,FW,Genk,24,1998,26.1,14,64,37,57.8,2.45,1.42,0.22,0.38,13.7,0,0,0,11.3,11.3,0.18,+2.7,+2.7,Matches
+Kevor Palumets,ee EST,MF,Zulte Waregem,19,2002,0.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Louis Patris,be BEL,DF,OH Leuven,21,2001,30.9,2,28,11,39.3,0.91,0.36,0.07,0.18,12.2,0,0,0,3.2,3.2,0.12,-1.2,-1.2,Matches
+Pierre Patron,fr FRA,GK,Charleroi,24,1997,6.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Damjan Pavlovic,rs SRB,DF,Standard Liège,21,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Stef Peeters,be BEL,MF,Eupen,30,1992,29.9,7,44,17,38.6,1.47,0.57,0.02,0.06,24.9,13,6,6,7.8,3.0,0.07,-0.8,-2.0,Matches
+Pietro Perdichizzi,be BEL,DF,Westerlo,29,1992,14.4,0,6,0,0.0,0.42,0.00,0.00,,16.7,0,0,0,0.5,0.5,0.08,-0.5,-0.5,Matches
+Stipe Perica,hr CRO,FW,Standard Liège,27,1995,11.5,4,30,15,50.0,2.61,1.30,0.13,0.27,10.5,0,0,0,7.7,7.7,0.26,-3.7,-3.7,Matches
+Jens Petter Hauge,no NOR,"DF,MF",Gent,22,1999,3.8,0,12,2,16.7,3.17,0.53,0.00,0.00,20.8,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Matches
+Thibault Peyre,fr FRA,DF,Mechelen,29,1992,13.5,2,6,2,33.3,0.44,0.15,0.33,1.00,8.6,0,0,0,0.8,0.8,0.13,+1.2,+1.2,Matches
+
+Dillon Phillips,eng ENG,GK,Oostende,27,1995,12.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Kamil Piątkowski,pl POL,DF,Gent,22,2000,8.8,0,11,3,27.3,1.25,0.34,0.00,0.00,18.7,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Ewoud Pletinckx,be BEL,DF,OH Leuven,21,2000,31.2,0,15,2,13.3,0.48,0.06,0.00,0.00,12.9,0,0,0,0.8,0.8,0.05,-0.8,-0.8,Matches
+Morgan Poaty,cg CGO,"DF,MF",R.F.C. Seraing,25,1997,23.2,3,14,8,57.1,0.60,0.35,0.21,0.38,18.5,0,0,0,1.2,1.2,0.08,+1.8,+1.8,Matches
+Boris Popović,rs SRB,DF,Cercle Brugge,22,2000,32.2,2,24,10,41.7,0.74,0.31,0.08,0.20,9.7,0,0,0,2.5,2.5,0.10,-0.5,-0.5,Matches
+Ángelo Preciado,ec ECU,"DF,FW",Genk,24,1998,11.2,0,11,1,9.1,0.98,0.09,0.00,0.00,17.6,0,0,0,1.9,1.9,0.17,-1.9,-1.9,Matches
+Smail Prevljak,ba BIH,FW,Eupen,27,1995,22.8,6,49,17,34.7,2.15,0.75,0.10,0.29,16.9,4,1,2,6.8,5.3,0.11,-0.8,-0.3,Matches
+Cameron Puertas,ch SUI,MF,Union SG,23,1998,9.0,4,25,9,36.0,2.76,1.00,0.16,0.44,20.4,1,0,0,2.3,2.3,0.09,+1.7,+1.7,Matches
+Aleksandar Radovanović,rs SRB,DF,Kortrijk,28,1993,9.7,0,5,1,20.0,0.51,0.10,0.00,0.00,11.2,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Toon Raemaekers,be BEL,"DF,MF",Mechelen,21,2000,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Benito Raman,be BEL,FW,Anderlecht,27,1994,9.0,5,22,10,45.5,2.44,1.11,0.23,0.50,14.1,0,0,0,3.1,3.1,0.14,+1.9,+1.9,Matches
+Dani Ramírez,es ESP,"FW,MF",Zulte Waregem,30,1992,4.4,0,8,1,12.5,1.81,0.23,0.00,0.00,23.7,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+Nicolas Raskin,be BEL,MF,Standard Liège,21,2001,15.2,1,11,4,36.4,0.73,0.26,0.09,0.25,20.0,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Christiaan Ravych,be BEL,DF,Cercle Brugge,20,2002,19.3,1,7,3,42.9,0.36,0.16,0.14,0.33,10.4,0,0,0,1.2,1.2,0.18,-0.2,-0.2,Matches
+Lior Refaelov,il ISR,"MF,FW",Anderlecht,36,1986,15.1,4,18,5,27.8,1.20,0.33,0.17,0.60,21.2,5,1,1,2.7,1.9,0.11,+1.3,+1.1,Matches
+Martin Regáli,sk SVK,FW,Kortrijk,28,1993,5.2,0,9,2,22.2,1.74,0.39,0.00,0.00,15.9,0,0,0,0.7,0.7,0.08,-0.7,-0.7,Matches
+Rocco Reitz,de GER,MF,Sint-Truiden,20,2002,9.0,1,13,5,38.5,1.45,0.56,0.08,0.20,16.5,0,0,0,1.5,1.5,0.11,-0.5,-0.5,Matches
+Bryan Reynolds,us USA,DF,Westerlo,21,2001,23.1,1,8,2,25.0,0.35,0.09,0.13,0.50,12.4,0,0,0,0.7,0.7,0.09,+0.3,+0.3,Matches
+Federico Ricca,uy URU,DF,OH Leuven,27,1994,28.0,1,10,3,30.0,0.36,0.11,0.10,0.33,11.2,0,0,0,1.0,1.0,0.10,0.0,0.0,Matches
+Mats Rits,be BEL,"MF,FW",Club Brugge,29,1993,7.9,2,11,4,36.4,1.38,0.50,0.18,0.50,16.8,1,0,0,1.2,1.2,0.11,+0.8,+0.8,Matches
+Milan Robberechts,be BEL,"DF,MF",Mechelen,18,2004,0.6,2,2,2,100.0,3.46,3.46,1.00,1.00,7.6,0,0,0,0.4,0.4,0.21,+1.6,+1.6,Matches
+Kenny Rocha Santos,cv CPV,MF,Oostende,22,2000,13.9,0,11,4,36.4,0.79,0.29,0.00,0.00,27.9,1,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches
+Matej Rodin,hr CRO,DF,Oostende,26,1996,16.0,1,10,3,30.0,0.62,0.19,0.10,0.33,12.3,0,0,0,1.6,1.6,0.17,-0.6,-0.6,Matches
+José Rodríguez,es ESP,MF,Union SG,27,1994,3.4,0,1,0,0.0,0.30,0.00,0.00,,29.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Davy Roef,be BEL,GK,Gent,28,1994,10.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+
+Nicolas Rommens,be BEL,MF,Zulte Waregem,27,1994,26.6,2,21,4,19.0,0.79,0.15,0.10,0.50,23.4,5,0,0,1.0,1.0,0.05,+1.0,+1.0,Matches
+Kyriani Sabbe,be BEL,"DF,MF",Club Brugge,17,2005,0.5,0,1,0,0.0,2.14,0.00,0.00,,19.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Mujaid Sadick,es ESP,DF,Genk,22,2000,5.6,0,1,0,0.0,0.18,0.00,0.00,,14.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Noah Sadiki,cd COD,"DF,MF",Anderlecht,17,2004,4.5,0,1,1,100.0,0.22,0.22,0.00,0.00,14.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Richie Sagrado,be BEL,DF,OH Leuven,18,2004,0.8,0,1,1,100.0,1.18,1.18,0.00,0.00,4.9,0,0,0,0.3,0.3,0.30,-0.3,-0.3,Matches
+Tatsuhiro Sakamoto,jp JPN,"MF,DF",Oostende,25,1996,29.1,0,25,7,28.0,0.86,0.24,0.00,0.00,18.9,0,0,0,1.6,1.6,0.06,-1.6,-1.6,Matches
+Ibrahim Salah,ma MAR,FW,Gent,20,2001,9.0,3,24,10,41.7,2.67,1.11,0.13,0.30,18.6,0,0,0,2.1,2.1,0.09,+0.9,+0.9,Matches
+Mo Salah,be BEL,FW,Union SG,18,2004,0.4,0,1,1,100.0,2.81,2.81,0.00,0.00,25.9,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches
+Mbwana Samatta,tz TAN,FW,Genk,29,1992,13.3,6,31,14,45.2,2.33,1.05,0.19,0.43,13.6,0,0,0,4.1,4.1,0.13,+1.9,+1.9,Matches
+Marsoni Sambu,ao ANG,"DF,MF",R.F.C. Seraing,26,1996,22.7,0,14,4,28.6,0.62,0.18,0.00,0.00,18.2,0,0,0,1.5,1.5,0.11,-1.5,-1.5,Matches
+Matisse Samoise,be BEL,"DF,MF",Gent,20,2001,21.8,2,19,6,31.6,0.87,0.28,0.11,0.33,18.3,0,0,0,1.4,1.4,0.07,+0.6,+0.6,Matches
+Aske Sampers,be BEL,"FW,MF",Cercle Brugge,21,2001,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Cisse Sandra,be BEL,"MF,FW",Club Brugge,18,2003,0.5,0,2,0,0.0,3.75,0.00,0.00,,25.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Mamadou Sangare,ml MLI,"FW,MF",Zulte Waregem,20,2002,4.3,1,11,3,27.3,2.58,0.70,0.09,0.33,13.4,0,0,0,1.2,1.2,0.10,-0.2,-0.2,Matches
+Killian Sardella,be BEL,DF,Anderlecht,20,2002,12.5,0,5,2,40.0,0.40,0.16,0.00,0.00,23.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Joël Schingtienne,be BEL,MF,OH Leuven,19,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Daniel Schmidt,jp JPN,GK,Sint-Truiden,30,1992,30.9,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rob Schoofs,be BEL,MF,Mechelen,28,1994,25.2,7,56,24,42.9,2.22,0.95,0.13,0.29,19.8,0,0,0,4.1,4.1,0.07,+2.9,+2.9,Matches
+Siebe Schrijvers,be BEL,"MF,FW",OH Leuven,26,1996,12.2,2,28,7,25.0,2.30,0.57,0.07,0.29,23.1,6,0,0,1.3,1.3,0.05,+0.7,+0.7,Matches
+Christopher Scott,de GER,"FW,MF",Antwerp,20,2002,3.1,1,5,3,60.0,1.61,0.97,0.20,0.33,17.4,0,0,0,0.8,0.8,0.16,+0.2,+0.2,Matches
+Rubin Seigers,be BEL,DF,Westerlo,24,1998,18.4,0,5,1,20.0,0.27,0.05,0.00,0.00,9.8,0,0,0,0.7,0.7,0.13,-0.7,-0.7,Matches
+Faïz Selemani,km COM,"MF,FW",Kortrijk,28,1993,22.8,8,55,22,40.0,2.41,0.96,0.13,0.32,22.3,9,1,1,5.8,5.0,0.09,+2.2,+2.0,Matches
+Noah Serwy,be BEL,"MF,FW",R.F.C. Seraing,19,2003,0.1,0,1,1,100.0,8.18,8.18,0.00,0.00,25.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Eden Shamir,il ISR,"DF,MF",Standard Liège,27,1995,1.0,0,2,1,50.0,2.07,1.03,0.00,0.00,11.4,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches
+Maryan Shved,ua UKR,"MF,FW",Mechelen,25,1997,2.4,0,9,3,33.3,3.79,1.26,0.00,0.00,22.5,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Matches
+
+Fábio Silva,pt POR,FW,Anderlecht,20,2002,16.9,7,47,20,42.6,2.78,1.18,0.13,0.30,13.5,0,1,1,6.6,5.8,0.13,+0.4,+0.2,Matches
+João Silva,pt POR,DF,Kortrijk,23,1999,17.4,2,8,2,25.0,0.46,0.11,0.25,1.00,8.5,0,0,0,1.4,1.4,0.17,+0.6,+0.6,Matches
+Leonardo da Silva Lopes,pt POR,MF,Cercle Brugge,23,1998,21.9,0,13,2,15.4,0.59,0.09,0.00,0.00,17.4,0,0,0,1.7,1.7,0.13,-1.7,-1.7,Matches
+Hugo Siquet,be BEL,"DF,MF",Cercle Brugge,20,2002,12.0,2,16,7,43.8,1.34,0.58,0.13,0.29,21.6,6,0,0,1.0,1.0,0.06,+1.0,+1.0,Matches
+Abdoulaye Sissako,fr FRA,MF,Zulte Waregem,24,1998,26.2,1,17,3,17.6,0.65,0.11,0.06,0.33,17.9,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Matches
+Sambou Sissoko,ml MLI,MF,Kortrijk,22,2000,2.9,0,1,0,0.0,0.35,0.00,0.00,,29.1,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Sambou Sissoko,fr FRA,"MF,DF",R.F.C. Seraing,23,1999,25.9,1,28,5,17.9,1.08,0.19,0.04,0.20,24.6,1,0,0,2.0,2.0,0.07,-1.0,-1.0,Matches
+Andreas Skov Olsen,dk DEN,"FW,DF",Club Brugge,22,1999,15.5,7,52,20,38.5,3.36,1.29,0.13,0.35,19.2,4,0,0,4.3,4.3,0.08,+2.7,+2.7,Matches
+Islam Slimani,dz ALG,FW,Anderlecht,34,1988,7.0,8,29,14,48.3,4.14,2.00,0.21,0.43,13.1,0,2,2,6.6,5.1,0.18,+1.4,+0.9,Matches
+Matte Smets,be BEL,DF,Sint-Truiden,18,2004,11.9,0,4,2,50.0,0.34,0.17,0.00,0.00,21.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Milan Smits,be BEL,MF,Antwerp,17,2004,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Eduard Sobol,ua UKR,DF,Club Brugge,27,1995,5.1,1,7,3,42.9,1.38,0.59,0.14,0.33,22.9,1,0,0,0.3,0.3,0.04,+0.7,+0.7,Matches
+Frederic Soelle Soelle,be BEL,FW,Mechelen,16,2005,2.1,0,5,0,0.0,2.41,0.00,0.00,,15.4,0,0,0,0.5,0.5,0.10,-0.5,-0.5,Matches
+Noah Solheid,be BEL,DF,R.F.C. Seraing,19,2003,2.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Thibo Somers,be BEL,"DF,FW",Cercle Brugge,23,1999,29.1,5,45,16,35.6,1.55,0.55,0.11,0.31,13.0,0,0,0,5.5,5.5,0.12,-0.5,-0.5,Matches
+Yira Sor,ng NGA,"FW,MF",Genk,22,2000,3.9,2,11,4,36.4,2.84,1.03,0.18,0.50,15.2,0,0,0,1.7,1.7,0.16,+0.3,+0.3,Matches
+Sambou Soumano,sn SEN,FW,Eupen,21,2001,2.0,1,6,2,33.3,2.93,0.98,0.17,0.50,13.1,0,0,0,0.9,0.9,0.15,+0.1,+0.1,Matches
+Kamal Sowah,gh GHA,"FW,MF",Club Brugge,22,2000,14.3,0,18,5,27.8,1.26,0.35,0.00,0.00,21.2,0,0,0,1.4,1.4,0.08,-1.4,-1.4,Matches
+Elias Spago,be BEL,DF,R.F.C. Seraing,20,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jorne Spileers,be BEL,DF,Club Brugge,17,2005,8.0,0,5,3,60.0,0.62,0.37,0.00,0.00,7.1,0,0,0,0.5,0.5,0.11,-0.5,-0.5,Matches
+Lucas Stassin,be BEL,FW,Anderlecht,17,2004,1.2,0,2,1,50.0,1.64,0.82,0.00,0.00,11.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Calvin Stengs,nl NED,"MF,FW",Antwerp,23,1998,18.6,1,30,8,26.7,1.61,0.43,0.03,0.13,16.5,0,0,0,2.6,2.6,0.09,-1.6,-1.6,Matches
+Nikola Storm,be BEL,"FW,MF",Mechelen,27,1994,28.4,4,75,38,50.7,2.64,1.34,0.05,0.11,17.1,0,0,0,5.7,5.7,0.08,-1.7,-1.7,Matches
+Mario Stroeykens,be BEL,"FW,MF",Anderlecht,17,2004,12.8,4,31,10,32.3,2.42,0.78,0.13,0.40,16.2,0,0,0,3.1,3.1,0.10,+0.9,+0.9,Matches
+Nikola Štulić,rs SRB,FW,Charleroi,20,2001,3.5,0,8,2,25.0,2.30,0.58,0.00,0.00,9.3,0,0,0,1.0,1.0,0.13,-1.0,-1.0,Matches
+
+Iebe Swers,be BEL,DF,Mechelen,25,1996,1.5,0,1,1,100.0,0.65,0.65,0.00,0.00,21.1,0,0,0,0.1,0.1,0.13,-0.1,-0.1,Matches
+Oleksii Sych,ua UKR,DF,Kortrijk,21,2001,13.4,1,9,2,22.2,0.67,0.15,0.11,0.50,19.4,0,0,0,0.6,0.6,0.07,+0.4,+0.4,Matches
+Ross Sykes,eng ENG,DF,Union SG,23,1999,12.1,2,11,5,45.5,0.91,0.41,0.18,0.40,9.3,0,0,0,1.4,1.4,0.13,+0.6,+0.6,Matches
+Abakar Sylla,ci CIV,DF,Club Brugge,19,2002,14.2,0,9,2,22.2,0.63,0.14,0.00,0.00,12.7,0,0,0,0.7,0.7,0.08,-0.7,-0.7,Matches
+Abdoulaye Sylla,gn GUI,DF,R.F.C. Seraing,22,2000,18.2,0,3,0,0.0,0.16,0.00,0.00,,15.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Youssuf Sylla,be BEL,DF,Zulte Waregem,19,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Bent Sørmo,no NOR,DF,Zulte Waregem,25,1996,4.6,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Musa Al-Taamari,jo JOR,"MF,FW",OH Leuven,25,1997,30.8,6,80,30,37.5,2.60,0.98,0.08,0.20,18.8,4,0,0,8.3,8.3,0.10,-2.3,-2.3,Matches
+Ravil Tagir,tr TUR,DF,Westerlo,19,2003,21.7,0,4,0,0.0,0.18,0.00,0.00,,6.2,0,0,0,0.4,0.4,0.10,-0.4,-0.4,Matches
+Chemsdine Talbi,be BEL,"FW,DF",Club Brugge,17,2005,0.5,0,1,0,0.0,2.14,0.00,0.00,,22.1,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Modou Tambedou,sn SEN,"DF,MF",Zulte Waregem,19,2003,15.7,1,8,2,25.0,0.51,0.13,0.13,0.50,9.9,0,0,0,1.1,1.1,0.14,-0.1,-0.1,Matches
+Satoshi Tanaka,jp JPN,MF,Kortrijk,19,2002,10.4,0,3,0,0.0,0.29,0.00,0.00,,25.4,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches
+Anton Tanghe,be BEL,DF,Oostende,23,1999,27.5,0,6,1,16.7,0.22,0.04,0.00,0.00,9.1,0,0,0,0.7,0.7,0.12,-0.7,-0.7,Matches
+Abdoul-Fessal Tapsoba,bf BFA,FW,Standard Liège,20,2001,0.9,1,4,2,50.0,4.68,2.34,0.25,0.50,7.4,0,0,0,1.0,1.0,0.24,0.0,0.0,Matches
+Jackson Tchatchoua,cm CMR,"DF,MF",Charleroi,20,2001,17.3,1,21,6,28.6,1.22,0.35,0.05,0.17,17.6,0,0,0,2.0,2.0,0.10,-1.0,-1.0,Matches
+Jorge Teixeira,pt POR,DF,Sint-Truiden,35,1986,10.2,1,2,1,50.0,0.20,0.10,0.50,1.00,11.9,0,0,0,0.2,0.2,0.10,+0.8,+0.8,Matches
+Casper Terho,fi FIN,"DF,FW",Union SG,19,2003,1.3,2,3,2,66.7,2.31,1.54,0.67,1.00,13.0,0,0,0,0.4,0.4,0.14,+1.6,+1.6,Matches
+Teddy Teuma,mt MLT,MF,Union SG,28,1993,29.5,9,57,20,35.1,1.93,0.68,0.05,0.15,25.7,15,6,6,8.0,3.3,0.06,+1.0,-0.3,Matches
+Cheik Thiam,gn GUI,DF,Zulte Waregem,18,2003,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jean Thierry Lazare,ci CIV,MF,Union SG,24,1998,23.8,2,32,13,40.6,1.35,0.55,0.06,0.15,20.8,0,0,0,2.9,2.9,0.09,-0.9,-0.9,Matches
+Yannick Thoelen,be BEL,GK,Mechelen,32,1990,5.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Tarik Tissoudali,ma MAR,"FW,MF",Gent,29,1993,2.7,1,15,5,33.3,5.56,1.85,0.07,0.20,14.4,0,0,0,3.0,3.0,0.20,-2.0,-2.0,Matches
+Emmanuel Toku,gh GHA,"FW,DF",OH Leuven,22,2000,0.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Louis Torres,fr FRA,DF,Cercle Brugge,21,2001,6.9,1,4,1,25.0,0.58,0.15,0.25,1.00,15.4,0,0,0,0.6,0.6,0.16,+0.4,+0.4,Matches
+Jordan Torunarigha,de GER,DF,Gent,24,1997,24.1,3,14,4,28.6,0.58,0.17,0.14,0.50,18.3,0,1,1,1.4,0.6,0.05,+1.6,+1.4,Matches
+
+Mai Traore,gn GUI,FW,OH Leuven,22,1999,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Adrien Trebel,fr FRA,MF,Anderlecht,31,1991,6.4,0,6,0,0.0,0.94,0.00,0.00,,22.8,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Sandro Tremoulet,mg MAD,DF,R.F.C. Seraing,22,1999,11.9,0,4,0,0.0,0.34,0.00,0.00,,9.3,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Mike Trésor,be BEL,"FW,MF",Genk,23,1999,31.9,8,56,19,33.9,1.76,0.60,0.14,0.42,18.7,11,0,1,6.2,5.4,0.10,+1.8,+2.6,Matches
+Marvin Tshibuabua,fr FRA,DF,R.F.C. Seraing,20,2002,16.5,0,4,2,50.0,0.24,0.12,0.00,0.00,22.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Ravy Tsouka,cg CGO,"DF,MF",Zulte Waregem,27,1994,7.0,0,1,1,100.0,0.14,0.14,0.00,0.00,9.3,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches
+Ayase Ueda,jp JPN,"FW,MF",Cercle Brugge,23,1998,30.2,18,86,34,39.5,2.84,1.12,0.19,0.47,15.1,1,2,3,13.5,11.1,0.13,+4.5,+4.9,Matches
+Osaze Urhoghide,nl NED,DF,Oostende,22,2000,23.5,0,8,1,12.5,0.34,0.04,0.00,0.00,12.6,0,0,0,0.9,0.9,0.11,-0.9,-0.9,Matches
+Edgaras Utkus,lt LTU,"DF,MF",Cercle Brugge,22,2000,1.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Kyan Vaesen,be BEL,"FW,MF",Westerlo,21,2001,15.0,6,35,15,42.9,2.33,1.00,0.17,0.40,14.9,2,0,0,5.3,5.3,0.15,+0.7,+0.7,Matches
+Anthony Valencia,ec ECU,FW,Antwerp,19,2003,2.7,1,3,2,66.7,1.12,0.75,0.33,0.50,12.2,0,0,0,0.4,0.4,0.14,+0.6,+0.6,Matches
+Jules Van Cleemput,be BEL,DF,Charleroi,25,1997,4.9,0,3,0,0.0,0.61,0.00,0.00,,16.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Hendrik Van Crombrugge,be BEL,GK,Anderlecht,29,1993,17.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Cederick Van Daele,be BEL,DF,Gent,21,2000,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rune Van Den Bergh,be BEL,MF,Gent,19,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Zeno Van den Bosch,be BEL,DF,Antwerp,19,2003,3.0,0,2,0,0.0,0.66,0.00,0.00,,6.4,0,0,0,0.2,0.2,0.12,-0.2,-0.2,Matches
+Thomas Van den Keybus,be BEL,"MF,FW",Westerlo,21,2001,17.8,2,25,6,24.0,1.41,0.34,0.08,0.33,19.3,0,0,0,1.9,1.9,0.08,+0.1,+0.1,Matches
+Hannes Van der Bruggen,be BEL,MF,Cercle Brugge,29,1993,9.3,0,13,2,15.4,1.40,0.22,0.00,0.00,21.9,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Matches
+Siebe Van Der Heyden,be BEL,DF,Union SG,24,1998,26.1,1,8,2,25.0,0.31,0.08,0.13,0.50,9.7,0,0,0,1.0,1.0,0.12,0.0,0.0,Matches
+Stan Van Dessel,be BEL,"DF,MF",Sint-Truiden,21,2001,4.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Lukas Van Eenoo,be BEL,MF,Westerlo,31,1991,19.4,2,22,4,18.2,1.13,0.21,0.09,0.50,23.1,1,0,0,0.9,0.9,0.04,+1.1,+1.1,Matches
+Yentl Van Genechten,be BEL,DF,Eupen,21,2000,26.3,0,10,3,30.0,0.38,0.11,0.00,0.00,15.8,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Jannes Van Hecke,be BEL,"DF,MF",Mechelen,20,2002,17.5,0,11,2,18.2,0.63,0.11,0.00,0.00,22.7,0,0,0,0.6,0.6,0.05,-0.6,-0.6,Matches
+Alec Van Hoorenbeeck,be BEL,DF,Mechelen,23,1998,20.4,0,3,0,0.0,0.15,0.00,0.00,,23.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Hans Vanaken,be BEL,MF,Club Brugge,29,1992,33.7,10,58,21,36.2,1.72,0.62,0.14,0.38,13.9,3,2,3,10.3,8.0,0.14,-0.3,0.0,Matches
+
+Tom Vandenberghe,be BEL,GK,Kortrijk,29,1992,17.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Kévin Vandendriessche,fr FRA,MF,Kortrijk,32,1989,6.0,0,3,0,0.0,0.50,0.00,0.00,,15.0,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches
+Gerard Vandeplas,be BEL,FW,Antwerp,16,2006,0.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Maarten Vandevoordt,be BEL,GK,Genk,20,2002,34.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Charles Vanhoutte,be BEL,MF,Cercle Brugge,23,1998,19.3,1,15,4,26.7,0.78,0.21,0.07,0.25,24.8,0,0,0,0.6,0.6,0.04,+0.4,+0.4,Matches
+Jordi Vanlerberghe,be BEL,"DF,MF",Mechelen,26,1996,16.7,2,16,3,18.8,0.96,0.18,0.06,0.33,24.6,1,1,2,2.2,0.7,0.04,-0.2,+0.3,Matches
+Dante Vanzeir,be BEL,FW,Union SG,24,1998,17.9,10,50,22,44.0,2.79,1.23,0.20,0.45,13.9,0,0,0,7.6,7.6,0.15,+2.4,+2.4,Matches
+Dimitar Velkovski,bg BUL,DF,Cercle Brugge,27,1995,1.5,0,3,0,0.0,2.01,0.00,0.00,,25.4,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Bart Verbruggen,nl NED,GK,Anderlecht,19,2002,17.0,0,1,1,100.0,0.06,0.06,0.00,0.00,10.4,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+Romeo Vermant,be BEL,"FW,MF",Club Brugge,18,2004,1.0,0,4,2,50.0,4.14,2.07,0.00,0.00,12.4,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Matches
+Arthur Vermeeren,be BEL,MF,Antwerp,17,2005,18.1,0,13,0,0.0,0.72,0.00,0.00,,21.2,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Matches
+Yari Verschaeren,be BEL,"MF,FW",Anderlecht,21,2001,25.0,2,39,13,33.3,1.56,0.52,0.05,0.15,17.8,2,0,0,3.4,3.4,0.09,-2.4,-2.4,Matches
+Birger Verstraete,be BEL,MF,Mechelen,28,1994,18.8,2,16,9,56.3,0.85,0.48,0.13,0.22,23.4,1,0,0,0.8,0.8,0.05,+1.2,+1.2,Matches
+Birger Verstraete,be BEL,MF,Antwerp,28,1994,0.3,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Yorbe Vertessen,be BEL,FW,Union SG,21,2001,4.7,3,13,10,76.9,2.77,2.13,0.23,0.30,16.9,0,0,0,1.2,1.2,0.09,+1.8,+1.8,Matches
+Jan Vertonghen,be BEL,DF,Anderlecht,35,1987,23.4,1,19,6,31.6,0.81,0.26,0.05,0.17,14.9,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Matches
+Igor Vetokele,ao ANG,"FW,MF",Westerlo,30,1992,10.2,5,22,13,59.1,2.16,1.27,0.23,0.38,12.5,0,0,0,4.1,4.1,0.19,+0.9,+0.9,Matches
+Lasse Vigen Christensen,dk DEN,MF,Zulte Waregem,27,1994,5.8,0,3,2,66.7,0.51,0.34,0.00,0.00,12.3,0,0,0,0.5,0.5,0.17,-0.5,-0.5,Matches
+Sam Vines,us USA,DF,Antwerp,23,1999,14.0,1,4,1,25.0,0.29,0.07,0.25,1.00,16.8,0,0,0,0.3,0.3,0.07,+0.7,+0.7,Matches
+Thibault Vlietinck,be BEL,"FW,MF",OH Leuven,24,1997,3.4,0,4,1,25.0,1.17,0.29,0.00,0.00,19.8,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Ruud Vormer,nl NED,MF,Zulte Waregem,34,1988,8.1,1,7,3,42.9,0.87,0.37,0.14,0.33,21.7,0,0,0,0.9,0.9,0.13,+0.1,+0.1,Matches
+Ruud Vormer,nl NED,MF,Club Brugge,34,1988,0.7,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jelle Vossen,be BEL,"FW,MF",Zulte Waregem,33,1989,25.9,9,57,17,29.8,2.20,0.66,0.11,0.35,14.4,0,3,3,8.8,6.5,0.11,+0.2,-0.5,Matches
+Wakaso,gh GHA,MF,Eupen,32,1990,5.8,0,7,0,0.0,1.20,0.00,0.00,,30.7,1,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+Sandy Walsh,id IDN,DF,Mechelen,27,1995,24.2,2,17,7,41.2,0.70,0.29,0.12,0.29,11.9,0,0,0,2.1,2.1,0.12,-0.1,-0.1,Matches
+
+Warleson,br BRA,GK,Cercle Brugge,25,1996,6.5,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Martin Wasinski,be BEL,DF,Charleroi,18,2004,4.2,0,1,0,0.0,0.24,0.00,0.00,,29.9,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Martin Wasinski,be BEL,"DF,MF",Kortrijk,18,2004,11.9,1,5,3,60.0,0.42,0.25,0.20,0.33,26.0,0,0,0,0.2,0.2,0.03,+0.8,+0.8,Matches
+Tsuyoshi Watanabe,jp JPN,DF,Kortrijk,25,1997,34.0,1,22,12,54.5,0.65,0.35,0.05,0.08,8.8,0,0,0,3.1,3.1,0.14,-2.1,-2.1,Matches
+Teun Wilke,mx MEX,"FW,MF",Cercle Brugge,20,2002,0.1,0,1,0,0.0,6.92,0.00,0.00,,6.8,0,0,0,0.1,0.1,0.12,-0.1,-0.1,Matches
+Lukas Willen,be BEL,DF,Zulte Waregem,19,2003,15.8,1,5,3,60.0,0.32,0.19,0.20,0.33,11.3,0,0,0,0.4,0.4,0.07,+0.6,+0.6,Matches
+Dries Wouters,be BEL,DF,Mechelen,25,1997,11.4,1,4,1,25.0,0.35,0.09,0.25,1.00,13.6,0,0,0,0.3,0.3,0.08,+0.7,+0.7,Matches
+Siebe Wylin,be BEL,"MF,DF",Oostende,19,2003,3.4,0,1,0,0.0,0.29,0.00,0.00,,16.5,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches
+Tarick Ximines,jm JAM,FW,Cercle Brugge,17,2004,0.2,0,2,1,50.0,11.25,5.63,0.00,0.00,15.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches
+Roman Yaremchuk,ua UKR,FW,Club Brugge,26,1995,9.8,2,24,12,50.0,2.46,1.23,0.08,0.17,13.3,0,0,0,3.4,3.4,0.14,-1.4,-1.4,Matches
+Alhassan Yusuf,ng NGA,MF,Antwerp,22,2000,17.4,0,9,2,22.2,0.52,0.12,0.00,0.00,23.9,0,0,0,0.6,0.6,0.07,-0.6,-0.6,Matches
+Anass Zaroury,ma MAR,FW,Charleroi,21,2000,2.6,2,4,4,100.0,1.54,1.54,0.50,0.50,18.6,0,0,0,0.6,0.6,0.16,+1.4,+1.4,Matches
+Ilyes Ziani,ma MAR,FW,Union SG,19,2003,1.3,0,3,1,33.3,2.31,0.77,0.00,0.00,17.5,0,0,0,0.4,0.4,0.13,-0.4,-0.4,Matches
+Philip Zinckernagel,dk DEN,"FW,MF",Standard Liège,27,1994,21.9,9,55,18,32.7,2.51,0.82,0.11,0.33,20.2,4,3,3,7.3,5.0,0.09,+0.7,0.0,Matches
+Adem Zorgane,dz ALG,MF,Charleroi,22,2000,30.8,4,29,8,27.6,0.94,0.26,0.14,0.50,18.4,1,0,1,3.4,2.6,0.09,+0.6,+1.4,Matches

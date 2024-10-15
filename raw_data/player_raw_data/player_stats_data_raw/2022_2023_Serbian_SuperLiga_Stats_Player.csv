@@ -1,0 +1,594 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,npxG + xAG/90,Matches
+
+
+Sadick Abubakar,gh GHA,DF,Radnik Surdulica,24,1998,19,18,"1,525",16.9,1,0,1,1,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches
+Miloš Adamović,rs SRB,"DF,MF",Javor Ivanjica,34,1988,17,16,"1,464",16.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nenad Adamović,rs SRB,MF,Mladost Lučani,33,1989,11,4,471,5.2,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches
+Edmund Addo,gh GHA,MF,Spartak Subotic,22,2000,16,14,"1,294",14.4,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches
+Adetunji Adeshina,ng NGA,MF,Novi Pazar,17,2004,4,2,183,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Adžić,rs SRB,MF,Čukarički,23,1998,22,10,960,10.7,2,0,2,1,1,1,6,0,0.19,0.00,0.19,0.09,0.09,Matches
+Almir Aganspahić,ba BIH,FW,Čukarički,25,1996,11,2,274,3.0,1,0,1,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches
+Ognjen Ajdar,rs SRB,FW,Radnički Niš,19,2003,19,0,336,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Edin Ajdinović,rs SRB,MF,Voždovac,21,2001,28,18,"1,535",17.1,1,3,4,1,0,0,3,0,0.06,0.18,0.23,0.06,0.23,Matches
+Nikola Aksentijević,rs SRB,DF,Radnički Niš,29,1993,13,12,"1,110",12.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Semir Alić,rs SRB,DF,Novi Pazar,18,2004,12,3,537,6.0,0,1,1,0,0,0,3,0,0.00,0.17,0.17,0.00,0.17,Matches
+Patrick Andrade,cv CPV,MF,Partizan,29,1993,16,11,929,10.3,0,1,1,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches
+Nemanja Andrić,rs SRB,MF,FK Kolubara,35,1987,9,0,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Andrić,rs SRB,DF,Radnički Niš,30,1992,7,6,458,5.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Goran Antonić,rs SRB,DF,TSC Bačka Top,31,1990,27,23,"2,052",22.8,2,1,3,2,0,0,4,1,0.09,0.04,0.13,0.09,0.13,Matches
+Filip Antonijević,rs SRB,DF,Vojvodina,22,2000,9,7,640,7.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Arsić,rs SRB,MF,Radnički Niš,30,1991,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Arsić,rs SRB,MF,FK Mladost Novi Sad,30,1991,20,8,970,10.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Irakli Azarov,ge GEO,DF,Red Star,20,2002,20,10,"1,043",11.6,0,1,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches
+Emir Azemović,me MNE,DF,FK Kolubara,25,1997,6,6,540,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Babić,rs SRB,DF,Mladost Lučani,27,1995,14,12,996,11.1,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches
+Ilija Babić,rs SRB,FW,FK Mladost Novi Sad,19,2002,28,15,"1,465",16.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Siniša Babić,rs SRB,FW,Radnik Surdulica,31,1991,14,11,927,10.3,0,1,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches
+Đorđe Babić,rs SRB,FW,Mladost Lučani,21,2000,3,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Muhammed Badamosi,gm GAM,FW,Čukarički,23,1998,36,33,"2,784",30.9,11,4,15,11,0,0,4,0,0.36,0.13,0.48,0.36,0.48,Matches
+
+Dražen Bagarić,hr CRO,FW,FK Kolubara,29,1992,16,6,640,7.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasilije Bakić,rs SRB,DF,FK Kolubara,22,2000,29,28,"2,460",27.3,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Mihajlo Banjac,rs SRB,MF,TSC Bačka Top,22,1999,1,1,84,0.9,1,1,2,1,0,0,1,0,1.07,1.07,2.14,1.07,2.14,Matches
+Yves Baraye,sn SEN,"FW,MF",Vojvodina,30,1992,34,17,"1,554",17.3,5,1,6,5,0,0,3,0,0.29,0.06,0.35,0.29,0.35,Matches
+Nebojša Bastajić,rs SRB,MF,Vojvodina,31,1990,3,1,112,1.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nebojša Bastajić,rs SRB,MF,Napredak Kruš,31,1990,31,28,"2,420",26.9,5,1,6,4,1,1,2,1,0.19,0.04,0.22,0.15,0.19,Matches
+Nikolas Baxevanos,gr GRE,DF,Spartak Subotic,23,1999,6,4,414,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Samed Baždar,rs SRB,FW,Partizan,18,2004,27,5,869,9.7,4,2,6,4,0,0,5,0,0.41,0.21,0.62,0.41,0.62,Matches
+Nemanja Belaković,rs SRB,MF,Radnički Niš,25,1997,16,13,"1,027",11.4,2,0,2,2,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches
+Kristijan Belic,rs SRB,MF,Partizan,21,2001,22,19,"1,540",17.1,1,1,2,1,0,0,11,0,0.06,0.06,0.12,0.06,0.12,Matches
+Nemanja Belić,rs SRB,GK,Čukarički,35,1987,19,19,"1,704",18.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Bijelovic,rs SRB,FW,Spartak Subotic,21,2001,31,29,"2,357",26.2,8,2,10,6,2,2,4,0,0.31,0.08,0.38,0.23,0.31,Matches
+Marko Bjeković,rs SRB,DF,Vojvodina,21,2000,19,14,"1,317",14.6,0,3,3,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21,Matches
+Miroslav Bjeloš,rs SRB,MF,FK Mladost Novi Sad,31,1990,11,5,466,5.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vuk Bogdanović,rs SRB,DF,Red Star,20,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vuk Bogdanović,rs SRB,DF,Vojvodina,20,2002,2,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vukašin Bogdanović,rs SRB,FW,Radnik Surdulica,19,2002,20,12,883,9.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Bogdanovski,mk MKD,MF,Novi Pazar,23,1999,28,14,"1,424",15.8,2,1,3,2,0,0,3,0,0.13,0.06,0.19,0.13,0.19,Matches
+Nikola Bogdanovski,mk MKD,MF,Radnik Surdulica,23,1999,4,2,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mihailo Bogicevic,ch SUI,DF,Spartak Subotic,24,1998,20,16,"1,545",17.2,0,1,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches
+Milan Bojović,rs SRB,FW,Mladost Lučani,35,1987,19,19,"1,697",18.9,11,3,14,6,5,5,3,0,0.58,0.16,0.74,0.32,0.48,Matches
+Klemen Bolha,si SVN,MF,Napredak Kruš,29,1993,24,17,"1,524",16.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Taras Bondarenko,ua UKR,GK,Radnik Surdulica,29,1992,17,17,"1,485",16.5,2,0,2,2,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches
+Milan Borjan,ca CAN,GK,Red Star,34,1987,33,33,"2,970",33.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radivoj Bosić,rs SRB,FW,Spartak Subotic,21,2000,7,2,215,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Radivoj Bosić,rs SRB,FW,Javor Ivanjica,21,2000,15,7,629,7.0,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches
+Miloš Brnović,me MNE,FW,Radnički Kragujevac,22,2000,12,1,251,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Hamza Bronja,rs SRB,FW,Novi Pazar,17,2004,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ensar Brunčević,rs SRB,DF,Novi Pazar,23,1999,4,0,18,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Bugarin,me MNE,MF,Spartak Subotic,22,1999,12,9,815,9.1,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches
+Osman Bukari,gh GHA,"FW,MF",Red Star,23,1998,29,25,"1,961",21.8,12,3,15,12,0,0,3,0,0.55,0.14,0.69,0.55,0.69,Matches
+Dženan Bureković,ba BIH,MF,Spartak Subotic,27,1995,3,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Borisav Burmaz,rs SRB,FW,Voždovac,21,2001,31,24,"1,977",22.0,6,2,8,5,1,1,3,1,0.27,0.09,0.36,0.23,0.32,Matches
+Aleksandar Busnić,rs SRB,MF,Vojvodina,24,1997,22,10,952,10.6,2,2,4,2,0,0,4,0,0.19,0.19,0.38,0.19,0.38,Matches
+Josip Čalušić,hr CRO,DF,TSC Bačka Top,28,1993,31,29,"2,550",28.3,2,1,3,2,0,0,6,1,0.07,0.04,0.11,0.07,0.11,Matches
+Norman Campbell,jm JAM,FW,Javor Ivanjica,22,1999,35,29,"2,427",27.0,7,4,11,7,0,0,7,0,0.26,0.15,0.41,0.26,0.41,Matches
+Lazar Carević,me MNE,GK,Vojvodina,23,1999,35,35,"3,114",34.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bojan Čečarić,rs SRB,FW,Napredak Kruš,28,1993,32,17,"1,664",18.5,2,1,3,2,0,0,4,0,0.11,0.05,0.16,0.11,0.16,Matches
+Sanele Chauke,rs SRB,FW,FK Kolubara,,,8,2,281,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Geoffrey Chinedu,ng NGA,FW,Radnički Kragujevac,24,1997,10,6,549,6.1,2,0,2,2,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches
+Aleksandar Ćirković,rs SRB,MF,Voždovac,20,2001,5,5,378,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Ćirković,rs SRB,FW,Mladost Lučani,30,1991,32,32,"2,864",31.8,0,2,2,0,0,0,7,0,0.00,0.06,0.06,0.00,0.06,Matches
+Leandro Climaco Pinto,br BRA,"DF,MF",Radnik Surdulica,28,1994,6,5,368,4.1,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Colic,rs SRB,MF,TSC Bačka Top,19,2002,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrés Colorado,co COL,MF,Partizan,23,1998,14,12,948,10.5,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches
+Stefan Čolović,rs SRB,DF,Čukarički,28,1994,2,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Čolović,rs SRB,DF,Radnički Kragujevac,28,1994,24,22,"1,966",21.8,2,4,6,2,0,0,1,0,0.09,0.18,0.27,0.09,0.27,Matches
+Ivan Ćorković,rs SRB,DF,FK Kolubara,21,2001,13,4,458,5.1,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Mehmed Ćosić,ba BIH,MF,FK Kolubara,25,1997,15,9,713,7.9,1,0,1,1,0,0,3,0,0.13,0.00,0.13,0.13,0.13,Matches
+Đorđe Ćosić,ba BIH,DF,FK Mladost Novi Sad,26,1995,17,17,"1,447",16.1,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+
+Kalifa Coulibaly,ml MLI,FW,Red Star,30,1991,4,0,81,0.9,1,0,1,1,0,0,0,0,1.11,0.00,1.11,1.11,1.11,Matches
+Nikola Čumić,rs SRB,"FW,MF",Vojvodina,23,1998,29,25,"2,175",24.2,13,3,16,12,1,1,3,0,0.54,0.12,0.66,0.50,0.62,Matches
+Dusan Cvetinovic,rs SRB,DF,TSC Bačka Top,33,1988,9,7,602,6.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dusan Cvetinovic,rs SRB,DF,Radnički Kragujevac,33,1988,15,15,"1,350",15.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Cvetković,rs SRB,"DF,GK",TSC Bačka Top,32,1990,32,31,"2,719",30.2,2,3,5,2,0,0,9,0,0.07,0.10,0.17,0.07,0.17,Matches
+Stefan Cvetkovic,rs SRB,FW,Radnički Niš,24,1998,25,12,"1,131",12.6,2,0,2,2,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches
+Igor Cvetojević,rs SRB,DF,FK Kolubara,21,2001,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches
+Cristian Dal Bello,br BRA,MF,FK Mladost Novi Sad,22,1999,14,10,848,9.4,1,1,2,1,0,0,1,0,0.11,0.11,0.21,0.11,0.21,Matches
+Filip Damjanovic,rs SRB,DF,Voždovac,24,1998,35,35,"3,122",34.7,0,1,1,0,0,0,8,1,0.00,0.03,0.03,0.00,0.03,Matches
+Slavko Damjanović,me MNE,"DF,GK",Novi Pazar,29,1992,4,3,235,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damjan Daničić,rs SRB,DF,Voždovac,22,2000,10,4,406,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zoran Danoski,mk MKD,MF,Novi Pazar,31,1990,7,4,391,4.3,2,0,2,2,0,0,2,0,0.46,0.00,0.46,0.46,0.46,Matches
+Zoran Danoski,mk MKD,MF,Radnik Surdulica,31,1990,20,18,"1,422",15.8,2,2,4,2,0,0,1,0,0.13,0.13,0.25,0.13,0.25,Matches
+Đorđe Denić,rs SRB,MF,FK Mladost Novi Sad,26,1996,25,23,"2,020",22.4,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches
+Fousseni Diabaté,ml MLI,"FW,MF",Partizan,26,1995,32,26,"2,349",26.1,2,7,9,2,0,0,0,0,0.08,0.27,0.34,0.08,0.34,Matches
+Stefan Dimić,rs SRB,MF,Radnički Niš,29,1993,15,13,961,10.7,2,0,2,2,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches
+Srđan Dimitrov,rs SRB,MF,FK Mladost Novi Sad,30,1992,17,15,"1,072",11.9,1,2,3,1,0,0,5,0,0.08,0.17,0.25,0.08,0.25,Matches
+Nemanja Djekovic,rs SRB,DF,Napredak Kruš,19,2003,28,24,"2,253",25.0,2,0,2,2,0,0,2,1,0.08,0.00,0.08,0.08,0.08,Matches
+Vukasin Djurdjevic,rs SRB,DF,Voždovac,18,2004,1,0,20,0.2,1,0,1,1,0,0,0,0,4.50,0.00,4.50,4.50,4.50,Matches
+Marko Docić,rs SRB,MF,Čukarički,29,1993,31,28,"2,377",26.4,11,9,20,2,9,9,9,0,0.42,0.34,0.76,0.08,0.42,Matches
+Dušan Dodić,se SWE,FW,Voždovac,18,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dino Dolmagić,rs SRB,MF,Javor Ivanjica,28,1994,20,9,894,9.9,0,2,2,0,0,0,4,0,0.00,0.20,0.20,0.00,0.20,Matches
+Boubacari Doucouré,fr FRA,DF,TSC Bačka Top,23,1999,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Boubacari Doucouré,fr FRA,DF,Javor Ivanjica,23,1999,29,29,"2,332",25.9,2,0,2,2,0,0,7,1,0.08,0.00,0.08,0.08,0.08,Matches
+Aleksandar Dragović,at AUT,"DF,MF",Red Star,31,1991,32,29,"2,587",28.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Dejan Dražić,rs SRB,MF,Radnik Surdulica,26,1995,14,8,737,8.2,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches
+Uroš Drezgić,rs SRB,MF,Čukarički,19,2002,27,26,"2,399",26.7,2,0,2,2,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches
+Marko Drobnjak,rs SRB,GK,Radnički Niš,27,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mišo Dubljanić,me MNE,GK,Spartak Subotic,22,1999,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Dujmović,ba BIH,GK,Radnički Niš,23,1999,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+David Dunđerski,rs SRB,MF,Spartak Subotic,22,1999,8,5,441,4.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+David Dunđerski,rs SRB,MF,Mladost Lučani,22,1999,14,10,786,8.7,1,0,1,1,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches
+Borko Duronjić,rs SRB,FW,Radnik Surdulica,24,1997,29,17,"1,510",16.8,2,2,4,2,0,0,4,0,0.12,0.12,0.24,0.12,0.24,Matches
+Aleksa Dušanić,rs SRB,FW,Radnički Niš,19,2003,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Džugurdić,rs SRB,FW,Napredak Kruš,29,1992,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Eliomar,br BRA,MF,Javor Ivanjica,34,1988,27,7,782,8.7,1,0,1,1,0,0,6,0,0.12,0.00,0.12,0.12,0.12,Matches
+Strahinja Eraković,rs SRB,DF,Red Star,21,2001,33,31,"2,723",30.3,0,2,2,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches
+Mitar Ergelas,rs SRB,MF,Novi Pazar,19,2002,23,12,939,10.4,1,2,3,1,0,0,3,0,0.10,0.19,0.29,0.10,0.29,Matches
+Amougou Etongou,cm CMR,DF,Radnički Niš,22,1999,16,14,"1,262",14.0,0,0,0,0,0,0,7,2,0.00,0.00,0.00,0.00,0.00,Matches
+Ljubomir Fejsa,rs SRB,MF,Partizan,33,1988,23,12,"1,155",12.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ibrahim Fijuljanin,rs SRB,FW,Novi Pazar,18,2004,4,0,21,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Filipović,rs SRB,DF,Partizan,27,1994,20,20,"1,623",18.0,2,2,4,2,0,0,5,0,0.11,0.11,0.22,0.11,0.22,Matches
+Miloš Filipović,rs SRB,MF,Novi Pazar,32,1990,10,6,505,5.6,0,2,2,0,0,0,3,0,0.00,0.36,0.36,0.00,0.36,Matches
+Miloš Filipović,rs SRB,MF,FK Kolubara,32,1990,16,15,"1,130",12.6,2,3,5,2,0,0,0,0,0.16,0.24,0.40,0.16,0.40,Matches
+Nenad Filipović,rs SRB,GK,TSC Bačka Top,35,1987,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Filipović,rs SRB,DF,Spartak Subotic,28,1994,14,12,"1,127",12.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Frei,ch SUI,DF,Radnički Niš,21,2001,5,2,231,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Gajić,rs SRB,DF,Čukarički,30,1992,8,3,287,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Maka Gakou,fr FRA,DF,Radnički Niš,22,2000,10,6,578,6.4,0,1,1,0,0,0,3,1,0.00,0.16,0.16,0.00,0.16,Matches
+Romain Gall,us USA,"FW,MF",FK Mladost Novi Sad,27,1995,7,4,317,3.5,1,1,2,1,0,0,2,0,0.28,0.28,0.57,0.28,0.57,Matches
+
+Nenad Gavrić,rs SRB,FW,Novi Pazar,30,1991,19,9,980,10.9,1,4,5,1,0,0,6,0,0.09,0.37,0.46,0.09,0.46,Matches
+Petar Gigić,rs SRB,FW,Javor Ivanjica,25,1997,35,33,"2,662",29.6,8,5,13,6,2,2,9,0,0.27,0.17,0.44,0.20,0.37,Matches
+Marko Gobeljić,rs SRB,"DF,MF",Red Star,29,1992,15,11,"1,016",11.3,2,1,3,2,0,0,4,0,0.18,0.09,0.27,0.18,0.27,Matches
+Luka Gojković,rs SRB,MF,Javor Ivanjica,22,1999,34,31,"2,705",30.1,6,3,9,3,3,3,5,0,0.20,0.10,0.30,0.10,0.20,Matches
+Ricardo Jorge Pires Gomes,cv CPV,FW,Partizan,30,1991,35,34,"2,924",32.5,19,3,22,16,3,4,3,1,0.58,0.09,0.68,0.49,0.58,Matches
+Đorđe Gordić,rs SRB,FW,Mladost Lučani,17,2004,16,14,"1,106",12.3,3,1,4,3,0,0,2,0,0.24,0.08,0.33,0.24,0.33,Matches
+Srđan Grabež,rs SRB,DF,Javor Ivanjica,31,1991,13,13,"1,117",12.4,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Emmanuel Hackman,tg TOG,DF,FK Mladost Novi Sad,27,1995,15,14,"1,223",13.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Hajdin,hr CRO,DF,Voždovac,28,1994,19,19,"1,684",18.7,2,0,2,2,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches
+Dušan Hodžić,ba BIH,DF,Radnik Surdulica,28,1993,15,12,"1,098",12.2,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches
+Filip Holender,hu HUN,FW,Partizan,28,1994,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Srđan Hrstić,rs SRB,FW,Spartak Subotic,19,2003,27,22,"1,799",20.0,6,1,7,5,1,1,4,0,0.30,0.05,0.35,0.25,0.30,Matches
+Nikola Ignjatović,rs SRB,DF,Radnik Surdulica,24,1998,7,4,410,4.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Ilić,rs SRB,MF,TSC Bačka Top,23,1999,25,22,"1,917",21.3,6,7,13,4,2,2,4,0,0.28,0.33,0.61,0.19,0.52,Matches
+Mihajlo Ilić,rs SRB,DF,Partizan,19,2003,8,6,473,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Ilic,rs SRB,DF,Javor Ivanjica,22,2000,14,13,"1,181",13.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milijan Ilić,rs SRB,MF,FK Mladost Novi Sad,29,1993,31,25,"2,217",24.6,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vanja Ilić,rs SRB,MF,FK Kolubara,23,1999,28,16,"1,581",17.6,2,1,3,2,0,0,3,0,0.11,0.06,0.17,0.11,0.17,Matches
+Veljko Ilić,rs SRB,MF,FK Kolubara,16,2005,4,1,79,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Veljko Ilic,rs SRB,GK,TSC Bačka Top,19,2003,35,35,"3,150",35.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sead Islamović,rs SRB,MF,Novi Pazar,22,1999,17,13,"1,063",11.8,1,0,1,0,1,1,3,0,0.08,0.00,0.08,0.00,0.00,Matches
+Mirko Ivanić,me MNE,MF,Red Star,28,1993,29,24,"2,015",22.4,8,11,19,8,0,0,2,0,0.36,0.49,0.85,0.36,0.85,Matches
+Filip Ivanović,rs SRB,DF,Radnički Kragujevac,30,1992,31,30,"2,575",28.6,0,0,0,0,0,0,12,3,0.00,0.00,0.00,0.00,0.00,Matches
+Đorđe Ivanović,rs SRB,FW,Čukarički,26,1995,35,29,"2,409",26.8,9,3,12,9,0,0,3,0,0.34,0.11,0.45,0.34,0.45,Matches
+Pavle Ivelja,rs SRB,FW,Javor Ivanjica,24,1998,9,2,196,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Marko Ivezić,rs SRB,MF,Voždovac,20,2001,29,27,"2,294",25.5,0,1,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matches
+Kosta Janjić,rs SRB,DF,Javor Ivanjica,22,2000,3,3,269,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vasilije Janjić,rs SRB,MF,Radnik Surdulica,27,1995,6,1,201,2.2,0,1,1,0,0,0,0,0,0.00,0.45,0.45,0.00,0.45,Matches
+Aleksa Janković,rs SRB,FW,Čukarički,22,2000,7,2,154,1.7,1,1,2,1,0,0,1,0,0.58,0.58,1.17,0.58,1.17,Matches
+Marko Janković,rs SRB,MF,Radnički Kragujevac,21,2000,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Janković,rs SRB,DF,FK Kolubara,29,1993,16,16,"1,267",14.1,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Janković,rs SRB,DF,FK Mladost Novi Sad,29,1993,16,13,"1,221",13.6,1,2,3,1,0,0,2,0,0.07,0.15,0.22,0.07,0.22,Matches
+Igor Jeličić,rs SRB,DF,Vojvodina,22,2000,28,26,"2,202",24.5,0,1,1,0,0,0,7,1,0.00,0.04,0.04,0.00,0.04,Matches
+Aleksandar Ješić,rs SRB,MF,Mladost Lučani,27,1994,25,17,"1,642",18.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Janko Jevremović,rs SRB,MF,Partizan,18,2004,8,0,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Jezdimirović,rs SRB,DF,Radnik Surdulica,25,1996,3,2,194,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bogdan Jocic,rs SRB,MF,Voždovac,21,2001,22,12,"1,110",12.3,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches
+Branimir Jočić,rs SRB,DF,FK Mladost Novi Sad,28,1994,14,9,894,9.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Jojić,rs SRB,MF,Mladost Lučani,18,2003,37,35,"3,016",33.5,7,8,15,7,0,0,2,0,0.21,0.24,0.45,0.21,0.45,Matches
+Ranko Jokić,rs SRB,DF,Radnik Surdulica,23,1999,32,24,"2,236",24.8,1,1,2,1,0,0,7,1,0.04,0.04,0.08,0.04,0.08,Matches
+Dušan Joković,rs SRB,DF,Voždovac,23,1999,2,1,109,1.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Joksimović,rs SRB,DF,Novi Pazar,32,1990,34,33,"2,853",31.7,2,1,3,2,0,0,6,1,0.06,0.03,0.09,0.06,0.09,Matches
+Lazar Jovanović,rs SRB,FW,Radnički Niš,29,1993,5,5,348,3.9,1,2,3,1,0,0,1,0,0.26,0.52,0.78,0.26,0.78,Matches
+Saša Jovanović,rs SRB,"FW,MF",TSC Bačka Top,30,1991,34,33,"2,738",30.4,10,12,22,10,0,0,6,0,0.33,0.39,0.72,0.33,0.72,Matches
+Saša Jovanović,rs SRB,MF,Radnički Niš,28,1993,24,10,"1,093",12.1,1,0,1,1,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches
+Stefan Jovanović,rs SRB,DF,Napredak Kruš,28,1994,31,31,"2,755",30.6,1,1,2,1,0,0,8,0,0.03,0.03,0.07,0.03,0.07,Matches
+Veljko Jovanović,rs SRB,FW,Radnik Surdulica,21,2001,4,1,172,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Đorđe Jovanović,rs SRB,FW,Napredak Kruš,20,2001,28,12,"1,148",12.8,1,1,2,1,0,0,0,0,0.08,0.08,0.16,0.08,0.16,Matches
+Đorđe Jovanović,rs SRB,FW,Radnički Kragujevac,19,2003,18,6,476,5.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Jovic,rs SRB,DF,Novi Pazar,22,2000,31,25,"2,229",24.8,0,1,1,0,0,0,6,1,0.00,0.04,0.04,0.00,0.04,Matches
+
+Nemanja Jović,rs SRB,FW,Partizan,19,2002,22,7,967,10.7,2,2,4,2,0,0,4,0,0.19,0.19,0.37,0.19,0.37,Matches
+Nemanja Jovičić,rs SRB,DF,Radnički Niš,22,2000,5,1,189,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Kabić,rs SRB,MF,Vojvodina,18,2004,19,7,537,6.0,2,0,2,2,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches
+Haris Kadrić,si SVN,FW,FK Kolubara,22,2000,18,8,955,10.6,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches
+Haris Kadrić,si SVN,FW,Voždovac,22,2000,10,1,252,2.8,1,0,1,1,0,0,1,0,0.36,0.00,0.36,0.36,0.36,Matches
+Almin Kahrimanović,rs SRB,GK,Novi Pazar,18,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Guélor Kanga,ga GAB,MF,Red Star,31,1990,30,29,"2,449",27.2,10,11,21,4,6,6,8,0,0.37,0.40,0.77,0.15,0.55,Matches
+Kings Kangwa,zm ZAM,MF,Red Star,23,1999,32,20,"1,903",21.1,8,3,11,8,0,0,4,0,0.38,0.14,0.52,0.38,0.52,Matches
+Zoran Karać,rs SRB,FW,FK Mladost Novi Sad,27,1995,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Katai,rs SRB,"FW,MF",Red Star,31,1991,35,27,"2,455",27.3,17,9,26,14,3,3,3,0,0.62,0.33,0.95,0.51,0.84,Matches
+Aleksandar Katanic,rs SRB,FW,FK Mladost Novi Sad,26,1995,16,6,609,6.8,0,2,2,0,0,0,2,0,0.00,0.30,0.30,0.00,0.30,Matches
+Andrija Katić,rs SRB,GK,Voždovac,20,2002,14,14,"1,238",13.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dejan Kerkez,rs SRB,DF,Napredak Kruš,26,1996,31,31,"2,686",29.8,1,0,1,1,0,0,4,1,0.03,0.00,0.03,0.03,0.03,Matches
+Danko Kikovic,rs SRB,MF,Novi Pazar,27,1994,20,10,834,9.3,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Kljajić,rs SRB,GK,Novi Pazar,31,1990,26,26,"2,340",26.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Obren Kljajić,au AUS,FW,Voždovac,18,2003,2,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Knežević,rs SRB,GK,FK Mladost Novi Sad,33,1989,12,12,"1,080",12.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Knezevic,rs SRB,MF,Napredak Kruš,19,2003,15,8,713,7.9,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Srđan Kočić,rs SRB,MF,Napredak Kruš,23,1999,10,1,192,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Srđan Kočić,rs SRB,MF,FK Kolubara,23,1999,12,10,892,9.9,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nenad Kočović,rs SRB,DF,FK Kolubara,27,1995,33,30,"2,731",30.3,0,3,3,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches
+Nemanja Kojcic,rs SRB,DF,Napredak Kruš,24,1997,5,4,340,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksa Koloni,rs SRB,DF,Čukarički,17,2005,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Kemal Koninčanin,,,Novi Pazar,,,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Boris Kopitović,me MNE,DF,Vojvodina,27,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Boris Kopitović,me MNE,DF,Javor Ivanjica,27,1994,19,18,"1,506",16.7,1,0,1,1,0,0,5,1,0.06,0.00,0.06,0.06,0.06,Matches
+Stefan Kovač,ba BIH,MF,Čukarički,23,1999,25,20,"1,605",17.8,1,1,2,1,0,0,5,1,0.06,0.06,0.11,0.06,0.11,Matches
+Bojan Kovačević,rs SRB,MF,Čukarički,18,2004,17,15,"1,400",15.6,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches
+Nikola Kovačević,rs SRB,DF,Radnički Kragujevac,28,1994,4,2,195,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Kovačević,rs SRB,DF,FK Mladost Novi Sad,29,1992,18,18,"1,620",18.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damjan Krajišnik,rs SRB,MF,Radnički Kragujevac,25,1997,33,26,"2,135",23.7,4,1,5,3,1,1,8,0,0.17,0.04,0.21,0.13,0.17,Matches
+Miljan Krpić,rs SRB,MF,TSC Bačka Top,19,2003,12,0,67,0.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Krsmanović,rs SRB,MF,TSC Bačka Top,19,2003,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Krstic,rs SRB,MF,Napredak Kruš,27,1994,34,28,"2,173",24.1,3,5,8,2,1,1,4,0,0.12,0.21,0.33,0.08,0.29,Matches
+Vukašin Krstić,rs SRB,DF,TSC Bačka Top,19,2003,6,2,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nenad Krstičić,rs SRB,MF,Red Star,32,1990,4,0,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milos Krunic,rs SRB,GK,Voždovac,25,1996,24,23,"2,092",23.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Kunić,ba BIH,FW,Radnik Surdulica,29,1993,26,7,838,9.3,3,0,3,2,1,1,1,0,0.32,0.00,0.32,0.21,0.21,Matches
+Numan Kurdic,ba BIH,DF,Novi Pazar,23,1999,17,14,"1,371",15.2,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Kuveljić,rs SRB,MF,TSC Bačka Top,25,1997,28,20,"1,676",18.6,0,1,1,0,0,0,6,0,0.00,0.05,0.05,0.00,0.05,Matches
+Luka Laban,rs SRB,DF,Napredak Kruš,18,2004,6,1,108,1.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrija Lazarević,rs SRB,FW,Voždovac,18,2004,14,11,834,9.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Lazarević,rs SRB,DF,Vojvodina,25,1997,29,25,"2,157",24.0,1,2,3,1,0,0,2,0,0.04,0.08,0.13,0.04,0.13,Matches
+Uroš Lazić,rs SRB,DF,Radnik Surdulica,19,2003,17,13,"1,271",14.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Leković,rs SRB,DF,Mladost Lučani,32,1989,31,31,"2,714",30.2,1,2,3,1,0,0,5,0,0.03,0.07,0.10,0.03,0.10,Matches
+Stefan Lekovic,rs SRB,DF,Red Star,18,2004,12,5,563,6.3,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches
+Stojan Leković,rs SRB,GK,Radnički Kragujevac,20,2001,22,22,"1,980",22.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Ljubisavljević,rs SRB,DF,Vojvodina,25,1996,12,8,735,8.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Ljubomirac,rs SRB,DF,Napredak Kruš,33,1989,15,10,794,8.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Goran Lončar,rs SRB,MF,FK Kolubara,20,2001,20,15,"1,209",13.4,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Stefan Lončar,me MNE,MF,Novi Pazar,26,1996,18,18,"1,620",18.0,1,2,3,1,0,0,7,0,0.06,0.11,0.17,0.06,0.17,Matches
+Vladimir Lučić,rs SRB,FW,Red Star,20,2002,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Lučić,rs SRB,FW,Čukarički,20,2002,28,23,"1,942",21.6,3,5,8,3,0,0,3,0,0.14,0.23,0.37,0.14,0.37,Matches
+Jovan Lukić,rs SRB,MF,Čukarički,20,2002,10,1,239,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ognjen Lukić,rs SRB,GK,Radnički Kragujevac,19,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Viktor Lukić,rs SRB,MF,Radnik Surdulica,21,2000,10,1,240,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Luković,rs SRB,MF,Javor Ivanjica,25,1996,18,15,"1,239",13.8,2,0,2,2,0,0,4,0,0.15,0.00,0.15,0.15,0.15,Matches
+Aleksandar Lutovac,rs SRB,FW,Partizan,25,1997,10,3,381,4.2,1,1,2,1,0,0,1,0,0.24,0.24,0.47,0.24,0.47,Matches
+Andrija Majdevac,rs SRB,FW,Novi Pazar,24,1997,30,29,"2,357",26.2,12,0,12,9,3,3,4,0,0.46,0.00,0.46,0.34,0.34,Matches
+Milan Makarić,rs SRB,"FW,MF",Radnik Surdulica,26,1995,18,15,"1,378",15.3,0,2,2,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches
+Igor Maksimović,rs SRB,MF,Novi Pazar,23,1999,5,3,177,2.0,0,1,1,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches
+Novica Maksimović,rs SRB,MF,FK Mladost Novi Sad,34,1988,31,30,"2,532",28.1,6,0,6,1,5,5,8,0,0.21,0.00,0.21,0.04,0.04,Matches
+Stefan Maksimović,rs SRB,DF,Mladost Lučani,20,2002,5,5,450,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Đorđe Maksimović,rs SRB,FW,Radnički Kragujevac,22,1999,25,5,771,8.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Malbašić,rs SRB,"FW,MF",Vojvodina,29,1992,29,20,"1,746",19.4,6,4,10,5,1,1,2,0,0.31,0.21,0.52,0.26,0.46,Matches
+Marko Maletić,ba BIH,FW,Javor Ivanjica,28,1993,14,0,240,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Malić,ba BIH,DF,Radnički Kragujevac,22,2000,3,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ibrahima Mame N'Diaye,sn SEN,FW,Čukarički,28,1994,17,5,644,7.2,3,2,5,3,0,0,2,0,0.42,0.28,0.70,0.42,0.70,Matches
+Marko Mandić,rs SRB,DF,FK Mladost Novi Sad,23,1999,18,13,"1,289",14.3,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches
+Filip Manojlović,rs SRB,GK,Spartak Subotic,26,1996,27,27,"2,430",27.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Strahinja Manojlović,ba BIH,GK,Javor Ivanjica,19,2002,18,18,"1,620",18.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Marčić,rs SRB,MF,Mladost Lučani,26,1996,10,7,546,6.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Marčić,rs SRB,MF,Javor Ivanjica,26,1996,16,16,"1,402",15.6,1,1,2,1,0,0,5,0,0.06,0.06,0.13,0.06,0.13,Matches
+Miroslav Maričić,rs SRB,MF,FK Mladost Novi Sad,24,1998,11,7,625,6.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miroslav Maričić,rs SRB,MF,Mladost Lučani,24,1998,9,5,465,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Jovan Marinković,rs SRB,DF,Spartak Subotic,25,1996,13,9,815,9.1,0,1,1,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches
+Saša Marjanović,rs SRB,MF,Radnički Niš,34,1987,29,16,"1,553",17.3,4,1,5,4,0,0,2,0,0.23,0.06,0.29,0.23,0.29,Matches
+Stefan Marjanovic,rs SRB,DF,FK Kolubara,28,1994,12,10,842,9.4,1,0,1,1,0,0,3,2,0.11,0.00,0.11,0.11,0.11,Matches
+Stefan Marjanovic,rs SRB,DF,Radnički Niš,28,1994,17,16,"1,374",15.3,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches
+Branislav Marković,rs SRB,FW,Voždovac,23,1998,7,1,201,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Saša Marković,rs SRB,MF,FK Mladost Novi Sad,31,1991,16,9,763,8.5,1,1,2,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,Matches
+Svetozar Marković,rs SRB,DF,Partizan,22,2000,22,21,"1,890",21.0,2,0,2,2,0,0,5,0,0.10,0.00,0.10,0.10,0.10,Matches
+Vukasin Markovic,rs SRB,MF,Mladost Lučani,21,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ousman Marong,gm GAM,MF,Radnik Surdulica,23,1998,10,2,370,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksa Marušić,me MNE,FW,FK Mladost Novi Sad,23,1999,10,3,347,3.9,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches
+Aleksa Matić,rs SRB,MF,Voždovac,19,2002,15,12,"1,114",12.4,0,1,1,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches
+Bojan Matić,rs SRB,FW,Napredak Kruš,30,1991,29,21,"1,866",20.7,3,3,6,2,1,1,4,0,0.14,0.14,0.29,0.10,0.24,Matches
+Predrag Medić,rs SRB,MF,Voždovac,24,1998,9,2,295,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Predrag Medić,rs SRB,MF,Radnik Surdulica,24,1998,9,8,501,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+Queensy Menig,nl NED,"FW,MF",Partizan,26,1995,33,27,"2,139",23.8,7,5,12,7,0,0,0,0,0.29,0.21,0.50,0.29,0.50,Matches
+Aleksandar Mesarović,rs SRB,MF,Radnički Niš,23,1998,31,18,"1,675",18.6,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Mićević,rs SRB,DF,Mladost Lučani,23,1999,7,5,465,5.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Morice Michael,tz TAN,MF,Spartak Subotic,18,2003,15,0,257,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ryohei Michibuchi,jp JPN,MF,Radnički Niš,28,1994,4,2,190,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Mićin,rs SRB,MF,Napredak Kruš,23,1998,16,12,962,10.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Mićin,rs SRB,MF,Radnički Niš,23,1998,16,13,"1,047",11.6,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches
+Novak Mićović,rs SRB,GK,Čukarički,20,2001,14,13,"1,176",13.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Mihajlović,rs SRB,FW,Radnički Niš,28,1994,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Mijailović,rs SRB,DF,Voždovac,24,1997,33,29,"2,647",29.4,1,3,4,1,0,0,10,0,0.03,0.10,0.14,0.03,0.14,Matches
+Srđan Mijailović,rs SRB,MF,Red Star,28,1993,25,22,"1,712",19.0,0,1,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches
+
+Srđan Mijailović,rs SRB,MF,Čukarički,28,1993,8,8,660,7.3,0,2,2,0,0,0,4,1,0.00,0.27,0.27,0.00,0.27,Matches
+Jovan Mijatović,rs SRB,FW,Red Star,17,2005,12,4,426,4.7,1,1,2,1,0,0,0,0,0.21,0.21,0.42,0.21,0.42,Matches
+Dušan Mijić,rs SRB,DF,FK Mladost Novi Sad,29,1993,9,5,383,4.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Mijić,rs SRB,MF,Novi Pazar,32,1989,32,24,"2,124",23.6,5,4,9,3,2,2,4,0,0.21,0.17,0.38,0.13,0.30,Matches
+Danilo Miladinović,rs SRB,MF,FK Mladost Novi Sad,20,2002,4,0,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Miladinović,rs SRB,MF,Čukarički,19,2003,11,2,323,3.6,0,2,2,0,0,0,1,0,0.00,0.56,0.56,0.00,0.56,Matches
+Uroš Miladinović,rs SRB,FW,Čukarički,18,2004,1,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ognjen Milanović,rs SRB,FW,Mladost Lučani,20,2001,4,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Miletić,rs SRB,DF,Javor Ivanjica,31,1991,15,15,"1,350",15.0,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches
+Vladimir Miletić,rs SRB,DF,Vojvodina,19,2003,12,5,490,5.4,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Andrija Milic,rs SRB,MF,Radnik Surdulica,21,2001,8,2,323,3.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Milić,rs SRB,FW,FK Mladost Novi Sad,32,1990,17,14,"1,195",13.3,3,0,3,3,0,0,3,0,0.23,0.00,0.23,0.23,0.23,Matches
+Ilija Milićević,rs SRB,DF,FK Kolubara,21,2001,16,13,"1,245",13.8,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+Nikola Miličić,rs SRB,MF,Radnički Kragujevac,18,2004,27,20,"1,873",20.8,0,1,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches
+Miloš Milisavljević,rs SRB,MF,Radnički Kragujevac,29,1992,3,2,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksa Milojević,rs SRB,GK,FK Mladost Novi Sad,22,2000,25,25,"2,250",25.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Milojević,rs SRB,MF,Radnički Kragujevac,19,2003,4,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Milojević,rs SRB,MF,FK Kolubara,24,1998,34,30,"2,416",26.8,3,1,4,2,1,1,3,0,0.11,0.04,0.15,0.07,0.11,Matches
+Mihajlo Milosavic,rs SRB,MF,TSC Bačka Top,18,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Milosavljević,rs SRB,DF,Voždovac,39,1983,2,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Milosavljević,rs SRB,DF,TSC Bačka Top,39,1983,30,14,"1,366",15.2,1,3,4,1,0,0,2,0,0.07,0.20,0.26,0.07,0.26,Matches
+Radomir Milosavljević,rs SRB,"FW,MF",Vojvodina,30,1992,26,18,"1,328",14.8,2,1,3,2,0,0,4,0,0.14,0.07,0.20,0.14,0.20,Matches
+Ivan Milošević,rs SRB,DF,Mladost Lučani,37,1984,23,23,"1,946",21.6,1,0,1,0,1,1,8,1,0.05,0.00,0.05,0.00,0.00,Matches
+Jovan Milošević,rs SRB,MF,Vojvodina,17,2005,18,6,588,6.5,3,0,3,3,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches
+Stefan Milošević,rs SRB,DF,Javor Ivanjica,27,1995,7,5,358,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Miloš Milovanović,rs SRB,DF,FK Mladost Novi Sad,34,1987,10,6,591,6.6,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Milovanović,rs SRB,FW,Radnik Surdulica,21,2000,6,3,308,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Milović,me MNE,DF,Voždovac,26,1995,16,16,"1,395",15.5,1,0,1,1,0,0,2,1,0.06,0.00,0.06,0.06,0.06,Matches
+Luka Milunović,rs SRB,FW,Radnički Kragujevac,29,1992,16,10,816,9.1,3,1,4,3,0,0,1,0,0.33,0.11,0.44,0.33,0.44,Matches
+Nemanja Milunović,rs SRB,DF,Red Star,33,1989,20,16,"1,379",15.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Martin Mirchevski,mk MKD,MF,TSC Bačka Top,25,1997,18,8,724,8.0,7,2,9,7,0,0,4,0,0.87,0.25,1.12,0.87,1.12,Matches
+Marko Mirić,rs SRB,"FW,MF",Mladost Lučani,35,1987,27,27,"2,404",26.7,4,4,8,4,0,0,4,0,0.15,0.15,0.30,0.15,0.30,Matches
+Marko Mirić,rs SRB,"FW,MF",Radnički Kragujevac,35,1987,6,6,427,4.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Mirosavljev,rs SRB,MF,FK Mladost Novi Sad,27,1995,10,9,779,8.7,2,1,3,2,0,0,0,0,0.23,0.12,0.35,0.23,0.35,Matches
+Vuk Mitošević,rs SRB,MF,Radnik Surdulica,31,1991,3,1,114,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jovan Mitrović,rs SRB,MF,Mladost Lučani,18,2003,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matija Mitrovic,rs SRB,MF,Voždovac,17,2004,4,0,65,0.7,0,1,1,0,0,0,0,0,0.00,1.38,1.38,0.00,1.38,Matches
+Milan Mitrović,rs SRB,DF,Radnički Kragujevac,34,1988,14,14,"1,229",13.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ognjen Mitrović,rs SRB,MF,Spartak Subotic,23,1999,9,8,641,7.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Mitrović,rs SRB,MF,Red Star,19,2002,32,17,"1,465",16.3,5,2,7,5,0,0,3,0,0.31,0.12,0.43,0.31,0.43,Matches
+Stefan Mitrović,rs SRB,MF,Radnički Niš,19,2002,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches
+Jovan Mituljikic,rs SRB,FW,FK Mladost Novi Sad,19,2003,14,5,567,6.3,1,1,2,1,0,0,1,0,0.16,0.16,0.32,0.16,0.32,Matches
+Nikola Mituljikić,rs SRB,MF,Red Star,19,2003,7,0,150,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bogdan Mladenović,rs SRB,MF,FK Kolubara,26,1996,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Mladenović,rs SRB,GK,Radnički Kragujevac,20,2001,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bojan Mlađović,rs SRB,DF,Radnički Niš,26,1995,2,2,180,2.0,1,0,1,1,0,0,1,0,0.50,0.00,0.50,0.50,0.50,Matches
+Bojan Mlađović,rs SRB,DF,FK Mladost Novi Sad,26,1995,7,6,585,6.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Donald Molls Ntchamda,cm CMR,MF,FK Kolubara,24,1998,10,1,309,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miljan Momcilovic,rs SRB,MF,Novi Pazar,21,2001,27,24,"2,009",22.3,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches
+Marko Mrkić,rs SRB,FW,FK Kolubara,25,1996,4,1,130,1.4,1,0,1,1,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches
+
+Ognjen Mršić,rs SRB,DF,Napredak Kruš,23,1999,10,9,824,9.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mustafa Mujezinović,ba BIH,DF,Novi Pazar,29,1993,11,1,334,3.7,0,1,1,0,0,0,2,0,0.00,0.27,0.27,0.00,0.27,Matches
+Ibrahim Mustapha,gh GHA,MF,Red Star,22,2000,12,1,336,3.7,0,1,1,0,0,0,1,0,0.00,0.27,0.27,0.00,0.27,Matches
+Ben Nabouhane,km COM,"FW,MF",Red Star,33,1989,11,5,544,6.0,2,3,5,2,0,0,1,0,0.33,0.50,0.83,0.33,0.83,Matches
+Bibras Natkho,il ISR,MF,Partizan,34,1988,36,30,"2,504",27.8,12,9,21,7,5,5,3,0,0.43,0.32,0.75,0.25,0.58,Matches
+Davor Nedeljković,rs SRB,MF,Radnik Surdulica,26,1996,10,5,409,4.5,1,0,1,1,0,0,3,0,0.22,0.00,0.22,0.22,0.22,Matches
+Mihajlo Nešković,rs SRB,MF,Vojvodina,22,2000,7,4,297,3.3,0,1,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches
+Mihajlo Nešković,rs SRB,MF,Voždovac,22,2000,23,21,"1,663",18.5,2,0,2,2,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+Bojica Nikčević,rs SRB,MF,Novi Pazar,22,2000,27,25,"2,100",23.3,7,2,9,3,4,4,4,0,0.30,0.09,0.39,0.13,0.21,Matches
+Nenad Nikic,ba BIH,MF,Voždovac,21,2001,4,1,170,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Nikolić,rs SRB,MF,Red Star,22,1999,8,4,438,4.9,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches
+Lazar Nikolić,rs SRB,MF,Javor Ivanjica,22,1999,18,18,"1,551",17.2,2,1,3,2,0,0,2,0,0.12,0.06,0.17,0.12,0.17,Matches
+Nemanja Nikolić,me MNE,FW,Vojvodina,29,1992,31,25,"2,010",22.3,4,6,10,3,1,1,4,0,0.18,0.27,0.45,0.13,0.40,Matches
+Nemanja Nikolić,me MNE,MF,FK Kolubara,34,1988,29,24,"1,965",21.8,0,2,2,0,0,0,8,1,0.00,0.09,0.09,0.00,0.09,Matches
+Uroš Nikolić,rs SRB,MF,Vojvodina,28,1993,24,12,"1,290",14.3,8,3,11,6,2,2,1,1,0.56,0.21,0.77,0.42,0.63,Matches
+Veljko Nikolić,rs SRB,MF,Red Star,22,1999,9,3,308,3.4,1,0,1,1,0,0,1,0,0.29,0.00,0.29,0.29,0.29,Matches
+Martin Novaković,rs SRB,MF,Voždovac,21,2001,9,1,244,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vlada Novevski,mk MKD,MF,Voždovac,20,2002,8,4,334,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Obradović,me MNE,FW,Spartak Subotic,31,1991,17,12,"1,129",12.5,2,2,4,2,0,0,4,0,0.16,0.16,0.32,0.16,0.32,Matches
+Milan Obradović,rs SRB,DF,Javor Ivanjica,22,1999,33,33,"2,924",32.5,0,0,0,0,0,0,11,1,0.00,0.00,0.00,0.00,0.00,Matches
+Ugochukwu Oduenyi,ng NGA,FW,Javor Ivanjica,26,1996,3,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mark Oliver Roosnupp,ee EST,MF,Napredak Kruš,25,1997,12,2,383,4.3,0,1,1,0,0,0,1,0,0.00,0.23,0.23,0.00,0.23,Matches
+Ohi Omoijuanfo,no NOR,"FW,MF",Red Star,28,1994,2,1,72,0.8,1,0,1,1,0,0,0,0,1.25,0.00,1.25,1.25,1.25,Matches
+Mihailo Orescanin,rs SRB,MF,Radnik Surdulica,24,1997,32,30,"2,472",27.5,2,0,2,2,0,0,10,0,0.07,0.00,0.07,0.07,0.07,Matches
+Kwaku Osei Bonsu,gh GHA,FW,Spartak Subotic,21,2000,5,1,137,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Miloš Ostojić,rs SRB,DF,Spartak Subotic,30,1991,25,24,"2,025",22.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Ostojić,rs SRB,GK,Mladost Lučani,26,1996,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Samuel Owusu,gh GHA,MF,Čukarički,26,1996,29,21,"1,663",18.5,1,3,4,1,0,0,5,1,0.05,0.16,0.22,0.05,0.22,Matches
+Radovan Pankov,rs SRB,DF,Red Star,26,1995,4,1,174,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Radovan Pankov,rs SRB,DF,Čukarički,26,1995,14,14,"1,211",13.5,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Danilo Pantić,rs SRB,MF,Partizan,25,1996,18,12,991,11.0,1,2,3,1,0,0,3,0,0.09,0.18,0.27,0.09,0.27,Matches
+Marko Pantić,rs SRB,MF,Napredak Kruš,24,1998,22,8,879,9.8,0,1,1,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches
+Miloš Pantović,rs SRB,MF,Voždovac,19,2002,31,29,"2,530",28.1,7,2,9,4,3,3,3,1,0.25,0.07,0.32,0.14,0.21,Matches
+Giorgi Papunashvili,ge GEO,"DF,MF",Radnički Niš,26,1995,3,1,118,1.3,0,1,1,0,0,0,0,0,0.00,0.76,0.76,0.00,0.76,Matches
+Milan Pavkov,rs SRB,FW,Red Star,28,1994,4,3,242,2.7,5,1,6,5,0,0,0,0,1.86,0.37,2.23,1.86,2.23,Matches
+Andrija Pavlović,rs SRB,FW,Partizan,28,1993,18,6,628,7.0,2,1,3,2,0,0,1,0,0.29,0.14,0.43,0.29,0.43,Matches
+Lazar Pavlović,rs SRB,MF,Radnički Niš,20,2001,12,9,673,7.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ljubiša Pecelj,ba BIH,DF,Radnički Kragujevac,28,1993,25,24,"2,161",24.0,1,1,2,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matches
+Aleksandar Pejović,rs SRB,MF,Radnički Niš,31,1990,33,32,"2,798",31.1,4,3,7,1,3,3,13,2,0.13,0.10,0.23,0.03,0.13,Matches
+Marko Pelivanović,rs SRB,FW,Mladost Lučani,17,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nenad Perović,rs SRB,MF,Mladost Lučani,20,2002,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Pešić,rs SRB,FW,Red Star,30,1992,28,25,"1,906",21.2,11,6,17,11,0,0,4,0,0.52,0.28,0.80,0.52,0.80,Matches
+Periša Pešukić,me MNE,MF,Novi Pazar,24,1997,31,31,"2,660",29.6,0,3,3,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10,Matches
+Mihajlo Petkovic,rs SRB,FW,Partizan,18,2004,7,5,297,3.3,1,0,1,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches
+Nikola Petković,rs SRB,MF,Čukarički,19,2003,16,6,590,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Petrić,rs SRB,GK,Napredak Kruš,31,1991,31,31,"2,790",31.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dimitrije Petronijević,rs SRB,MF,FK Kolubara,21,2001,14,11,903,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sava Petrov,rs SRB,FW,Radnički Niš,24,1998,35,27,"2,098",23.3,2,2,4,2,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches
+Aleksandar Petrović,rs SRB,FW,Radnički Kragujevac,17,2004,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filip Petrović,sn SEN,DF,Radnik Surdulica,20,2002,11,3,448,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Igor Petrović,rs SRB,DF,Javor Ivanjica,21,2000,3,1,119,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matija Petrović,rs SRB,DF,Radnički Niš,18,2004,6,1,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Petrović,rs SRB,DF,TSC Bačka Top,30,1992,32,30,"2,691",29.9,4,2,6,4,0,0,8,0,0.13,0.07,0.20,0.13,0.20,Matches
+Dajan Ponjević,ba BIH,DF,Radnički Kragujevac,33,1989,17,13,"1,233",13.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Popović,rs SRB,"GK,MF",Partizan,38,1983,28,28,"2,520",28.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Balša Popović,me MNE,GK,FK Kolubara,22,2000,8,7,706,7.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Popović,rs SRB,FW,FK Mladost Novi Sad,28,1994,18,16,"1,298",14.4,0,1,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches
+Zoran Popović,rs SRB,GK,Čukarički,34,1988,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sava Pribaković,rs SRB,DF,Mladost Lučani,19,2003,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Prijović,rs SRB,DF,Napredak Kruš,20,2002,15,12,"1,126",12.5,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches
+Josip Projić,rs SRB,DF,Napredak Kruš,34,1987,6,3,245,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Egor Prutsev,ru RUS,MF,Red Star,19,2002,10,4,417,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Purtic,rs SRB,MF,Voždovac,23,1998,17,12,"1,040",11.6,0,1,1,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches
+Darko Puškarić,rs SRB,MF,Čukarički,37,1985,7,7,547,6.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Putinčanin,rs SRB,"FW,MF",Napredak Kruš,34,1987,27,26,"2,334",25.9,3,0,3,3,0,0,9,1,0.12,0.00,0.12,0.12,0.12,Matches
+Milan Radin,rs SRB,MF,TSC Bačka Top,31,1991,10,7,621,6.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Radivojević,rs SRB,MF,Mladost Lučani,36,1986,29,17,"1,703",18.9,4,2,6,4,0,0,4,0,0.21,0.11,0.32,0.21,0.32,Matches
+Dragoljub Radoman,me MNE,FW,FK Mladost Novi Sad,18,2004,5,1,94,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vukasin Radosavljevic,rs SRB,MF,FK Kolubara,16,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Samir Radovac,ba BIH,MF,Novi Pazar,26,1996,15,5,577,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrija Radovanović,rs SRB,DF,FK Kolubara,21,2000,24,14,"1,390",15.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Radovanović,rs SRB,DF,Mladost Lučani,19,2003,5,2,179,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrija Radulović,me MNE,FW,FK Mladost Novi Sad,20,2002,17,16,"1,281",14.2,4,0,4,4,0,0,3,0,0.28,0.00,0.28,0.28,0.28,Matches
+Andrija Radulović,me MNE,FW,Radnik Surdulica,20,2002,18,18,"1,525",16.9,5,1,6,3,2,2,0,0,0.30,0.06,0.35,0.18,0.24,Matches
+Lazar Raičević,rs SRB,GK,Radnički Kragujevac,24,1998,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Marko Rakonjac,me MNE,MF,Red Star,22,2000,13,6,574,6.4,4,2,6,4,0,0,0,0,0.63,0.31,0.94,0.63,0.94,Matches
+Stefan Ranđelović,rs SRB,GK,Radnik Surdulica,23,1999,31,31,"2,790",31.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Rašković,rs SRB,DF,Napredak Kruš,21,2000,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Ratkov,rs SRB,FW,TSC Bačka Top,18,2003,36,31,"2,442",27.1,13,3,16,13,0,0,5,0,0.48,0.11,0.59,0.48,0.59,Matches
+Luka Ratkovic,rs SRB,FW,Novi Pazar,25,1997,6,4,263,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Ratkovic,rs SRB,FW,Javor Ivanjica,25,1997,18,5,602,6.7,1,1,2,1,0,0,3,0,0.15,0.15,0.30,0.15,0.30,Matches
+Baha Regis Samuel,cm CMR,FW,Mladost Lučani,25,1996,30,24,"2,126",23.6,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Ristović,rs SRB,MF,Radnički Kragujevac,16,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Rodić,rs SRB,DF,Red Star,31,1991,26,24,"1,914",21.3,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches
+Viktor Rogan,rs SRB,DF,Čukarički,19,2002,22,15,"1,385",15.4,1,2,3,1,0,0,1,0,0.06,0.13,0.19,0.06,0.19,Matches
+Bojan Roganović,me MNE,DF,Čukarički,21,2000,6,4,402,4.5,0,1,1,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches
+Miloš Rošević,rs SRB,FW,Spartak Subotic,21,2001,16,4,448,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dragan Rosić,rs SRB,GK,Radnički Niš,25,1996,19,19,"1,710",19.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Slobodan Rubežić,me MNE,DF,Novi Pazar,22,2000,35,35,"3,150",35.0,2,0,2,2,0,0,9,0,0.06,0.00,0.06,0.06,0.06,Matches
+Edin Rustemović,ba BIH,MF,Radnik Surdulica,29,1993,22,22,"1,808",20.1,1,0,1,1,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches
+Damir Sadiković,ba BIH,MF,FK Kolubara,27,1995,29,16,"1,566",17.4,2,0,2,2,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches
+Damir Salihovic,rs SRB,DF,Javor Ivanjica,20,2001,3,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Željko Samčović,rs SRB,GK,Mladost Lučani,19,2002,20,20,"1,737",19.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Siniša Saničanin,ba BIH,DF,Partizan,27,1995,17,16,"1,416",15.7,1,0,1,1,0,0,7,1,0.06,0.00,0.06,0.06,0.06,Matches
+Sékou Sanogo,ci CIV,MF,Red Star,33,1989,12,3,367,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Šarić,rs SRB,FW,Napredak Kruš,23,1998,35,27,"1,932",21.5,5,1,6,4,1,1,1,0,0.23,0.05,0.28,0.19,0.23,Matches
+Luka Savić,rs SRB,GK,Mladost Lučani,21,2001,5,4,423,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Savić,rs SRB,DF,Radnički Niš,28,1994,24,21,"1,683",18.7,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Savić,ba BIH,FW,FK Mladost Novi Sad,22,2000,4,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vladimir Savić,rs SRB,GK,Napredak Kruš,26,1996,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Mile Savković,rs SRB,MF,FK Mladost Novi Sad,29,1992,3,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Srđan Šćepanović,rs SRB,MF,Spartak Subotic,23,1998,9,4,312,3.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zlatan Šehović,rs SRB,FW,Partizan,21,2000,9,2,289,3.2,1,0,1,1,0,0,0,0,0.31,0.00,0.31,0.31,0.31,Matches
+Danilo Sekulić,rs SRB,MF,FK Mladost Novi Sad,32,1990,14,6,670,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Arihiro Sentoku,jp JPN,MF,Voždovac,23,1998,11,4,426,4.7,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches
+Vojin Serafimović,rs SRB,DF,Čukarički,16,2005,5,2,192,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Noboru Shimura,jp JPN,DF,Spartak Subotic,29,1993,31,29,"2,493",27.7,2,3,5,2,0,0,8,1,0.07,0.11,0.18,0.07,0.18,Matches
+Vladimir Silađi,rs SRB,FW,Mladost Lučani,29,1993,13,5,491,5.5,1,1,2,1,0,0,0,0,0.18,0.18,0.37,0.18,0.37,Matches
+Evandro da Silva,br BRA,FW,Radnički Kragujevac,25,1997,21,13,"1,128",12.5,1,4,5,1,0,0,6,0,0.08,0.32,0.40,0.08,0.40,Matches
+Marko Šimić,hr CRO,FW,Radnički Kragujevac,34,1988,6,5,293,3.3,1,0,1,1,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches
+Nikola Simić,rs SRB,"GK,MF",Vojvodina,25,1996,3,2,216,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Veljko Simić,rs SRB,MF,Vojvodina,27,1995,34,26,"2,334",25.9,7,4,11,7,0,0,4,1,0.27,0.15,0.42,0.27,0.42,Matches
+Slobodan Simović,rs SRB,MF,FK Kolubara,33,1989,9,7,544,6.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Sambou Sissoko,ml MLI,MF,Čukarički,22,2000,24,15,"1,549",17.2,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Đorđe Skoko,rs SRB,DF,Javor Ivanjica,19,2003,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miljan Škrbić,rs SRB,FW,Radnički Niš,26,1995,18,8,933,10.4,6,0,6,6,0,0,2,0,0.58,0.00,0.58,0.58,0.58,Matches
+Luka Slavković,rs SRB,DF,Radnički Kragujevac,15,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Slavković,rs SRB,GK,Novi Pazar,20,2002,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Spajić,rs SRB,DF,Red Star,29,1993,3,2,127,1.4,1,0,1,1,0,0,0,0,0.71,0.00,0.71,0.71,0.71,Matches
+Nikolas Špalek,sk SVK,MF,TSC Bačka Top,25,1997,4,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Spasić,rs SRB,FW,Radnik Surdulica,25,1997,19,19,"1,678",18.6,5,2,7,4,1,1,1,0,0.27,0.11,0.38,0.21,0.32,Matches
+Mihajlo Spasojević,rs SRB,FW,Čukarički,18,2004,13,1,199,2.2,2,0,2,2,0,0,0,0,0.90,0.00,0.90,0.90,0.90,Matches
+Nikola Srećković,rs SRB,MF,Spartak Subotic,26,1996,34,31,"2,692",29.9,6,4,10,6,0,0,4,0,0.20,0.13,0.33,0.20,0.33,Matches
+Uroš Sremčević,rs SRB,FW,Mladost Lučani,16,2006,10,0,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dragoljub Srnić,rs SRB,MF,Radnički Kragujevac,30,1992,21,12,"1,066",11.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Slavoljub Srnić,rs SRB,MF,Red Star,30,1992,15,4,558,6.2,0,1,1,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches
+Nikola Stajić,rs SRB,DF,Radnički Niš,20,2001,9,5,570,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lazar Stajković,rs SRB,FW,Spartak Subotic,18,2003,4,0,52,0.6,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Saša Stamenković,rs SRB,GK,Mladost Lučani,37,1985,9,9,810,9.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Stanic,rs SRB,MF,Spartak Subotic,20,2001,30,21,"1,907",21.2,3,2,5,3,0,0,6,0,0.14,0.09,0.24,0.14,0.24,Matches
+Stefan Stanisavljević,rs SRB,FW,Mladost Lučani,20,2002,11,4,313,3.5,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches
+Dejan Stanivuković,rs SRB,GK,FK Kolubara,28,1994,30,30,"2,623",29.1,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Stanković,rs SRB,MF,Red Star,19,2003,6,2,167,1.9,0,1,1,0,0,0,1,0,0.00,0.54,0.54,0.00,0.54,Matches
+Nikola Stanković,rs SRB,MF,Napredak Kruš,19,2003,15,11,"1,042",11.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Stanković,rs SRB,DF,FK Mladost Novi Sad,28,1993,8,6,613,6.8,0,1,1,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches
+Jug Stanojev,rs SRB,FW,TSC Bačka Top,23,1999,16,3,492,5.5,1,0,1,1,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches
+Darko Stanojević,rs SRB,DF,Mladost Lučani,35,1987,5,3,277,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Slobodan Stanojlovic,rs SRB,MF,Novi Pazar,20,2001,23,9,852,9.5,3,0,3,3,0,0,1,0,0.32,0.00,0.32,0.32,0.32,Matches
+Slobodan Stanojlovic,rs SRB,MF,TSC Bačka Top,20,2001,6,0,86,1.0,1,0,1,1,0,0,1,0,1.05,0.00,1.05,1.05,1.05,Matches
+Dimitrije Stevanović,rs SRB,GK,Radnički Niš,17,2004,13,13,"1,170",13.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dušan Stevanović,rs SRB,DF,Radnik Surdulica,26,1996,24,24,"2,023",22.5,0,1,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches
+Miladin Stevanović,rs SRB,DF,Čukarički,26,1996,26,24,"2,111",23.5,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches
+Mladjan Stevanovic,rs SRB,FW,Napredak Kruš,27,1995,11,2,308,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Stevanović,rs SRB,GK,Partizan,30,1992,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateja Stjepanović,rs SRB,MF,Partizan,18,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dušan Stoiljković,rs SRB,FW,Radnički Kragujevac,27,1994,19,11,"1,129",12.5,2,2,4,2,0,0,1,0,0.16,0.16,0.32,0.16,0.32,Matches
+Dragan Stoisavljević,rs SRB,FW,Voždovac,18,2003,11,2,323,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreja Stojanović,rs SRB,DF,FK Kolubara,23,1998,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreja Stojanović,rs SRB,DF,Radnički Niš,23,1998,28,25,"2,285",25.4,0,3,3,0,0,0,6,1,0.00,0.12,0.12,0.00,0.12,Matches
+Luka Stojanović,rs SRB,"FW,MF",Čukarički,28,1994,9,1,240,2.7,5,0,5,5,0,0,0,0,1.87,0.00,1.87,1.87,1.87,Matches
+
+Matija Stojanović,rs SRB,MF,Čukarički,16,2005,1,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Stojanović,rs SRB,DF,Radnik Surdulica,26,1995,33,26,"2,384",26.5,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches
+Nemanja Stojić,rs SRB,MF,TSC Bačka Top,24,1998,36,36,"3,234",35.9,1,1,2,1,0,0,7,0,0.03,0.03,0.06,0.03,0.06,Matches
+Aranđel Stojković,rs SRB,DF,TSC Bačka Top,27,1995,29,25,"2,190",24.3,1,4,5,1,0,0,10,0,0.04,0.16,0.21,0.04,0.21,Matches
+Nikola Štulić,rs SRB,FW,Radnički Niš,20,2001,19,17,"1,563",17.4,10,0,10,9,1,1,0,0,0.58,0.00,0.58,0.52,0.52,Matches
+Nemanja Subotić,rs SRB,MF,Radnik Surdulica,30,1992,32,16,"1,568",17.4,1,1,2,0,1,1,2,0,0.06,0.06,0.11,0.00,0.06,Matches
+Adrian Szöke,hu HUN,FW,TSC Bačka Top,24,1998,3,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Strahinja Tanasijević,rs SRB,DF,FK Mladost Novi Sad,25,1997,15,15,"1,193",13.3,0,1,1,0,0,0,6,0,0.00,0.08,0.08,0.00,0.08,Matches
+Aleksandar Tanasin,rs SRB,DF,Spartak Subotic,30,1991,30,23,"2,210",24.6,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches
+Ibrahim Tanko,gh GHA,FW,Javor Ivanjica,23,1999,33,8,"1,108",12.3,2,2,4,2,0,0,2,0,0.16,0.16,0.32,0.16,0.32,Matches
+Ivan Tatomirović,rs SRB,DF,FK Kolubara,33,1989,5,3,212,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Danilo Teodorović,ba BIH,FW,Voždovac,20,2002,24,10,839,9.3,3,1,4,3,0,0,6,0,0.32,0.11,0.43,0.32,0.43,Matches
+Nikola Terzić,rs SRB,FW,Partizan,21,2000,8,2,269,3.0,1,1,2,1,0,0,1,0,0.33,0.33,0.67,0.33,0.67,Matches
+Andrej Todoroski,mk MKD,MF,Spartak Subotic,23,1999,29,18,"1,529",17.0,5,3,8,5,0,0,0,0,0.29,0.18,0.47,0.29,0.47,Matches
+Kristijan Tojčić,ba BIH,MF,Javor Ivanjica,22,1999,32,26,"2,314",25.7,0,2,2,0,0,0,8,0,0.00,0.08,0.08,0.00,0.08,Matches
+Anton Tolordava,ge GEO,DF,Radnički Niš,25,1996,6,6,524,5.8,0,1,1,0,0,0,4,0,0.00,0.17,0.17,0.00,0.17,Matches
+Saša Tomanović,rs SRB,MF,TSC Bačka Top,32,1989,15,5,645,7.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Branislav Tomić,rs SRB,MF,Radnički Niš,27,1995,11,3,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Tomić,rs SRB,"FW,MF",Mladost Lučani,34,1988,9,6,497,5.5,1,1,2,0,1,1,1,0,0.18,0.18,0.36,0.00,0.18,Matches
+Nemanja Tomić,rs SRB,"FW,MF",Radnički Kragujevac,34,1988,16,12,931,10.3,3,2,5,2,1,1,0,0,0.29,0.19,0.48,0.19,0.39,Matches
+Stefan Tomović,rs SRB,FW,Čukarički,20,2001,25,14,"1,185",13.2,5,0,5,5,0,0,4,0,0.38,0.00,0.38,0.38,0.38,Matches
+Vladimir Tomović,rs SRB,MF,Radnički Kragujevac,19,2003,7,5,481,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mirko Topić,rs SRB,MF,Vojvodina,21,2001,35,27,"2,586",28.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Tošesk,rs SRB,MF,Spartak Subotic,24,1998,16,9,713,7.9,1,4,5,1,0,0,4,0,0.13,0.50,0.63,0.13,0.63,Matches
+Nemanja Tošić,rs SRB,FW,Čukarički,25,1997,31,30,"2,639",29.3,3,5,8,3,0,0,10,0,0.10,0.17,0.27,0.10,0.27,Matches
+
+Hamidou Traoré,ml MLI,"FW,MF",Partizan,25,1996,14,10,871,9.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mamadou Traoré,ml MLI,DF,Vojvodina,27,1994,31,28,"2,678",29.8,1,0,1,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03,Matches
+Veljko Trifunović,rs SRB,FW,Voždovac,23,1998,13,2,406,4.5,1,1,2,1,0,0,1,0,0.22,0.22,0.44,0.22,0.44,Matches
+Janko Tumbasević,me MNE,MF,Spartak Subotic,37,1985,32,22,"1,980",22.0,2,2,4,2,0,0,5,0,0.09,0.09,0.18,0.09,0.18,Matches
+Vojo Ubiparip,rs SRB,FW,Spartak Subotic,34,1988,8,0,89,1.0,0,1,1,0,0,0,1,0,0.00,1.01,1.01,0.00,1.01,Matches
+Vojo Ubiparip,rs SRB,FW,Radnički Kragujevac,34,1988,9,3,359,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches
+Žarko Udovičić,rs SRB,"DF,MF",Mladost Lučani,34,1987,33,22,"2,239",24.9,1,2,3,1,0,0,0,0,0.04,0.08,0.12,0.04,0.12,Matches
+Slobodan Urošević,rs SRB,DF,Partizan,28,1994,35,35,"3,093",34.4,4,3,7,4,0,0,8,0,0.12,0.09,0.20,0.12,0.20,Matches
+Boris Varga,rs SRB,MF,Radnički Niš,28,1993,11,11,864,9.6,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Aleksandar Varjačić,rs SRB,DF,Mladost Lučani,31,1991,11,7,733,8.1,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches
+Aleksandar Varjačić,rs SRB,DF,Radnički Kragujevac,31,1991,4,2,178,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Vasiljević,ba BIH,"DF,GK",Red Star,26,1996,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Vasiljević,rs SRB,DF,FK Kolubara,31,1991,15,10,925,10.3,1,0,1,1,0,0,1,0,0.10,0.00,0.10,0.10,0.10,Matches
+Marko Veličković,rs SRB,MF,Mladost Lučani,17,2004,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Velikić,rs SRB,FW,Radnik Surdulica,21,2001,6,3,239,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Boris Velimirović,rs SRB,GK,Javor Ivanjica,20,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mihajlo Vesnić,rs SRB,DF,Mladost Lučani,21,2001,18,14,"1,226",13.6,1,0,1,1,0,0,6,0,0.07,0.00,0.07,0.07,0.07,Matches
+Stefan Vico,me MNE,DF,Javor Ivanjica,27,1995,3,1,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Vidakov,rs SRB,FW,Vojvodina,22,2000,4,1,111,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Vidakov,rs SRB,FW,FK Mladost Novi Sad,22,2000,21,8,708,7.9,2,0,2,2,0,0,3,0,0.25,0.00,0.25,0.25,0.25,Matches
+Vladan Vidaković,rs SRB,MF,Spartak Subotic,23,1999,2,2,151,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milutin Vidosavljević,rs SRB,FW,Radnički Kragujevac,21,2001,29,25,"2,064",22.9,7,5,12,4,3,3,4,0,0.31,0.22,0.52,0.17,0.39,Matches
+Aleksandar Vidović,rs SRB,DF,Spartak Subotic,21,2001,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Miloš Vidović,rs SRB,MF,Radnički Kragujevac,32,1989,29,28,"2,502",27.8,4,0,4,4,0,0,11,0,0.14,0.00,0.14,0.14,0.14,Matches
+Uroš Vidović,rs SRB,MF,Radnički Kragujevac,28,1994,9,1,129,1.4,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+
+Alex Vigo,ar ARG,DF,Red Star,23,1999,13,12,"1,110",12.3,2,1,3,2,0,0,3,0,0.16,0.08,0.24,0.16,0.24,Matches
+Uroš Vitas,rs SRB,DF,Vojvodina,30,1992,18,17,"1,298",14.4,0,1,1,0,0,0,4,0,0.00,0.07,0.07,0.00,0.07,Matches
+Vladimir Vitorović,rs SRB,DF,Spartak Subotic,21,2000,28,22,"1,963",21.8,1,1,2,1,0,0,2,1,0.05,0.05,0.09,0.05,0.09,Matches
+Nikola Vlajković,rs SRB,DF,Radnički Kragujevac,26,1995,24,23,"2,039",22.7,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Vučić,me MNE,MF,Novi Pazar,25,1996,3,0,66,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Vujačić,me MNE,DF,Partizan,27,1994,33,32,"2,863",31.8,2,1,3,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,Matches
+Nikola Vujadinović,me MNE,DF,Čukarički,36,1986,9,8,736,8.2,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches
+Nikola Vujadinović,me MNE,DF,FK Mladost Novi Sad,36,1986,12,12,"1,080",12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Vujanac,rs SRB,GK,Radnik Surdulica,31,1991,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikša Vujanović,me MNE,FW,Voždovac,21,2001,27,19,"1,472",16.4,1,0,1,1,0,0,6,0,0.06,0.00,0.06,0.06,0.06,Matches
+Nikola Vukajlović,rs SRB,FW,Napredak Kruš,34,1988,30,25,"2,284",25.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Vukašinović,rs SRB,GK,Javor Ivanjica,16,2005,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Vukcevic,me MNE,FW,Vojvodina,20,2001,8,1,153,1.7,0,2,2,0,0,0,0,0,0.00,1.18,1.18,0.00,1.18,Matches
+Stefan Vukić,rs SRB,FW,TSC Bačka Top,27,1995,27,9,"1,057",11.7,3,2,5,3,0,0,4,0,0.26,0.17,0.43,0.26,0.43,Matches
+Ante Vukušić,hr CRO,"DF,FW",FK Kolubara,31,1991,27,17,"1,438",16.0,4,2,6,4,0,0,3,0,0.25,0.13,0.38,0.25,0.38,Matches
+Aleksandar Vulić,rs SRB,GK,Javor Ivanjica,21,2001,17,17,"1,530",17.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Vulin,rs SRB,FW,FK Kolubara,19,2003,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mbouri Yamkam,cm CMR,DF,Radnički Niš,24,1998,33,32,"2,719",30.2,0,3,3,0,0,0,5,2,0.00,0.10,0.10,0.00,0.10,Matches
+Saša Zdjelar,rs SRB,MF,Partizan,27,1995,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikola Zečević,rs SRB,DF,Voždovac,18,2004,11,7,761,8.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Vahid Zimonjić,rs SRB,DF,Novi Pazar,22,2000,14,3,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Živković,rs SRB,DF,Partizan,28,1994,19,14,"1,381",15.3,1,3,4,1,0,0,3,0,0.07,0.20,0.26,0.07,0.26,Matches
+Jovan Zogović,rs SRB,FW,Napredak Kruš,21,2001,8,0,190,2.1,0,1,1,0,0,0,0,0,0.00,0.47,0.47,0.00,0.47,Matches
+Luka Zorić,rs SRB,DF,Radnički Kragujevac,24,1998,30,17,"1,729",19.2,4,0,4,4,0,0,6,0,0.21,0.00,0.21,0.21,0.21,Matches
+Abdul Zubairu,ng NGA,MF,FK Kolubara,23,1998,9,4,289,3.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+
+Dejan Zukić,rs SRB,MF,Vojvodina,21,2001,32,16,"1,649",18.3,3,1,4,3,0,0,5,0,0.16,0.05,0.22,0.16,0.22,Matches
+Filip Zunic,rs SRB,MF,Mladost Lučani,22,2000,8,7,469,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nemanja Žunić,rs SRB,DF,Mladost Lučani,18,2003,15,13,"1,161",12.9,1,0,1,1,0,0,6,0,0.08,0.00,0.08,0.08,0.08,Matches
+Ifet Đakovac,rs SRB,MF,TSC Bačka Top,24,1997,34,34,"3,039",33.8,10,2,12,5,5,5,5,0,0.30,0.06,0.36,0.15,0.21,Matches
+Miloš Đokić,rs SRB,FW,FK Kolubara,30,1991,31,22,"1,993",22.1,1,2,3,1,0,0,3,0,0.05,0.09,0.14,0.05,0.14,Matches
+Lazar Đorđević,rs SRB,DF,Radnički Niš,31,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mateja Đorđević,rs SRB,DF,Voždovac,19,2003,25,21,"1,757",19.5,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches
+Stefan Đorđević,rs SRB,DF,Vojvodina,31,1991,24,23,"2,068",23.0,0,2,2,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches
+Bratislav Đukić,rs SRB,DF,Javor Ivanjica,22,1999,23,11,"1,093",12.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Uroš Đuranović,me MNE,FW,FK Kolubara,28,1994,15,13,"1,146",12.7,4,2,6,3,1,1,7,0,0.31,0.16,0.47,0.24,0.39,Matches
+Aleksa Đurasovic,rs SRB,DF,Spartak Subotic,19,2002,30,17,"1,616",18.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches
+Aleksa Đurasović,ba BIH,MF,Spartak Subotic,18,2004,5,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milan Đurić,rs SRB,MF,Javor Ivanjica,34,1987,12,5,569,6.3,0,1,1,0,0,0,0,0,0.00,0.16,0.16,0.00,0.16,Matches
+Vasilije Đurić,rs SRB,FW,Radnički Kragujevac,24,1998,14,9,791,8.8,2,2,4,2,0,0,1,0,0.23,0.23,0.46,0.23,0.46,Matches
+Nikola Đuričić,rs SRB,MF,Voždovac,22,1999,16,13,"1,011",11.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Đuričković,rs SRB,MF,Novi Pazar,31,1991,15,11,860,9.6,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Petar Đuričković,rs SRB,MF,FK Kolubara,31,1991,7,4,295,3.3,1,0,1,1,0,0,2,0,0.31,0.00,0.31,0.31,0.31,Matches
+Marko Đurišić,rs SRB,MF,Voždovac,25,1997,9,7,602,6.7,0,2,2,0,0,0,3,0,0.00,0.30,0.30,0.00,0.30,Matches
+Marko Đurišić,rs SRB,MF,Radnički Niš,25,1997,12,8,675,7.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches

@@ -1,0 +1,43 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
+
+
+Giannis Anestis,gr GRE,GK,Panetolikos,30,1991,13,13,"1,170",13.0,,,,,,4,4,5,7,53.8,1,0,1,0,100.0,Matches
+Alberto Brignoli,it ITA,GK,Panathinaikos,29,1991,25,25,"2,250",25.0,,,,,,12,6,7,14,56.0,3,3,0,0,0.0,Matches
+Vasilis Chatziemmanouil,gr GRE,GK,AEK Athens,21,1999,1,1,90,1.0,,,,,,1,0,0,1,100.0,0,0,0,0,,Matches
+Lefteris Choutesiotis,gr GRE,GK,Ionikos,27,1994,31,31,"2,790",31.0,,,,,,10,9,12,7,22.6,10,9,1,0,10.0,Matches
+Georgios Christodoulis,gr GRE,GK,Ionikos,20,2001,1,1,90,1.0,,,,,,1,0,0,0,0.0,0,0,0,0,,Matches
+Julián Cuesta,es ESP,GK,Aris,30,1991,27,27,"2,430",27.0,,,,,,15,6,6,14,51.9,5,4,1,0,20.0,Matches
+Denis,br BRA,GK,Aris,34,1987,4,4,360,4.0,,,,,,1,1,2,2,50.0,0,0,0,0,,Matches
+Sokratis Dioudis,gr GRE,GK,Panathinaikos,28,1993,11,11,990,11.0,,,,,,6,1,4,5,45.5,1,1,0,0,0.0,Matches
+Devis Epassy,cm CMR,GK,OFI Crete,28,1993,23,23,"2,070",23.0,,,,,,7,10,6,8,34.8,2,1,0,1,0.0,Matches
+Athanasios Garavelis,gr GRE,GK,PAS Lamia,28,1992,18,18,"1,620",18.0,,,,,,2,5,11,4,22.2,2,2,0,0,0.0,Matches
+Andreas Gianniotis,gr GRE,GK,Atromitos,28,1992,21,21,"1,890",21.0,,,,,,8,5,8,5,23.8,3,2,0,1,0.0,Matches
+Ilias Karargyris,gr GRE,GK,Olympiacos,19,2002,1,0,1,0.0,,,,,,,,,0,,0,0,0,0,,Matches
+Boris Klaiman,il ISR,GK,Volos NFC,30,1990,21,19,"1,800",20.0,,,,,,3,6,10,5,26.3,6,4,2,0,33.3,Matches
+Matic Kotnik,si SVN,GK,Volos NFC,31,1990,7,7,585,6.5,,,,,,3,2,2,1,14.3,2,2,0,0,0.0,Matches
+Konstantinos Kotsaris,gr GRE,GK,Apollon Smyrnis,25,1996,17,16,"1,472",16.4,,,,,,2,5,9,4,25.0,6,5,1,0,16.7,Matches
+Ögmundur Kristinsson,is ISL,GK,Olympiacos,32,1989,1,1,89,1.0,,,,,,1,0,0,0,0.0,0,0,0,0,,Matches
+Yuri Lodygin,ru RUS,GK,PAS Giannina,31,1990,32,32,"2,880",32.0,,,,,,11,8,13,14,43.8,4,3,1,0,25.0,Matches
+Christos Mandas,gr GRE,GK,OFI Crete,19,2001,1,1,90,1.0,,,,,,0,0,1,0,0.0,0,0,0,0,,Matches
+Marko Marić,hr CRO,GK,Atromitos,25,1996,1,1,90,1.0,,,,,,0,1,0,1,100.0,0,0,0,0,,Matches
+Diego Matías Rodríguez,ar ARG,GK,Panetolikos,32,1989,5,5,405,4.5,,,,,,1,2,2,1,20.0,0,0,0,0,,Matches
+Nikos Melissas,gr GRE,GK,Panetolikos,28,1993,16,15,"1,395",15.5,,,,,,5,1,9,1,6.7,14,9,5,0,35.7,Matches
+Nikos Papadopoulos,gr GRE,GK,Asteras Tripoli,31,1990,15,15,"1,350",15.0,,,,,,6,3,6,8,53.3,2,2,0,0,0.0,Matches
+Symeon Papadopoulos,gr GRE,GK,Volos NFC,21,2000,7,7,585,6.5,,,,,,4,2,1,3,42.9,1,0,0,1,,Matches
+Alexandros Paschalakis,gr GRE,GK,PAOK,32,1989,34,34,"3,060",34.0,,,,,,18,7,9,12,35.3,2,2,0,0,0.0,Matches
+Kenan Pirić,ba BIH,GK,Atromitos,27,1994,11,11,990,11.0,,,,,,0,3,8,1,9.1,5,5,0,0,0.0,Matches
+
+Bojan Šaranov,rs SRB,GK,PAS Lamia,33,1987,15,15,"1,350",15.0,,,,,,4,3,8,3,20.0,2,1,1,0,50.0,Matches
+Marios Siampanis,gr GRE,GK,Aris,21,1999,5,5,450,5.0,,,,,,2,1,2,2,40.0,0,0,0,0,,Matches
+Grega Sorcan,si SVN,GK,Apollon Smyrnis,25,1996,5,5,450,5.0,,,,,,2,2,1,2,40.0,0,0,0,0,,Matches
+Dimitris Sotiriou,gr GRE,GK,OFI Crete,33,1987,1,1,90,1.0,,,,,,1,0,0,0,0.0,0,0,0,0,,Matches
+Vasilis Soulis,gr GRE,GK,PAS Giannina,26,1994,4,4,360,4.0,,,,,,1,2,1,1,25.0,0,0,0,0,,Matches
+Cican Stankovic,at AUT,GK,AEK Athens,28,1992,23,23,"2,070",23.0,,,,,,10,6,7,6,26.1,4,3,0,1,0.0,Matches
+Antonis Tsiftsis,gr GRE,GK,Asteras Tripoli,22,1999,18,18,"1,620",18.0,,,,,,5,5,8,6,33.3,3,3,0,0,0.0,Matches
+Panagiotis Tsintotas,gr GRE,GK,AEK Athens,28,1993,12,12,"1,080",12.0,,,,,,5,2,5,5,41.7,1,1,0,0,0.0,Matches
+Kostas Tzolakis,gr GRE,GK,Olympiacos,18,2002,3,3,270,3.0,,,,,,2,1,0,2,66.7,0,0,0,0,,Matches
+Tomáš Vaclík,cz CZE,GK,Olympiacos,32,1989,32,32,"2,880",32.0,,,,,,22,7,3,13,40.6,2,1,1,0,50.0,Matches
+Davino Verhulst,be BEL,GK,Apollon Smyrnis,33,1987,12,12,"1,048",11.6,,,,,,0,3,9,3,25.0,5,4,0,1,0.0,Matches
+Nejc Vidmar,si SVN,GK,Ionikos,32,1989,1,1,90,1.0,,,,,,1,0,0,1,100.0,1,0,0,1,,Matches
+Boy Waterman,nl NED,GK,OFI Crete,37,1984,8,8,720,8.0,,,,,,3,1,4,2,25.0,3,1,2,0,66.7,Matches
+Živko Živković,rs SRB,GK,PAOK,32,1989,2,2,180,2.0,,,,,,1,0,1,1,50.0,0,0,0,0,,Matches
