@@ -1,0 +1,15 @@
+Class Definition: 
+
+class FootballScraper:
+
+Initializer Method: 
+
+def __init__(self, base_url):
+
+self refers to the instance being created.
+base_url is a parameter that will be passed when creating an instance.
+Attribute Initialization: self.base_url = base_url sets the instance's base_url attribute.
+When you create an instance of FootballScraper, the __init__ method sets the base_url attribute for that instance.
+Summary:
+__init__ is crucial for setting up new objects with initial values and ensuring they start in a known state. 
+It's a fundamental concept in object-oriented programming, helping to organize and manage your code more efficiently.

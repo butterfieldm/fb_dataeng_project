@@ -1,0 +1,13 @@
+FROM apache/airflow:2.1.0
+
+USER root
+COPY requirements.txt /
+RUN pip install --no-cache-dir -r /requirements.txt
+
+USER airflow
+COPY ./dags /opt/airflow/dags
+COPY ./web_scraping_scripts /opt/airflow/web_scraping_scripts
+
+# Run Airflow commands
+RUN airflow db init
+RUN airflow users create --username admin --firstname Admin --lastname User --role Admin --email admin@example.com

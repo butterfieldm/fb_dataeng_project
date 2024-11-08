@@ -1,0 +1,10 @@
+run requirements.txt file
+
+pip(3) install -r requirements.txt
+
+Initialize Airflow Database: Initialize the Airflow database which is needed for Airflow to function:
+airflow db init
+
+Start Airflow Web Server and Scheduler: Start the Airflow web server to access the UI and the scheduler to manage DAGs (Directed Acyclic Graphs):
+airflow webserver --port 8080
+airflow scheduler
